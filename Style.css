@@ -1,0 +1,429 @@
+body {
+    font-family: 'Karla',  sans-serif;
+    overflow-x: hidden;
+}
+
+p {
+    font-size: 20px;
+}
+
+p.small {
+    font-size: 16px;
+}
+
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+    color: #C8D5B9;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Karla", sans-serif;
+    /*text-transform: uppercase;
+    font-weight: 700;*/
+}
+
+hr.star-light,
+hr.star-primary, hr.star-white {
+    padding: 0;
+    border: none;
+    border-top: solid 5px;
+    text-align: center;
+    max-width: 250px;
+    margin: 25px auto 30px;
+}
+
+hr.star-light:after,
+hr.star-primary:after,
+hr.star-white:after{
+    content: "\f005";
+    font-family: FontAwesome;
+    display: inline-block;
+    position: relative;
+    top: -0.8em;
+    font-size: 2em;
+    padding: 0 0.25em;
+}
+
+hr.star-light {
+    border-color: white;
+}
+
+hr.star-light:after {
+    background-color: #9BC4BC;
+    color: white;
+}
+
+hr.star-primary {
+    border-color: #2C3E50;
+}
+
+hr.star-primary:after {
+    background-color: #FAF3DD;
+    color: #2C3E50;
+}
+
+hr.star-white {
+    border-color: #2C3E50;
+}
+
+hr.star-white:after {
+    background-color: #FFFFFF;
+    color: #2C3E50;
+}
+
+.img-centered {
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+    background: #9bc4bc;
+    color: white;
+}
+
+header .container {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+header img {
+    display: block;
+    margin: 0 auto 20px;
+}
+
+header .intromsg .repo {
+    font-family: "Karla", sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 2em;
+}
+
+header .intromsg .skills {
+    font-size: 1.25em;
+    font-weight: 300;
+}
+
+@media (min-width: 768px) {
+    header .container {
+        padding-top: 200px;
+        padding-bottom: 100px;
+    }
+
+    header .intromsg .repo {
+        font-size: 4.75em;
+    }
+
+    header .intromsg .skills {
+        font-size: 1.75em;
+    }
+}
+
+@media (min-width: 767px) and (max-width: 1024px) {
+    .navbar-custom .page-scroll .navbar-brand{
+        margin-left: 15px;
+        margin-top: 5px;
+    }
+}
+
+@media (min-width: 319px) and (max-width: 764px) and (orientation:portrait){
+    .navbar-custom .navbar-brand, .navbar-custom .navbar-brand.active, .navbar-custom .navbar-brand:active, .navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:hover {
+
+        margin: 15px;
+    }
+}
+
+@media (min-width: 319px) and (max-width: 764px) and (orientation:landscape){
+    .navbar-custom .navbar-brand, .navbar-custom .navbar-brand.active, .navbar-custom .navbar-brand:active, .navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:hover {
+
+        margin: 5px;
+        padding: 15px;
+    }
+
+}
+
+
+footer {
+    color: white;
+}
+
+footer h3 {
+    margin-bottom: 30px;
+}
+
+footer .footer-above {
+    padding-top: 50px;
+    background-color: #99a1a6;
+}
+
+footer .footer-col {
+    margin-bottom: 50px;
+}
+
+footer .footer-below {
+    padding: 25px 0;
+    background-color: #6B6D76;
+}
+
+.btn-outline {
+    color:#c2cdd5;
+    font-size: 20px;
+    border: solid 2px #c2cdd5;
+    background: transparent;
+    transition: all 0.3s ease-in-out;
+    margin-top: 15px;
+}
+
+.btn-outline:hover,
+.btn-outline:focus,
+.btn-outline:active,
+.btn-outline.active {
+    color: white;
+    background:#c2cdd5;
+    border: solid 2px white;
+}
+
+
+.btn-primary.disabled,
+.btn-primary[disabled],
+fieldset[disabled] .btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active,
+fieldset[disabled] .btn-primary:active,
+.btn-primary.disabled.active,
+.btn-primary[disabled].active,
+fieldset[disabled] .btn-primary.active {
+    background-color: #2C3E50;
+    border-color: #2C3E50;
+}
+
+.btn-primary .badge {
+    color: #2C3E50;
+    background-color: white;
+}
+
+.btn-success {
+    color: white;
+    background-color: #9BC4BC;
+    border-color: #9BC4BC;
+    font-weight: 700;
+}
+
+.btn-success:hover,
+.btn-success:focus,
+.btn-success:active,
+.btn-success.active,
+.open .dropdown-toggle.btn-success {
+    color: white;
+    background-color: #128f76;
+    border-color: #11866f;
+}
+
+.btn-success:active,
+.btn-success.active,
+.open .dropdown-toggle.btn-success {
+    background-image: none;
+}
+
+.btn-success.disabled,
+.btn-success[disabled],
+fieldset[disabled] .btn-success,
+.btn-success.disabled:hover,
+.btn-success[disabled]:hover,
+fieldset[disabled] .btn-success:hover,
+.btn-success.disabled:focus,
+.btn-success[disabled]:focus,
+fieldset[disabled] .btn-success:focus,
+.btn-success.disabled:active,
+.btn-success[disabled]:active,
+fieldset[disabled] .btn-success:active,
+.btn-success.disabled.active,
+.btn-success[disabled].active,
+fieldset[disabled] .btn-success.active {
+    background-color: #9BC4BC;
+    border-color: #9BC4BC;
+}
+
+.btn-success .badge {
+    color: #9BC4BC;
+    background-color: white;
+}
+
+.btn-social {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    border: 2px solid white;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 20px;
+    line-height: 45px;
+}
+
+.scroll-top {
+    position: fixed;
+    right: 2%;
+    bottom: 2%;
+    width: 50px;
+    height: 50px;
+    z-index: 1049;
+}
+
+.scroll-top .btn {
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    line-height: 28px;
+}
+
+.portfolio-modal .modal-content {
+    border-radius: 0;
+    background-clip: border-box;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: none;
+    min-height: 100%;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.portfolio-modal .modal-content h2 {
+    margin: 0;
+    font-size: 3em;
+}
+
+.portfolio-modal .modal-content img {
+    margin-bottom: 30px;
+}
+
+.portfolio-modal .modal-content .item-details {
+    margin: 30px 0;
+}
+
+.portfolio-modal .close-modal {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    background-color: transparent;
+    top: 25px;
+    right: 25px;
+    cursor: pointer;
+}
+
+.portfolio-modal .close-modal:hover {
+    opacity: 0.3;
+}
+
+.portfolio-modal .close-modal .lr {
+    height: 75px;
+    width: 1px;
+    margin-left: 35px;
+    background-color: #2C3E50;
+    transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    /* IE 9 */
+    -webkit-transform: rotate(45deg);
+    /* Safari and Chrome */
+    z-index: 1051;
+}
+
+.portfolio-modal .close-modal .lr .rl {
+    height: 75px;
+    width: 1px;
+    background-color: #2C3E50;
+    transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    /* IE 9 */
+    -webkit-transform: rotate(90deg);
+    /* Safari and Chrome */
+    z-index: 1052;
+}
+
+.portfolio-modal .modal-backdrop {
+    opacity: 0;
+    display: none;
+}
+
+#skipnav a {
+    padding: 6px;
+    position: absolute;
+    top: -40px;
+    left: 0px;
+    color: white;
+    border-right: 1px solid white;
+    border-bottom: 1px solid white;
+    border-bottom-right-radius: 8px;
+    background: transparent;
+    transition: top 1s ease-out, background 1s linear;
+    z-index: 2000;
+}
+
+#skipnav a:focus {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background: #9BC4BC;
+    outline: 0;
+    transition: top 0.1s ease-in, background 0.5s linear;
+}
+
+div#maincontent {
+    outline: none;
+}
+
+.carousel-control {
+    background: none !important;
+}
+
+.filter-nav{
+    background-color: #FCF7EA;
+    border-radius: 10px;
+    border-color: #FCF7EA;
+    font-family: 'Dosis', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.filter-nav .navbar-nav li{
+    display: inline-block;
+    padding: 5px 15px;
+}
+
+.filter-nav .navbar-nav li a{
+    color:#6B6D76;
+    padding-left:15px;
+    padding-right: 15px;
+}
+
+.filter-nav .navbar-nav li a:hover,.filter-nav .navbar-nav li.active a:hover{
+    color:#9bc4bc;
+    background: #FCF7EA;
+}
+
+.filter-nav .navbar-nav li.active a, .filter-nav .navbar-nav li.active a:active, .filter-nav .navbar-nav li.active a:focus, .filter-nav .navbar-nav li.active a:hover {
+    color: #fff;
+    border-radius: 10px;
+    background: #9bc4bc;
+}
+
+#headerImg{
+    max-width: 30%;
+}
+
+.grid-item {
+    float: left;
+}
