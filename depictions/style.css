@@ -7,7 +7,7 @@
     padding: 17px 15px;
     display: block;
     color: #809480 !important;
-    text-align: center;
+    text-align: left;
 }
 
 .link-item:hover {
@@ -27,4 +27,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     font-size: 16px;
     margin-left: 5px;
     margin-right: 10px;
+}
+.h5{
+    color:#394639;
 }

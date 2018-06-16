@@ -24,11 +24,4 @@
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
-	<links>
-		<link>
-			<name>/r/iOSthemes</name>
-			<url>https://www.reddit.com/r/iosthemes</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
 </package>
