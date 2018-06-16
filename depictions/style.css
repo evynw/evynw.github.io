@@ -3,7 +3,7 @@
 }
 @font-face{
 	font-family:'zt';
-	src:url(../fonts/ZeitungMicroPro-Regular.otf);
+	src:url(fonts/ZeitungMicroPro-Regular.otf);
 }
 .disable-hover {
     pointer-events: none;
