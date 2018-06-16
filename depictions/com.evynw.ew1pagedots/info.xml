@@ -9,7 +9,7 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>com.anemonetheming.anemone</package>
+		<package>Anemone</package>
 	</dependencies>
 	<descriptionlist>
 		<description><![CDATA[<b>Installed to the Anemone directory:</b> </ br>/Library/Themes/ <br /> <br />

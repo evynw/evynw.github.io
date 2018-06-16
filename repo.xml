@@ -8,7 +8,7 @@
 		<link>
 	    <name>Buy me a coffee/beer</name>
 	    <url>https://www.paypal.me/evynw</url>
-			<iconclass></iconclass>
+			<iconclass>fa fa-thumbs-up</iconclass>
 	  </link>
 	</footerlinks>
 </repo>
