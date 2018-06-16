@@ -5,9 +5,9 @@ Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.evynw.ew1pagedots_1.0_iphoneos-arm.deb
 Size: 6422
-MD5sum: 3a85a566b715c932d8889b9f6b51f54d
-SHA1: d7c9eb49efec1294cefefd54807ae4332daa3779
-SHA256: 966174c7bd4ddd30e4a4b2a01ca852f7abbed6cada381380e3076633d9d8e5fd
+MD5sum: 69c2cfd7000c6d1bd8b60cfbd9c4e028
+SHA1: cc97931102febe4a2bbfbca365f43a669a8a1df0
+SHA256: 666d7c78df8b028f47120b80eaf24c30f48f3344424ed55b33c4281e59e88b40
 Section: Others
 Description: Page dots in the shape of X's and O's
 Author: Evelyn (ev_ynw)
