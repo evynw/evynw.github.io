@@ -4,6 +4,7 @@ Depends: com.anemonetheming.anemone
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Page dots in the shape of X's and O's
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1pagedots
 Author: Evelyn (ev_ynw)
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Section: Lockscreen Widgets
+Section: Others

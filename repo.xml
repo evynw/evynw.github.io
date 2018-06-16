@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Find me on Twitter</name>
+			<url>https://twitter.com/evynw</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+	    <name>Buy me a coffee/beer</name>
+	    <url>https://www.paypal.me/evynw</url>
+			<iconclass></iconclass>
+	  </link>
+	</footerlinks>
+</repo>
