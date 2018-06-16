@@ -1,0 +1,15 @@
+Package: com.evynw.ew1pagedots
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.evynw.ew1pagedots_1.0_iphoneos-arm.deb
+Size: 6400
+MD5sum: 0a997f0e719dc4c6c6a46d954d12355b
+SHA1: 74bd68fdcd54cccc576733bdec4b24a66691623e
+SHA256: 7454584bbf2fd60c9aa1039ed98423c2df45fdc5553ea8aa94a3697dd6b8e62e
+Section: Lockscreen Widgets
+Description: Page dots in the shape of X's and O's
+Author: Evelyn (ev_ynw)
+Name: EW1.PageDots
+
