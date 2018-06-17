@@ -77,8 +77,8 @@ header .btn{
     border: solid 1.5px white;
 }
 
-header .li {
-    padding-top: 50px;
+header .container {
+    padding-top: 60px;
     display:block;
 }
 
