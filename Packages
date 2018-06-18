@@ -5,9 +5,9 @@ Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.anemonetheming.anemone, com.evynw.repoicons
 Filename: ./debs/com.evynw.ew1pagedots_1.0_iphoneos-arm.deb
 Size: 6354
-MD5sum: edaa5a86cd9f6061bdd5efc4c22ea30f
-SHA1: 4170c62a053bd92fbff066cce42c6756f4bf376b
-SHA256: 643b7393c8a0ca302ea578c248ee2eef2b90fa752af33c75f4d73010782ef7a5
+MD5sum: 862e867d96abb0d1bdc8e812b2009bc8
+SHA1: da9b84ae33411156d47bff3b53f5e20f8a756217
+SHA256: 17774f578c0a2e097c883826561debb2c0beb9dbae37fea485dddbc8b6da1777
 Section: Others
 Description: Page dots in the shape of X's and O's
 Author: Evelyn (ev_ynw)
@@ -20,10 +20,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.ew88iwgt_1.0_iphoneos-arm.deb
-Size: 232604
-MD5sum: f6357ff61aefe5ea687d1a1f9ea59ed9
-SHA1: 51be03b711efcbb8e20cd8876c007eeb10e7fb2f
-SHA256: b3fe239ac5d7b91b2f647f7e9df2e7b0ae75bd73a24758a1122b08983a98c216
+Size: 231842
+MD5sum: 79c5e2a51dd395d9acd8c6bccbb25317
+SHA1: 8eaf9aa6290aedf568573a1b3e65801dc9fe57c8
+SHA256: 0854cf2d840f9030c4879b50ab98bddf794cabbc082e90f6e564480038a117d8
 Section: Homescreen Widgets
 Description: A HS widget from my 3800PACK
 Author: Evelyn (ev_ynw)
@@ -36,10 +36,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.anemonetheming.anemone, com.evynw.repoicons
 Filename: ./debs/com.evynw.fontglober1011_1.0_iphoneos-arm.deb
-Size: 18202254
-MD5sum: 6dd0c8b4d3ce2b9b0f6b87eb353b9b5f
-SHA1: c32fe22cc139e320c6be4739f14224e69a699539
-SHA256: 7685c34abded4ef1282057b6ca10afe82a7e6a4ee33234ea77984c77ffebeca4
+Size: 18202036
+MD5sum: 521afdcf9144c7a6589878633b6c72cb
+SHA1: 32d68740c766f33ea99117de30e535e81f42d2dd
+SHA256: 3f814361edbacbdfe0c5597e00a9a0334fe2050065b1b8f969c8d214fbbaf2e7
 Section: Fonts (iOS10/11)
 Description: Clean-looking sans-serif. For Anemone.
 Author: Evelyn (ev_ynw)
@@ -52,10 +52,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.anemonetheming.anemone, com.evynw.repoicons
 Filename: ./debs/com.evynw.fontglober9_1.0_iphoneos-arm.deb
-Size: 19341958
-MD5sum: f25002f14a86804a96ab1251d82990f8
-SHA1: bee62aeda546e6375825bc33c5255036b6ca3c94
-SHA256: c774eecde03d5ffc133d5a708667d25573de9c7aad2bafc0abe94d42f2c85729
+Size: 19341712
+MD5sum: 8e04f1bb2e713497aac7fb814a296c91
+SHA1: b55e51639f2e09bc47ad946e4518cb383abd36a3
+SHA256: 29730308302d5f807fbc34dbc64176e23caf788a10631d672d9ea5c25485f70d
 Section: Fonts (iOS8/9)
 Description: Clean-looking sans-serif. For Anemone.
 Author: Evelyn (ev_ynw)
@@ -68,10 +68,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontglobertm_1.0_iphoneos-arm.deb
-Size: 1783578
-MD5sum: 10ea2c7fc0b4b1ebe00a81c7f6ef73d0
-SHA1: 27d235adcff50c233e3ff0b99edd6c27f967cbf1
-SHA256: 3873eacfd0e371d9f231f0b4470bd94820867f006629f26a9556deddaf7931dd
+Size: 1782920
+MD5sum: 281661652ed35008fbaf7fd1fbe8e7a8
+SHA1: 2426c48894d9fa65b359879a3ad9d3db4b9e1285
+SHA256: 9ab3d14e1cd914fe286ee8fe8c5c302a8e446017fde61830b9bffeef1e1f3393
 Section: Fonts (Tweak Mode)
 Description: Clean-looking sans-serif. For BytaFont Tweak Mode.
 Author: Evelyn (ev_ynw)
@@ -84,10 +84,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.lsew198_1.0_iphoneos-arm.deb
-Size: 106252
-MD5sum: 809dbf2f9b3c345dd2bdf1dea7766c84
-SHA1: 268e8bd1e93d444c9d677aa2aa8a9290469b1b14
-SHA256: c89a8d606402815cb99df519c4a92d44c59d7184b0c47fd1f332f91836a2124b
+Size: 104916
+MD5sum: d1101f8dd317ce9da24a4f358ca6fd5d
+SHA1: fa7f89e3e9f489dd726966b2e6349809c966ff30
+SHA256: cc13ddfa64a1c553c77cfb3ef80fb874e8be0fb50c702b43d73fa33a12108890
 Section: Lockscreen Widgets
 Description: A LS widget from my 3800PACK.
 Author: Evelyn (ev_ynw)
@@ -100,10 +100,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.lsew199_1.0_iphoneos-arm.deb
-Size: 102472
-MD5sum: e0a11c1182b88e14aa0db3d455c2f6a1
-SHA1: 553294e465af00c7fe7cbc67e0bc048aabe0a743
-SHA256: 36fccd641c5aa0298cee10e9285144bf12a50e6e875d34ef645ad577b799f90d
+Size: 101212
+MD5sum: 39040ffef0de4a85b5c0a4facc1c8889
+SHA1: 485d891417149b5a2d1940983a0ec66c6d06ad39
+SHA256: 3f301ebef5d0802703e6127d34219267eadee61f64d015233f98bfa870092fe1
 Section: Lockscreen Widgets
 Description: A LS widget from my 3800PACK.
 Author: Evelyn (ev_ynw)
@@ -115,10 +115,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.repoicons_1.0_iphoneos-arm.deb
-Size: 18848
-MD5sum: ecd128375ba6d7437cd7390c5fecc733
-SHA1: e4005b838c0c096a3e9ca35a4a7e44263b22b701
-SHA256: 9fc23c262f678467b6edf157758ff59518b66152a37bc9716546a411beb48b86
+Size: 18320
+MD5sum: e5c8068fb554390dd954dbdce3aef4e6
+SHA1: 24bc69d60ec0b63e0fcde298499ab78616bf6b69
+SHA256: 8477c54491524c3bb823fac2e18514d11d524ece2bccf7920a27b390797e0163
 Section: System
 Description: Official Icons for EVELYN's Repo. Icons replacing the ? marks.
 Author: Evelyn (ev_ynw)
@@ -131,10 +131,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.sbew88_1.0_iphoneos-arm.deb
-Size: 230998
-MD5sum: 64fc8d6b29d7231f593f2ef299477074
-SHA1: c7e8a0d3ad44d666bd24254494f683c0e0475de8
-SHA256: 94001b4d32263c437b0680bfda733d26c8be64996b6c06618cc29538370498b7
+Size: 230052
+MD5sum: d7c0319107d3b8f8a489b142369a2aa3
+SHA1: 6d7d994149a6f78aede971e28eca6ef5353225d9
+SHA256: 93474df5378e992e602a6eee4d0ab6946cab093cc458dc0e7db9a756c65e2bfd
 Section: Homescreen Widgets
 Description: A HS widget from my 3800PACK
 Author: Evelyn (ev_ynw)
@@ -147,10 +147,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.sbew88fp_1.0_iphoneos-arm.deb
-Size: 757752
-MD5sum: a6e89b21d2877a192762585a589291d8
-SHA1: b5abd23a5fa757fbb4721ead2e0eb2f81889f7d4
-SHA256: 3f4a822956a59f7fc138de70335207ec9edc9c5cca9297179593b8072fe0c7fd
+Size: 756810
+MD5sum: 399f6f08a04f13fb9f64450d255e913c
+SHA1: 9aefadf1340cc5a5d8a8693fa35f2a8fb45bdda4
+SHA256: 942ad60bd322ecd337eea95955e9df80d04a66dc400f5866e0937890aaad646a
 Section: Homescreen Widgets
 Description: A HS widget from my 3800PACK
 Author: Evelyn (ev_ynw)
@@ -163,10 +163,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.sbew88xi_1.0_iphoneos-arm.deb
-Size: 229322
-MD5sum: d87006d9915c409c6e9379cedfeec35a
-SHA1: f9ff86098ce8a615041c9a79131bbe218f04e5ba
-SHA256: dac0251aebffca643868fdc379ce40e8bc303a9ac08da99c2e3b2da5a448997b
+Size: 228336
+MD5sum: 802541a93842e80a75b89b55ba129d92
+SHA1: 0723eae152509fd2f6ea7d0ffe7f5a80422d9fc0
+SHA256: 2d8eecf9b1c760bacecf7d853fd1ad585506e03d76dc4406e86cf755148d8d65
 Section: Homescreen Widgets
 Description: A HS widget from my 3800PACK
 Author: Evelyn (ev_ynw)
