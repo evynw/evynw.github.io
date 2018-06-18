@@ -1,0 +1,43 @@
+body {
+	margin:0;
+	padding:0;
+	text-shadow:1px 1px 1px rgba(0,0,0, 0.2);
+	font-weight:100;
+      text-transform:uppercase;
+	font-family:righteous;
+	color:#f3f3f3;
+	letter-spacing:2;
+}
+
+@font-face{
+	font-family:righteous;
+	src:url(Stuff/righteous.ttf);
+}
+@font-face{
+      font-family:giorgio;
+      src:url(Stuff/Giorgio.ttf);
+}
+
+#HourWrap{
+       position:relative; top:267px; left:0px; height:26.7px; overflow:hidden;
+}
+#hour{
+       position:absolute; top:6.7px; left:0px; width:375px; height:26.7px; text-align:center; z-index:80;
+       font-size:22.5px;
+}
+
+#Time{
+       position:absolute; top:297px; left:0px; width:375px; text-align:center; z-index:50;
+       font-size:13.125px;
+}
+
+
+#charge{
+       position:absolute; top:600px; left:169px; width:37.5px; z-index:50;
+       -webkit-filter:drop-shadow(1px 1px 1px rgba(0,0,0, 0.2));
+}
+
+#LevelDisplay{
+       position:absolute; top:630px; left:0px; width:375px; text-align:center; z-index:50;
+       font-size:10px; font-family:giorgio;
+}

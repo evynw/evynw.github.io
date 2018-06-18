@@ -1,0 +1,43 @@
+body{
+      margin:0;
+      padding:0;
+      font-weight:100;
+      text-shadow:0px 1px 1px rgba(0,0,0,0.2);
+      font-family:reg;
+      text-transform:uppercase;
+      color:#f3f3f3;
+      letter-spacing:1;
+}
+
+@font-face{
+      font-family:reg;
+      src:url(Stuff/regular.ttf);
+}
+@font-face{
+      font-family:bold;
+      src:url(Stuff/bold.ttf);
+}
+
+
+#L1{
+       position:absolute; top:133.4px; left:37.5px; width:300px; height:0.7px; z-index:-50;
+       background-color:#f3f3f3;
+}
+#L2{
+       position:absolute; top:533.6px; left:37.5px; width:300px; height:0.7px; z-index:-50;
+       background-color:#f3f3f3;
+}
+
+
+#Line1{
+       position:absolute; top:106.72px; left:39.375px; width:375px; text-align:left; z-index:50;
+       font-size:15px;
+}
+#hour,#minute,#ampm{font-family:bold; letter-spacing:0.8;}
+#date,#month,#weekday,#dot,#separator{font-size:9.375px;}
+
+
+#Line2{
+       position:absolute; top:540px; left:-39.375px; width:375px; text-align:right; z-index:50;
+       font-size:9.375px;
+}

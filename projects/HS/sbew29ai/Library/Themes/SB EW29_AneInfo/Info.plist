@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PackageName</key>
+	<string>HS Widgets_Evelyn</string>
+	
+	<key>AnemoneHTML</key>
+		<dict>
+			<key>FilesystemAllowReadOnly</key>
+			<array>
+				<string>/var/mobile/</string>
+			</array>
+			<key>FilesystemAllowReadWrite</key>
+			<array>
+				<string>/var/mobile/Library/Preferences</string>
+			</array>
+		</dict> 
+</dict>
+</plist>

@@ -1,0 +1,35 @@
+<package>
+	<id>com.ewynw.lsew13xi</id>
+	<name>LS EW13_XI</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>11.1.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>XenInfo</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[<b>Installed to:</b> </ br>/var/mobile/Library/LockHTML <br /> <br />
+                          <b>Apply with Xen HTML</b>]]></description>
+		<description>Optimised for all iOS (including iOS11) &amp; fits all resolutions (including iPX)</description>
+		<description>Requires XenInfo for weather/battery components to work properly</description>
+		<description><![CDATA[<b>Need help?</b> <br />
+							Brief instructions contained in the TXT within the widget folder <br />
+							Link to tutorials in my pinned tweet]]></description>
+		<description>Includes 2 versions - see screenshots</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ss1.png</image>
+		</screenshot>
+		<screenshot>
+			<image>ss2.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>

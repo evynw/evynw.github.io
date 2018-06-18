@@ -1,0 +1,10 @@
+Package: com.evynw.lsewbatteryxi
+Name: LS EW.Battery_XI
+Version: 1.0
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Architecture: iphoneos-arm
+Description: Simple battery widget near screen bottom
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsewbatteryxi
+Author: Evelyn (ev_ynw)
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Section: Lockscreen Widgets

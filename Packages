@@ -5,9 +5,9 @@ Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.anemonetheming.anemone, com.evynw.repoicons
 Filename: ./debs/com.evynw.ew1pagedots_1.0_iphoneos-arm.deb
 Size: 6354
-MD5sum: c4989d561cf2879131b7d51947275f55
-SHA1: 0453bd666454ffc0241fd8e87d5bee169a6a6617
-SHA256: 8894e047218be73fc7538d2b4090e7b1b16e4e53de592447d567e07751caf761
+MD5sum: 003b196b32571bb3c52b163dde749d14
+SHA1: 216aaf8c249cc53ae7426a896992167ea2de7f07
+SHA256: 14d39fffdc765982986ca453aea433212726e6df916290d1f4c709bf5c06a989
 Section: Others
 Description: Page dots in the shape of X's and O's
 Author: Evelyn (ev_ynw)
@@ -21,14 +21,30 @@ Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.ew88iwgt_1.0_iphoneos-arm.deb
 Size: 231842
-MD5sum: d35e0020b9ec038d5be095733ab2f8f5
-SHA1: 5f6a1c7abdfbbace7ab1d29e5411182b03beeaea
-SHA256: 78fd0efd8c7edd5dbf92d69a5d70ce7b3153dd7cb461742a8f6b71ef3fe1d35e
+MD5sum: 62b3703c381c3c80dae25309d7e51153
+SHA1: b5582ff7de7dba95c452d162e9a2001d5b98d855
+SHA256: 15239b1926c6fbcd2d7804fe5ca19b2bf08997a3795a220f30115ad0ec9149ef
 Section: Homescreen Widgets
 Description: A HS widget from my 3800PACK
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew88iwgt
 Name: EW88.iWidget
+
+Package: com.evynw.fontbrandontext1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontbrandontext1011_1.0_iphoneos-arm.deb
+Size: 18178192
+MD5sum: d3dc82a3b8020830733ff807387acaa5
+SHA1: efc6bee65886d16afba7c2f3f8873bc51fd17edd
+SHA256: 23bd56122410d0815283c10bef7c384d2c4bb4d207d9bfbb28f11a1c63bf44df
+Section: Anemone Fonts
+Description: Popular sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbrandontext1011
+Name: Brandon Text (iOS10/11)
 
 Package: com.evynw.fontglober1011
 Version: 1.0
@@ -37,9 +53,9 @@ Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.anemonetheming.anemone, com.evynw.repoicons
 Filename: ./debs/com.evynw.fontglober1011_1.0_iphoneos-arm.deb
 Size: 18202036
-MD5sum: 25e9b72087db9f68c12d5e851691ce3f
-SHA1: 027a5f429f781322a31ca6142b123d8308cf3c7f
-SHA256: f460caaa0684f87cea5c68afe2b36592fba3def9c2bfe5d2bd387710c7ef0fc6
+MD5sum: 7240f4a0d687d92f7fa7272fcecf049b
+SHA1: e47dd2c272d1ae4420a85b5a4caaf9c91f7c1d87
+SHA256: 140f645045da7aac66904a8bc67e8f1b379e69bc459e2101d03e222b5377cfa2
 Section: Anemone Fonts
 Description: Clean-looking sans-serif. For Anemone.
 Author: Evelyn (ev_ynw)
@@ -53,9 +69,9 @@ Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.anemonetheming.anemone, com.evynw.repoicons
 Filename: ./debs/com.evynw.fontglober9_1.0_iphoneos-arm.deb
 Size: 19341692
-MD5sum: f7fd535ae953afdbdf21f05ae1232f25
-SHA1: 2c279f877e28e00b62150a49d1f1142a2bb402d9
-SHA256: 36f01fc50bf96638938d76e94b21872bec1a65d666d096ce51c5ec63d29e689b
+MD5sum: 3011aa527fbe6627b99cb5fc689c8ca7
+SHA1: b3e46d40a5ea2d2dfaec5ba8224639cc1a7946eb
+SHA256: bef5be8fd4c2e157dcc36f4fb1007fb5d492f6624151873b7c35dcbc67dafbd1
 Section: Anemone Fonts
 Description: Clean-looking sans-serif. For Anemone.
 Author: Evelyn (ev_ynw)
@@ -69,14 +85,94 @@ Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontglobertm_1.0_iphoneos-arm.deb
 Size: 1782916
-MD5sum: 12244969c082a0a430e6872b4b8d95b1
-SHA1: 54fff1912b4745ba5053fe618028ce212324ab14
-SHA256: 543f60687493da909268d1599e11fa28d821163b019fcd3df50d68c1402b55b0
+MD5sum: 09ef8628243586dff0713c8a1b427f92
+SHA1: 5049157ca1a7c6c9e1cb06dadb8b34f363752cee
+SHA256: 7cff43d178141f6fc3ea108bca278fd9cb5b616b33ef413d44b1ca6278d74d4f
 Section: Tweak Mode Fonts
 Description: Clean-looking sans-serif. For BytaFont Tweak Mode.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontglobertm
 Name: Glober (TM)
+
+Package: com.evynw.fontopensans1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontopensans1011_1.0_iphoneos-arm.deb
+Size: 13631234
+MD5sum: 800ebca44023a9cff94e5f0945295508
+SHA1: 11990ecc6083cc3be06ceec864a79fe7b854291d
+SHA256: 25baf8a098584daa5849be0c18196c1f24d84d0f6740784d1ce2b2dd0d51ef66
+Section: Anemone Fonts
+Description: Classic sans-serif. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontopensans1011
+Name: Open Sans (iOS10/11)
+
+Package: com.evynw.lsew1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew1_1.0_iphoneos-arm.deb
+Size: 117286
+MD5sum: 41a480107f733921a12e0065a513ccd5
+SHA1: b45bb5ec51b05904ceffd02ac134512a2165444a
+SHA256: 47a6b5df46fe40fa13d8c10fdc587dd541c585cf65560c93670a3ddfe0b79c04
+Section: Lockscreen Widgets
+Description: First ever LS widget. Feelin' nostalgic!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew1
+Name: LS EW1
+
+Package: com.evynw.lsew10xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew10xi_1.0_iphoneos-arm.deb
+Size: 261886
+MD5sum: e85ac25b733b618f9306b8292d4cc760
+SHA1: 1c2547893ceeb74f4f7ac5e0c74b8ac2158aa529
+SHA256: d0fe0c283a02dd747a7a3bc87e9e8f67912ecc9538ce28efa3bd8e646840fed0
+Section: Lockscreen Widgets
+Description: Clock + weather in a box. 2 versions included.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew10xi
+Name: LS EW10_XI
+
+Package: com.evynw.lsew11xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew11xi_1.0_iphoneos-arm.deb
+Size: 92334
+MD5sum: a607c69c2dcccd4cbb7d3f65197f11b2
+SHA1: 61217ab772bec92e99d1b967feef53ab3286306e
+SHA256: 030787acea12c7619eb6debce93c853149ff6b7825de8f40f084b4876598e950
+Section: Lockscreen Widgets
+Description: Clock + weather on a black overlay
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew11xi
+Name: LS EW11_XI
+
+Package: com.evynw.lsew13xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew13xi_1.0_iphoneos-arm.deb
+Size: 268338
+MD5sum: 4cc31e001ee2d3fe91cc690cefbae49d
+SHA1: 70b86e6f54f5b87ede92b0b89f0cbf2aab7cbb51
+SHA256: 542535b04212f488f2e107168b2b4e07709c8a9ef3d91ee5071ac869a679308d
+Section: Lockscreen Widgets
+Description: Large word clock + weather. 2 versions included.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew13xi
+Name: LS EW13_XI
 
 Package: com.evynw.lsew198
 Version: 1.0
@@ -85,9 +181,9 @@ Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.lsew198_1.0_iphoneos-arm.deb
 Size: 104916
-MD5sum: 099fd9ebb74630836c0f2c0be630bbda
-SHA1: 5e9267379a880d5c5a50a7909584a6104183ae78
-SHA256: 5eec85a6fe408c5fcb865d5614995c49fca333edceac0cbb1adfb323352f4865
+MD5sum: 6e350a9247e5f68b793b8659f1280265
+SHA1: 8769be7b105e2caa48c6ed2c8909eb2ad597561f
+SHA256: 6fc46421b7e6a96658dc05a9c9c7e87a0a1fdea219d8cee5bfe9c555f1661222
 Section: Lockscreen Widgets
 Description: A LS widget from my 3800PACK.
 Author: Evelyn (ev_ynw)
@@ -101,14 +197,190 @@ Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.lsew199_1.0_iphoneos-arm.deb
 Size: 101212
-MD5sum: e2a81d128c3a1d0249bc90155318b708
-SHA1: a43e6e4152785bbdae3c542deea032cdf0465186
-SHA256: 246e82e895ff04dccef60097fff7ece8353e1d9d5861b9d6efb633f611d2f5f5
+MD5sum: ca2017fd358be830b47eda8a675bd6b3
+SHA1: 57f5015d8e2b7e35a9c44ea8a0e492e7c501bf52
+SHA256: b42972ab2e09757cfe1889bf7359be1c8728f1833e7f9255eabef4e6cf3460b1
 Section: Lockscreen Widgets
 Description: A LS widget from my 3800PACK.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew199
 Name: LS EW199
+
+Package: com.evynw.lsew22xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew22xi_1.0_iphoneos-arm.deb
+Size: 74366
+MD5sum: 41717afd61b37facb161b16f3ef7c49c
+SHA1: b33ccc0323135eff7621ae24aac384b5ac6e009c
+SHA256: 94ba8210bcbce96ed96a821f506faf83d2d6b05608cc4869224618fa2f7a8adc
+Section: Lockscreen Widgets
+Description: Clock + weather - I'm bad at describing widgets.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew22xi
+Name: LS EW22_XI
+
+Package: com.evynw.lsew24xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew24xi_1.0_iphoneos-arm.deb
+Size: 82208
+MD5sum: eff83b8dd954affb01fc5c1591730413
+SHA1: 51981e724feaed0ae9befb509f2252fd78c59835
+SHA256: 5f94a0f6942d5881141154a085600a414a2be9ac34d83cdc17fbbbc27143d6cd
+Section: Lockscreen Widgets
+Description: Word clock + stylish battery indicator
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew24xi
+Name: LS EW24_XI
+
+Package: com.evynw.lsew2xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew2xi_1.0_iphoneos-arm.deb
+Size: 62080
+MD5sum: 94f041011016c42600f19092badf6bea
+SHA1: bd3a41a73a49df8fd79019292188f47da1a61e40
+SHA256: 81f2ccf750fa22bb5a7066d57b293531363b39347e6ba805731dd0db601d59f3
+Section: Lockscreen Widgets
+Description: Still updating old widgets for iOS11
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew2xi
+Name: LS EW2_XI
+
+Package: com.evynw.lsew3xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew3xi_1.0_iphoneos-arm.deb
+Size: 291590
+MD5sum: d956207b94a401ceaa8c6d45a4507959
+SHA1: 7bf3f2bf57dce69bad5c5d3e8ef7b11739bbabfb
+SHA256: 3035e8f05cf48b679c004cf3d0ffd71843bf47dd32b315398d2c847507164925
+Section: Lockscreen Widgets
+Description: Still updating old widgets for iOS11
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew3xi
+Name: LS EW3_XI
+
+Package: com.evynw.lsew4xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew4xi_1.0_iphoneos-arm.deb
+Size: 964676
+MD5sum: cbcffa64cdbc6d3c3e0b923e32b6effb
+SHA1: 49d2d77ea5fb6cbc38661fd910e38cbc8ad01295
+SHA256: 3ad1d55d22030a0808ab0ba5b4704de2b43a97e3536875e2a7fad1237489b201
+Section: Lockscreen Widgets
+Description: Still updating old widgets for iOS11
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew4xi
+Name: LS EW4_XI
+
+Package: com.evynw.lsew5xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew5xi_1.0_iphoneos-arm.deb
+Size: 62864
+MD5sum: af96c2821542e3b1c64a973a57d0d5e6
+SHA1: c85663a6622b4669110b9873e617d94e0840682e
+SHA256: cac3cebb61ff5f20f6e260622a87da44e208a67625bf0f95246fb0feeced7aca
+Section: Lockscreen Widgets
+Description: Still updating old widgets for iOS11
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew5xi
+Name: LS EW5_XI
+
+Package: com.evynw.lsew6xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew6xi_1.0_iphoneos-arm.deb
+Size: 130972
+MD5sum: ed5957623d4241351e6c4d96162e72e1
+SHA1: 7a2b7a28843de0d783e9fa8eed2720411aab68e5
+SHA256: bba965bca482cedc41b51e21ffac80ace7207ffd6d05c08fa47384b5c597508e
+Section: Lockscreen Widgets
+Description: Still updating old widgets for iOS11
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew6xi
+Name: LS EW6_XI
+
+Package: com.evynw.lsew8xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew8xi_1.0_iphoneos-arm.deb
+Size: 102656
+MD5sum: 1d1dc6725377f8458739c4062bddf4fc
+SHA1: 50b6e3c768b81b09239342cc8f21b829267e85fd
+SHA256: c8e4e8012a629505781303b3cb78cb00f0e3a22f548c0de6be69936c08683fb0
+Section: Lockscreen Widgets
+Description: Clock + weather/battery on overlays
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew8xi
+Name: LS EW8_XI
+
+Package: com.evynw.lsew92
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew92_1.0_iphoneos-arm.deb
+Size: 53920
+MD5sum: 36dec3de0dfcbc821f6b2e35a954ad33
+SHA1: ef227025f18bb91be74f1491bfecf2cdfcc66905
+SHA256: 2abd131e010607ffe6af6c505bc58c59dcf93faed5cd0e00543571e96c11a244
+Section: Lockscreen Widgets
+Description: Brightly coloured clock
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew92
+Name: LS EW92
+
+Package: com.evynw.lsewbatteryxi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsewbatteryxi_1.0_iphoneos-arm.deb
+Size: 87998
+MD5sum: 61ca6c61c7c45bd5e0b0132084f53e5b
+SHA1: 86658b7afec2588a54461be19abbe40526638a13
+SHA256: 05c0815a131cb6256a28226e52b67b3ce71f826067606d8ec140b0242e386d17
+Section: Lockscreen Widgets
+Description: Simple battery widget near screen bottom
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsewbatteryxi
+Name: LS EW.Battery_XI
+
+Package: com.evynw.lsewlegacyxi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsewlegacyxi_1.0_iphoneos-arm.deb
+Size: 76960
+MD5sum: 49597019d0717bf4202b580b7856c507
+SHA1: 679e36f44efb52038357bf4af8de077d56d1b2f0
+SHA256: 6045d19dceb49b2588a30840a091f001794713a231f7830c04545e276eadd335
+Section: Lockscreen Widgets
+Description: Simple clock & battery with a stock look
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsewlegacyxi
+Name: LS EW.Legacy_XI
 
 Package: com.evynw.repoicons
 Version: 1.0
@@ -116,14 +388,62 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.repoicons_1.0_iphoneos-arm.deb
 Size: 116690
-MD5sum: 2e6fcbe53310b7f3f2de908d031f163c
-SHA1: 5389599c5c29355c509d0a78da507266e4b369b4
-SHA256: 68f5dbbd07354529bcc62bbc7c615050ecff4ac824b9117d2e166352d9a24bfe
+MD5sum: 3b79956c2fcf91ccf316b7f3285e4266
+SHA1: 42fa0aba60b6fec3e3c324ba4e923bbb51d98dfb
+SHA256: 5265dbedce245c70f95f2b8f8f7e58dd51f4169119ce71d3b7346084c63f5c5d
 Section: System
 Description: Official Icons for EVELYN's Repo. Icons replacing the ? marks.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.repoicons
 Name: EVELYN's Repo Icons
+
+Package: com.evynw.sbew29ai
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.aneinfo
+Filename: ./debs/com.evynw.sbew29ai_1.0_iphoneos-arm.deb
+Size: 716796
+MD5sum: f5ab7620a0a458985eea7e6e1474e035
+SHA1: 1941d0368603fb690930455e68d013f35a420c67
+SHA256: 55ffa049226c3b3e96054f5b9ad08fbfde16fed8e2c24be55f569ee7bf8c74e1
+Section: Homescreen Widgets
+Description: Clock + weather info at screen top
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew29ai
+Name: SB EW29_AneInfo
+
+Package: com.evynw.sbew30ai
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.aneinfo
+Filename: ./debs/com.evynw.sbew30ai_1.0_iphoneos-arm.deb
+Size: 106024
+MD5sum: 35eb83317847f5e4fed63fd0d2faba70
+SHA1: a813a1d8a2dfbecd799e4058d9270df779cca9b5
+SHA256: b7d931328b9827ef27c987d240514f5cc310171669362b1425d8dbed326f8e66
+Section: Homescreen Widgets
+Description: Old widget, but seems quite popular
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew30ai
+Name: SB EW30_AneInfo
+
+Package: com.evynw.sbew34ai
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.aneinfo
+Filename: ./debs/com.evynw.sbew34ai_1.0_iphoneos-arm.deb
+Size: 55716
+MD5sum: a031fa8f01d50efc219bf7920195ec89
+SHA1: b2043552aefc99fa7f3cb78fd1b603dbac200c40
+SHA256: aa1d48872b202041782ebafac2c07ef26125bb731fd1979b93e8d82b7c9934a1
+Section: Homescreen Widgets
+Description: AnemoneHTML with clock & weather in a banner
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew34ai
+Name: SB EW34_AneInfo
 
 Package: com.evynw.sbew88
 Version: 1.0
@@ -132,9 +452,9 @@ Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.sbew88_1.0_iphoneos-arm.deb
 Size: 230052
-MD5sum: a2679acb4ce10aee5e7fb46e5ceb8c63
-SHA1: 70faa383476b2efa05a2d2f6c40902c9007bd29c
-SHA256: a1b2099fd1d33c510bac3689315b2e2e1b36f585be683235b47e63b6d15aada0
+MD5sum: 72b310c60de21a443daec1c5d12e8af8
+SHA1: fad87ddcad1b3f80e47d9b049401cde05d0f4be4
+SHA256: 999bde40d7040e1fc38f8a9f7066adcdf49a6dc8996f497229e889a29ee747ff
 Section: Homescreen Widgets
 Description: A HS widget from my 3800PACK
 Author: Evelyn (ev_ynw)
@@ -148,9 +468,9 @@ Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.sbew88fp_1.0_iphoneos-arm.deb
 Size: 756810
-MD5sum: f69df3650590b73428c22a005f83bcfa
-SHA1: c34cf601d96f06d703a8f5978bfdd162d2d577e5
-SHA256: b92cc68b055982843c23f4f4a6d7d548d42bb684a4b81a3cc97f7136a9d1ef0e
+MD5sum: 97280a9bc1fc6e25e0a45997a6f18358
+SHA1: 8804bf6e007bce382d24fa819be5e4a2475624a5
+SHA256: 7eed2833e673ac0dc5d33ef83dd91b765af40453411fc3c5333ab8ebebe28ece
 Section: Homescreen Widgets
 Description: A HS widget from my 3800PACK
 Author: Evelyn (ev_ynw)
@@ -164,9 +484,9 @@ Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.sbew88xi_1.0_iphoneos-arm.deb
 Size: 228336
-MD5sum: e733a96ad03b570a6a91d2565f1f9041
-SHA1: 8322dba824c72bfd3a6437e0a0e7e6c34c0c3cd5
-SHA256: bdd8c819ee1c831d173cdbc60a378d43d1abcdc207cfd1edcec41e22b02d6591
+MD5sum: 24da835fdc0752ce25e5745f17baab96
+SHA1: 580c89b2cee08fde3d42c1668fffa71dcd68e110
+SHA256: a1b84f99fe388bb84271062078bf1c47a0e284a264fb892fdc9b8d6c5a92b163
 Section: Homescreen Widgets
 Description: A HS widget from my 3800PACK
 Author: Evelyn (ev_ynw)

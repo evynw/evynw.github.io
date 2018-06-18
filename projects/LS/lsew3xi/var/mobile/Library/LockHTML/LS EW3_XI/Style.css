@@ -1,0 +1,55 @@
+body{
+	margin:0;
+	padding:0;
+	font-weight:100;
+	text-shadow:0px 1px 1px rgba(0,0,0,0.2);
+	font-family:Moon;
+	text-transform:uppercase;
+	color:#f3f3f3;
+	letter-spacing:1;
+}
+
+@font-face{
+      font-family:Moon;
+      src:url(Stuff/Bold.otf);
+}
+@font-face{
+      font-family:Moon-light;
+      src:url(Stuff/Light.otf);
+}
+
+#Clock{
+       position:absolute; top:280px; left:0px; width:375px; text-align:center; z-index:50;
+       font-size:14.25px;
+}
+
+#Cal1{
+       position:absolute; top:307.5px; left:0px; width:375px; text-align:center; z-index:50;
+       font-size:10px;
+}
+
+#Cal2{
+       position:absolute; top:330px; left:0px; width:375px; text-align:center; z-index:50;
+       font-size:12px;
+}
+
+
+#Circle_Small{
+       position:absolute; top:144.5px; left:132.5px; width:110px; height:110px; z-index:50;
+       background-color:rgba(238,238,238,0.2); box-sizing:border-box;
+       border:3px solid rgba(238,238,238,0.9); border-radius:100%;
+}
+#Circle_Large{
+       position:absolute; top:137px; left:125px; width:125px; height:125px; z-index:90;
+       background-color:none;
+       border:3px solid rgba(238,238,238,0.9);
+       border-radius:100%; box-sizing:border-box;
+}
+#weatherIcon{
+         position:absolute; top:163.9px; left:152.5px; width:70px; z-index:0;
+}
+
+#BatteryLevel{
+       position:absolute; top:640px; left:0px; width:375px; text-align:center; z-index:50;
+       font-size:10.5px; text-transform:lowercase; font-family:Moon-light;
+}

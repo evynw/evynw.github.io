@@ -1,0 +1,16 @@
+
+#User Guide# by @ev_ynw
+(Please do not take this txt as your own)
+
+
+To be used as an AnemoneHTML, and you must have AneInfo (tweak developed by June, availabe at http://junesiphone.com/aneinfo/) installed in order for weather & battery to show.
+Install to /Library/Themes
+Package name = HS Widgets_Evelyn
+
+
+>> Contact me
+Twitter: @ev_ynw
+Reddit: /u/yeahwell_mlgb
+
+>> Credits
+Code belongs to Dacal & Junesiphone. Big thanks to all.

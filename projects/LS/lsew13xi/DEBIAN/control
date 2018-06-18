@@ -1,0 +1,10 @@
+Package: com.evynw.lsew13xi
+Name: LS EW13_XI
+Version: 1.0
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Architecture: iphoneos-arm
+Description: Large word clock + weather. 2 versions included.
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew13xi
+Author: Evelyn (ev_ynw)
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Section: Lockscreen Widgets

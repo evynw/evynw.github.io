@@ -1,0 +1,10 @@
+Package: com.evynw.sbew29ai
+Name: SB EW29_AneInfo
+Version: 1.0
+Depends: com.evynw.repoicons, com.junesiphone.aneinfo
+Architecture: iphoneos-arm
+Description: Clock + weather info at screen top
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew29ai
+Author: Evelyn (ev_ynw)
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Section: Homescreen Widgets

@@ -1,0 +1,54 @@
+body{
+      margin:0;
+      padding:0;
+      font-weight:100;
+      text-shadow:1px 1px 1px rgba(0,0,0,0.3);
+      font-family:home;
+      text-transform:uppercase;
+      color:#f3f3f3;
+      letter-spacing:1;
+      font-size:11.25px;
+}
+
+@font-face{
+      font-family:home;
+      src:url(Stuff/Homenaje.ttf);
+}
+@font-face{
+      font-family:rough;
+      src:url(Stuff/HobricRough.otf);
+}
+@font-face{
+      font-family:komi;
+      src:url(Stuff/Komikazoom.ttf);
+}
+
+
+#weatherIcon{
+       position:absolute; top:10px; left:26.25px; width:48.75px; z-index:50;
+}
+
+#R{
+       position:absolute; top:0px; left:0px; width:375px; height:66.7px; z-index:-50;
+       background-color:#242424;
+       box-shadow:1px 1px 2px rgba(0,0,0,0.3);
+}
+#Clock{
+       position:absolute; top:16.675px; left:243.75px; width:112.5px; text-align:right; z-index:50;
+       font-size:37.5px; font-family:rough; letter-spacing:1;
+       line-height:150%;
+}
+#hour,#minute{}
+
+#Cal{
+       position:absolute; top:12.673px; left:-108.75px; width:375px; text-align:right; z-index:50;
+}
+
+#Weather{
+       position:absolute; top:28px; left:-108.75px; width:375px; text-align:right; z-index:50;
+}
+
+
+#BatteryLevel{
+       position:absolute; top:43.4px; left:-108.75px; width:375px; text-align:right; z-index:50;
+}

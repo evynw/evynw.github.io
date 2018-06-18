@@ -1,0 +1,32 @@
+<package>
+	<id>com.ewynw.sbew34ai</id>
+	<name>SB EW34_AneInfo</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>11.1.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>XenInfo</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[<b>Installed to:</b> </ br>/Library/Themes/ <br /> <br />
+                          <b>Apply with Anemone</b> <br />
+                          Package name = HS Widgets_Evelyn]]></description>
+		<description>Optimised for all iOS (including iOS11) &amp; fits all resolutions (including iPX)</description>
+		<description>Requires AneInfo for weather/battery components to work properly</description>
+		<description><![CDATA[<b>Need help?</b> <br />
+							Brief instructions contained in the TXT within the widget folder <br />
+							Link to tutorials in my pinned tweet]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ss.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>

@@ -1,0 +1,49 @@
+<html><head>
+<title>SB EW34 by Evelyn (@ev_ynw)</title>
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" href="Style.css" type="text/css" media="screen"/>
+<script type="text/javascript" charset="utf-8" src="Config.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/jquery.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/main.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/lang.js"></script>
+</head>
+
+<body onload="init()">
+
+<div id="Widget">
+	<div id="R1"></div>
+	<div id="R2"></div>
+
+	<div id="Stuff">
+		<a id="hour"></a>:<a id="minute"></a><a id="ampm"></a> · <a id="weekday"></a> <a id="date"></a> · <a id="desc">Wthr Desc</a> <a id="temp">??&deg;</a>
+	</div>
+</div>
+
+<div id="month" style="display:none;"></div>
+
+<script type="text/javascript">
+function mainUpdate(type){
+    if(type == "weather"){
+		document.getElementById('temp').innerHTML = weather.temperature + "&deg;";
+    	document.getElementById('desc').innerHTML = weatherdesc[weather.conditionCode];    
+    }
+}
+</script>
+
+<script>
+(function(){
+    'use strict';
+    if (window.innerWidth === 320) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=0.85, maximum-scale=0.85, user-scalable=0');
+    } else if (window.innerWidth === 414) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=1.104, maximum-scale=1.104, user-scalable=0');
+    } else if (window.innerWidth === 425) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=1.133, maximum-scale=1.133, user-scalable=0');
+    } else if (window.innerWidth === 432) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=1.152, maximum-scale=1.152, user-scalable=0');
+    }
+}());
+</script>
+</body></html>

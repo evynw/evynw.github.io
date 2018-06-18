@@ -1,0 +1,39 @@
+body{
+      margin:0;
+      padding:0;
+      font-weight:100;
+      text-shadow:0px 1px 1px rgba(0,0,0,0.2);
+      font-family:agenda;
+      text-transform:uppercase;
+      color:#f3f3f3;
+      letter-spacing:1;
+}
+
+@font-face{
+      font-family:parabola;
+      src:url(Stuff/PARABOLA.ttf);
+}
+@font-face{
+      font-family:agenda;
+      src:url(Stuff/Agenda.ttf);
+}
+@font-face{
+      font-family:master;
+      src:url(Stuff/master.ttf);
+}
+
+
+#Clock{
+       position:absolute; top:253.5px; left:0px; width:375px; text-align:center; z-index:50;
+       font-size:52.5px; font-family:master; letter-spacing:1.5; text-transform:lowercase;
+}
+
+#Cal{
+       position:absolute; top:213.4px; left:0px; width:375px; text-align:center; z-index:50;
+       font-size:15px; 
+}
+
+#Weather{
+       position:absolute; top:313.5px; left:0px; width:375px; text-align:center; z-index:50;
+       font-size:15px;
+}

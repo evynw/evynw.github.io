@@ -1,0 +1,22 @@
+
+#User Guide# by Evelyn @ev_ynw
+(Please do not take this txt as your own)
+
+
+>> Installation
+LockHTML: /var/mobile/Library/LockHTML
+SBHTML: /var/mobile/Library/SBHTML
+
+Optimised for iOS11 users. To be applied with Xen HTML (repo: http://xenpublic.incendo.ws/). Fits all iPhone resolutions.
+Requires XenInfo for weather/battery components to work. This tweak is developed by June - available at http://junesiphone.com/xeninfo/
+
+
+>> Contact me
+Twitter: @ev_ynw
+Reddit: /u/yeahwell_mlgb
+Email: ev.ynam.w@gmail.com
+
+
+>> Credits
+Original code belongs to Dacal, Junesiphone & Matchstic.
+Big thanks to all.

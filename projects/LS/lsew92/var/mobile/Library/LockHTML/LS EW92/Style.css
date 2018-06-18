@@ -1,0 +1,66 @@
+body{
+	margin:0;
+	padding:0;
+	font-weight:100;
+	text-shadow:1px 1px 1px rgba(0,0,0,0.2);
+	font-family:zaun;
+	text-transform:uppercase;
+	color:#f7f7f7;
+}
+
+@font-face{
+      font-family:zaun;
+      src:url(Stuff/Zaun.ttf);
+}
+@font-face{
+      font-family:sf;
+      src:url(Stuff/SF_Collegiate_Solid.ttf);
+}
+
+#ClockWrap{
+       position:absolute; top:0px; left:0px; width:375px; height:254px; z-index:50;
+       overflow:hidden;
+}
+#Clock{
+       position:absolute; top:134.62px; left:0px; width:375px; text-align:center; z-index:50;
+       font-size:168.75px; letter-spacing:4;
+       color:#9067f6;
+       text-shadow:1px 1px 0px rgba(247,247,247,1),
+       2px 2px 0px rgba(247,247,247,1),
+       3px 3px 0px rgba(247,247,247,1),
+       4px 4px 0px rgba(247,247,247,1),
+       5px 5px 0px rgba(247,247,247,1),
+       6px 6px 0px rgba(247,247,247,1),
+       7px 7px 0px rgba(247,247,247,1),
+       8px 8px 0px rgba(247,247,247,1);
+}
+
+#Clock1Wrap{
+       position:absolute; top:300px; left:0px; width:375px; height:254px; z-index:50;
+       overflow:hidden;
+}
+#Clock1{
+       position:absolute; top:-117px; left:0px; width:375px; text-align:center; z-index:50;
+       font-size:168.75px; letter-spacing:4;
+       color:#9067f6;
+       text-shadow:1px 1px 0px rgba(247,247,247,1),
+       2px 2px 0px rgba(247,247,247,1),
+       3px 3px 0px rgba(247,247,247,1),
+       4px 4px 0px rgba(247,247,247,1),
+       5px 5px 0px rgba(247,247,247,1),
+       6px 6px 0px rgba(247,247,247,1),
+       7px 7px 0px rgba(247,247,247,1),
+       8px 8px 0px rgba(247,247,247,1);
+}
+
+#Cal{
+       position:absolute; top:323.5px; left:0px; width:375px; text-align:center; z-index:50;
+       font-size:15px;
+}
+
+#weekday{
+       position:absolute; top:267px; left:0px; width:375px; text-align:center; z-index:50;
+       font-size:37.5px;
+       font-family:sf; letter-spacing:4;
+}
+

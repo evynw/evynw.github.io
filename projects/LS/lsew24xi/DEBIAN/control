@@ -1,0 +1,10 @@
+Package: com.evynw.lsew24xi
+Name: LS EW24_XI
+Version: 1.0
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Architecture: iphoneos-arm
+Description: Word clock + stylish battery indicator
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew24xi
+Author: Evelyn (ev_ynw)
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Section: Lockscreen Widgets

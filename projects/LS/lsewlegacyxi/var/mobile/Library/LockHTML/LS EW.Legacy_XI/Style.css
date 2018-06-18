@@ -1,0 +1,29 @@
+body {
+	margin:0;
+	padding:0;
+	text-shadow:1px 1px 0px rgba(0,0,0, 0.2);
+	font-weight:100;
+  	text-transform:uppercase;
+	font-family:light;
+	color:#f3f3f3;
+	letter-spacing:1;
+}
+
+@font-face{
+  	font-family:bold;
+  	src:url(Stuff/bold.ttf);
+}
+@font-face{
+	font-family:light;
+  	src:url(Stuff/light.ttf);
+}
+
+#Clock{
+  	position:absolute; top:160px; left:0px; width:375px; text-align:center; z-index:80;
+  	font-size:56.25px;
+}
+
+#BatteryLevel{
+  	position:absolute; top:220px; left:0px; width:375px; text-align:center; z-index:80;
+	font-size:12px; font-family:bold;
+}
