@@ -1,0 +1,50 @@
+
+#User Guide# by Evelyn @ev_ynw
+(Please do not take this txt as your own)
+
+
+>> Installation
+LockHTML: /var/mobile/Library/LockHTML
+GroovyLock: /var/mobile/Library/GroovyLock
+SBHTML: /var/mobile/Library/SBHTML
+iWidget: /var/mobile/Library/iWidgets
+
+Requires Infostats2 for battery and RAM components to work.
+Default LockBackground.html uses InfoStats2 for weather info. No configurations needed in Config.js. If you want to use the old weather code route, there is an alt html for that.
+
+
+>> Changing locale for weather components (weather code route)
+2 types of code you can use: 1) zip code; or 2) weather code
+Find your weather code: go to www.weather.com, search for your city, find the code in the address bar. It consists of a string of alphabets & numbers, e.g. HKXX0049
+
+Change the weather code:
+- locate Config.js in the widget folder, open it on PC or iFile
+- under the line “var weathercode = ‘XXX’”, replace the default weather code with your own. Do not remove the quotation marks.
+
+
+>> LS widget position with notifications 
+For widgets with the label (N), there is notification support.
+You need groovyAPI installed. If you’re using Xen HTML, turn on legacy mode to use this function.
+In Config.js, you can find two lines of settings under //Widget position with notifications//.
+
+1. ShiftUp_Notif
+   - This determines the position of the widget (with the exception of battery elements, if any) when notifications are present
+   - To shift the widget up, enter a negative value, e.g. -20
+   - To shift it down, enter a positive value
+
+2. OriginalPos
+   - This allows you to change the widget’s position on y-axis (without notifications) easily
+   - This is of more use to GroovyLock users, since you can't move the widget on the lockscreen freely
+   - You can move up or down most widget elements besides the battery-related ones
+   - Negative value to shift up, positive value to shift down
+
+
+>> Credits
+Original code belongs to Dacal, Junesiphone & Matchstic.
+Big thanks to all.
+
+
+>> Contact me
+Twitter: @ev_ynw
+Reddit: /u/yeahwell_mlgb
+

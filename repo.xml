@@ -6,9 +6,14 @@
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
+			<name>Send me an email</name>
+			<url>mailto:ev.ynam.w@gmail.com</url>
+			<iconclass>fa fa-at</iconclass>
+		</link>
+		<link>
 	    <name>Buy me a coffee/beer</name>
 	    <url>https://www.paypal.me/evynw</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<iconclass>fa fa-paypal</iconclass>
 	  </link>
 	</footerlinks>
 </repo>

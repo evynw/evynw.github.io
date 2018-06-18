@@ -1,0 +1,17 @@
+<package>
+	<id>com.ewynw.repoicons</id>
+	<name>EVELYN's Repo Icons</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.3.3</miniOS>
+			<maxiOS>11.1.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>Replace the "?" in package icon/thumbnails</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>

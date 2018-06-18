@@ -1,0 +1,51 @@
+body {
+	margin:0;
+	padding:0;
+	text-shadow:1px 1px 1px rgba(0,0,0, 0.2);
+	font-weight:100;
+  	text-transform:uppercase;
+	font-family:ps;
+	color:#f3f3f3;
+	letter-spacing:3;
+}
+
+@font-face{
+	font-family:luna;
+	src:url(Stuff/Luna.ttf);
+}
+@font-face{
+	font-family:ps;
+	src:url(Stuff/ProductSans.ttf);
+}
+@font-face{
+	font-family:ram;
+	src:url(Stuff/Rampung.ttf);
+}
+
+
+#R{
+	position:absolute; top:24%; left:40%; width:20%; height:11.25%; z-index:20;
+	background-color:none;
+	outline:2px solid #f3f3f3; box-sizing:border-box;
+	box-shadow:1px 1px 1px rgba(0,0,0, 0.2);
+}
+
+#hour{
+    position:absolute; top:24.5%; left:40.5%; width:10%; text-align:center; z-index:50;
+    font-size:5.4vw; letter-spacing:3;
+}
+
+#minute{
+    position:absolute; top:28%; left:40.5%; width:10%; text-align:center; z-index:50;
+    font-size:5.4vw; letter-spacing:3;
+}
+
+#weekday{
+    position:absolute; top:34%; left:0%; width:100%; text-align:center; z-index:50;
+    font-size:7vw; font-family:luna; 
+}
+
+#Cal{
+    position:absolute; top:41.2%; left:0%; width:100%; text-align:center; z-index:50;
+    font-size:3vw; font-family:ram;
+}

@@ -1,3 +1,10 @@
+body {
+    font-family: 'Karla', sans-serif;
+}
+h5{
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+}
 .disable-hover {
     pointer-events: none;
 }
@@ -6,7 +13,7 @@
     list-style-type: none;
     padding: 17px 15px;
     display: block;
-    color: #c2cdd5 !important;
+    color: #5fddc6 !important;
     text-align: left;
 }
 

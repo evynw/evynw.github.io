@@ -1,6 +1,6 @@
 Package: com.evynw.ew1pagedots
 Name: EW1.PageDots
-Depends: com.anemonetheming.anemone
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Page dots in the shape of X's and O's

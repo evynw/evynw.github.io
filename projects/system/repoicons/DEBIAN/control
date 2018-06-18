@@ -1,0 +1,9 @@
+Package: com.evynw.repoicons
+Name: EVELYN's Repo Icons
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Official Icons for EVELYN's Repo. Icons replacing the ? marks.
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.repoicons
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Author: Evelyn (ev_ynw)
+Section: System
