@@ -116,10 +116,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.lsew1_1.0_iphoneos-arm.deb
-Size: 117286
-MD5sum: 41a480107f733921a12e0065a513ccd5
-SHA1: b45bb5ec51b05904ceffd02ac134512a2165444a
-SHA256: 47a6b5df46fe40fa13d8c10fdc587dd541c585cf65560c93670a3ddfe0b79c04
+Size: 117132
+MD5sum: fbddf8ceede2403228f67a34585b5a6d
+SHA1: ec57ba63ace67e5236ece4940c9b311d1726e45c
+SHA256: 99f41abf1fd0b9e78c9bcc282ea57f2821268dcab42d5b4a72f8038908456c0d
 Section: Lockscreen Widgets
 Description: First ever LS widget. Feelin' nostalgic!
 Author: Evelyn (ev_ynw)
