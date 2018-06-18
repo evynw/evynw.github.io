@@ -1,0 +1,85 @@
+<html><head>
+<title>EW88.iWidget by Evelyn (@ev_ynw)</title>
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" href="Style.css" type="text/css" media="screen"/>
+<script type="text/javascript" charset="utf-8" src="Config.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/jquery.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/main.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/lang.js"></script>
+</head>
+
+<body onload="init()">
+
+<div id="Box1"></div>
+<div id="Box2"></div>
+
+<div id="Clock">
+  <a id="hour"></a>:<a id="minute"></a><a id="ampm" style="display:none;"></a>
+</div>
+<div id="divider">|</div>
+<div id="Cal">
+  <a id="date"></a> <a id="month"></a>
+</div>
+
+<div id="desc">Wthr desc</div>
+<div id="L"></div>
+<img id="weatherIcon" src="Stuff/Plain/28.png"/>
+
+<div id="weekday" style="display:none;"></div>
+
+<script type="text/cycript">
+
+  var $$ = function(el){
+  return document.getElementById(el);
+  }
+
+  var weather = {
+    refreshTime : 10 * 60 * 1000, //10 minutes
+    updateToday: function(){
+    var tempunit = ([IS2Weather isCelsius]) ? "C" : "F";
+      $$('weatherIcon').src = 'Stuff/Plain/' + [IS2Weather currentCondition] + '.png';
+      $$('desc').innerHTML = [IS2Weather currentConditionAsString];
+    },
+    updateWeatherValues: function(){
+      [IS2Weather updateWeather];
+    },
+    updateWeather: function(){
+      setTimeout(weather.updateWeatherValues, weather.refreshTime);
+    },
+    init: function(){
+        [IS2Weather registerForWeatherUpdatesWithIdentifier:"com.evynw.ew88iwgt" andCallback:^ void () {
+          weather.updateWeatherValues();
+          weather.updateToday();
+        }];
+      this.updateWeatherValues();
+      this.updateWeather();
+    },
+    unload: function(){
+      [IS2Weather unregisterForUpdatesWithIdentifier:"com.evynw.ew88iwgt"];
+      return null;
+    }
+  };
+
+weather.init();
+window.onunload = function(){
+  weather.unload();
+}
+</script>
+
+<script>
+(function(){
+    'use strict';
+    if (window.innerWidth === 320) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=0.85, maximum-scale=0.85, user-scalable=0');
+    } else if (window.innerWidth === 414) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=1.104, maximum-scale=1.104, user-scalable=0');
+    } else if (window.innerWidth === 425) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=1.133, maximum-scale=1.133, user-scalable=0');
+    } else if (window.innerWidth === 432) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=1.152, maximum-scale=1.152, user-scalable=0');
+    }
+}());
+</script>
+</body></html>

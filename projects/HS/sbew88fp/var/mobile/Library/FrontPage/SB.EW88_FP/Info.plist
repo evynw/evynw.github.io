@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+      <key>width</key>
+      <string>auto</string>
+      <key>height</key>
+      <string>auto</string>
+      <key>x</key>
+      <string>0</string>
+      <key>y</key>
+      <string>0</string>
+      <key>usessysteminfo</key>
+      <false/>
+      <key>usesbatteryinfo</key>
+      <false/>
+      <key>usesstatusbarinfo</key>
+      <false/>
+      <key>usesswitcherinfo</key>
+      <false/>
+      <key>usesappsinfo</key>
+      <false/>
+      <key>usesnotificationinfo</key>
+      <false/>
+      <key>usesfolderinfo</key>
+      <false/>
+      <key>usesalarminfo</key>
+      <false/>
+      <key>usesweatherinfo</key>
+      <true/>
+      <key>usesmusicinfo</key>
+      <false/>
+</dict>
+</plist>

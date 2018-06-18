@@ -1,0 +1,73 @@
+<html><head>
+<title>SB EW88 by Evelyn (@ev_ynw)</title>
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" href="Style.css" type="text/css" media="screen"/>
+<script type="text/javascript" charset="utf-8" src="Config.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/jquery.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/main.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/lang.js"></script>
+</head>
+
+<body>
+
+<div id="Widget">
+  <div id="Container">
+    <div id="Box1"></div>
+    <div id="Box2"></div>
+
+    <div id="Clock">
+      <a id="hour"></a>:<a id="minute"></a><a id="ampm" style="display:none;"></a>
+    </div>
+    <div id="divider">|</div>
+    <div id="Cal">
+      <a id="date"></a> <a id="month"></a>
+    </div>
+
+    <div id="desc">Wthr desc</div>
+    <div id="L"></div>
+    <img id="weatherIcon" src="Stuff/blank.png"/>
+  </div>
+</div>
+
+<div id="weekday" style="display:none;"></div>
+
+<script type="text/javascript">
+var FPI = {};
+
+function setFPIInfo(info, label, parse){
+  if(parse){
+    FPI[label] = JSON.parse(info);
+  }else{
+    FPI[label] = info;
+  }
+}
+
+function loadWeather(){
+  var tempunit = (FPI.weather.celsius) ? 'C' : 'F';
+
+  document.getElementById('weatherIcon').src = 'Stuff/Plain/' + [FPI.weather.conditionCode] + '.png';
+  document.getElementById('desc').innerHTML = weatherdesc[FPI.weather.conditionCode];
+}
+
+function FPIloaded(){
+  init();
+}
+</script>
+
+<script>
+(function(){
+    'use strict';
+    if (window.innerWidth === 320) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=0.85, maximum-scale=0.85, user-scalable=0');
+    } else if (window.innerWidth === 414) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=1.104, maximum-scale=1.104, user-scalable=0');
+    } else if (window.innerWidth === 425) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=1.133, maximum-scale=1.133, user-scalable=0');
+    } else if (window.innerWidth === 432) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=1.152, maximum-scale=1.152, user-scalable=0');
+    }
+}());
+</script>
+</body></html>

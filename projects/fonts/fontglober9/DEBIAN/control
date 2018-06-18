@@ -1,0 +1,10 @@
+Package: com.evynw.fontglober9
+Name: Glober (iOS9)
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Clean-looking sans-serif. For Anemone.
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontglober9
+Author: Evelyn (ev_ynw)
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Section: Fonts (iOS8/9)

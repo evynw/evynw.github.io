@@ -1,0 +1,58 @@
+body{
+      margin:0;
+      padding:0;
+      font-weight:100;
+      text-shadow:1px 1px 1px rgba(100,100,100,0);
+      font-family:reg;
+      text-transform:uppercase;
+      color:#333;
+      letter-spacing:1;
+      font-size:12.75px;
+}
+
+@font-face{
+      font-family:reg;
+      src:url(Stuff/regular.otf);
+}
+
+#Widget{
+      position:absolute; top:0%; left:0%; width:100%; height:100%; z-index:0;
+      overflow:hidden;
+}
+
+#Container{
+      position:absolute; top:100px; left:0px; width:375px; height:667px; z-index:0;
+}
+
+#Box1{
+      position:absolute; top:0px; left:93.75px; width:187.5px; height:60px; z-index:20;
+      background-color:#f3f3f3; box-shadow:0px 1px 1px rgba(0,0,0,0.3);
+}
+#Box2{
+      position:absolute; top:80px; left:112.5px; width:150px; height:38px; z-index:20;
+      background-color:#f3f3f3; box-shadow:0px 1px 1px rgba(0,0,0,0.3);
+}
+
+#Clock{
+      position:absolute; top:93.43px; left:112.5px; width:75px; text-align:center; z-index:50;
+}
+#divider{
+      position:absolute; top:90.8px; left:0px; width:375px; text-align:center; z-index:50;
+      font-size:14.25px; 
+}
+#Cal{
+      position:absolute; top:93.43px; left:187.5px; width:75px; text-align:center; z-index:50;
+}
+
+#desc{
+      position:absolute; top:13.4px; left:93.75px; width:187.5px; text-align:center; z-index:50;
+}
+#L{
+      position:absolute; top:31.4px; left:112.5px; width:150px; height:1px; z-index:50;
+      background-color:#333;
+}
+#weatherIcon{
+      position:absolute; top:33.4px; left:170.6px; width:33.75px; z-index:50;
+      -webkit-filter:invert(90%);
+}
+

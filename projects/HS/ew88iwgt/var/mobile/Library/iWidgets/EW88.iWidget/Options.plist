@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>default</key>
+		<string>12h</string>
+		<key>label</key>
+		<string>Clock</string>
+		<key>name</key>
+		<string>Clock</string>
+		<key>options</key>
+		<dict>
+			<key>12h</key>
+			<string>12h</string>
+			<key>24h</key>
+			<string>24h</string>
+		</dict>
+		<key>type</key>
+		<string>select</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>English</string>
+		<key>label</key>
+		<string>Language</string>
+		<key>name</key>
+		<string>Lang</string>
+		<key>options</key>
+		<dict>
+			<key>English</key>
+			<string>en</string>
+			<key>Spanish</key>
+			<string>ca</string>
+			<key>French</key>
+			<string>fr</string>
+			<key>German</key>
+			<string>de</string>
+			<key>Italian</key>
+			<string>it</string>
+			<key>Czech</key>
+			<string>cz</string>
+			<key>Russian</key>
+			<string>ru</string>
+			<key>Polish</key>
+			<string>pl</string>
+			<key>Portuguese</key>
+			<string>pt</string>
+			<key>Norweigan</key>
+			<string>no</string>
+			<key>Dutch</key>
+			<string>nl</string>
+			<key>Finnish</key>
+			<string>fi</string>
+			<key>繁體中文</key>
+			<string>zh</string>
+			<key>简体中文</key>
+			<string>cn</string>
+		</dict>
+		<key>type</key>
+		<string>select</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string></string>
+		<key>label</key>
+		<string>▾ No need to configure the following if you use IS2/WidgetInfo for weather ▾</string>
+		<key>name</key>
+		<string>xx</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>'HKXX0075'</string>
+		<key>label</key>
+		<string>Code (weather.com)</string>
+		<key>name</key>
+		<string>weathercode</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>true</string>
+		<key>label</key>
+		<string>Celsius for temp</string>
+		<key>name</key>
+		<string>celsius</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>false</string>
+		<key>label</key>
+		<string>GPS switch</string>
+		<key>name</key>
+		<string>gpsswitch</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>10</string>
+		<key>label</key>
+		<string>Refresh interval for weather</string>
+		<key>name</key>
+		<string>refreshrate</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>PerfectWeather</string>
+		<key>label</key>
+		<string>Weather Icon Set</string>
+		<key>name</key>
+		<string>IconSet</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+</array>
+</plist>
