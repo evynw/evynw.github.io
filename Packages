@@ -5,9 +5,9 @@ Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.anemonetheming.anemone, com.evynw.repoicons
 Filename: ./debs/com.evynw.ew1pagedots_1.0_iphoneos-arm.deb
 Size: 6354
-MD5sum: 64ac4e23acd10ff16600cc54ac4b5f8b
-SHA1: 241cabc31eeaab8f39bf71206a08a8c0fef54d57
-SHA256: 6647e580db7c6b4116670028228d1044a222e94d0fec55089f731cd306c57953
+MD5sum: f9238f9df82dd46a98bd75f333e6e9e1
+SHA1: b53d488199c30086a13c7b51db0588d3e6a7264c
+SHA256: 16407ac79a27f77e862ff59562e26984bd753184617baef118cc415ff6bcf0a1
 Section: Others
 Description: Page dots in the shape of X's and O's
 Author: Evelyn (ev_ynw)
@@ -18,16 +18,33 @@ Package: com.evynw.lsew198
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.lsew198_1.0_iphoneos-arm.deb
-Size: 212102
-MD5sum: 159f23c9561663e1573b3969ec58fe10
-SHA1: 5b2b65b57557e561743659aa568363342903c5ce
-SHA256: 9f6402b70e1dfbb29594c66bf8caa3ceaa7f6040a4c7f4941a5800f480be8ce8
+Size: 106252
+MD5sum: 6c56661f0ec89e11eddd42324cc444fd
+SHA1: 61299ee1f7c082ac6285f7bf9dab8fed18a7a7ab
+SHA256: 36f590a2153fa087277d63396688eedda243c523e8da59265706c8e1ef82801b
 Section: Lockscreen Widgets
 Description: A LS widget from my 3800PACK.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew198
 Name: LS EW198
+
+Package: com.evynw.lsew199
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew199_1.0_iphoneos-arm.deb
+Size: 102472
+MD5sum: 05b63921942bd94b7561ec8101b15a3b
+SHA1: f5519beae43a58e9b759e212920180acb14a4f85
+SHA256: 821677283f518349dcbc1adde016199acdb474eebbae0778820fda9e914dbcac
+Section: Lockscreen Widgets
+Description: A LS widget from my 3800PACK.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew199
+Name: LS EW199
 
 Package: com.evynw.repoicons
 Version: 1.0
@@ -35,9 +52,9 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.repoicons_1.0_iphoneos-arm.deb
 Size: 18848
-MD5sum: 4d1eb773934b4eeebc70dfe76bd050e7
-SHA1: fb336287bc3f04a16aa6dcef193dbcf7067d8979
-SHA256: da273d0e9a4948badaa500de7c55decbeda225a0ef45acff609c603b96eaf4ab
+MD5sum: 3c2150f40b90b86898408cb2263be690
+SHA1: 385289414f632029be17e83501959366a02068fd
+SHA256: f4fe1bbd3e3f519f6b0653f35fbe632bb04c8f47d0e36c0c352c48a20c762393
 Section: System
 Description: Official Icons for EVELYN's Repo. Icons replacing the ? marks.
 Author: Evelyn (ev_ynw)
