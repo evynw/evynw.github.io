@@ -1,6 +1,6 @@
 <package>
-	<id>com.ewynw.sbew88</id>
-	<name>SB EW88</name>
+	<id>com.ewynw.lsew</id>
+	<name>LS EW3</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -12,7 +12,7 @@
 		<package>XenInfo</package>
 	</dependencies>
 	<descriptionlist>
-		<description><![CDATA[<b>Installed to:</b> </ br>/var/mobile/Library/SBHTML <br /> <br />
+		<description><![CDATA[<b>Installed to:</b> </ br>/var/mobile/Library/LockHTML <br /> <br />
                           <b>Apply with Xen HTML</b>]]></description>
 		<description>Optimised for all iOS (including iOS11) &amp; fits all resolutions (including iPX)</description>
 		<description>Requires XenInfo for weather/battery components to work properly</description>
@@ -22,6 +22,7 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
+			<description>Please ignore the demo of notification support - this is an old screenshot and notif support has been removed due to incompatability.</description>
 			<image>ss.png</image>
 		</screenshot>
 	</screenshots>

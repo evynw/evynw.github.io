@@ -1,6 +1,6 @@
 <package>
-	<id>com.ewynw.sbew88</id>
-	<name>SB EW88</name>
+	<id>com.ewynw.lsewbattery</id>
+	<name>LS EW.Battery</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -12,10 +12,10 @@
 		<package>XenInfo</package>
 	</dependencies>
 	<descriptionlist>
-		<description><![CDATA[<b>Installed to:</b> </ br>/var/mobile/Library/SBHTML <br /> <br />
+		<description><![CDATA[<b>Installed to:</b> </ br>/var/mobile/Library/LockHTML <br /> <br />
                           <b>Apply with Xen HTML</b>]]></description>
 		<description>Optimised for all iOS (including iOS11) &amp; fits all resolutions (including iPX)</description>
-		<description>Requires XenInfo for weather/battery components to work properly</description>
+		<description>Requires XenInfo for widget to work properly</description>
 		<description><![CDATA[<b>Need help?</b> <br />
 							Brief instructions contained in the TXT within the widget folder <br />
 							Link to tutorials in my pinned tweet]]></description>
