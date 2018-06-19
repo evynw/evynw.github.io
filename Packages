@@ -30,6 +30,38 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew88iwgt
 Name: EW88.iWidget
 
+Package: com.evynw.fontalrightsans1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontalrightsans1011_1.0_iphoneos-arm.deb
+Size: 17700508
+MD5sum: 1d55dd073c611eb8e1501c1afac2f211
+SHA1: e7013447d4ff9993b87dbf7b5466dd1bccd23d11
+SHA256: 5a5856e48a2f0128d2f978a5f4b008afbeef55b420599ee63ed5ea1a3cd0b2dc
+Section: Anemone Fonts
+Description: Popular sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalrightsans1011
+Name: Alright Sans (iOS10/11)
+
+Package: com.evynw.fontalrightsans9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontalrightsans9_1.0_iphoneos-arm.deb
+Size: 18881330
+MD5sum: 98eab30f0ec2312341838477aa1ef2b5
+SHA1: 95c861408695a38d5f3392e8424cc6fa489982d4
+SHA256: 172b4cf55b7f6929847af205be16087797e27e11a55d646893ccdbf5c05e61a1
+Section: Anemone Fonts
+Description: Popular sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalrightsans9
+Name: Alright Sans (iOS9)
+
 Package: com.evynw.fontbrandontext1011
 Version: 1.0
 Architecture: iphoneos-arm
@@ -45,6 +77,38 @@ Description: Popular sans-serif typeface. For Anemone.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbrandontext1011
 Name: Brandon Text (iOS10/11)
+
+Package: com.evynw.fontcoresansd1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontcoresansd1011_1.0_iphoneos-arm.deb
+Size: 16312962
+MD5sum: aa8f7f9ca3e528d002859810dac9fc21
+SHA1: c96c6e10562ffd7168e39d8051d885b9725ca47d
+SHA256: 69ce1a135daf8374ed138cbf848059ee416464b0733999b617432d95a7a543cb
+Section: Anemone Fonts
+Description: Popular sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcoresansd1011
+Name: Core Sans D (iOS10/11)
+
+Package: com.evynw.fontcoresansd9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontcoresansd9_1.0_iphoneos-arm.deb
+Size: 17095208
+MD5sum: 580fbb6968e0d2a050c7dc2d0ede7e7c
+SHA1: 7ff1d43765f607f8699176a758e64016ce7bb85b
+SHA256: 1f922d611dd4acefc32f95c2d925d1d85d06b09c0db2ea94ce912935e8a0a287
+Section: Anemone Fonts
+Description: Popular sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcoresansd9
+Name: Core Sans D (iOS9)
 
 Package: com.evynw.fontglober1011
 Version: 1.0
@@ -93,6 +157,70 @@ Description: Clean-looking sans-serif. For BytaFont Tweak Mode.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontglobertm
 Name: Glober (TM)
+
+Package: com.evynw.fontintervalsans1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontintervalsans1011_1.0_iphoneos-arm.deb
+Size: 16255718
+MD5sum: 608badc5a0e6ab7692e2cd373ce869f4
+SHA1: d74db0efbc87ac598bca73eb38a899688667a355
+SHA256: 28cf21772a2493fb5f0dbb91a3b60ea127dba136250cab85099596fa3b294c17
+Section: Anemone Fonts
+Description: Popular sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontintervalsans1011
+Name: Interval Sans (iOS10/11)
+
+Package: com.evynw.fontintervalsans9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontintervalsans9_1.0_iphoneos-arm.deb
+Size: 17054438
+MD5sum: b948de5c35c40252b53f8caa2f34ae00
+SHA1: c30e8a3c7fa40188a109fd272c1382d4161e5d2a
+SHA256: 6c58665becac89876b22cf3fdd7b343c005200b56baa36acde27a32f9540e63f
+Section: Anemone Fonts
+Description: Popular sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontintervalsans9
+Name: Interval Sans (iOS9)
+
+Package: com.evynw.fontnovelsans1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontnovelsans1011_1.0_iphoneos-arm.deb
+Size: 15100854
+MD5sum: 1019625602aa3bca8b6751d0d4070f9b
+SHA1: 08721cab7b91790f8fefbf8bcfccdb1602bee0e9
+SHA256: 67622501f8b5edc336ea18a3e0ecd2567bed7715822c397221379e25f9e61f26
+Section: Anemone Fonts
+Description: Popular sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontnovelsans1011
+Name: Novel Sans Rounded (iOS10/11)
+
+Package: com.evynw.fontnovelsans9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontnovelsans9_1.0_iphoneos-arm.deb
+Size: 17124030
+MD5sum: 35c3ad3c05f1238333679e4c7dcd7343
+SHA1: ac9497809aa308f64e587412add7fdf8bb3b3013
+SHA256: 1dd8c03636219e9462374fe3e94eac1d494dbfdf19e95e398edff6013da5c8c2
+Section: Anemone Fonts
+Description: Popular sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontnovelsans9
+Name: Novel Sans Rounded (iOS9)
 
 Package: com.evynw.fontopensans1011
 Version: 1.0
@@ -174,6 +302,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew13xi
 Name: LS EW13_XI
 
+Package: com.evynw.lsew173
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew173_1.0_iphoneos-arm.deb
+Size: 161072
+MD5sum: ad43cb4fd76ee10b4926ee94c7da057a
+SHA1: f1cca9b1188d1fecca8eee8c9805ccd3473cf664
+SHA256: 668bc25f4e205e546c06069410eea53c92fa097c238bfb087aa63f23418755da
+Section: Lockscreen Widgets
+Description: So time-consuming to update & upload all my widgets
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew173
+Name: LS EW173
+
 Package: com.evynw.lsew176
 Version: 1.0
 Architecture: iphoneos-arm
@@ -206,6 +350,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew177
 Name: LS EW177
 
+Package: com.evynw.lsew178xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew178xi_1.0_iphoneos-arm.deb
+Size: 167278
+MD5sum: 2554b73389e27f18ac58c2a0ca0ee374
+SHA1: 059009d72d6c588677369bd81482483d496fc576
+SHA256: 5f23c03c18a9139c173898d72964fe49fd37ac7d921b4fb1d75b526175f89ee4
+Section: Lockscreen Widgets
+Description: iOS11- & iPX-compatible LS widget
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew178xi
+Name: LS EW178_XI
+
 Package: com.evynw.lsew179
 Version: 1.0
 Architecture: iphoneos-arm
@@ -221,6 +381,54 @@ Description: It's a time-consuming task to update & upload all my widgets
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew179
 Name: LS EW179
+
+Package: com.evynw.lsew180xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew180xi_1.0_iphoneos-arm.deb
+Size: 111040
+MD5sum: 04f6a57fd127c7d899811d87ac6d3fac
+SHA1: 86751c45c66003c0258ccc1a6af18f2aa1e2821a
+SHA256: eb138e6d0debabb4e7ca091f9015b25a192a8f434ff2d9fef9f1d872c3120e13
+Section: Lockscreen Widgets
+Description: iOS11- & iPX-compatible LS widget
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew180xi
+Name: LS EW180_XI
+
+Package: com.evynw.lsew181xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew181xi_1.0_iphoneos-arm.deb
+Size: 76694
+MD5sum: 13b69c17138723dc8c62623559c1b41d
+SHA1: f96895a6c484608d5c0537b4be25a1605ebc6304
+SHA256: 4efced9897676c7af2303954fd918d4a36eabfeba18aa7a1844894610e12dd78
+Section: Lockscreen Widgets
+Description: iOS11- & iPX-compatible LS widget
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew181xi
+Name: LS EW181_XI
+
+Package: com.evynw.lsew197
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew197_1.0_iphoneos-arm.deb
+Size: 145826
+MD5sum: 3c627a97ea38d1b32ee06be76238ca55
+SHA1: 7847d754465bece1ef2051434d46da0bddaede1f
+SHA256: 0096ce81ba8c0a45baa7356b4e08e8374ae88b095e319d084e4bebb0f509c799
+Section: Lockscreen Widgets
+Description: So time-consuming to update & upload all my widgets
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew197
+Name: LS EW197
 
 Package: com.evynw.lsew198
 Version: 1.0
@@ -253,6 +461,86 @@ Description: A LS widget from my 3800PACK.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew199
 Name: LS EW199
+
+Package: com.evynw.lsew200xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew200xi_1.0_iphoneos-arm.deb
+Size: 82088
+MD5sum: b4353ba86697c8c7e463420fd88d00b2
+SHA1: 339b444ba51e316f0930cc75004aeb31506ffd6c
+SHA256: e07c3ef89f17f46c31fdc65c7cb46f14bf2df2b948cad837e806312b87ce445c
+Section: Lockscreen Widgets
+Description: iOS11- & iPX-compatible LS widget
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew200xi
+Name: LS EW200_XI
+
+Package: com.evynw.lsew202
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew202_1.0_iphoneos-arm.deb
+Size: 49262
+MD5sum: cdca086fb639ed67ee847a2d1fc172f7
+SHA1: 0ef37f70ca2522a95cd3ec2ba8f7bec6391683e1
+SHA256: 60547d51da826866d09e7f529a57fa2a48e5e6028bfabc39b06ba9bc6320bf18
+Section: Lockscreen Widgets
+Description: So time-consuming to update & upload all my widgets
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew202
+Name: LS EW202
+
+Package: com.evynw.lsew205xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew205xi_1.0_iphoneos-arm.deb
+Size: 153706
+MD5sum: 10a14a9398420646857bb1ed7b20439a
+SHA1: 93d8af820e2dca8b48a67eda062142e26ad2c3ef
+SHA256: f42880e35e7b788f95ce4932389cd970e66a86d9fffac603c738bc976f2be6e7
+Section: Lockscreen Widgets
+Description: iOS11- & iPX-compatible LS widget
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew205xi
+Name: LS EW205_XI
+
+Package: com.evynw.lsew206
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew206_1.0_iphoneos-arm.deb
+Size: 164858
+MD5sum: d279dbcee359797e89e0c295bc28903b
+SHA1: a0f9df4b77439ce81b3502dbd29ef712bb4a17a0
+SHA256: 1d37cd231f5fdb8516ef26482f183bc8df3cb79012d13bf966f35c8f2093cf7d
+Section: Lockscreen Widgets
+Description: So time-consuming to update & upload all my widgets
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew206
+Name: LS EW206
+
+Package: com.evynw.lsew212
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew212_1.0_iphoneos-arm.deb
+Size: 204404
+MD5sum: 12bb2574d314638376ba960e2c5b9d3a
+SHA1: e3bc7b24af6d9bb5f96e2ce865307d4b0e948a2d
+SHA256: fd59bcae78943a1239f9bc4815830fab4245eae8183d81b1d54f09942a758057
+Section: Lockscreen Widgets
+Description: So time-consuming to update & upload all my widgets
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew212
+Name: LS EW212
 
 Package: com.evynw.lsew22xi
 Version: 1.0
@@ -445,6 +733,118 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.repoicons
 Name: EVELYN's Repo Icons
 
+Package: com.evynw.sbew14xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew14xi_1.0_iphoneos-arm.deb
+Size: 295444
+MD5sum: bfed9e086550a51d7ad3ae3846f92013
+SHA1: 72ac934b66a77becde46c2762bf2d61b50079583
+SHA256: 421535b148130b2e63b9e80dbccd4eedfbbfc7c58db796b49ac08fb6513265ce
+Section: Homescreen Widgets
+Description: iOS11- & iPX-compatible SB widget
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew14xi
+Name: SB EW14_XI
+
+Package: com.evynw.sbew15xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew15xi_1.0_iphoneos-arm.deb
+Size: 60602
+MD5sum: bd596fb716e7c00f4b3fe890b81bcf44
+SHA1: ccc349b1d41518e1c9486f21ebf0258b926b4713
+SHA256: b5d9ab10f8b4084eb891ac7cfb510c66277d1ac88bda481f29617fbccfbe75be
+Section: Homescreen Widgets
+Description: iOS11- & iPX-compatible SB widget
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew15xi
+Name: SB EW15_XI
+
+Package: com.evynw.sbew18xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew18xi_1.0_iphoneos-arm.deb
+Size: 320740
+MD5sum: 68a4aea7bd5fcc15ccfb11eda70f38d6
+SHA1: c2c500f749e13aca970e1cece2a6bc38e113a9d9
+SHA256: b9895cacdb1bcb33c5b480d9087ebb5ce713496faf775c28926edc6dba4113fb
+Section: Homescreen Widgets
+Description: iOS11- & iPX-compatible SB widget
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew18xi
+Name: SB EW18_XI
+
+Package: com.evynw.sbew20xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew20xi_1.0_iphoneos-arm.deb
+Size: 62288
+MD5sum: 8714aad70f8f9b120f325c68901285ad
+SHA1: cb7a297d90642d81f0cf9144ce12457fb8e57f52
+SHA256: 5ceb245ba94bb33544c4622ca762c782c19f8aca6ffc3fe1722879852b96eda7
+Section: Homescreen Widgets
+Description: iOS11- & iPX-compatible SB widget
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew20xi
+Name: SB EW20_XI
+
+Package: com.evynw.sbew21xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew21xi_1.0_iphoneos-arm.deb
+Size: 139612
+MD5sum: b0206383780648663d0226ddf53a3421
+SHA1: 075dfd5224175496762548d5fc318730d8e0e5c1
+SHA256: 757b5516a0de123871d8e29c912f763530da72ef45bcdf04d3dd0e6de2fdffc2
+Section: Homescreen Widgets
+Description: iOS11- & iPX-compatible SB widget
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew21xi
+Name: SB EW21_XI
+
+Package: com.evynw.sbew24xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew24xi_1.0_iphoneos-arm.deb
+Size: 125450
+MD5sum: acc1f3bddc7c383aa9e838ddc1ee0876
+SHA1: 942d036ff520f85204653a411bbdf7a882cde9df
+SHA256: 759ae88d36afc2e394ade6348d6da120db33a6b7f43baf78ed91080cf393d40c
+Section: Homescreen Widgets
+Description: iOS11- & iPX-compatible SB widget
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew24xi
+Name: SB EW24_XI
+
+Package: com.evynw.sbew28xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew28xi_1.0_iphoneos-arm.deb
+Size: 105832
+MD5sum: efccf44b20544508cbf84886b8e849f0
+SHA1: 8efaf03e1bef029aa77e828051ce134aa7f6142d
+SHA256: e21af7d2daa885ede1a101235dd5446948d0b4b15dbc21c59410f35361964283
+Section: Homescreen Widgets
+Description: iOS11- & iPX-compatible SB widget
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew28xi
+Name: SB EW28_XI
+
 Package: com.evynw.sbew29ai
 Version: 1.0
 Architecture: iphoneos-arm
@@ -460,6 +860,22 @@ Description: Clock + weather info at screen top
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew29ai
 Name: SB EW29_AneInfo
+
+Package: com.evynw.sbew29xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew29xi_1.0_iphoneos-arm.deb
+Size: 716462
+MD5sum: e8d3d347341fa9121c40d9d3a98df582
+SHA1: 820a70546ae2b61978f13c7a62705c8662e4bdd7
+SHA256: ae0332e08629671350a7128bb1e1b6fb4c1677ca1553a6ad8a9aa83bf82b72c9
+Section: Homescreen Widgets
+Description: iOS11- & iPX-compatible SB widget
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew29xi
+Name: SB EW29_XI
 
 Package: com.evynw.sbew30ai
 Version: 1.0
@@ -477,6 +893,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew30ai
 Name: SB EW30_AneInfo
 
+Package: com.evynw.sbew30xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew30xi_1.0_iphoneos-arm.deb
+Size: 105792
+MD5sum: 8de39f36b8654febcdf83beba2121e42
+SHA1: 9feddc964df9e39915eafbb0a01a8a552a280ad7
+SHA256: 9a00d774f9de2c04252ed836356c1c6b06d040b20f5156f8f77a834be7df617a
+Section: Homescreen Widgets
+Description: iOS11- & iPX-compatible SB widget
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew30xi
+Name: SB EW30_XI
+
 Package: com.evynw.sbew34ai
 Version: 1.0
 Architecture: iphoneos-arm
@@ -492,6 +924,22 @@ Description: AnemoneHTML with clock & weather in a banner
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew34ai
 Name: SB EW34_AneInfo
+
+Package: com.evynw.sbew34xi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew34xi_1.0_iphoneos-arm.deb
+Size: 55514
+MD5sum: 6731e3e2ffdbd295316594593ad66d24
+SHA1: d4a6dd63c10fffb42055d132eadf962e885af5bb
+SHA256: 1b48522dfd4734180d05930da7447cfc9631887eb6d9264e50b7971d03d54201
+Section: Homescreen Widgets
+Description: iOS11- & iPX-compatible SB widget
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew34xi
+Name: SB EW34_XI
 
 Package: com.evynw.sbew88
 Version: 1.0
