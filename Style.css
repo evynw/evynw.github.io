@@ -10,15 +10,15 @@ header {
 }
 
 header .intromsg {
-    padding-top: 60px;
+    padding-top: 30px;
     padding-bottom: 20px;
 }
 
 header img {
     display: block;
     margin: 0 auto 20px;
-    max-width: 26%; left: 37%;
-    margin-top: 5%;
+    max-width: 30%; left: 35%;
+    margin-top: 0%;
 }
 
 header .repo {
@@ -77,11 +77,10 @@ header .btn{
     border: solid 1.5px white;
 }
 
-header .container {
-    padding-top: 60px;
-    display:block;
+footer .footer-above {
+    padding-top: 100px;
+    background-color: none;
 }
-
 .btn-social {
     display: inline-block;
     padding-top:2px;
@@ -93,3 +92,5 @@ header .container {
     font-size: 20px;
     line-height: 45px;
 }
+
+
