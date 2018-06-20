@@ -1,0 +1,27 @@
+<package>
+	<id>com.ewynw.fonttttedstm</id>
+	<name>TT Teds (TM)</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>10.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>BytaFont Tweak Mode</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[<b>Installed to:</b> </ br>/Library/BytaFont/[fontname].font/ <br /> <br />
+                          <b>Apply with BytaFont Tweak Mode</b><br />
+                          6 font weights available]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ss.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>

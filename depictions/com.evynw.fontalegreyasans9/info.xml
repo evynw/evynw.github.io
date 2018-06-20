@@ -1,11 +1,11 @@
 <package>
-	<id>com.ewynw.fontcontesans1011</id>
-	<name>Conte Sans (iOS10/11)</name>
+	<id>com.ewynw.fontalegreyasans9</id>
+	<name>Alegreya Sans (iOS9)</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
-			<maxiOS>11.1.2</maxiOS>
+			<miniOS>9.0</miniOS>
+			<maxiOS>9.3.3</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -15,7 +15,6 @@
 		<description><![CDATA[<b>Installed to:</b> </ br>/Library/Themes/[fontname].theme/ <br /> <br />
                           <b>Apply with Anemone</b><br />
                           Package name = Fonts]]></description>
-        <description>(!) Single-weight</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
