@@ -17,8 +17,8 @@ header .intromsg {
 header img {
     display: block;
     margin: 0 auto 20px;
-    max-width: 30%; left: 35%;
-    margin-top: 0%;
+    max-width: 40%; left: 30%;
+    margin-top: 6%;
 }
 
 header .repo {
@@ -30,8 +30,12 @@ header .repo {
 }
 
 @media (min-width: 768px) {
+    header img {
+        max-width: 30%; left: 35%;
+        margin-top: 6%;
+    }
     header .intromsg {
-        padding-top: 100px;
+        padding-top: 70px;
         padding-bottom: 50px;
     }
 
@@ -77,6 +81,12 @@ header .btn{
     border: solid 1.5px white;
 }
 
+
+footer{
+    padding-top: 100px;
+    background-color: none;
+    height:80px;
+}
 footer .footer-above {
     padding-top: 100px;
     background-color: none;
