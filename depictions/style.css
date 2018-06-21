@@ -11,7 +11,7 @@ h5{
 
 .link-group {
     list-style-type: none;
-    padding: 17px 15px;
+    padding: 22px 15px;
     display: block;
     text-align: left;
 }
@@ -41,4 +41,8 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     font-size: 16px;
     margin-left: 5px;
     margin-right: 10px;
+}
+
+.badge{
+    font-size:0.8em;
 }
