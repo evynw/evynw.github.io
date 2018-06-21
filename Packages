@@ -270,6 +270,38 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew8
 Name: LS EW8
 
+Package: com.evynw.lsewbattery
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsewbattery_1.0_iphoneos-arm.deb
+Size: 88020
+MD5sum: dd264d6ecd43f665ade66c17afca0dab
+SHA1: 713c146b910c65e072b61c9868ce278ada91e99c
+SHA256: c9a845d9490cfd05fbb9834fac5a0534d14bc3ff6ac0fa9eb1dfa96151672931
+Section: Lockscreen Widgets
+Description: Simple battery widget at bottom of screen
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsewbattery
+Name: LS EW.Battery
+
+Package: com.evynw.lsewlegacy
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsewlegacy_1.0_iphoneos-arm.deb
+Size: 76962
+MD5sum: f9e61e2d46d93d844c434da5453191cd
+SHA1: fd73d742f15cf2f177b0cb1772a2cb2937fb5013
+SHA256: 57111e0dcb5526905302ec16db85fbafb4726bd086400d3a5e2f844af33360ed
+Section: Lockscreen Widgets
+Description: Stock-like clock with battery
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsewlegacy
+Name: LS EW.Legacy
+
 Package: com.evynw.repoicons
 Version: 1.0
 Architecture: iphoneos-arm
