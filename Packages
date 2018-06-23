@@ -317,6 +317,54 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.repoicons
 Name: EVELYN's Repo Icons
 
+Package: com.evynw.sbew3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew3_1.0_iphoneos-arm.deb
+Size: 292542
+MD5sum: 208c4e0cbcefb2906afcb719113d1fd7
+SHA1: 4c023d421dcf121563321e5a7f3bf3147c35e0e0
+SHA256: f020ea0b549c870b84d14e84ed25eb4d88eb50f62418d988d7d7071bcdbcf10b
+Section: Homescreen Widgets
+Description: Now compatible across all iOS!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew3
+Name: SB EW3
+
+Package: com.evynw.sbew3nw
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.sbew3nw_1.0_iphoneos-arm.deb
+Size: 54876
+MD5sum: e573195487d8816f4f4c0d860dffb94c
+SHA1: 1dea8242c3f8c08470e4d5a21dd6bedf85d4330b
+SHA256: 0f8dbe829d635e083025c582f69cbdbe66f6f704304e513fa987d58db3d273b3
+Section: Homescreen Widgets
+Description: Now compatible across all iOS!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew3nw
+Name: SB EW3_noWeather
+
+Package: com.evynw.sbew6
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew6_1.0_iphoneos-arm.deb
+Size: 54146
+MD5sum: 31aacfa9aeefff8edfacf4be193f1f90
+SHA1: f2c0707f41b273db3c262ec0565b6a1881bef5c3
+SHA256: 0dbd8c90cdf76b69ea2ef5cd4d375d5da60624c6ccc49252c39fc7525656b5fc
+Section: Homescreen Widgets
+Description: Now compatible across all iOS!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew6
+Name: SB EW6
+
 Package: com.evynw.sbew88
 Version: 1.0
 Architecture: iphoneos-arm
