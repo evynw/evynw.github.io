@@ -126,6 +126,70 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew13
 Name: LS EW13
 
+Package: com.evynw.lsew172
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew172_1.0_iphoneos-arm.deb
+Size: 107438
+MD5sum: 2b29b6924d1e7e3616623accafddbf18
+SHA1: 686be536b447ec9ebb059838d33cadae752d169f
+SHA256: 6b92dc45b579e00cb03136aad7878bbc19f6f4c7233dab4a24319b215134f2b0
+Section: Lockscreen Widgets
+Description: Now compatible across all iOS!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew172
+Name: LS EW172
+
+Package: com.evynw.lsew173
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew173_1.0_iphoneos-arm.deb
+Size: 161054
+MD5sum: 8f48ee802909ef9106b5413809c8801c
+SHA1: af0e6a12dc2e430c3d2de9319831a8eb16bafdf1
+SHA256: 5aa2e12ff3d355dbc1a6d17df36b99887baea9f276588e89638c96927b67e440
+Section: Lockscreen Widgets
+Description: Now compatible across all iOS!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew173
+Name: LS EW173
+
+Package: com.evynw.lsew176
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew176_1.0_iphoneos-arm.deb
+Size: 1429438
+MD5sum: 80d8a0a9f0f4ddfadaaa543dfba76f5d
+SHA1: d6382dfd547dd73612e3229a48c43251a60fec6c
+SHA256: e7b553cbae71aa52be660f75dbf490692db3cae358413dc1e0b23abd39a45e72
+Section: Lockscreen Widgets
+Description: Now compatible across all iOS!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew176
+Name: LS EW176
+
+Package: com.evynw.lsew177
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew177_1.0_iphoneos-arm.deb
+Size: 119842
+MD5sum: 8a8c9770716b5f2d918fbdfee7c5ebc8
+SHA1: a5347e17be8e5eafb74f1d011d6bd83ce60667f2
+SHA256: 0bfa56b44b2631783afa6c855bc4572b7e1c0040cc542c1e37acfd5a8d2699fd
+Section: Lockscreen Widgets
+Description: Now compatible across all iOS!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew177
+Name: LS EW177
+
 Package: com.evynw.lsew198
 Version: 1.0
 Architecture: iphoneos-arm
