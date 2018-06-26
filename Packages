@@ -14,6 +14,150 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1pagedots
 Name: EW1.PageDots
 
+Package: com.evynw.fontalegreyasans1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontalegreyasans1011_1.0_iphoneos-arm.deb
+Size: 8292624
+MD5sum: 3042780ed2da3054f3fd454356bfd397
+SHA1: 40949b2e59780dc79cdc4b39844049a3d8f692cd
+SHA256: e29213295bf0e5771e2371ddbcd90bdc9ea02633d33eca3122d0da8fb1fc33c2
+Section: Anemone Fonts
+Description: Clean & small sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalegreyasans1011
+Name: Alegreya Sans (iOS10/11)
+
+Package: com.evynw.fontalegreyasans9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontalegreyasans9_1.0_iphoneos-arm.deb
+Size: 11786530
+MD5sum: dfe0428c2373a06d857dd307358d8da2
+SHA1: b56b8254070ae8d4ebcdebc02a9e2dd61cde8b8f
+SHA256: 5b865002fc6f4e2cbe043ef0af4efa9cf2c6ed4b9572445cfd03fae25a73a87a
+Section: Anemone Fonts
+Description: Clean & small sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalegreyasans9
+Name: Alegreya Sans (iOS9)
+
+Package: com.evynw.fontbrokman1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontbrokman1011_1.0_iphoneos-arm.deb
+Size: 8411780
+MD5sum: 743ec355c7f330a1905f8ec2e70a3187
+SHA1: d27bf8c01d562a8de27f8cd271362069358661e7
+SHA256: 7a628ec8d7a50c519d33b5ec42d5e176ae315f0b840bfa3867526e50d10e0b05
+Section: Anemone Fonts
+Description: Clean & small sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbrokman1011
+Name: Brokman (iOS10/11)
+
+Package: com.evynw.fontbrokmantm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontbrokmantm_1.0_iphoneos-arm.deb
+Size: 1679644
+MD5sum: c10d227cf4718d1ed383e3eb5ada478a
+SHA1: 9fedef6f5cfabc181340616f62b4cc460ced1191
+SHA256: 20aae52031c993c9ef42f386c4e8feb21c2a1bde87337b0255cc57c5bd54ea0b
+Section: Tweak Mode Fonts
+Description: Clean sans-serif typeface. For BytaFont Tweak Mode.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbrokmantm
+Name: Brokman (TM)
+
+Package: com.evynw.fontcontesans1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontcontesans1011_1.0_iphoneos-arm.deb
+Size: 8264828
+MD5sum: 032ba2de2bd76ff68fb1b4ea38496b9b
+SHA1: bd3d80e995b36f601ce7603e83a030c519e43fa9
+SHA256: 08eaf2f17688349c22dcf57a98c1dc7470b69dd0e819f940cef85e819e27c13d
+Section: Anemone Fonts
+Description: Clean sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesans1011
+Name: Conte Sans (iOS10/11)
+
+Package: com.evynw.fontcontesans9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontcontesans9_1.0_iphoneos-arm.deb
+Size: 11960064
+MD5sum: b9c5064c90934da77e15c36203d38539
+SHA1: 6572be0f1fe954603731561b1ee32f8c1a2220bb
+SHA256: 9ddb81d52c35e0129284aa843702bb621a353bf78bee05464436efc6acc8e902
+Section: Anemone Fonts
+Description: Clean sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesans9
+Name: Conte Sans (iOS9)
+
+Package: com.evynw.fontcontesanstm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontcontesanstm_1.0_iphoneos-arm.deb
+Size: 1660720
+MD5sum: c6d925bc6f826b7e41e4ffeda3af009c
+SHA1: f7674ce48f00cb8127a3ae416304c0b174b76361
+SHA256: ebc223ee5b1fc92128d6fa25bca8836f3249f4fcd0985539c470225ffd40a60f
+Section: Tweak Mode Fonts
+Description: Clean sans-serif typeface. For BytaFont Tweak Mode.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesanstm
+Name: Conte Sans (TM)
+
+Package: com.evynw.fontffstrada1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontffstrada1011_1.0_iphoneos-arm.deb
+Size: 17465068
+MD5sum: fb107d148c82cbc94ce7189315c960b8
+SHA1: 2fbfbf284631751886a243fd0ab5c010ab223cdd
+SHA256: ded22e99d6f5c2b097517b28534e48a2db4e6bebfaeefeced02d24f1e954facf
+Section: Anemone Fonts
+Description: Clean sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffstrada1011
+Name: FF Strada (iOS10/11)
+
+Package: com.evynw.fontffstrada9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontffstrada9_1.0_iphoneos-arm.deb
+Size: 20452062
+MD5sum: 413dd5e2949d2555654a13dd27bdb7d7
+SHA1: 1abc8234f13de175db8cf3c21e99245750ca7ef8
+SHA256: f588820b007c9c714b71dcb5dae40b4f86689564b18660f7e754e45749d8b462
+Section: Anemone Fonts
+Description: Clean sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffstrada9
+Name: FF Strada (iOS9)
+
 Package: com.evynw.fontglober1011
 Version: 1.0
 Architecture: iphoneos-arm
