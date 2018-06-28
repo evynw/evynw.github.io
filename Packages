@@ -398,6 +398,38 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew212
 Name: LS EW212
 
+Package: com.evynw.lsew22
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew22_1.0_iphoneos-arm.deb
+Size: 74350
+MD5sum: 5e2fdb5bc108d316a7f9ffcf14f047f6
+SHA1: 54c54d9fb72f2d3d2f640b68940a7e3016bf09c3
+SHA256: 01c99d4e2e4d69042d024b1b0b6a3fb00d6a6ccb0cf3d9c1cb35794eb8b57e1b
+Section: Lockscreen Widgets
+Description: Now compatible across all iOS!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew22
+Name: LS EW22
+
+Package: com.evynw.lsew24
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew24_1.0_iphoneos-arm.deb
+Size: 82212
+MD5sum: e3e865aaa1997d522864523d755804b3
+SHA1: 6fe33d3bc7aa35eef2f8915bc5713222a7161dac
+SHA256: 707d0ec7efaab7a91fefb64b461c565bbfb9cd73054a2d349a3785c9a536ca68
+Section: Lockscreen Widgets
+Description: Now compatible across all iOS!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew24
+Name: LS EW24
+
 Package: com.evynw.lsew3
 Version: 1.0
 Architecture: iphoneos-arm
@@ -525,6 +557,38 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.repoicons
 Name: EVELYN's Repo Icons
 
+Package: com.evynw.sbew11
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew11_1.0_iphoneos-arm.deb
+Size: 113478
+MD5sum: 9fbd00e2ff18875483fceac4054bdc66
+SHA1: 63939468d2d65711d9ec7a6e367f1845185cf56d
+SHA256: f4c0ea98b036d883db06499376106f50b505740c098927ce6631da16b362eac2
+Section: Homescreen Widgets
+Description: Now compatible across all iOS!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew11
+Name: SB EW11
+
+Package: com.evynw.sbew12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.sbew12_1.0_iphoneos-arm.deb
+Size: 47422
+MD5sum: f1c2b81c2edb5b9d888b8987835405c4
+SHA1: 4a309c2542cd622eacc7891e9b63b22ed00a4120
+SHA256: 999c1de74136c274e1579833d5048030f6babe5aaaaf9ee0bb8a98fbcad250a6
+Section: Homescreen Widgets
+Description: Now compatible across all iOS!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew12
+Name: SB EW12
+
 Package: com.evynw.sbew3
 Version: 1.0
 Architecture: iphoneos-arm
@@ -573,6 +637,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew6
 Name: SB EW6
 
+Package: com.evynw.sbew8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew8_1.0_iphoneos-arm.deb
+Size: 363004
+MD5sum: e5c972d926627cdc9522b6b4b5cbe031
+SHA1: 0ffc52deef0ab817132ba115ba614525ea5bf5ff
+SHA256: d0e816b5fa9d0bd481795e2c1f709d59ed646841bf5ee3c5d353809e19c9ee5f
+Section: Homescreen Widgets
+Description: Now compatible across all iOS!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew8
+Name: SB EW8
+
 Package: com.evynw.sbew88
 Version: 1.0
 Architecture: iphoneos-arm
@@ -588,4 +668,20 @@ Description: Originally from 3800PACK
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew88
 Name: SB EW88
+
+Package: com.evynw.sbew9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew9_1.0_iphoneos-arm.deb
+Size: 113068
+MD5sum: 61f879a1cb811b18e3090d7abb7a79cc
+SHA1: 5ca048e862e6707dfb379e5f510031be6a2334df
+SHA256: 86374924fc0a33880288196444d0664e2db3bda86429603b86a086beacd3f1b7
+Section: Homescreen Widgets
+Description: Now compatible across all iOS!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew9
+Name: SB EW9
 
