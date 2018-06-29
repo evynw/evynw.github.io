@@ -415,15 +415,15 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew22
 Name: LS EW22
 
 Package: com.evynw.lsew24
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.lsew24_1.0_iphoneos-arm.deb
-Size: 82212
-MD5sum: e3e865aaa1997d522864523d755804b3
-SHA1: 6fe33d3bc7aa35eef2f8915bc5713222a7161dac
-SHA256: 707d0ec7efaab7a91fefb64b461c565bbfb9cd73054a2d349a3785c9a536ca68
+Filename: ./debs/com.evynw.lsew24_1.0-1_iphoneos-arm.deb
+Size: 78908
+MD5sum: eb41e7cc9d12f2b2c73949e1b86a480b
+SHA1: 58beef6d020c6460b3b8029591c5f6d71b5b7b08
+SHA256: b03f0980fb1e7150b4b014a018ee78314e420144f0a127f6ec24496718cad46e
 Section: Lockscreen Widgets
 Description: Now compatible across all iOS!
 Author: Evelyn (ev_ynw)

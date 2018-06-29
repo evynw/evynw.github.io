@@ -1,7 +1,7 @@
 <package>
 	<id>com.ewynw.lsew24</id>
 	<name>LS EW24</name>
-	<version>1.0</version>
+	<version>1.0-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -26,6 +26,6 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Fixed issue of minute text not showing</change>
 	</changelog>
 </package>

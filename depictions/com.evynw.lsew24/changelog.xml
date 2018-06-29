@@ -1,5 +1,7 @@
 <changelog>
 	<changes>
+		<version>1.0-1</version>
+		<change>Fixed issue of minute text not showing</change>
 		<version>1.0</version>
 		<change>Initial Release</change>
 	</changes>
