@@ -989,6 +989,70 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew13
 Name: SB EW13
 
+Package: com.evynw.sbew14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew14_1.0_iphoneos-arm.deb
+Size: 295412
+MD5sum: 074cfded355abd36d465e94369010811
+SHA1: d6375576529c0d1243de4f74a9b469b9d09864d7
+SHA256: 82e74c2307a794e86203ccd9d9ec8fa26c659ae664900f942eb4ffa26278d105
+Section: Homescreen Widgets
+Description: Now compatible across all iOS!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew14
+Name: SB EW14
+
+Package: com.evynw.sbew15
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew15_1.0_iphoneos-arm.deb
+Size: 60588
+MD5sum: d6e21c40adeeb8ac94c26070c7302e43
+SHA1: 2b494983bcfcf669efe0656845970d7913090818
+SHA256: 1dd0719dafcc0be1ec2ce94860b70c36248030d427d5bd40c6e786a28c122f64
+Section: Homescreen Widgets
+Description: Now compatible across all iOS!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew15
+Name: SB EW15
+
+Package: com.evynw.sbew18
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew18_1.0_iphoneos-arm.deb
+Size: 320720
+MD5sum: 9a47ab181c30ea90c67880d6ad4a81ae
+SHA1: a269bcb510cd0e2d2b8e5084b1e18f87e59f4c27
+SHA256: 139a5089a31cee1e53f3770adb3a384a943e09b40bf4e62f34f0801ad7b355e8
+Section: Homescreen Widgets
+Description: Now compatible across all iOS!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew18
+Name: SB EW18
+
+Package: com.evynw.sbew20
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew20_1.0_iphoneos-arm.deb
+Size: 62270
+MD5sum: ff8ba7ebf06d9a1647ee3c46049caa2e
+SHA1: 81c5ed885de7f251e8f399897d86b99b1a7727d4
+SHA256: 5fb31cbf82172cac9ee75fd6f0bc8babe06def98a8988061fa7c29d21d1b2c94
+Section: Homescreen Widgets
+Description: Now compatible across all iOS!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew20
+Name: SB EW20
+
 Package: com.evynw.sbew3
 Version: 1.0
 Architecture: iphoneos-arm
