@@ -1117,6 +1117,38 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew20
 Name: SB EW20
 
+Package: com.evynw.sbew28
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew28_1.0_iphoneos-arm.deb
+Size: 105834
+MD5sum: e35b1846120ebbd068bb37984a8aed06
+SHA1: 09da9be7e19db8f2ba690576f8331560e5a2850d
+SHA256: 14512199d6305692f938e7c952f4b377a2462b319821ca49c09487afa05a7fb8
+Section: Homescreen Widgets
+Description: A widget. Like what else do you think this is?
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew28
+Name: SB EW28
+
+Package: com.evynw.sbew29
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew29_1.0_iphoneos-arm.deb
+Size: 716376
+MD5sum: fb3f39dcab9fa891b903330b643cbb6d
+SHA1: 4026d9c62d4a53d1bbaee1e711fa827e6f8a8ef1
+SHA256: af78771e17d48199b6dd5d8636b77b4d8597c626a28a5926f95f2a23860962c0
+Section: Homescreen Widgets
+Description: A widget. Like what else do you think this is?
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew29
+Name: SB EW29
+
 Package: com.evynw.sbew3
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1132,6 +1164,38 @@ Description: Now compatible across all iOS!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew3
 Name: SB EW3
+
+Package: com.evynw.sbew30
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew30_1.0_iphoneos-arm.deb
+Size: 105788
+MD5sum: 0bf5765b1217503d3b0eb6a3c826f923
+SHA1: 19c64aed438486d874af50f770ebdeb34187b2ad
+SHA256: 2acd83db429336d5be28ebf54a4115b121ff78f44652cb8b32f86d82904c32aa
+Section: Homescreen Widgets
+Description: A widget. Like what else do you think this is?
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew30
+Name: SB EW30
+
+Package: com.evynw.sbew34
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew34_1.0_iphoneos-arm.deb
+Size: 55522
+MD5sum: ccce2708e064a8d61cd9c1d73f83859e
+SHA1: 2b4ea4b2c92917209f22d08668e43d9417a2afa1
+SHA256: 5326b751d3577707938658caa556becadd4433469abb731d6351c92f625cb63f
+Section: Homescreen Widgets
+Description: A widget. Like what else do you think this is?
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew34
+Name: SB EW34
 
 Package: com.evynw.sbew3nw
 Version: 1.0
