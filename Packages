@@ -590,6 +590,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew13
 Name: LS EW13
 
+Package: com.evynw.lsew16
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew16_1.0_iphoneos-arm.deb
+Size: 91804
+MD5sum: c4420e0ccb787bf021b5847828be42d8
+SHA1: dfa83fa738fb8e8df8944e725c80e1418143fa7a
+SHA256: c482938fdc5eefaf5f48b7426de092f6c927e3f401d358d444564f956ae4b3d4
+Section: Lockscreen Widgets
+Description: Old but gold!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew16
+Name: LS EW16
+
 Package: com.evynw.lsew172
 Version: 1.0
 Architecture: iphoneos-arm
@@ -814,6 +830,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew205
 Name: LS EW205
 
+Package: com.evynw.lsew21
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew21_1.0_iphoneos-arm.deb
+Size: 51776
+MD5sum: 1283e8d10c359422ea7cc2d0091d4893
+SHA1: 47d0db605eda8548128f2d0698db1afb16fa6d33
+SHA256: 91563b5ad731c39aae86f654ac0b736034066148c30558852ff48004f72f91c2
+Section: Lockscreen Widgets
+Description: Old but gold!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew21
+Name: LS EW21
+
 Package: com.evynw.lsew212
 Version: 1.0
 Architecture: iphoneos-arm
@@ -862,6 +894,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew24
 Name: LS EW24
 
+Package: com.evynw.lsew27
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew27_1.0_iphoneos-arm.deb
+Size: 83208
+MD5sum: 3a83c5011f782d0f1685c6aa0c34c578
+SHA1: 1a2e7040f07e43a4295f908072fee28aa8167e72
+SHA256: 1d895fee47be5c4c93bfea0204bca334aaea6214dd035b53f43e5468955043e4
+Section: Lockscreen Widgets
+Description: A widget. Like what else do you think this is? lol
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew27
+Name: LS EW27
+
 Package: com.evynw.lsew3
 Version: 1.0
 Architecture: iphoneos-arm
@@ -877,6 +925,22 @@ Description: Now compatible across all iOS!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew3
 Name: LS EW3
+
+Package: com.evynw.lsew35
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew35_1.0_iphoneos-arm.deb
+Size: 75752
+MD5sum: ce4f640d7bd84ca2504db20469b80b60
+SHA1: a913793ded04d19ff6ce11cd1b66dfc84a955db4
+SHA256: 8e01b31292ae181fa952da5e8e4561b736881342a85288c924ef0404a23e38f8
+Section: Lockscreen Widgets
+Description: A widget. Like what else do you think this is? lol
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew35
+Name: LS EW35
 
 Package: com.evynw.lsew4
 Version: 1.0
