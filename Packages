@@ -431,15 +431,15 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontnovelsanstm
 Name: Novel Sans Rounded (TM)
 
 Package: com.evynw.fontopensans1011
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.anemonetheming.anemone, com.evynw.repoicons
-Filename: ./debs/com.evynw.fontopensans1011_1.0_iphoneos-arm.deb
-Size: 13631234
-MD5sum: 800ebca44023a9cff94e5f0945295508
-SHA1: 11990ecc6083cc3be06ceec864a79fe7b854291d
-SHA256: 25baf8a098584daa5849be0c18196c1f24d84d0f6740784d1ce2b2dd0d51ef66
+Filename: ./debs/com.evynw.fontopensans1011_1.0-1_iphoneos-arm.deb
+Size: 13631982
+MD5sum: 5e9d698ebbef9307f3613f5c73e213d3
+SHA1: eea0b04a21a1f9b61fc013d21d83cd524c3dfdb7
+SHA256: 48d4077c5a11b91b427967d570286b6bc3ebfebc34bd03c725c4377ca14bdda2
 Section: Anemone Fonts
 Description: Classic sans-serif. For Anemone.
 Author: Evelyn (ev_ynw)

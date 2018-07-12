@@ -1,7 +1,7 @@
 <package>
 	<id>com.ewynw.sbew24</id>
 	<name>SB EW24</name>
-	<version>1.0</version>
+	<version>1.0-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
