@@ -94,6 +94,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalrightsanstm
 Name: Alright Sans (TM)
 
+Package: com.evynw.fontavenir1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontavenir1011_1.0_iphoneos-arm.deb
+Size: 17613620
+MD5sum: 36a8ce9af106c2087af0860f1cc5b0dc
+SHA1: 721f2a7418e1ef6e0f9be856eb458be73aff78ae
+SHA256: 11a08c18b3081aa9cfa5ff15166426d8acae19a08aa4c5913fcb3168dff962e6
+Section: Anemone Fonts
+Description: Classic sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontavenir1011
+Name: Avenir Next (iOS10/11)
+
 Package: com.evynw.fontbrandontext1011
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1395,12 +1411,12 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons, com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.sbew9_1.0_iphoneos-arm.deb
-Size: 113068
-MD5sum: 61f879a1cb811b18e3090d7abb7a79cc
-SHA1: 5ca048e862e6707dfb379e5f510031be6a2334df
-SHA256: 86374924fc0a33880288196444d0664e2db3bda86429603b86a086beacd3f1b7
+Size: 112254
+MD5sum: 2c5d2ad9771cc11cb3a55d8312b936fc
+SHA1: c1a33aff20b17f48b659919dbe257a7f69c1446c
+SHA256: 246a62ba2e7e025a80eaee063e303f98ccfda024ecdead8713439231f9fedfac
 Section: Homescreen Widgets
-Description: Now compatible across all iOS!
+Description: A widget. Like what else do you think this is lol.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew9
 Name: SB EW9
