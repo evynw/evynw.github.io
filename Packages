@@ -1230,15 +1230,15 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew21
 Name: SB EW21
 
 Package: com.evynw.sbew24
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.sbew24_1.0_iphoneos-arm.deb
-Size: 125440
-MD5sum: eedfc406942fbec48d573eeaf6ed387d
-SHA1: a3581056d93fc98abbeefdade1b1a26daac3d712
-SHA256: 3bd7a3266acd37d071e56cd07d4cf33d2fb8553241c4e864b094ea4a451532ef
+Filename: ./debs/com.evynw.sbew24_1.0-1.iphoneos-arm.deb
+Size: 125464
+MD5sum: 2957291c03be59e45e32c94323b62add
+SHA1: fc18ca5579e090f2c61e8b2d1c09b836f66ff29e
+SHA256: 020615724a7f6f0685bb98a5dd670464a5b210a8aea5c1fc2cb032c55fbb30e4
 Section: Homescreen Widgets
 Description: A widget. Like what else do you think this is?
 Author: Evelyn (ev_ynw)
