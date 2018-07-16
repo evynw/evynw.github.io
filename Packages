@@ -14,6 +14,38 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1pagedots
 Name: EW1.PageDots
 
+Package: com.evynw.ewwdgtpack12
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.ewwdgtpack12_2.0_iphoneos-arm.deb
+Size: 2747762
+MD5sum: 625115a21dd484a8685526785943642f
+SHA1: 6b3f590b19266cc7ba19e95a53aeda48b8210e68
+SHA256: 6dcb957e70f4bfc25576691e31e8d32e82214c20aa6e63567742985112750730
+Section: Lockscreen Widgets
+Description: iOS11-compatible widget pack. Finally have time to update!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack12
+Name: EW.WdgtPack.12
+
+Package: com.evynw.ewwdgtpack14
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.ewwdgtpack14_2.0_iphoneos-arm.deb
+Size: 2770648
+MD5sum: f8ed8032a2dfe48addab6163b406293d
+SHA1: 7243195f86defe6a93575f5f9945bbde46279388
+SHA256: bdfbc11b4f1109bb0e1f913db8ba344c5043016eef1a334956f23fe9206777c5
+Section: Lockscreen Widgets
+Description: iOS11-compatible widget pack. Finally have time to update!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack14
+Name: EW.WdgtPack.14
+
 Package: com.evynw.fontalegreyasans1011
 Version: 1.0
 Architecture: iphoneos-arm
