@@ -1229,6 +1229,38 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew15
 Name: SB EW15
 
+Package: com.evynw.sbew16
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.sbew16_1.0_iphoneos-arm.deb
+Size: 40062
+MD5sum: 0f1e6313c349cb73abf03c5951ae8db7
+SHA1: 4d90a2785487ed48e1990fd0a81839ccebdf5945
+SHA256: 24bead5d46d5fec0a4eb88d9bc41ace2d0fbdc41b9ff34dfa879845733d7e38f
+Section: Homescreen Widgets
+Description: Simple clock widget
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew16
+Name: SB EW16
+
+Package: com.evynw.sbew17
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.sbew17_1.0_iphoneos-arm.deb
+Size: 230738
+MD5sum: 8d8a60d5bb041f5019294fd67917ec70
+SHA1: 08a318736b43900fb5a4e4900159a45052ee2539
+SHA256: aac99eb2cf2e9c35061247503d9578a4b1f342aa08d28def694b6939c99f6a72
+Section: Homescreen Widgets
+Description: Analog clock & date
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew17
+Name: SB EW17
+
 Package: com.evynw.sbew18
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1420,6 +1452,22 @@ Description: Now compatible across all iOS!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew3nw
 Name: SB EW3_noWeather
+
+Package: com.evynw.sbew48
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.sbew48_1.0_iphoneos-arm.deb
+Size: 720458
+MD5sum: 1e006561a022a0b74306adc6f06acb02
+SHA1: f2954e74f8615f4581c77d479fa178edd254a371
+SHA256: c79199f71d13ef3216c1339fa0af4784d9d8246a538420c0042f0e5d9cf3eafc
+Section: Homescreen Widgets
+Description: Seems quite popular previously, I dunno
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew48
+Name: SB EW48
 
 Package: com.evynw.sbew6
 Version: 1.0
