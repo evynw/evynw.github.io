@@ -15,15 +15,15 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1pagedots
 Name: EW1.PageDots
 
 Package: com.evynw.ewwdgtpack12
-Version: 2.0
+Version: 2.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.ewwdgtpack12_2.0_iphoneos-arm.deb
-Size: 2747762
-MD5sum: 625115a21dd484a8685526785943642f
-SHA1: 6b3f590b19266cc7ba19e95a53aeda48b8210e68
-SHA256: 6dcb957e70f4bfc25576691e31e8d32e82214c20aa6e63567742985112750730
+Filename: ./debs/com.evynw.ewwdgtpack12_2.0-1_iphoneos-arm.deb
+Size: 2747800
+MD5sum: e4ce20b3e4a1d9f4b025a7ae382a5c88
+SHA1: a5fe6cee52214a86f6c55da4c5ff38ebb57223a4
+SHA256: 722f5317c4e3a77e9ab57a2a3d6958d54a6abd9ff129c2639cce89a6727ae0fc
 Section: Lockscreen Widgets
 Description: iOS11-compatible widget pack. Finally have time to update!
 Author: Evelyn (ev_ynw)
