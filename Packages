@@ -15,33 +15,33 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1pagedots
 Name: EW1.PageDots
 
 Package: com.evynw.ewwdgtpack12
-Version: 2.0-1
+Version: 2.0-2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.ewwdgtpack12_2.0-1_iphoneos-arm.deb
-Size: 2747800
-MD5sum: e4ce20b3e4a1d9f4b025a7ae382a5c88
-SHA1: a5fe6cee52214a86f6c55da4c5ff38ebb57223a4
-SHA256: 722f5317c4e3a77e9ab57a2a3d6958d54a6abd9ff129c2639cce89a6727ae0fc
+Filename: ./debs/com.evynw.ewwdgtpack12_2.0-2_iphoneos-arm.deb
+Size: 2749346
+MD5sum: 171b30db961d6aff6958872d976dae5f
+SHA1: b217e877d9617e543ee02953325f8a11bd3fe8e0
+SHA256: 1b558d26f9816369dc94fd039b41f04694aacd0e91f009bc714c19aabec0b564
 Section: Lockscreen Widgets
-Description: iOS11-compatible widget pack. Finally have time to update!
+Description: iOS11-compatible widget pack. I'm working hard T^T
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack12
 Name: EW.WdgtPack.12
 
 Package: com.evynw.ewwdgtpack14
-Version: 2.0
+Version: 2.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.ewwdgtpack14_2.0_iphoneos-arm.deb
-Size: 2770648
-MD5sum: f8ed8032a2dfe48addab6163b406293d
-SHA1: 7243195f86defe6a93575f5f9945bbde46279388
-SHA256: bdfbc11b4f1109bb0e1f913db8ba344c5043016eef1a334956f23fe9206777c5
+Filename: ./debs/com.evynw.ewwdgtpack14_2.0-1_iphoneos-arm.deb
+Size: 2770668
+MD5sum: 1767da35a38db927181bef9b089d4467
+SHA1: f9cd3619c19a174ca7251700efec774ede07ce16
+SHA256: 61a5d242d7eaa064ff41699afb277fce946d75180dbdfa07cff20a0aef67504d
 Section: Lockscreen Widgets
-Description: iOS11-compatible widget pack. Finally have time to update!
+Description: iOS11-compatible widget pack. I'm working hard T^T
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack14
 Name: EW.WdgtPack.14
@@ -1454,15 +1454,15 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew3nw
 Name: SB EW3_noWeather
 
 Package: com.evynw.sbew48
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
-Filename: ./debs/com.evynw.sbew48_1.0_iphoneos-arm.deb
-Size: 720458
-MD5sum: 1e006561a022a0b74306adc6f06acb02
-SHA1: f2954e74f8615f4581c77d479fa178edd254a371
-SHA256: c79199f71d13ef3216c1339fa0af4784d9d8246a538420c0042f0e5d9cf3eafc
+Filename: ./debs/com.evynw.sbew48_1.0-1_iphoneos-arm.deb
+Size: 720462
+MD5sum: 748725cf5d115e491d937e894688bd80
+SHA1: 4eb8a9f0a3c4eac38403e7bf4fbd46cabc6df190
+SHA256: bf42f58b207eb82b0a52474e4583b2c421fbc79a47257d86ed0c71c89bf74fb9
 Section: Homescreen Widgets
 Description: Seems quite popular previously, I dunno
 Author: Evelyn (ev_ynw)

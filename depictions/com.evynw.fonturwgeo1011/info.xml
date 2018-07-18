@@ -1,0 +1,27 @@
+<package>
+	<id>com.ewynw.fonturwgeo1011</id>
+	<name>URW Geometric (iOS10/11)</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Anemone</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[<b>Installed to:</b> </ br>/Library/Themes/[fontname].theme/ <br /> <br />
+                          <b>Apply with Anemone</b><br />
+                          Package name = Fonts]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ss.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>

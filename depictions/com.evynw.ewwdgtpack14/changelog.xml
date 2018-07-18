@@ -1,6 +1,9 @@
 <changelog>
 	<changes>
+		<version>2.0-1</version>
+		<change>Fixed distortion if used in landscape</change>
+	</changes>
+	<changes>
 		<version>2.0</version>
 		<change>Updated for full compatibility</change>
-	</changes>
-</changelog>
+	</changes></changelog>
