@@ -20,10 +20,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons, com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.ewwdgtpack10_2.0-1_iphoneos-arm.deb
-Size: 1066126
-MD5sum: c4b1ebdc9dde2f17afb8fdc7a391fec4
-SHA1: b6da2484875d127aa0b9e81fbe9155f4c21e4009
-SHA256: 5bd45f2c9012f98dd13e79056037f2c16c16c7b9b25e21be6894fe3f3fe5eab3
+Size: 1066100
+MD5sum: 5acf03a022c8e69067febbe82751adcc
+SHA1: 4389f60b9c08cd6267c1cdf7793ac3d100981d75
+SHA256: 4e111f3bca3f7425ca5d76af6293280105b89806c3b70df10d27fa996ac109c5
 Section: Lockscreen Widgets
 Description: iOS11-compatible widget pack. I'm working hard T^T
 Author: Evelyn (ev_ynw)
