@@ -39,6 +39,6 @@
 	</screenshots>
 	<changelog>
 		<change>SB1: Fixed temp unit issue</change>
-		<change>SB2: Fixed battery & ram not showing</change>
+		<change>SB2: Fixed battery and ram not showing</change>
 	</changelog>
 </package>
