@@ -21,9 +21,9 @@ Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons, com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.ewwdgtpack10_2.0-1_iphoneos-arm.deb
 Size: 1066100
-MD5sum: 5acf03a022c8e69067febbe82751adcc
-SHA1: 4389f60b9c08cd6267c1cdf7793ac3d100981d75
-SHA256: 4e111f3bca3f7425ca5d76af6293280105b89806c3b70df10d27fa996ac109c5
+MD5sum: f50f6d3d803dae6c6def907bc9f53df9
+SHA1: a5cc05f4ead88f49df1696a97a43cb796a9201ea
+SHA256: a4e0ab878ab2a47d853979ec7f4b145aa8fe843d9064264f39889083fa6f5a5e
 Section: Lockscreen Widgets
 Description: iOS11-compatible widget pack. I'm working hard T^T
 Author: Evelyn (ev_ynw)
@@ -270,6 +270,38 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesanstm
 Name: Conte Sans (TM)
 
+Package: com.evynw.fontcoresansar1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontcoresansar1011_1.0_iphoneos-arm.deb
+Size: 15403732
+MD5sum: 804f011454ef65f1c8f74929be83d5cb
+SHA1: 3b23f693282626bce34b9508d9ee57f7eaab2824
+SHA256: cf4d57274215649a46b588010a41af4933ec7e1299862c87af89dab020f29ffa
+Section: Anemone Fonts
+Description: Slightly-rounded sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcoresansar1011
+Name: Core Sans AR (iOS10/11)
+
+Package: com.evynw.fontcoresansar9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontcoresansar9_1.0_iphoneos-arm.deb
+Size: 17023888
+MD5sum: d30cd84dcb5ec36653aedc4b16952f7d
+SHA1: 4dc00940273c1a04e4d97e7b162b95a9f65e0742
+SHA256: 40b9aabc282a679caf2c577946f675745c1147b27f459b9226f74bd81ee2e6c7
+Section: Anemone Fonts
+Description: Slightly-rounded sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcoresansar9
+Name: Core Sans AR (iOS9)
+
 Package: com.evynw.fontcoresansd1011
 Version: 1.0
 Architecture: iphoneos-arm
@@ -494,6 +526,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontopensans1011
 Name: Open Sans (iOS10/11)
 
+Package: com.evynw.fontsfpro1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontsfpro1011_1.0_iphoneos-arm.deb
+Size: 1186598
+MD5sum: a86b052b7ba1b4e45b93ba2f35aaee8b
+SHA1: 143ad382f1277d24cd5510cef643b93b900ad42c
+SHA256: 5dc788d65f64981f9bf078108d4adbcb49d7152df843609fede7ca463ecd1cfe
+Section: Anemone Fonts
+Description: Font in Notebook app applied system-wide
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsfpro1011
+Name: SF Pro Alt (iOS10/11)
+
 Package: com.evynw.fontttteds1011
 Version: 1.0
 Architecture: iphoneos-arm
@@ -541,6 +589,38 @@ Description: Clean & narrow sans-serif typeface. For BytaFont Tweak Mode.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonttttedstm
 Name: TT Teds (TM)
+
+Package: com.evynw.fonturwgeo1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fonturwgeo1011_1.0_iphoneos-arm.deb
+Size: 16939330
+MD5sum: 3ac0b7af66d25a7663a62a32705e5e3b
+SHA1: 649240ee9a50b817deac46c8a036eb30eb9c5ba7
+SHA256: 4214d573e4e7ce48ecb0ef7d3526b7a27be3edb2ba207ad298ed0309ef3f1ca0
+Section: Anemone Fonts
+Description: Easy-on-the-eyes sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonturwgeo1011
+Name: URW Geometric (iOS10/11)
+
+Package: com.evynw.fonturwgeotm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fonturwgeotm_1.0_iphoneos-arm.deb
+Size: 1614330
+MD5sum: 8e5e5372c348aaacd7559635c22ec491
+SHA1: 4ca05827e0a7d69f32e64792b0e17696f1f3df6c
+SHA256: d4a333cece723521571164f4aa48f7ca3437a2cc4ffb54ccd3e3b326911b3abf
+Section: Tweak Mode Fonts
+Description: Easy-on-the-eye sans-serif typeface. For BytaFont Tweak Mode.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonturwgeotm
+Name: URW Geometric (TM)
 
 Package: com.evynw.fontvito1011
 Version: 1.0
