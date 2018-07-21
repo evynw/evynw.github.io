@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0-1</version>
+		<change>Fixed temp unit issue</change>
+	</changes>
+	<changes>
 		<version>1.0</version>
 		<change>Initial Release</change>
 	</changes>

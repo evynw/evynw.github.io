@@ -1,7 +1,7 @@
 <package>
 	<id>com.evynw.ewwdgtpack10</id>
 	<name>EW.WdgtPack.10</name>
-	<version>2.0-1</version>
+	<version>2.0-2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -38,7 +38,6 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>SB1: Fixed temp unit issue</change>
-		<change>SB2: Fixed battery and ram not showing</change>
+		<change>Fixed potential freezing on iPX</change>
 	</changelog>
 </package>

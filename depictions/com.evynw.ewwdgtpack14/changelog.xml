@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>2.0-2</version>
+		<change>Fixed temp unit issue</change>
+	</changes>
+	<changes>
 		<version>2.0-1</version>
 		<change>Fixed distortion if used in landscape</change>
 	</changes>
