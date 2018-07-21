@@ -1118,6 +1118,54 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew4
 Name: LS EW4
 
+Package: com.evynw.lsew42
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew42_1.0_iphoneos-arm.deb
+Size: 97178
+MD5sum: ed69a8994b5790e7237aa4131a680461
+SHA1: b21067a95884d5cb13b907363a36444c3aba0535
+SHA256: 1e1180b1c32779bc611bac06d3ac5f6485f18056319af304a367aa9474178bf5
+Section: Lockscreen Widgets
+Description: Black bar at screen bottom. Clock + Cal.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew42
+Name: LS EW42
+
+Package: com.evynw.lsew45
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew45_1.0_iphoneos-arm.deb
+Size: 284604
+MD5sum: 143087f6860d389062e2b7efe72eb85f
+SHA1: 6859cbeeb86ecf682b7940438f9915296a40906c
+SHA256: 7e011b97180c3766ebbfc7f741c0a5c0c5d9df00f339eeddcac70d7cda9b9fae
+Section: Lockscreen Widgets
+Description: [Putting in a generic desc because I'm lazy]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew45
+Name: LS EW45
+
+Package: com.evynw.lsew47
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew47_1.0_iphoneos-arm.deb
+Size: 151044
+MD5sum: 9cfda277a4c73f5a2675d45b25d58356
+SHA1: f5055905a550a7db4576754f7c9498396fae0928
+SHA256: f93cb5a6e235aec1364c153e2c9082a3b81f57e9b5294c9560724bb2e423b4ae
+Section: Lockscreen Widgets
+Description: Clock & battery indicator in corner
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew47
+Name: LS EW47
+
 Package: com.evynw.lsew5
 Version: 1.0
 Architecture: iphoneos-arm
