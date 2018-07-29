@@ -1742,17 +1742,17 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew8
 Name: SB EW8
 
 Package: com.evynw.sbew88
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.sbew88_1.0_iphoneos-arm.deb
-Size: 228342
-MD5sum: 330b46adc31cd2e082de1494c80b8bff
-SHA1: fd07be99fdc172cc942e2d31f116149ed5a8c1ff
-SHA256: 262e5a0b704d4180dc50ac275b50f0897c8d16eb7ab2bbe6b36940f823ff6368
+Filename: ./debs/com.evynw.sbew88_1.0-1_iphoneos-arm.deb
+Size: 228366
+MD5sum: 2aa548b2fd6611af8711f2b7bcd67dd8
+SHA1: 8304afb13fe58936165abfc305ae955acadc7135
+SHA256: c411a526c756e1fc918fe0def0854a665344fe1c38cafcccab67b6c439a10f8a
 Section: Homescreen Widgets
-Description: Originally from 3800PACK
+Description: Originally rom 3800PACK.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew88
 Name: SB EW88

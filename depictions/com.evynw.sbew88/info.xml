@@ -1,7 +1,7 @@
 <package>
 	<id>com.evynw.sbew88</id>
 	<name>SB EW88</name>
-	<version>1.0</version>
+	<version>1.0-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -26,6 +26,6 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Fixed weather desc issue</change>
 	</changelog>
 </package>
