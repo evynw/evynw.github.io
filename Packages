@@ -222,6 +222,54 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbrokmantm
 Name: Brokman (TM)
 
+Package: com.evynw.fontbronkoh1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontbronkoh1011_1.0_iphoneos-arm.deb
+Size: 17364362
+MD5sum: ac61e8b97ed9f075688748d064f7f75a
+SHA1: 799f86778e088c7a205026bcda105ada7d20339b
+SHA256: 2a36f9a2f2f3745abf618d253535baee1fb2a285729d59053cd15207f4d0dd49
+Section: Anemone Fonts
+Description: Grotesque-ish sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbronkoh1011
+Name: Bronkoh (iOS10/11)
+
+Package: com.evynw.fontbronkoh9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontbronkoh9_1.0_iphoneos-arm.deb
+Size: 18447666
+MD5sum: 3cdd78ccbfbeb9b8dbab58ce3f2f4151
+SHA1: 6faa6e568ad25daefa6b15f75cbd37deaa700f12
+SHA256: b141777d533370970dedad3289ac982491d41e39e571b30e90fe1c5fcb5c5905
+Section: Anemone Fonts
+Description: Grotesque-ish sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbronkoh9
+Name: Bronkoh (iOS9)
+
+Package: com.evynw.fontbronkohtm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontbronkohtm_1.0_iphoneos-arm.deb
+Size: 1758234
+MD5sum: 26bf1e232f249267e1e3c6781198b43f
+SHA1: c8b0db10dfbfdec435e6a44bffdb24fe2ba9e519
+SHA256: 8e295ecc886a266608f719c263c62baae7516ba15d7afaf30d662d53555242a0
+Section: Tweak Mode Fonts
+Description: Grotesque-ish sans-serif typeface. For BytaFont Tweak Mode.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbronkohtm
+Name: Bronkoh (TM)
+
 Package: com.evynw.fontcontesans1011
 Version: 1.0
 Architecture: iphoneos-arm
@@ -365,6 +413,54 @@ Description: Clean sans-serif typeface. For Anemone.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffstrada9
 Name: FF Strada (iOS9)
+
+Package: com.evynw.fontfrygia1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontfrygia1011_1.0_iphoneos-arm.deb
+Size: 15898124
+MD5sum: b2479d7355d0a8e911c080decb511c71
+SHA1: abbfbec1164e9ea25eec24b16027a192536ff6d3
+SHA256: 2d6686cbc3251ee9524690bd52f2fef8322b97e50b38c381496ae18c8c716b67
+Section: Anemone Fonts
+Description: Small sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontfrygia1011
+Name: Frygia (iOS10/11)
+
+Package: com.evynw.fontfrygia9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontfrygia9_1.0_iphoneos-arm.deb
+Size: 17194572
+MD5sum: 717ecc01f40a06eca57856a5eabaed6c
+SHA1: 5e58b51e4cfc61fb28e2590febfbbdf9e005cbb6
+SHA256: b322ea4344ead1d2745ae9618005472c6feed9281a0e159825eb9b2c17b7a155
+Section: Anemone Fonts
+Description: Small sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontfrygia9
+Name: Frygia (iOS9)
+
+Package: com.evynw.fontfrygiatm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontfrygiatm_1.0_iphoneos-arm.deb
+Size: 1658206
+MD5sum: 3ec2699d7c60907fed206407c417eedc
+SHA1: 76cdec577f2ec4fc888bc665289896eac817a045
+SHA256: 3aa8a2d080b080ed2a6043491118632eaa31c50c60c359208a3ec6bd20ade436
+Section: Tweak Mode Fonts
+Description: Easy-on-the-eye sans-serif typeface. For BytaFont Tweak Mode.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontfrygiatm
+Name: Frygia (TM)
 
 Package: com.evynw.fontglober1011
 Version: 1.0
