@@ -1278,6 +1278,38 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew5
 Name: LS EW5
 
+Package: com.evynw.lsew50
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew50_1.0_iphoneos-arm.deb
+Size: 201050
+MD5sum: eb9968bf21b494a153a269482c8a1f61
+SHA1: 317193cad0f40d36e01c084420f5104f323cc9ed
+SHA256: 16eb1141a1a8c1afbcc52e31c6961a32063b9fd7c3e509afec20dea0cde8eb97
+Section: Lockscreen Widgets
+Description: One of my favs <3
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew50
+Name: LS EW50
+
+Package: com.evynw.lsew51
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew51_1.0_iphoneos-arm.deb
+Size: 164090
+MD5sum: e18e862c49cac2f626fa4728e077f2f4
+SHA1: 7b09203c9ab549bd5b8a569b2f60b035f2533db9
+SHA256: bff90a943417ca5a2f5753754df4a6fda81f7b56b8e55db5e52d5c9717022135
+Section: Lockscreen Widgets
+Description: Ripped paper effect.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew51
+Name: LS EW51
+
 Package: com.evynw.lsew6
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1372,6 +1404,22 @@ Description: Official Icons for EVELYN's Repo. Icons replacing the ? marks.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.repoicons
 Name: EVELYN's Repo Icons
+
+Package: com.evynw.sbew1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew1_1.0_iphoneos-arm.deb
+Size: 118972
+MD5sum: 9067e19ca92214f1c0628ed4f48c8785
+SHA1: e295f0f1405c8b1fcd1748485f2e9322d1dd19b7
+SHA256: 44c73b1f4f7d26c8cac46bc1675800fbe440c34764bee7fadbf2c3e5fd97f5e2
+Section: Homescreen Widgets
+Description: Time + weather + battery bar at bottom
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew1
+Name: SB EW1
 
 Package: com.evynw.sbew10
 Version: 1.0
