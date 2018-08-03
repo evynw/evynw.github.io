@@ -52,15 +52,31 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons, com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.ewwdgtpack14_2.0-2_iphoneos-arm.deb
-Size: 2770644
-MD5sum: 65e9bcb47fb4c13c45a5d1319675b388
-SHA1: bbf4641f218087927c4ab5ee26c414326aff7534
-SHA256: 315df8d1af76816e5c9b5786bdc6fa9dacf8892468fcfb3298ca27ad5196c7df
+Size: 2770642
+MD5sum: df92029fc70074cdfea42d24951b10d8
+SHA1: 5772a8eaee73862a684cb3f1899ec7844d997a9c
+SHA256: c3444e257aab78e3a936d263eebf3d306a178e7ba56a28a8455878bad5807553
 Section: Lockscreen Widgets
 Description: iOS11-compatible widget pack. I'm working hard T^T
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack14
-Name: EW.WdgtPack.10
+Name: EW.WdgtPack.14
+
+Package: com.evynw.ewwdgtpack8
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.ewwdgtpack8_2.0_iphoneos-arm.deb
+Size: 820820
+MD5sum: 416f350d8e024de5cfecdde67e745796
+SHA1: 25967f3adabefadf164142579c5dee65ff0afcfb
+SHA256: 19e81c3a849205290d69b20a466415676752fd5e102792888f9c03f5d52d3845
+Section: Lockscreen Widgets
+Description: Another widget pack...I'm so tired T^T
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack8
+Name: EW.WdgtPack.8
 
 Package: com.evynw.fontalegreyasans1011
 Version: 1.0
