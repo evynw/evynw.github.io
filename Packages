@@ -974,6 +974,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew180
 Name: LS EW180
 
+Package: com.evynw.lsew181
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew181_1.0_iphoneos-arm.deb
+Size: 76660
+MD5sum: f916b30f1c8004c4ee02cfa9535a2bbb
+SHA1: f5b89a3080c08aeb04711a99bacdecd7d4ea6e74
+SHA256: 33955c1a517d26cd32d90ce053b7f3927fcae88b7caaec4a9fb99366c4622ed4
+Section: Lockscreen Widgets
+Description: Now compatible across all iOS!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew181
+Name: LS EW181
+
 Package: com.evynw.lsew197
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1278,6 +1294,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew47
 Name: LS EW47
 
+Package: com.evynw.lsew48
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew48_1.0_iphoneos-arm.deb
+Size: 92246
+MD5sum: f964c32cf9cfa801ba91962989784173
+SHA1: 74d009abd78d23b4652f08f4bbc8cf32801fa888
+SHA256: 62eed5c883e6bc0bb0e5e9142e35a60af854e672981c06ca13897bf4c7d36398
+Section: Lockscreen Widgets
+Description: Analog clock + word clock. CLOCKS.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew48
+Name: LS EW48
+
 Package: com.evynw.lsew5
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1325,6 +1357,22 @@ Description: Ripped paper effect.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew51
 Name: LS EW51
+
+Package: com.evynw.lsew52
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew52_1.0_iphoneos-arm.deb
+Size: 777348
+MD5sum: 5591ac5183c878cf53c180657a05d218
+SHA1: 0f30109a5fef382db277040e8188e498b1524714
+SHA256: 70cf7bca7f8c7b8d843cecb7ede371b452f11c3a3dd2526e1d161b138bc1e658
+Section: Lockscreen Widgets
+Description: [Putting in a generic desc because I'm lazy]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew52
+Name: LS EW52
 
 Package: com.evynw.lsew6
 Version: 1.0
