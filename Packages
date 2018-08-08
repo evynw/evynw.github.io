@@ -1725,6 +1725,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew21
 Name: SB EW21
 
+Package: com.evynw.sbew22
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew22_1.0_iphoneos-arm.deb
+Size: 8926686
+MD5sum: 6b89de6b82f7635634385febd017fa4d
+SHA1: 8c857f7ef572c8405ea86126fbbcb57089812b0c
+SHA256: c63bb48efed51f97abd36eda94fb5bc2b4a1148509daea6b4743e1fddc7f5ed7
+Section: Homescreen Widgets
+Description: Elaborate weather widget
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew22
+Name: SB EW22
+
 Package: com.evynw.sbew24
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -1804,6 +1820,38 @@ Description: A widget. Like what else do you think this is?
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew30
 Name: SB EW30
+
+Package: com.evynw.sbew31
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew31_1.0_iphoneos-arm.deb
+Size: 158420
+MD5sum: d6d7a3b2bee5723563986b427d4dd065
+SHA1: 12177548a4bb3df57d77ef81a60205f4aa1c66c7
+SHA256: 2c4273cec7c9c05587ec84472d98990ace7aeb0f31bfa3ce459980de15c351ac
+Section: Homescreen Widgets
+Description: Widget at screen top w/ battery bar
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew31
+Name: SB EW31
+
+Package: com.evynw.sbew33
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew33_1.0_iphoneos-arm.deb
+Size: 68838
+MD5sum: 4e85d2c4e07405761d522b6478830467
+SHA1: a790611e26bf26275eb7c64065b884ea6177becb
+SHA256: 8111c5e870d4a79c42f1ca1f97dfa62fd464b27791ed8ac453e061ca7ccfe4eb
+Section: Homescreen Widgets
+Description: Clock + calendar + weather + battery
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew33
+Name: SB EW33
 
 Package: com.evynw.sbew34
 Version: 1.0
