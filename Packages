@@ -1278,6 +1278,38 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew3
 Name: LS EW3
 
+Package: com.evynw.lsew31
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew31_1.0_iphoneos-arm.deb
+Size: 135962
+MD5sum: 6536d675c830e8417d16e578e6a3a2b4
+SHA1: c081584a2cc25e269ff0299ded3c5d17b5526545
+SHA256: 7cef9bf2583a6cdd01b5ded07c0e1c1d41e3c79168a2071030bdcf5ff423bcc9
+Section: Lockscreen Widgets
+Description: [Enter generic LS widget description ^_^]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew31
+Name: LS EW31
+
+Package: com.evynw.lsew33
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew33_1.0_iphoneos-arm.deb
+Size: 101432
+MD5sum: 77b0cbe585e98202adabf9bc3e938a7e
+SHA1: 19c4f03f7dd091981b064589aa6bdc0edf7f6eef
+SHA256: bcc8aaadd85d8a4b9eed02e8e05f8491a1f54e3140eb16fca392496bb37de0e0
+Section: Lockscreen Widgets
+Description: [Enter generic LS widget description ^_^]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew33
+Name: LS EW33
+
 Package: com.evynw.lsew35
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1293,6 +1325,22 @@ Description: A widget. Like what else do you think this is? lol
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew35
 Name: LS EW35
+
+Package: com.evynw.lsew37
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew37_1.0_iphoneos-arm.deb
+Size: 185084
+MD5sum: a5b11a14bb7fbdc62974f87cb613d239
+SHA1: 4184d194f42dbb8cb8480e94df7974c4d964b222
+SHA256: 8602ed02a72e146eb80639c56c675c79f0499b7b2cdbbedfe29a5dab384cf117
+Section: Lockscreen Widgets
+Description: [Enter generic LS widget description ^_^]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew37
+Name: LS EW37
 
 Package: com.evynw.lsew4
 Version: 1.0
