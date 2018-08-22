@@ -1134,6 +1134,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew200
 Name: LS EW200
 
+Package: com.evynw.lsew201
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew201_1.0_iphoneos-arm.deb
+Size: 374446
+MD5sum: 73beec2b3007d70133b523428f438e73
+SHA1: 2b60dd598a2b214eae70f7770e091cfa661a518a
+SHA256: 15a558975812840b272851e8cdf1eef46d0e3f3681ab5692242f5c26dc07786c
+Section: Lockscreen Widgets
+Description: Large weather icon and temp in yo face!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew201
+Name: LS EW201
+
 Package: com.evynw.lsew202
 Version: 1.0
 Architecture: iphoneos-arm
