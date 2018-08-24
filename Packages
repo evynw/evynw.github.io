@@ -1342,6 +1342,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew35
 Name: LS EW35
 
+Package: com.evynw.lsew36
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew36_1.0_iphoneos-arm.deb
+Size: 157052
+MD5sum: 46359269fd363a6f6cc0f575633c5b20
+SHA1: 2f515fdb609eb781daf553c434ffc67625a1b4b0
+SHA256: 55df216a9f137f0039f127921eecbc1e5d2f23bad55c31c31a59592982955f34
+Section: Lockscreen Widgets
+Description: [Enter generic LS widget description ^_^]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew36
+Name: LS EW36
+
 Package: com.evynw.lsew37
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1358,6 +1374,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew37
 Name: LS EW37
 
+Package: com.evynw.lsew38
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew38_1.0_iphoneos-arm.deb
+Size: 99222
+MD5sum: 2d324342b80f1caecd9db806e1d44c2f
+SHA1: 9c5d73b47b33eb7657f66b82ee8a292ab0a0dafb
+SHA256: b94e9081beecd293246a1e0c66d99accb4280f3f6eb82c80a87fffe659a7d893
+Section: Lockscreen Widgets
+Description: [Enter generic LS widget description ^_^]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew38
+Name: LS EW38
+
 Package: com.evynw.lsew4
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1373,6 +1405,22 @@ Description: Now compatible across all iOS!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew4
 Name: LS EW4
+
+Package: com.evynw.lsew40
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew40_1.0_iphoneos-arm.deb
+Size: 146422
+MD5sum: c817be203e80b97e866bc1891e0a860a
+SHA1: d86e52b1fbfd4fa67ebb0a97c183fb416cb61e19
+SHA256: 48095b47839f6fabd3375be62ce53e2797c57ac6dba5952d9621378fe66e479f
+Section: Lockscreen Widgets
+Description: [Enter generic LS widget description ^_^]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew40
+Name: LS EW40
 
 Package: com.evynw.lsew42
 Version: 1.0
