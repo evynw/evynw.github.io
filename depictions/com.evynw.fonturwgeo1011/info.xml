@@ -1,7 +1,7 @@
 <package>
 	<id>com.evynw.fonturwgeo1011</id>
 	<name>URW Geometric (iOS10/11)</name>
-	<version>1.0</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -22,6 +22,6 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Max compatibility with 11.3.1</change>
 	</changelog>
 </package>

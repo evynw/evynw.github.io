@@ -590,6 +590,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontintervalsanstm
 Name: Interval Sans (TM)
 
+Package: com.evynw.fontmetrisch1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontmetrisch1011_1.0_iphoneos-arm.deb
+Size: 17247234
+MD5sum: 2c9dc88baefb4036d2ea1de6dba0cf83
+SHA1: 8328f16fd2f0b783b76ca3351a26637ce1ee9f54
+SHA256: 287996d0f79f41c9c1150f4a5af93946012a8a92866b4f967847b2b226169f1d
+Section: Anemone Fonts
+Description: Fat sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmetrisch1011
+Name: Metrisch (iOS10/11)
+
 Package: com.evynw.fontnovelsans1011
 Version: 1.0
 Architecture: iphoneos-arm
@@ -719,17 +735,17 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonttttedstm
 Name: TT Teds (TM)
 
 Package: com.evynw.fonturwgeo1011
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
-Filename: ./debs/com.evynw.fonturwgeo1011_1.0_iphoneos-arm.deb
-Size: 16939330
-MD5sum: 3ac0b7af66d25a7663a62a32705e5e3b
-SHA1: 649240ee9a50b817deac46c8a036eb30eb9c5ba7
-SHA256: 4214d573e4e7ce48ecb0ef7d3526b7a27be3edb2ba207ad298ed0309ef3f1ca0
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fonturwgeo1011_1.1_iphoneos-arm.deb
+Size: 16948064
+MD5sum: c880041ed5848d3e4073fd8ec18b1c82
+SHA1: 521dd67df84e6b495a0fbc4c7b8fac2a9e0c0d25
+SHA256: 351bc381a4fc16ec1c5f4cd648fa4c099a404aeca90635d205a53bb5e1a3ce0e
 Section: Anemone Fonts
-Description: Easy-on-the-eyes sans-serif typeface. For Anemone.
+Description: Small sans-serif typeface. For Anemone.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonturwgeo1011
 Name: URW Geometric (iOS10/11)
