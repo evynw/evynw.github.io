@@ -1486,6 +1486,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew42
 Name: LS EW42
 
+Package: com.evynw.lsew44
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew44_1.0_iphoneos-arm.deb
+Size: 54004
+MD5sum: 2486166f1904502a14f3a8acda496e3f
+SHA1: 4dc849aaebcf15e43f600c8908bc5a47f8b52722
+SHA256: 63f36c38705e187f1333b8cfca188acbb3dd712ba462fd55b16929216b0c2240
+Section: Lockscreen Widgets
+Description: [Enter generic LS widget description ^_^]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew44
+Name: LS EW44
+
 Package: com.evynw.lsew45
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1613,6 +1629,38 @@ Description: Now compatible across all iOS!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew6
 Name: LS EW6
+
+Package: com.evynw.lsew66
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew66_1.0_iphoneos-arm.deb
+Size: 164702
+MD5sum: f8b666c45c15cd39221ed529329b1f71
+SHA1: da546942cd3f4555434c824ad12ac31a33272f48
+SHA256: 8413890f90dd246d34c1de98558ae943ab5853663ad28e4335a55b982f3b60c1
+Section: Lockscreen Widgets
+Description: [Enter generic LS widget description ^_^]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew66
+Name: LS EW66
+
+Package: com.evynw.lsew67
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew67_1.0_iphoneos-arm.deb
+Size: 56018
+MD5sum: 3a75288245a33e447b7870257191db1d
+SHA1: 1c8ad343e160ef1335273baac91a2338c38560a8
+SHA256: 3e23fc66d4e46dafa72d3502039ebffc3b7f6522349c00f49e2a7e792b30865d
+Section: Lockscreen Widgets
+Description: [Enter generic LS widget description ^_^]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew67
+Name: LS EW67
 
 Package: com.evynw.lsew8
 Version: 1.0
