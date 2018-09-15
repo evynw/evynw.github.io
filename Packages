@@ -1487,15 +1487,15 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew42
 Name: LS EW42
 
 Package: com.evynw.lsew44
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.lsew44_1.0_iphoneos-arm.deb
-Size: 54004
-MD5sum: 2486166f1904502a14f3a8acda496e3f
-SHA1: 4dc849aaebcf15e43f600c8908bc5a47f8b52722
-SHA256: 63f36c38705e187f1333b8cfca188acbb3dd712ba462fd55b16929216b0c2240
+Filename: ./debs/com.evynw.lsew44_1.0-1_iphoneos-arm.deb
+Size: 53988
+MD5sum: 33e5d21e3f1efb4da498577453295507
+SHA1: e2a37b8d6440f9faa53c584ea883f5fea34c9382
+SHA256: 997728e0f4b0c1001c48136b9e42a18c7d2e48b40d0cb03281e82f0c8868a278
 Section: Lockscreen Widgets
 Description: [Enter generic LS widget description ^_^]
 Author: Evelyn (ev_ynw)
