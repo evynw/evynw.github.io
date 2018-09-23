@@ -190,6 +190,38 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalrightsanstm
 Name: Alright Sans (TM)
 
+Package: com.evynw.fontasterisk1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontasterisk1011_1.0_iphoneos-arm.deb
+Size: 17055944
+MD5sum: 658ecb63ccb2aaaf257902222a39c06e
+SHA1: 09bd609895fabf0507425c35fe51caf4f32fa326
+SHA256: 2cca3e2e5c71c475539ef6ec565e5990778823abfe1ef2dd11579bdca788f20f
+Section: Anemone Fonts
+Description: Clean & thin sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontasterisk1011
+Name: Asterisk Sans (iOS10/11)
+
+Package: com.evynw.fontasterisktm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontasterisktm_1.0_iphoneos-arm.deb
+Size: 1619432
+MD5sum: 6207a9494cfe1c66bf28a26b60473e29
+SHA1: 158331c5be0f6ec6ea1adff110f2909ad09734f1
+SHA256: d53f9016767d196bffe828294f2a9643d2760fd169543c56909b519d74eabd5f
+Section: Tweak Mode Fonts
+Description: Clean & thin sans-serif typeface. For BytaFont Tweak Mode.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontasterisktm
+Name: Asterisk Sans (TM)
+
 Package: com.evynw.fontavenir1011
 Version: 1.0
 Architecture: iphoneos-arm
