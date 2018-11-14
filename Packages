@@ -462,6 +462,38 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcoresansd9
 Name: Core Sans D (iOS9)
 
+Package: com.evynw.fontffmark1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontffmark1011_1.0_iphoneos-arm.deb
+Size: 18180106
+MD5sum: de291b1b0aacb73b5d88d6b4184b83c9
+SHA1: a476ed954ae80cd5eb2c3bb038c1b36bc49db404
+SHA256: 0b51e5fe3322cee9048c3f13c523edeb0df8e8a4edfd54fed5aba6097d528eff
+Section: Anemone Fonts
+Description: Clean sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffmark1011
+Name: FF Mark Pro (iOS10/11)
+
+Package: com.evynw.fontffmarktm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontffmarktm_1.0_iphoneos-arm.deb
+Size: 1622236
+MD5sum: 2dd739d207351811f49f536bd6206c93
+SHA1: a4b609e0b2c751381ec4d49497f8593acd91692f
+SHA256: ddbff70f27e4c9fb26048c39b380b088a8c8e6bef7bb7aa0c470a78c976ae76b
+Section: Tweak Mode Fonts
+Description: Clean sans-serif typeface. For BytaFont Tweak Mode.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffmarktm
+Name: FF Mark Pro (TM)
+
 Package: com.evynw.fontffstrada1011
 Version: 1.0
 Architecture: iphoneos-arm
