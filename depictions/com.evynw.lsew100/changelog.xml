@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0-1</version>
+		<change>Fixed install issue</change>
+	</changes>
+	<changes>
 		<version>1.0</version>
 		<change>Initial release</change>
 	</changes>
