@@ -382,6 +382,38 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbronkohtm
 Name: Bronkoh (TM)
 
+Package: com.evynw.fontciutadella1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontciutadella1011_10_iphoneos-arm.deb
+Size: 17201288
+MD5sum: 7f1b4632f1a1c9d1849c39d30c238484
+SHA1: dcfbfdffd827ae79c7d62e4e4409b77709e20f8e
+SHA256: ad9f372bfbf85508a471c0e0050e5a77953f8e16a485f96b2b5d62a55483d340
+Section: Anemone Fonts
+Description: First ever rounded font on my repo lol. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontciutadella1011
+Name: Ciutadella Rounded (iOS10/11)
+
+Package: com.evynw.fontciutadellatm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontciutadellatm_1.0_iphoneos-arm.deb
+Size: 1522548
+MD5sum: 3dc7d938f352c543be8ee84c3db627d1
+SHA1: 0140e5c60815d502adbdc692d97da3372654b2ef
+SHA256: 059b6f767e7db0ca6498d391f4ffac661039f56f997ff2e466d4a11ecd8aa567
+Section: Tweak Mode Fonts
+Description: First ever rounded font on my repo lol. For BytaFont Tweak Mode.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontciutadellatm
+Name: Ciutadella Rounded (TM)
+
 Package: com.evynw.fontcontesans1011
 Version: 1.0
 Architecture: iphoneos-arm
