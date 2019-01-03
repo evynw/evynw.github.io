@@ -638,6 +638,38 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontfrygiatm
 Name: Frygia (TM)
 
+Package: com.evynw.fontgineso1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontgineso1011_iphoneos-arm.deb
+Size: 16294318
+MD5sum: 260c644c427f6cc7040e1f9d30c16ef7
+SHA1: 3007af103d4f0a8db390bc408eee6c516b3a647c
+SHA256: b7b7ee9e5da30757987e162381596cc0c17ed453256617d46ba588eb9d3f7062
+Section: Anemone Fonts
+Description: Grotesque-ish typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgineso1011
+Name: Gineso (iOS10/11)
+
+Package: com.evynw.fontginesotm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontginesotm_1.0_iphoneos-arm.deb
+Size: 1569304
+MD5sum: 7762ddd40ad6d8c7b08b7bf620ade4aa
+SHA1: db4dc8d074b9ece7ec136610ca9155bde3b0fcc4
+SHA256: 8dac13d105e10d60dcffd8c83eca42abeb465346dd2e2343dbd9b04333ac7d80
+Section: Tweak Mode Fonts
+Description: Grotesque-ish typeface. For BytaFont Tweak Mode.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontginesotm
+Name: Gineso (TM)
+
 Package: com.evynw.fontglober1011
 Version: 1.0
 Architecture: iphoneos-arm
