@@ -1342,6 +1342,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew128
 Name: LS EW128
 
+Package: com.evynw.lsew129
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew129_1.0_iphoneos-arm.deb
+Size: 175470
+MD5sum: 808c58f6c23bc6de6a97b97879f54a42
+SHA1: 828fdcdc0a92588a51e40655d6fc9add363f04bc
+SHA256: ba92c349be3a7170fdc0e4f870f1d06a15ca727306587f14a12bba1934d3324e
+Section: Lockscreen Widgets
+Description: [Enter generic LS widget description ^_^]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew129
+Name: LS EW129
+
 Package: com.evynw.lsew13
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1357,6 +1373,38 @@ Description: Now compatible across all iOS!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew13
 Name: LS EW13
+
+Package: com.evynw.lsew131
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew131_1.0_iphoneos-arm.deb
+Size: 264428
+MD5sum: e923058c01da7d6fb7075057c74f6d19
+SHA1: afd9b78ff3bfb2779fa93ea47c949234ae67867c
+SHA256: 4149a96d2a5f2079ebba0a573872d53c4e6eec2d5d120f2401d450bd38460263
+Section: Lockscreen Widgets
+Description: [Enter generic LS widget description ^_^]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew131
+Name: LS EW131
+
+Package: com.evynw.lsew133
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew133_1.0_iphoneos-arm.deb
+Size: 1038784
+MD5sum: d4f7abb85056a1b370ff1c3da99fe7e3
+SHA1: 9eac4702257b8b0af59ab97075629f7e104d9dc2
+SHA256: c149b02cd1592bb11e62cab30f93187a968688d92da4fb8f3093a49a8577cc87
+Section: Lockscreen Widgets
+Description: [Enter generic LS widget description ^_^]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew133
+Name: LS EW133
 
 Package: com.evynw.lsew14
 Version: 1.0
