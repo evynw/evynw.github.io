@@ -782,6 +782,38 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmetrisch1011
 Name: Metrisch (iOS10/11)
 
+Package: com.evynw.fontmetronoatm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontmetronovatm_1.0_iphoneos-arm.deb
+Size: 1688256
+MD5sum: 54940f652c0150c32dc8d8557848211a
+SHA1: 47b1ffe9173c50e03905f745fe3e7808038d3096
+SHA256: d1b8c4ccdd31b303a5fd3e55bbecb935d32bf9ce233ea12e718d8708d307aa11
+Section: Tweak Mode Fonts
+Description: Clean & kinda cute (?) typeface. For BytaFont Tweak Mode.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmetronovatm
+Name: Metro Nova (TM)
+
+Package: com.evynw.fontmetronova1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontmetronova1011_1.0_iphoneos-arm.deb
+Size: 16330914
+MD5sum: 8f33ed552ce6d99194aca8ba4ad41fa6
+SHA1: 309c0abb04c8482b12030c50922cbcd1ed955b58
+SHA256: 99316a0d16fb1c70627ef7d5f1cc6a9f67efa5f20d2e9780b514c2b6ddacbe15
+Section: Anemone Fonts
+Description: Clean & kinda cute (?) typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmetronova1011
+Name: Metro Nova Pro (iOS10/11)
+
 Package: com.evynw.fontnovelsans1011
 Version: 1.0
 Architecture: iphoneos-arm
