@@ -1598,6 +1598,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew147
 Name: LS EW147
 
+Package: com.evynw.lsew149
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew149_1.0_iphoneos-arm.deb
+Size: 121912
+MD5sum: 5415fe1c5e114d80abe695780000edcd
+SHA1: 48ef4feec67a31ed0babbdc973289ef11bbd5dcc
+SHA256: b0db5cf2ea574cf3f4c6442d56492134fdfed0b8d53b994dd82f48a5aaf0ef5e
+Section: Lockscreen Widgets
+Description: [Enter another description of an LS =3=]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew149
+Name: LS EW149
+
 Package: com.evynw.lsew15
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1613,6 +1629,38 @@ Description: [Enter generic LS widget description ^_^]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew15
 Name: LS EW15
+
+Package: com.evynw.lsew153
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew153_1.0_iphoneos-arm.deb
+Size: 46904
+MD5sum: d6ad99237001f694854dddfd738d52d4
+SHA1: 35c66ba63b7c47c86c57056e10892bfd3dee07e3
+SHA256: ea53da89e1bacc6aab69eb092186ed8ca66cdee0543c5b553ba398ed1e65fb17
+Section: Lockscreen Widgets
+Description: [Enter another description of an LS =3=]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew153
+Name: LS EW153
+
+Package: com.evynw.lsew154
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew154_10_iphoneos-arm.deb
+Size: 352094
+MD5sum: 43310d8aef0cc55db98ffd9be3510aa1
+SHA1: 845fd93b3fdd25ff3289497935c93037a2d751cf
+SHA256: 2bc964bc228d524d8c0a7b04f89e292182d5e2231a4e84b7d9906b82c2f5a6d4
+Section: Lockscreen Widgets
+Description: Halloween-themed LS with a kawaii ghost. Boo!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew154
+Name: LS EW154
 
 Package: com.evynw.lsew16
 Version: 1.0
