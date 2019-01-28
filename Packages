@@ -1998,6 +1998,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew207
 Name: LS EW207
 
+Package: com.evynw.lsew208
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew208_1.0_iphoneos-arm.deb
+Size: 128438
+MD5sum: ed976bcbe3ca7e2eb42e8b22c154ccf2
+SHA1: fdfb06874cd1dc13dc2c5537e0ff615e742292b8
+SHA256: 2e25d95aef5357c422c109e1cc881149f80074d5774f0d9af4e15b1b19680fbd
+Section: Lockscreen Widgets
+Description: It's time for some new shit!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew208
+Name: LS EW208
+
 Package: com.evynw.lsew21
 Version: 1.0
 Architecture: iphoneos-arm
