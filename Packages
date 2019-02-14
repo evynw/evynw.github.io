@@ -1679,19 +1679,19 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew156
 Name: LS EW156
 
 Package: com.evynw.lsew157
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.lsew157_1.0_iphoneos-arm.deb
-Size: 136530
-MD5sum: b29fd952e6e6000d94778adf98045a8e
-SHA1: 2e70a2cb6bbd8af4aee76ec86e4bea8a02909c8b
-SHA256: 599df173f2104946922f83e1d22a0f88e2c3f5ccfb9daf6b9be59a600b533494
+Filename: ./debs/com.evynw.lsew157_1.0-1_iphoneos-arm.deb
+Size: 136528
+MD5sum: 7e60f20c18f6cbf2385c1d0567b37245
+SHA1: 8118884df9bd6faaceaeb17ee1b28cde3aae2677
+SHA256: aa4faec715364c32c968819b69eb7591390656affa8935b81a91eb22293cbae6
 Section: Lockscreen Widgets
 Description: [Enter another description of an LS =3=]
 Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew157
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew170
 Name: LS EW157
 
 Package: com.evynw.lsew159
@@ -2093,6 +2093,38 @@ Description: So time-consuming to update & upload all my widgets
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew212
 Name: LS EW212
+
+Package: com.evynw.lsew213
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew213_1.0_iphoneos-arm.deb
+Size: 101746
+MD5sum: f7263999adf7b663396064bbbfb75d77
+SHA1: 22516e8c263ab5d1911a7068f1fe6b6c456104a6
+SHA256: 7ba6090b761a8ff5bd80382e8abaafbe22e90e02cbe4eccf3ab7ffc2c2ee3168
+Section: Lockscreen Widgets
+Description: From 6200PACK. New twitter pack coming!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew213
+Name: LS EW213
+
+Package: com.evynw.lsew216
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew216_1.0_iphoneos-arm.deb
+Size: 187232
+MD5sum: e58d4019e48f1f38db0ffbfa71d6fcf2
+SHA1: aab42b55bf8734984d848171076cdd8f783aaf15
+SHA256: 3d72bad2077593263bef7e9e1a711a4b0b51feaefeeed57e16225ffc9f97803c
+Section: Lockscreen Widgets
+Description: From 6200PACK. New twitter pack coming!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew216
+Name: LS EW216
 
 Package: com.evynw.lsew22
 Version: 1.0-1
@@ -2878,6 +2910,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsewlegacy
 Name: LS EW.Legacy
 
+Package: com.evynw.lsewrisingbars
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsewrisingbars_1.0_iphoneos-arm.deb
+Size: 111182
+MD5sum: fa815aa113d024a755129292a17167e2
+SHA1: 3bec39b56ec2875f5c61e3d6b9970c53c973f4f0
+SHA256: 02b243cf6466545bc92085e0cbb7f860b5ed225908aec182374763b6eb935a15
+Section: Lockscreen Widgets
+Description: From 6200PACK. New twitter pack coming!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsewrisingbars
+Name: LS EW.RisingBars
+
 Package: com.evynw.repoicons
 Version: 1.0
 Architecture: iphoneos-arm
@@ -2892,6 +2940,38 @@ Description: Official Icons for EVELYN's Repo. Icons replacing the ? marks.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.repoicons
 Name: EVELYN's Repo Icons
+
+Package: com.evynw.respringantlers
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.respringantlers_1.0_iphoneos-arm.deb
+Size: 138528
+MD5sum: 0fdbd97d2550c9c78069ff6a3fa6692f
+SHA1: 47a11baa0a51ee7c28266ccd86f338c28f2c4c4e
+SHA256: 62958a3603dcc2de9c6f7968676bd111def29cc60a0f9499e0e816b7be0e21f8
+Section: Others
+Description: Respring logo of a red deer head
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.respringantlers
+Name: Antlers Respring Logo
+
+Package: com.evynw.respringexplicit
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.respringexplicit_1.0_iphoneos-arm.deb
+Size: 119550
+MD5sum: c8c77229326e78545cdea68508d2d129
+SHA1: 85f90c5081502154cc194713a757b840208c020f
+SHA256: e76b676e99b61000e7d4d2af88d7a25abdb1e426bf74400574bcafccca13fb6b
+Section: Others
+Description: PARENTAL ADVISORY EXPLICIT CONTENT
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.respringexplicit
+Name: Explicit Respring Logo
 
 Package: com.evynw.sbew1
 Version: 1.0

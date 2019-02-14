@@ -1,7 +1,7 @@
 <package>
-	<id>com.evynw.lsew157</id>
-	<name>LS EW157</name>
-	<version>1.0-1</version>
+	<id>com.evynw.lsew216</id>
+	<name>LS EW216</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -9,13 +9,12 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>XenInfo: Install it BEFORE you download this widget</package>
+		<package>N/A</package>
 	</dependencies>
 	<descriptionlist>
 		<description><![CDATA[<b>Installed to:</b> </ br>/var/mobile/Library/LockHTML <br /> <br />
-                          <b>Apply with Xen HTML</b>]]></description>
+                          <b>Apply with Xen HTML or LockHTML 4</b>]]></description>
 		<description>Optimised for all iOS (including iOS11) &amp; fits all resolutions (including iPX)</description>
-		<description>Requires XenInfo for weather/battery components to work properly</description>
 		<description><![CDATA[<b>Need help?</b> <br />
 							Brief instructions contained in the TXT within the widget folder <br />
 							Link to tutorials in my pinned tweet]]></description>
@@ -26,6 +25,6 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Fixed weather desc</change>
+		<change>Initial release</change>
 	</changelog>
 </package>

@@ -1,0 +1,27 @@
+<package>
+	<id>com.evynw.respringexplicit</id>
+	<name>Explicit Respring Logo</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Anemone</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[<b>Installed to:</b> </ br>/Library/Themes/ <br /> <br />
+                          <b>Apply with Anemone</b>]]></description>
+		<description>"EXPLICIT CONTENT" as a respring logo</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ss.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
