@@ -382,6 +382,54 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbronkohtm
 Name: Bronkoh (TM)
 
+Package: com.evynw.fontcera1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontcera1011_1.0_iphoneos-arm.deb
+Size: 16273876
+MD5sum: 89c3bcd141f0a00389c79335caba54d7
+SHA1: 223f0d78e0b1929a303c38c1160733975f59d5de
+SHA256: 404baf6d89b7a05ba9944f8ea071422878e7369dd11a039b4a66bdce8cc3076e
+Section: Anemone Fonts
+Description: Easy-on-the-eye sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcera1011
+Name: Cera (iOS10/11)
+
+Package: com.evynw.fontcera9
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Filename: ./debs/com.evynw.fontcera9_1.0_iphoneos-arm.deb
+Size: 17093230
+MD5sum: 05db1f32dc94b6cf82275b74276faaf2
+SHA1: 95a966b11cfd222af9cfc966ac0bd67b687593a4
+SHA256: 3956554303f46ee8107ce7b7ac0c56cef61b9302cf9e37465cef1868c11a9def
+Section: Anemone Fonts
+Description: Easy-on-the-eye sans-serif typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcera9
+Name: Cera (iOS9)
+
+Package: com.evynw.fontceratm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontceratm_1.0_iphoneos-arm.deb
+Size: 1576714
+MD5sum: 0928d2f43f30d1ce9813881549634560
+SHA1: 99298d323ddefdc82d292f38ae6b60fe5b38c1da
+SHA256: 10b18890bd41f017d221f489358a1858529399c0b5ffa4e0b99b10541c6ae2ad
+Section: Tweak Mode Fonts
+Description: Easy-on-the-eye sans-serif typeface. For BytaFont Tweak Mode.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontceratm
+Name: Cera (TM)
+
 Package: com.evynw.fontciutadella1011
 Version: 1.0
 Architecture: iphoneos-arm
@@ -3581,6 +3629,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew8
 Name: SB EW8
 
+Package: com.evynw.sbew81
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew81_1.0_iphoneos-arm.deb
+Size: 355068
+MD5sum: 6386ed63332e15e43b7ff56bb8916a8b
+SHA1: c420d7eb37fc30454a7d8c815cfba9763527ffe5
+SHA256: 142fe42b893711368bec6a02c247c97e8d2d14dda93de4f58ff6afd3af927f8c
+Section: Homescreen Widgets
+Description: From 6200PACK. New twitter pack coming!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew81
+Name: SB EW81
+
 Package: com.evynw.sbew84
 Version: 1.0
 Architecture: iphoneos-arm
@@ -3628,4 +3692,20 @@ Description: A widget. Like what else do you think this is lol.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew9
 Name: SB EW9
+
+Package: com.evynw.sbew93
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.sbew93_1.0_iphoneos-arm.deb
+Size: 372856
+MD5sum: 9782878fedf5d5646c3cb1c0675125fd
+SHA1: 3372cd9f9b72232f7be536d4628ffb2e48f8e39b
+SHA256: 867ae098ea35d8d19a98be2f741bddbb9935bebb753bfb3455b510eb683dc25d
+Section: Homescreen Widgets
+Description: From 6200PACK. New twitter pack coming!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew93
+Name: SB EW93
 
