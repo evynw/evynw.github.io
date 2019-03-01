@@ -1774,6 +1774,54 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew16
 Name: LS EW16
 
+Package: com.evynw.lsew160
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew160_1.0_iphoneos-arm.deb
+Size: 172712
+MD5sum: 1dd92f707ffb4d9e77dcda5140fb9593
+SHA1: 34830b9dbd0b051d51f787dd85e95796d5740b29
+SHA256: d99274d229bcd6c8c39fdf235e24103162475c918d70388cee1f5d6cc0a063ee
+Section: Lockscreen Widgets
+Description: [Enter another description of an LS =3=]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew160
+Name: LS EW160
+
+Package: com.evynw.lsew163
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew163_1.0_iphoneos-arm.deb
+Size: 74622
+MD5sum: 4a3399091b1ae96586fc952ef5bc5ada
+SHA1: 9c32ca1d1fab9ba8f41ba4b1a5848f3d372d23b3
+SHA256: 0e98f9a86a5a6019f089b25013bc7dfbebcce49878ac321c7a962320ed01aed7
+Section: Lockscreen Widgets
+Description: [Enter another description of an LS =3=]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew163
+Name: LS EW163
+
+Package: com.evynw.lsew164
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.lsew164_1.0_iphoneos-arm.deb
+Size: 537150
+MD5sum: 9f45b694490ffcbf244370148bf9f980
+SHA1: ef35847e332f6202cca9748568bba062f42967e7
+SHA256: 28ec2959cf2d675780b9ff160dc5b9df25e1fea4c823015d1a4a616812242176
+Section: Lockscreen Widgets
+Description: [Enter another description of an LS =3=]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew164
+Name: LS EW164
+
 Package: com.evynw.lsew172
 Version: 1.0
 Architecture: iphoneos-arm
