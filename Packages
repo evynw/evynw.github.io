@@ -1828,10 +1828,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.lsew165_1.0_iphoneos-arm.deb
-Size: 105658
-MD5sum: c5e270da9b42064553b005abe8e2b44a
-SHA1: 583e1a35d7a77afb8c539702ca8eec2e3e4dfb71
-SHA256: 473803a91e037e97a4df8928dff94cc067b504f97c03d65dded2d23d9082f986
+Size: 106072
+MD5sum: e4e8fc222ed5fd5f4d17736d0433d6cf
+SHA1: 3fda32946bc7b7ebc1c4f2930e37709e720a8835
+SHA256: 7166c4079b375c61b1350e4fa4f757ea4dc30dc6d20d7a36e13ce653e3fc3d96
 Section: Lockscreen Widgets
 Description: A simple interactive widget
 Author: Evelyn (ev_ynw)
