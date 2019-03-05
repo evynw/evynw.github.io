@@ -1871,15 +1871,15 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew169
 Name: LS EW169
 
 Package: com.evynw.lsew170
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.lsew170_1.0_iphoneos-arm.deb
-Size: 85540
-MD5sum: def9158ea68582cd393c530280808eba
-SHA1: 7b0beed58a43d29e93dc375a9b931403762bd706
-SHA256: 7d4c597297e3cfa4c1e044b856a4d2e6f60e3aaa56025ed1d1fa49a7cc2c5f3e
+Filename: ./debs/com.evynw.lsew170_1.0-1_iphoneos-arm.deb
+Size: 85984
+MD5sum: b4ea0bc8184e77ef70c2eab62b8b7d51
+SHA1: f6227ccf4f7fbdf145873a6f1bf65f9c3501d0f9
+SHA256: 84c7c8e7610732f2038ddcd4a3aadc215844a1f2d5658ee15bf905afc55301dc
 Section: Lockscreen Widgets
 Description: [Enter another description of an LS =3=]
 Author: Evelyn (ev_ynw)

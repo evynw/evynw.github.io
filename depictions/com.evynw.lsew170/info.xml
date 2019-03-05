@@ -1,11 +1,11 @@
 <package>
 	<id>com.evynw.lsew170</id>
 	<name>LS EW170</name>
-	<version>1.0</version>
+	<version>1.0-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
-			<maxiOS>11.4</maxiOS>
+			<maxiOS>12.1.2</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -26,6 +26,6 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Fixed temp issue</change>
 	</changelog>
 </package>
