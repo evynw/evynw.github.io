@@ -3293,6 +3293,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew18
 Name: SB EW18
 
+Package: com.evynw.sbew2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.sbew2_1.0_iphoneos-arm.deb
+Size: 85026
+MD5sum: b3c4aa3da5e1bfebab02d9d0e43c1efc
+SHA1: 6be94e6bec9dbdf9e0bf7322a919458002d37476
+SHA256: 496bf95dd41fd7965fe87c4a504a5c5475b0a386cddcb1b846d79ce5963c9a42
+Section: Homescreen Widgets
+Description: Heck I forgot about this one
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew2
+Name: SB EW2
+
 Package: com.evynw.sbew20
 Version: 1.0
 Architecture: iphoneos-arm
@@ -3548,6 +3564,22 @@ Description: Now compatible across all iOS!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew3nw
 Name: SB EW3_noWeather
+
+Package: com.evynw.sbew4
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew4_1.0_iphoneos-arm.deb
+Size: 95542
+MD5sum: 4359e77aa8d443ce121cca8b1920d44c
+SHA1: 7df122697a5b61cb6e780fad51676243ffd0f0b9
+SHA256: 6d4bfb6027631b8e818c7919622a797f7df86e850c67c488fc3002072c10238c
+Section: Homescreen Widgets
+Description: Another one that I've missed wtf
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew4
+Name: SB EW4
 
 Package: com.evynw.sbew40
 Version: 1.0
