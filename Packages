@@ -3709,6 +3709,38 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew71
 Name: SB EW71
 
+Package: com.evynw.sbew72
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew72_1.0_iphoneos-arm.deb
+Size: 89108
+MD5sum: 151f30f4ebaa2b36ddf8d2f591e5f420
+SHA1: ce5eb401517ec4e691447706811d5de16ac534b5
+SHA256: 91e192736b4869431b4e607018aefee0f556f4844fde0b0445204826a7cbbbb9
+Section: Homescreen Widgets
+Description: [Enter generic HS widget description ^_^]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew72
+Name: SB EW72
+
+Package: com.evynw.sbew73
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew73_1.0_iphoneos-arm.deb
+Size: 166712
+MD5sum: 853cea945af9d3db62949a9c1432964c
+SHA1: 1b06e080f53c5f05e2d4b71d276291238f763449
+SHA256: bc936b27d35959b0cbf7cf49332ef08442fbab1c8de98420fefc77b9f60eec38
+Section: Homescreen Widgets
+Description: [Enter generic HS widget description ^_^]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew73
+Name: SB EW73
+
 Package: com.evynw.sbew74
 Version: 1.0
 Architecture: iphoneos-arm
@@ -3804,6 +3836,22 @@ Description: [Enter generic HS widget description ^_^]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew84
 Name: SB EW84
+
+Package: com.evynw.sbew86
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew86_1.0_iphoneos-arm.deb
+Size: 1960754
+MD5sum: fc0c98b97b410b1583a22c1efe58637c
+SHA1: e2d266c4bb80b5f5ba0e729baaf19cc482d1742c
+SHA256: 2d7f914cfea0d93fe8444b8e1ec13214d441f5412699ad93a59fafa9f05ca2e9
+Section: Homescreen Widgets
+Description: [Enter another description of an HS =3=]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew86
+Name: SB EW86
 
 Package: com.evynw.sbew88
 Version: 1.0-1
