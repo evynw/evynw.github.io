@@ -3726,17 +3726,17 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew72
 Name: SB EW72
 
 Package: com.evynw.sbew73
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.sbew73_1.0_iphoneos-arm.deb
-Size: 166712
-MD5sum: 853cea945af9d3db62949a9c1432964c
-SHA1: 1b06e080f53c5f05e2d4b71d276291238f763449
-SHA256: bc936b27d35959b0cbf7cf49332ef08442fbab1c8de98420fefc77b9f60eec38
+Filename: ./debs/com.evynw.sbew73_1.0-1_iphoneos-arm.deb
+Size: 166730
+MD5sum: 46d2106d49224db3ed1ba26ce450aae9
+SHA1: 1e68d560bbf4639394afcfcae91820a1c8e5d585
+SHA256: 8f92c0a6dfd88999be509de0f09e208c0c83dd1e7b2a95485e3448d9a32b877c
 Section: Homescreen Widgets
-Description: [Enter generic HS widget description ^_^]
+Description: [Enter another description of an HS =3=]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew73
 Name: SB EW73

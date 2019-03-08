@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0-1</version>
+		<change>Fixed font size issue of AM/PM</change>
+	</changes>
+	<changes>
 		<version>1.0</version>
 		<change>Initial Release</change>
 	</changes>
