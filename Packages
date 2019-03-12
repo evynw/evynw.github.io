@@ -78,6 +78,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack16
 Name: EW.WdgtPack.16
 
+Package: com.evynw.ewwdgtpack18
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.ewwdgtpack18_1.0_iphoneos-arm.deb
+Size: 1326938
+MD5sum: 70983dcd18d63a2e030084303a077b5f
+SHA1: e65825f278d1657b13dfbcda8dcae622485b899d
+SHA256: 9bda3b148a8f990768d352d8bbb9d4af91e1c54de483c31bd05862d0b6c4caa6
+Section: Lockscreen Widgets
+Description: New free widget pack <3
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack18
+Name: EW.WdgtPack.18
+
 Package: com.evynw.ewwdgtpack2
 Version: 2.0
 Architecture: iphoneos-arm
