@@ -121,7 +121,7 @@ $(document).ready(function () {
         $(".package-dependency").text(data.dependency);
 
         var cList = $(".package-desc-list");
-        var desc = data.description[i];
+        var desc = data.description[];
         for (var i = 0; i < desc.length - 1; i++) {
             cList.append("<div style=\"border-bottom:1px solid #dad8d8;margin-left:-10px;margin-right:-10px;padding-bottom:7px;margin-bottom:7px;\">" + "<div style=\"margin-left:15px;margin-right:15px\">" + desc[i] + "</div>" + "</div>")
         }
