@@ -1,13 +1,13 @@
 {
 	"name": "Test Package",
 	"package": "io.multinerd.test",
-	"author": "multinerd",
+	"author": "Evelyn (ev_ynw)",
 	"version": "1.0.1",
 	"dependency": "XenInfo",
     "minOSVersion": "9.0",
     "maxOSVersion": "12.1.2",
     "otheriOS": "untested",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget massa bibendum nunc eleifend congue et quis arcu. Praesent tincidunt consectetur malesuada. Sed consectetur a elit non lobortis. Vestibulum eget mollis nisl. Sed egestas mauris vel eros dictum, vitae pharetra tortor vulputate. Donec ac lectus id dui sodales euismod. Nullam sit amet turpis quis augue tincidunt sollicitudin non sed enim. Aenean vitae justo purus. Ut gravida, neque a iaculis congue, ante nisl condimentum orci, at pretium orci purus a nisi. Praesent at purus velit." "test test test",
+	"description": "<div>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)</div> <div>Apply with XenHTML</div> <div>Requires XenInfo for weather/battery components to work properly</div> <div><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
 	"changelog": {
 		"1.0.0": [
 			"Initial Release"
