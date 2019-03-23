@@ -94,12 +94,12 @@ $(document).ready(function () {
             $(".version-check").css("color", "green");
         } else {
             // Compare versions
-            var result = "This version ";
+            var result = "";
             var supported = isCurrentVersionSupported(currentVersion, data.minOSVersion, data.maxOSVersion);
             if (supported) {
-                result += "is <strong>compatible</strong> with your iOS version (" + currentVersion + ").";
+                result += "Your iOS version (" + currentVersion + ") is <strong>compatible</strong> &#x1f607;";
                 // $(".version-check").css("color", "green");
-                $(".panel-body.version-check").css("background-color", "#99cc33");
+                $(".panel-body.version-check").css("background-color", "#79d3bd");
             } else{
                 result += "<strong>has not been confirmed</strong> to work on your iOS version";
                 result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
@@ -113,6 +113,7 @@ $(document).ready(function () {
         $(".package-desc").html(data.description);
         $(".latest-version").text(data.version);
         $(".package-author").text(" by " + data.author);
+        $(".package-dependency").text(data.dependency);
 
         var cList = $(".changelog-list");
         var changes = data.changelog[data.version];
