@@ -6,6 +6,7 @@
   "minOSVersion": "7.0",
   "maxOSVersion": "10.2",
   "otheriOS": "unsupported",
+  "dependency": "XenInfo",
   "description": [
     "Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)",
     "<strong>Apply with XenHTML</strong>",

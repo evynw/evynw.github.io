@@ -1,0 +1,33 @@
+{
+  "name": "Facebook Fonts Fix",
+  "package": "com.fidele007.facebookfontsfix",
+  "author": "fidele007",
+  "version": "43.0-97+debug (2016-08-18)",
+  "description": "<div>No more truncated text in Facebook app. See screenshots for examples.</div>",
+  "changelog": {
+    "42.0-beta-2": [
+      "Initial release"
+    ],
+    "42.0-beta-24": [
+      "Fixed bugs on iOS 8 devices"
+    ],
+    "42.0-beta-75": [
+      "First attempt at iPad support",
+      "Fixed truncated in in-app Pages notifications"
+    ],
+    "43.0-95+debug (2016-07-20)" : [
+      "Updated for <strong>Facebook v59.0</strong>",
+      "Improved truncated text fix",
+      "Optimized code"
+    ],
+    "43.0-97+debug (2016-08-18)" : [
+      "Fix timeline header label"
+    ]
+  },
+  "screenshots": {
+    "01.jpg": "Profile name",
+    "02.jpg": "Notifications",
+    "03.jpg": "Date in Facebook feed"
+  },
+  "links": {}
+}
