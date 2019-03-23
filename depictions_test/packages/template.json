@@ -17,9 +17,9 @@
 		]
 	},
 	"screenshots": {
-		"1.jpg": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-		"2.jpg": "Duis eget massa bibendum nunc eleifend congue et quis arcu.",
-		"3.jpg": "Praesent tincidunt consectetur malesuada.",
+		"LS1.png": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"LS2.png": "Duis eget massa bibendum nunc eleifend congue et quis arcu.",
+		"LS3.png": "Praesent tincidunt consectetur malesuada.",
 		"4.jpg": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 		"5.jpg": "Duis eget massa bibendum nunc eleifend congue et quis arcu.",
 		"6.jpg": "Sed consectetur a elit non lobortis.",
