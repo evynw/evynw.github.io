@@ -101,7 +101,7 @@ $(document).ready(function () {
                 // $(".version-check").css("color", "green");
                 $(".panel-body.version-check").css("background-color", "#52d183");
             } else{
-                    result += "<strong>Not confirmed</strong> to work on  your iOS version";
+                    result += "<strong>Not confirmed</strong> to work on your iOS version";
                     result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
                     result += " &#x1f625;";
                     $(".panel-body.version-check").css("background-color", "#ffe02b");
