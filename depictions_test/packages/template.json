@@ -7,18 +7,22 @@
     "minOSVersion": "9.0",
     "maxOSVersion": "12.1.2",
     "otheriOS": "untested",
-	"description": "<div>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)</div> <div>Apply with XenHTML</div> <div>Requires XenInfo for weather/battery components to work properly</div> <div><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
-	"changelog": {
-		"1.0.0": [
-			"Initial Release"
-		],
-		"1.0.1": [
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-			"Duis eget massa bibendum nunc eleifend congue et quis arcu.",
-			"Praesent tincidunt consectetur malesuada.",
-			"Sed consectetur a elit non lobortis."
-		]
-	},
+	"description": "<div>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)<br><br>Apply with XenHTML<br><br>Requires XenInfo for weather/battery components to work properly<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  	"changelog": {
+	    "1.0": [
+	      "Initial release"
+	    ],
+	    "2.0": [
+	      "Updated for full compatibility"
+	    ],
+	    "2.0-1": [
+	      "SB1: Fixed temp unit issue",
+	      "SB2: Fixed battery and ram not showing"
+	    ],
+	    "2.0-2" : [
+	      "Fixed potential freezing on iPX",
+	    ]
+  	},
 	"screenshots": {
 		"LS1.png": "",
 		"LS2.png": "",
