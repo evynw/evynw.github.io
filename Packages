@@ -27,7 +27,7 @@ SHA256: c0b45889334af06580c77bd9c1ee128c627e8330922c0acdb00d03fab1d4b4f1
 Section: Lockscreen Widgets
 Description: iOS11-compatible widget pack. I'm working hard T^T
 Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions_test/?p=com.evynw.ewwdgtpack10
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack10
 Name: EW.WdgtPack.10
 
 Package: com.evynw.ewwdgtpack12

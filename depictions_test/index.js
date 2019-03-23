@@ -96,18 +96,20 @@ $(document).ready(function () {
             // Compare versions
             var result = "";
             var supported = isCurrentVersionSupported(currentVersion, data.minOSVersion, data.maxOSVersion);
-            if (supported == true){
+            if (supported) {
                 result += "Your iOS version (" + currentVersion + ") is <strong>compatible</strong> &#x1f607;";
                 // $(".version-check").css("color", "green");
-                $(".panel-body.version-check").css("background-color", "#79d3bd");
-            } else if (supported == false && otherVersion == "unsupported"){
-                result += "Only compatible with iOS " + data.minOSVersion + " to " + data.maxOSVersion + " &#x1f630;";
-                $(".panel-body.version-check").css("background-color", "#e76f74");
-            } else if (supported == false && otherVersion == "untested"){
-                result += "<strong>Not confirmed</strong> to work on  your iOS version";
-                result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
-                result += " &#x1f625;";
-                $(".panel-body.version-check").css("background-color", "#ffe02b");
+                $(".panel-body.version-check").css("background-color", "#52d183");
+            } else {
+                if (otherVersion == "unsupported"){
+                    result += "Only compatible with iOS " + data.minOSVersion + " to " + data.maxOSVersion + " &#x1f630;";
+                    $(".panel-body.version-check").css("background-color", "#e76f74");
+                } else if (otherVersion == "untested"){
+                    result += "<strong>Not confirmed</strong> to work on  your iOS version";
+                    result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
+                    result += " &#x1f625;";
+                    $(".panel-body.version-check").css("background-color", "#ffe02b");
+                }
             }
             $(".version-check").html(result);
         }
