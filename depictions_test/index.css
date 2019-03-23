@@ -11,6 +11,13 @@ body {
     font-weight:400;
 }
 
+.largeName{
+    text-align:center; background:none;
+    font-family:'Fredoka One',  sans-serif;
+    font-size:300px;
+
+}
+
 a:link,
 a:visited,
 a:hover {
