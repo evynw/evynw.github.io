@@ -100,11 +100,7 @@ $(document).ready(function () {
                 result += "Your iOS version (" + currentVersion + ") is <strong>compatible</strong> &#x1f607;";
                 // $(".version-check").css("color", "green");
                 $(".panel-body.version-check").css("background-color", "#52d183");
-            } else {
-                if (otherVersion == "unsupported"){
-                    result += "Only compatible with iOS " + data.minOSVersion + " to " + data.maxOSVersion + " &#x1f630;";
-                    $(".panel-body.version-check").css("background-color", "#e76f74");
-                } else if (otherVersion == "untested"){
+            } else{
                     result += "<strong>Not confirmed</strong> to work on  your iOS version";
                     result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
                     result += " &#x1f625;";
