@@ -702,21 +702,37 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontfrygiatm
 Name: Frygia (TM)
 
+Package: com.evynw.fontgineso1011
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontgineso1011_iphoneos-arm.deb
+Size: 16294318
+MD5sum: 260c644c427f6cc7040e1f9d30c16ef7
+SHA1: 3007af103d4f0a8db390bc408eee6c516b3a647c
+SHA256: b7b7ee9e5da30757987e162381596cc0c17ed453256617d46ba588eb9d3f7062
+Section: Anemone Fonts
+Description: Grotesque-ish typeface. For Anemone.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgineso1011
+Name: Gineso (iOS10/11)
+
 Package: com.evynw.fontginesoext12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontginesoext12_1.0_iphoneos-arm.deb
-Size: 10423776
-MD5sum: 104a2e0f476af7e316cc701f5a22df2c
-SHA1: 77b69944cf9522a3c5d2f9891cbb9fb43f39f226
-SHA256: fecbff5a2f974cb54fd351b261d42b62aead98139528ebeaad7a84a614f8fd07
+Size: 10423678
+MD5sum: f418cd56bebc2aa94e76ef6c937fbd1b
+SHA1: 39caf028b50ea233257a6c7e8b0c7626f95fc939
+SHA256: 4fad3a6d1eaaf209728c83b63306cef96ab3eb56180e90f4cdfd93452286cd37
 Section: Anemone Fonts
-Description: Alex's 1st ever font on my repo! *claps*
+Description: A classic font & Alex's all time fav <3
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontginesoext12
-Name: Gineso Ext (iOS10-12)
+Name: Gineso Ext (iOS12)
 
 Package: com.evynw.fontginesotm
 Version: 1.0

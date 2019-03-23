@@ -1,0 +1,38 @@
+{
+  "name": "EW.WdgtPack.10",
+  "package": "com.evynw.ewwdgtpack10",
+  "author": "Evelyn (ev_ynw)",
+  "version": "2.0-2",
+  "minOSVersion": "7.0",
+  "maxOSVersion": "10.2",
+  "otheriOS": "unsupported",
+  "description": [
+    "Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)",
+    "<strong>Apply with XenHTML</strong>",
+    "Requires XenInfo for weather/battery components to work properly",
+    "<strong>Need help?</strong> Link to tutorials in my pinned tweet"
+  ],
+  "changelog": {
+    "1.0": [
+      "Initial release"
+    ],
+    "2.0": [
+      "Updated for full compatibility"
+    ],
+    "2.0-1": [
+      "SB1: Fixed temp unit issue",
+      "SB2: Fixed battery and ram not showing"
+    ],
+    "2.0-2" : [
+      "Fixed potential freezing on iPX",
+    ]
+  },
+  "screenshots": {
+    "LS1.png": "",
+    "LS2.png": "",
+    "LS3.png": "",
+    "SB1.png": "",
+    "SB2.png": ""
+  },
+  "links": {}
+}
