@@ -3,6 +3,7 @@
 	"package": "io.multinerd.test",
 	"author": "multinerd",
 	"version": "1.0.1",
+	"dependency": "XenInfo",
 	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget massa bibendum nunc eleifend congue et quis arcu. Praesent tincidunt consectetur malesuada. Sed consectetur a elit non lobortis. Vestibulum eget mollis nisl. Sed egestas mauris vel eros dictum, vitae pharetra tortor vulputate. Donec ac lectus id dui sodales euismod. Nullam sit amet turpis quis augue tincidunt sollicitudin non sed enim. Aenean vitae justo purus. Ut gravida, neque a iaculis congue, ante nisl condimentum orci, at pretium orci purus a nisi. Praesent at purus velit.",
 	"changelog": {
 		"1.0.0": [
@@ -25,7 +26,5 @@
 		"7.jpg": "Praesent at purus velit.",
 		"8.jpg": "Aenean vitae justo purus."
 	},
-	"links": {
-		"<span class=\"glyphicon glyphicon-heart\"></span> Developer's Twitter": "https://twitter.com/"
-	}
+	"links": {}
 }

@@ -8,6 +8,7 @@ h2 {
 body {
     background-color: #efeff4;
     font: 15px "Fira Sans", sans-serif;
+    font-weight:400;
 }
 
 a:link,

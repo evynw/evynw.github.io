@@ -6,9 +6,9 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" href="../CydiaIcon.png">
-	  <link href="https://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet" type="text/css"/>
-	  <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,600,700" rel="stylesheet" type="text/css"/>
-	  <link href="https://fonts.googleapis.com/css?family=Fredoka+One" rel="stylesheet" type="text/css"/>
+	<link href="https://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet" type="text/css"/>
+	<link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,600,700" rel="stylesheet" type="text/css"/>
+	<link href="https://fonts.googleapis.com/css?family=Fredoka+One" rel="stylesheet" type="text/css"/>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css">
 	<link rel="stylesheet" href="index.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
@@ -21,10 +21,10 @@
 	@media (max-width: 767px) {
     body{background:#efeff4!important;margin:0;padding:0;border:0;outline:0;box-sizing:border-box}
 	}
-  .jumbotron{
+  	.largeName{
     	text-align:center; background:none;
-      font-family: 'Fredoka One',  sans-serif;
-  }
+      	font-family: 'Fredoka One',  sans-serif;
+  	}
 </style>
 
 <body>
@@ -36,6 +36,11 @@
 						<small class="package-author"></small>
 					</div>
 				</div> -->
+		<div class="largeName">
+			<h1 id="packageName"></h1>
+		</div>
+
+
 		<div class="row panel panel-default">
 			<div class="panel-body version-check"></div>
 		</div>
@@ -45,12 +50,13 @@
 				<div class="panel-body package-desc-list"></div>
 			</div>
 
+			<h2>Dependencies</h2>
+			<div class="row panel panel-default">
+				<div class="panel-body package-dependency"></div>
+			</div>
+
 			<h2>Current Version:
 				<span class="latest-version" style="font-weight:700;"></span>
-			</h2>
-
-			<h2>Dependencies
-				<span class="package-dependency"></span>
 			</h2>
 
 			<div class="row panel panel-default">
