@@ -78,6 +78,7 @@ $(document).ready(function () {
 
         // iOS version check
         var currentVersion = iOSVersion();
+        var otherVersion = data.otheriOS;
         if (typeof currentVersion === 'undefined' &&
             (typeof data.minOSVersion !== 'undefined' || typeof(data.maxOSVersion) !== 'undefined')) {
             var result = "<strong>Compatible with iOS ";
@@ -94,17 +95,20 @@ $(document).ready(function () {
             $(".version-check").css("color", "green");
         } else {
             // Compare versions
-            var result = "This version ";
+            var result = "";
             var supported = isCurrentVersionSupported(currentVersion, data.minOSVersion, data.maxOSVersion);
-            if (supported) {
-                result += "is <strong>compatible</strong> with your iOS version (" + currentVersion + ").";
+            if (supported){
+                result += "Your iOS version (" + currentVersion + ") is <strong>compatible</strong> &#x1f607;";
                 // $(".version-check").css("color", "green");
-                $(".panel-body.version-check").css("background-color", "#99cc33");
-            } else{
-                result += "<strong>has not been confirmed</strong> to work on your iOS version";
+                $(".panel-body.version-check").css("background-color", "#79d3bd");
+            } else if (otherVersion == "unsupported"){
+                result += "Only compatible with iOS " + data.minOSVersion + " to " + data.maxOSVersion + " &#x1f630;";
+                $(".panel-body.version-check").css("background-color", "#f86476");
+            } else if (otherVersion == "untested"){
+                result += "<strong>Not confirmed</strong> to work on  your iOS version";
                 result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
-                result += ".";
-                $(".panel-body.version-check").css("background-color", "#ffcc00");
+                result += " &#x1f625;";
+                $(".panel-body.version-check").css("background-color", "#ffe02b");
             }
             $(".version-check").html(result);
         }
@@ -113,6 +117,8 @@ $(document).ready(function () {
         $(".package-desc").html(data.description);
         $(".latest-version").text(data.version);
         $(".package-author").text(" by " + data.author);
+        $(".largeName").text(data.name);
+        $(".package-dependency").text(data.dependency);
 
         var cList = $(".changelog-list");
         var changes = data.changelog[data.version];
@@ -165,8 +171,9 @@ $(document).ready(function () {
 
         var links = data.links;
         var extra = {
-            "<img class=\"icon\" src=\"info.png\"><span>Twitter @kienforcefidele</span>": "https://twitter.com/fidel3007",
-            "<img class=\"icon\" src=\"love.png\"><span>Give Energy ༼ つ ◕_◕ ༽つ <span style=\"font-style:italic;font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal</strong></span></span>": "https://paypal.me/fidele007"
+            "<img class=\"icon\" src=\"icons/twitter.png\"><span>Find me on Twitter (@ev_ynw)</span>": "https://twitter.com/ev_ynw",
+            "<img class=\"icon\" src=\"icons/email.png\"><span>Send me an email</span>": "mailto:ev.ynam.w@gmail.com",
+            "<img class=\"icon\" src=\"icons/like.png\"><span>Buy me a &#x1F37B; via <span style=\"font-style:italic;font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal</strong></span></span>": "https://paypal.me/evynw"
         };
         $.extend(links, extra);
         var lKeys = Object.keys(links);
