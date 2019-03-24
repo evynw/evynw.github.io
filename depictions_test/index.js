@@ -91,7 +91,7 @@ $(document).ready(function () {
 
             result += ".</strong>";
             $(".version-check").html(result);
-            $(".version-check").css("color", "#222");
+            $(".version-check").css("color", "green");
         } else {
             // Compare versions
             var result = "";
@@ -99,12 +99,12 @@ $(document).ready(function () {
             if (supported) {
                 result += "Your iOS version (" + currentVersion + ") is <strong>compatible</strong> &#x1f607;";
                 // $(".version-check").css("color", "green");
-                $(".panel-body.version-check").css("background-color", "#52d183");
+                $(".panel-body.version-check").css("background-color", "#99cc33");
             } else{
                 result += "<strong>Not confirmed</strong> to work on your iOS version";
                 result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
-                result += ".";
-                $(".panel-body.version-check").css("background-color", "#ffe02b");
+                result += " &#x1F914;";
+                $(".panel-body.version-check").css("background-color", "#ffcc00");
             }
             $(".version-check").html(result);
         }
