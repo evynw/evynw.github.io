@@ -102,13 +102,14 @@ $(document).ready(function () {
                 // $(".version-check").css("color", "green");
                 $(".panel-body.version-check").css("background-color", "#52d183");
             } else {
-                if (typeof otheriOS == "untested"){
+                if (otheriOS == "untested"){
                     result += "<strong>Not confirmed</strong> to work on your iOS version";
                     result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
                     result += ".";
                     $(".panel-body.version-check").css("background-color", "#ffe02b");
-                } else if (typeof otheriOS == "unsupported"){
+                } else if (otheriOS == "unsupported"){
                     result += "Only compatible with iOS " + data.minOSVersion + " to " + data.maxOSVersion + " &#x1F61F;";
+                    $(".panel-body.version-check").css("background-color", "#f9656d");
                 }
             }
             $(".version-check").html(result);
