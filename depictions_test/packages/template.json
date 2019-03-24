@@ -6,7 +6,7 @@
 	"description": "<div>Test description<br><br>Test description 2</div>",
 	"dependency": "XenInfo",
   	"minOSVersion": "9.0",
-  	"maxOSVersion": "12.1.2",
+  	"maxOSVersion": "10.0",
   	"otheriOS": "untested",
 	"changelog": {
 		"1.0.0": [
