@@ -5,8 +5,8 @@
 	"version": "1.0",
 	"dependency": "N/A",
 	"minOSVersion": "9.0",
-	"maxOSVersion": "12.1.2",
-	"otheriOS": "untested",
+	"maxOSVersion": "10.1.2",
+	"otheriOS": "unsupported",
 	"description": "<div>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)<br><br>Apply with XenHTML<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {
 	    "1.0": [

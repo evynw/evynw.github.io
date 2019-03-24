@@ -9,10 +9,10 @@
   	"maxOSVersion": "10.0",
   	"otheriOS": "untested",
 	"changelog": {
-		"1.0.0": [
+		"1.0": [
 			"Initial release"
 		],
-		"1.0.1": [
+		"1.0-1": [
 			"Fixed issue 1",
 			"Fixed issue 2"
 		]
