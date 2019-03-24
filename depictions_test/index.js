@@ -78,7 +78,6 @@ $(document).ready(function () {
 
         // iOS version check
         var currentVersion = iOSVersion();
-        var otherVersion = data.otheriOS;
         if (typeof currentVersion === 'undefined' &&
             (typeof data.minOSVersion !== 'undefined' || typeof(data.maxOSVersion) !== 'undefined')) {
             var result = "<strong>Compatible with iOS ";
@@ -101,16 +100,11 @@ $(document).ready(function () {
                 result += "Your iOS version (" + currentVersion + ") is <strong>compatible</strong> &#x1f607;";
                 // $(".version-check").css("color", "green");
                 $(".panel-body.version-check").css("background-color", "#52d183");
-            } else {
-                if (otheriOS == "untested"){
-                    result += "<strong>Not confirmed</strong> to work on your iOS version";
-                    result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
-                    result += ".";
-                    $(".panel-body.version-check").css("background-color", "#ffe02b");
-                } else if (otheriOS == "unsupported"){
-                    result += "Only compatible with iOS " + data.minOSVersion + " to " + data.maxOSVersion + " &#x1F61F;";
-                    $(".panel-body.version-check").css("background-color", "#ffe02b");
-                }
+            } else{
+                result += "<strong>Not confirmed</strong> to work on your iOS version";
+                result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
+                result += ".";
+                $(".panel-body.version-check").css("background-color", "#ffe02b");
             }
             $(".version-check").html(result);
         }
