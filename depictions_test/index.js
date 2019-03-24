@@ -101,11 +101,10 @@ $(document).ready(function () {
                 // $(".version-check").css("color", "green");
                 $(".panel-body.version-check").css("background-color", "#52d183");
             } else{
-                    result += "<strong>Not confirmed</strong> to work on your iOS version";
-                    result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
-                    result += " &#x1f625;";
-                    $(".panel-body.version-check").css("background-color", "#ffe02b");
-                }
+                result += "<strong>Not confirmed</strong> to work on your iOS version";
+                result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
+                result += ".";
+                $(".panel-body.version-check").css("background-color", "#ffe02b");
             }
             $(".version-check").html(result);
         }
@@ -169,7 +168,7 @@ $(document).ready(function () {
         var extra = {
             "<img class=\"icon\" src=\"icons/twitter.png\"><span>Find me on Twitter (@ev_ynw)</span>": "https://twitter.com/ev_ynw",
             "<img class=\"icon\" src=\"icons/email.png\"><span>Send me an email</span>": "mailto:ev.ynam.w@gmail.com",
-            "<img class=\"icon\" src=\"icons/like.png\"><span>Buy me a &#x1F37B; via <span style=\"font-style:italic;font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal</strong></span></span>": "https://paypal.me/evynw"
+            "<img class=\"icon\" src=\"icons/like.png\"><span>Buy me a &#x1F37A; via <span style=\"font-style:italic;font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal</strong></span></span>": "https://paypal.me/evynw"
         };
         $.extend(links, extra);
         var lKeys = Object.keys(links);
