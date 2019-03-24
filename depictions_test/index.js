@@ -97,11 +97,11 @@ $(document).ready(function () {
             // Compare versions
             var result = "";
             var supported = isCurrentVersionSupported(currentVersion, data.minOSVersion, data.maxOSVersion);
-            if (supported) {
+            if (supported === true) {
                 result += "Your iOS version (" + currentVersion + ") is <strong>compatible</strong> &#x1f607;";
                 // $(".version-check").css("color", "green");
                 $(".panel-body.version-check").css("background-color", "#52d183");
-            } else {
+            } else if (supported === false){
                 if (otheriOS == "untested"){
                     result += "<strong>Not confirmed</strong> to work on your iOS version";
                     result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
