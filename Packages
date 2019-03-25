@@ -27,7 +27,7 @@ SHA256: c0b45889334af06580c77bd9c1ee128c627e8330922c0acdb00d03fab1d4b4f1
 Section: Lockscreen Widgets
 Description: iOS11-compatible widget pack. I'm working hard T^T
 Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions_test/?p=com.evynw.ewwdgtpack10
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack10
 Name: EW.WdgtPack.10
 
 Package: com.evynw.ewwdgtpack12
@@ -590,6 +590,38 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcoresansd9
 Name: Core Sans D (iOS9)
 
+Package: com.evynw.fontcorpsansalt12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontcorpsansalt12_1.0_iphoneos-arm.deb
+Size: 9811792
+MD5sum: 10372e11b4a4b779af8eae8db87e4f0c
+SHA1: 18e2ba8ddccbfc40c1938c62e2a503772482d5c5
+SHA256: 5b777488325eadf862fa4b0cdf6ea955bfd72ecfcac71129884b2c6c2851c344
+Section: Anemone Fonts
+Description: 100% stock font size of Corporative Sans Alt
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcorpsansalt12
+Name: Corporative Sans Alt (iOS10-12)
+
+Package: com.evynw.fontcorpsansalt8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontcorpsansalt8512_1.0_iphoneos-arm.deb
+Size: 10431560
+MD5sum: d48333e040225e1c0a91c5c96bd65c8e
+SHA1: 2916ff54be3b89b24e8e70b3395cdc33dcfeeebe
+SHA256: ce93251a6bf8bb3c1780902314797e295d24a45ac26ab17c49e2eb63187ec98d
+Section: Anemone Fonts
+Description: 85% size of the original Corporative Sans
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcorpsansalt8512
+Name: Corporative Sans Alt_85% (iOS10-12)
+
 Package: com.evynw.fontffmark1011
 Version: 1.0
 Architecture: iphoneos-arm
@@ -724,12 +756,12 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontginesoext12_1.0_iphoneos-arm.deb
-Size: 10423678
-MD5sum: f418cd56bebc2aa94e76ef6c937fbd1b
-SHA1: 39caf028b50ea233257a6c7e8b0c7626f95fc939
-SHA256: 4fad3a6d1eaaf209728c83b63306cef96ab3eb56180e90f4cdfd93452286cd37
+Size: 10423652
+MD5sum: f5cae98496ea5af3358f9255f3c67edf
+SHA1: af1ef4c9bcd937157aa3a767be85933f1503af98
+SHA256: 8c1b47a144eee333e21aa2ccacf6ce4ca79fd504cfd4991ac126fa3238c015e4
 Section: Anemone Fonts
-Description: A classic font & Alex's all time fav <3
+Description: Alex's 1st ever font on my repo!
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontginesoext12
 Name: Gineso Ext (iOS12)
@@ -893,6 +925,22 @@ Description: Clean & kinda cute (?) typeface. For Anemone.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmetronova1011
 Name: Metro Nova Pro (iOS10/11)
+
+Package: com.evynw.fontmyriad12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontmyriad12_1.0_iphoneos-arm.deb
+Size: 10820160
+MD5sum: 8cead7866cc7c0c807724d375c9c3e8c
+SHA1: ce8541275a1dfe26bf00811aae14ce09e8522a65
+SHA256: 80a50ef1706bd8fd8187579d7b4697f2b943663003103b92af88b4c84e9a45ff
+Section: Anemone Fonts
+Description: A classic font & Alex's all time fav <3
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmyriad12
+Name: Myriad Pro (iOS10-12)
 
 Package: com.evynw.fontnovelsans1011
 Version: 1.0
