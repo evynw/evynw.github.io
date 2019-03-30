@@ -91,7 +91,7 @@ $(document).ready(function () {
 
             result += ".</strong>";
             $(".version-check").html(result);
-            $(".version-check").css("color", "green");
+            $(".version-check").css("color", "#333");
         } else {
             // Compare versions
             var result = "";

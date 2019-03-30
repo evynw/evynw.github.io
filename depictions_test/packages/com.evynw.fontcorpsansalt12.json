@@ -1,0 +1,20 @@
+{
+	"name": "Corporative Sans Alt (iOS10/11/12)",
+	"package": "com.evynw.fontcorpsansalt12",
+	"author": "Evelyn (ev_ynw)",
+	"version": "1.0",
+	"dependency": "N/A",
+	"minOSVersion": "10.0",
+	"maxOSVersion": "12.1.2",
+	"otheriOS": "untested",
+	"description": "<div><strong>Normal size. Install 'Corporative Sans Alt_85%' for smaller character size</strong><br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with Anemone. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  	"changelog": {
+	    "1.0": [
+	      "Initial release"
+	    ]
+  	},
+	"screenshots": {
+		"ss.png": ""
+	},
+	"links": {}
+}

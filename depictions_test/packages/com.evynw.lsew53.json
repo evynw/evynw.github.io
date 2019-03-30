@@ -1,0 +1,21 @@
+{
+	"name": "LS EW53",
+	"package": "com.evynw.lsew53",
+	"author": "Evelyn (ev_ynw)",
+	"version": "1.0",
+	"dependency": "XenInfo",
+	"minOSVersion": "9.0",
+	"maxOSVersion": "12.1.2",
+	"otheriOS": "untested",
+	"description": "<div>Includes 2 versions - see screenshots<br><br>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)<br><br>Apply with XenHTML<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  	"changelog": {
+	    "1.0": [
+	      "Initial release"
+	    ]
+  	},
+	"screenshots": {
+		"ss1.png": "Version 1",
+		"ss2.png": "Version 2",
+	},
+	"links": {}
+}

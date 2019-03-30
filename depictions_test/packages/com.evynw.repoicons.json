@@ -1,0 +1,20 @@
+{
+	"name": "EVELYN's Repo Icons",
+	"package": "com.evynw.repoicons",
+	"author": "Evelyn (ev_ynw)",
+	"version": "1.0",
+	"dependency": "XenInfo",
+	"minOSVersion": "8.0",
+	"maxOSVersion": "12.2",
+	"otheriOS": "untested",
+	"description": "<div>Replace the '?' in package icon/thumbnails</div>",
+  	"changelog": {
+	    "1.0": [
+	      "Initial release"
+	    ]
+  	},
+	"screenshots": {
+		"": ""
+	},
+	"links": {}
+}

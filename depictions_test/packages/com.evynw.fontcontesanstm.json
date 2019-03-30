@@ -1,0 +1,20 @@
+{
+	"name": "Conte Sans (TM)",
+	"package": "com.evynw.fontcontesanstm",
+	"author": "Evelyn (ev_ynw)",
+	"version": "1.0",
+	"dependency": "N/A",
+	"minOSVersion": "9.0",
+	"maxOSVersion": "12.1.2",
+	"otheriOS": "untested",
+	"description": "<div>Installed to: /Library/BytaFont/[fontname].font/<br><br>Apply with BytaFont Tweak Mode. 6 font weights available.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  	"changelog": {
+	    "1.0": [
+	      "Initial release"
+	    ]
+  	},
+	"screenshots": {
+		"ss.png": ""
+	},
+	"links": {}
+}
