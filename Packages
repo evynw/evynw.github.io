@@ -1086,6 +1086,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonturwgeo1011
 Name: URW Geometric (iOS10/11)
 
+Package: com.evynw.fonturwgeo12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fonturwgeo12_1.0_iphoneos-arm.deb
+Size: 16865030
+MD5sum: 29ab1bf5708b6068753f4d4e3b365829
+SHA1: 12d9506c8f8d101afca2c72d036cdde8daffe513
+SHA256: 94282625dc2bef63f8160ff37b886c624ab94a28660efeb78e2c2f6e556e2f0d
+Section: Anemone Fonts
+Description: Small sans-serif. Compatible with iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonturwgeo12
+Name: URW Geometric (iOS12)
+
 Package: com.evynw.fonturwgeotm
 Version: 1.0
 Architecture: iphoneos-arm

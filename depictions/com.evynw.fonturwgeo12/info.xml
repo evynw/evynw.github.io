@@ -1,0 +1,28 @@
+<package>
+	<id>com.evynw.fonturwgeo12</id>
+	<name>URW Geometric (iOS10/11/12)</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>N/A</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[<b>Installed to:</b> </ br>/Library/Themes/[fontname].theme/ <br /> <br />
+                          <b>Apply with Anemone</b><br />
+                          Package name = Fonts]]></description>
+		<description>For iOS12 users, please refer to the tutorial pinned on my Twitter: @ev_ynw</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ss.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
