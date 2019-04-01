@@ -25,6 +25,7 @@ a:hover {
 .list-group-item,
 .alert {
     border-radius: 0 !important;
+    max-width: 100%;
 }
 
 .list-group-item:last-child {
