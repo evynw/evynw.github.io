@@ -25,7 +25,6 @@ a:hover {
 .list-group-item,
 .alert {
     border-radius: 0 !important;
-    max-width: 100%;
 }
 
 .list-group-item:last-child {
@@ -37,7 +36,6 @@ a:hover {
     background-repeat: no-repeat;
     background-size: 10px 13px;
     max-height: 43px;
-    max-width:100%;
 }
 
 .subshots {
