@@ -27,8 +27,6 @@ a:hover {
     border-radius: 0 !important;
 }
 
-.panel{max-width: 100%;}
-
 .list-group-item:last-child {
     font-size: 13px;
     font-weight: 600;
