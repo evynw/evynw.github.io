@@ -57,8 +57,9 @@ a:hover {
     display: block;
     height: auto;
     line-height: 1;
-    max-width: 96.5%;
-    width: 96.5%;
+    max-width: 100%;
+    width: 100%;
+    margin-left:-10px;
 }
 
 .package-buttons {
