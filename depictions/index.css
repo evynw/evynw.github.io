@@ -9,7 +9,6 @@ body {
     background-color: #efeff4;
     font: 13px "Fira Sans", sans-serif;
     font-weight:400;
-    max-width: 100%;
 }
 
 a:link,
@@ -26,6 +25,7 @@ a:hover {
 .list-group-item,
 .alert {
     border-radius: 0 !important;
+    max-width: 100%;
 }
 
 .panel{max-width: 100%;}
@@ -39,6 +39,7 @@ a:hover {
     background-repeat: no-repeat;
     background-size: 10px 13px;
     max-height: 43px;
+    max-width:100%;
 }
 
 .subshots {
