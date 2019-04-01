@@ -46,11 +46,11 @@ a:hover {
 }
 
 .subshots {
-    text-align: center;
+    text-align: left;
 }
 
 .subshots:nth-child(1) {
-    margin-bottom: 10px;
+    margin-bottom: 6px;
 }
 
 .screenshots img {
@@ -59,7 +59,6 @@ a:hover {
     line-height: 1;
     max-width: 100%;
     width: 100%;
-    margin-left:-10px;
 }
 
 .package-buttons {
@@ -98,7 +97,7 @@ a:hover {
     font-size: 13px;
     max-height: 43px;
     background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaCAYAAAC3g3x9AAAAn0lEQVRIx73VUQqAIBAEUCm6WWIQ/hZBh+nmtkGGyKKzuiTMj8FD1sFMCMHkoTVTVu5bLRxmKdcbMVrCmtAUcwwmRiM2Uc4CCKPpCVXQfIbdKHfLXSi/CaKUAQIF6EYZIbAVrdcAQ/eIYmUVoJrgAYESTOtSvvn9VxsQ81CxUUzzcfDFuWti0ge2iuUnXHoxboauB0N+oyKs1EPbgj25AROsvvXJNxxhAAAAAElFTkSuQmCC);
-    background-position: 96.5% center;
+    background-position: 100% center;
     background-repeat: no-repeat;
     background-size: 10px 13px;
 }
