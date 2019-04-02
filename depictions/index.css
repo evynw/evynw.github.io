@@ -5,9 +5,6 @@ h2 {
     text-transform: uppercase;
 }
 
-@media (max-width: 767px) {}
-
-
 body {
     background-color: #efeff4;
     font: 13px "Fira Sans", sans-serif;
@@ -30,7 +27,9 @@ a:hover {
     border-radius: 0 !important;
 }
 
-.container1{width: 100%;}
+.row{
+    max-width:100%;
+}
 
 .list-group-item:last-child {
     font-size: 13px;
@@ -95,7 +94,7 @@ a:hover {
 .panel-default>.screenshots-header {
     font-size: 13px;
     max-height: 43px;
-    max-width: 100%;
+    max-width: 96.5%;
     background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaCAYAAAC3g3x9AAAAn0lEQVRIx73VUQqAIBAEUCm6WWIQ/hZBh+nmtkGGyKKzuiTMj8FD1sFMCMHkoTVTVu5bLRxmKdcbMVrCmtAUcwwmRiM2Uc4CCKPpCVXQfIbdKHfLXSi/CaKUAQIF6EYZIbAVrdcAQ/eIYmUVoJrgAYESTOtSvvn9VxsQ81CxUUzzcfDFuWti0ge2iuUnXHoxboauB0N+oyKs1EPbgj25AROsvvXJNxxhAAAAAElFTkSuQmCC);
     background-position: 96.5% center;
     background-repeat: no-repeat;
