@@ -9,7 +9,7 @@ body {
     background-color: #efeff4;
     font: 13px "Fira Sans", sans-serif;
     font-weight:400;
-    margin-left:0px;
+    margin-left:8px;
 }
 
 a:link,
@@ -29,7 +29,7 @@ a:hover {
 }
 
 .row{
-    width:100%;
+    width:103.5%;
 }
 
 .list-group-item:last-child {
