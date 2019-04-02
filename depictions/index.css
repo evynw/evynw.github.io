@@ -5,6 +5,9 @@ h2 {
     text-transform: uppercase;
 }
 
+@media (max-width: 767px) {}
+
+
 body {
     background-color: #efeff4;
     font: 13px "Fira Sans", sans-serif;
@@ -27,7 +30,7 @@ a:hover {
     border-radius: 0 !important;
 }
 
-.container1{max-width: 100%;}
+.container1{width: 100%;}
 
 .list-group-item:last-child {
     font-size: 13px;
