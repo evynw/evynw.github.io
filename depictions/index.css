@@ -28,7 +28,7 @@ a:hover {
 }
 
 .row{
-    max-width:100%;
+    width:100%;
 }
 
 .list-group-item:last-child {
