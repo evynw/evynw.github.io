@@ -99,7 +99,7 @@ $(document).ready(function () {
             if (supported) {
                 result += "Your iOS version (" + currentVersion + ") is <strong>compatible</strong> &#x1f607;";
                 // $(".version-check").css("color", "green");
-                $(".panel-body.version-check").css("background-color", "#99cc33");
+                $(".panel-body.version-check").css("background-color", "#a6d841");
             } else{
                 result += "<strong>Not confirmed</strong> to work on your iOS version";
                 result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
