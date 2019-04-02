@@ -9,7 +9,7 @@ body {
     background-color: #efeff4;
     font: 13px "Fira Sans", sans-serif;
     font-weight:400;
-    margin-left:8px;
+    margin-left:10px;
 }
 
 a:link,
@@ -45,7 +45,7 @@ a:hover {
 
 .subshots {
     text-align: center;
-    max-width:96%;
+    max-width:100%;
 }
 
 .subshots:nth-child(1) {
