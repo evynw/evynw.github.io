@@ -29,7 +29,7 @@ a:hover {
 }
 
 .row{
-    width:105%;
+    width:104%;
 }
 
 .list-group-item:last-child {
@@ -45,7 +45,7 @@ a:hover {
 
 .subshots {
     text-align: center;
-    max-width:100%;
+    max-width: 96.5%;
 }
 
 .subshots:nth-child(1) {
@@ -58,6 +58,7 @@ a:hover {
     line-height: 1;
     max-width: 100%;
     width: 100%;
+    
 }
 
 .package-buttons {
