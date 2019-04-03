@@ -206,6 +206,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalrightsans1011
 Name: Alright Sans (iOS10/11)
 
+Package: com.evynw.fontalrightsans12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontalrightsans12_1.0_iphoneos-arm.deb
+Size: 17069160
+MD5sum: db2509060215d08c6d921efdebb75216
+SHA1: 2770da527c11309945f8d1846bbd000254b065b6
+SHA256: a203a1ed576a85bfb0e7652e00346391b1b38fe36179b7d2cdb416cc611d6322
+Section: Anemone Fonts
+Description: Sans serif font. Compatible with iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalrightsans12
+Name: Alright Sans (iOS10/11/12)
+
 Package: com.evynw.fontalrightsans9
 Version: 1.0
 Architecture: iphoneos-arm
