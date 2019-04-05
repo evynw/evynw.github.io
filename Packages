@@ -846,6 +846,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontglobertm
 Name: Glober (TM)
 
+Package: com.evynw.fontibmplexsans12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontibmplexsans12_1.0_iphoneos-arm.deb
+Size: 11366220
+MD5sum: a4852060ee389bfa64cd38b336cb1039
+SHA1: f01128bccf238e3a3ccb9c8634e0c2465a8c0ae5
+SHA256: 5c416bc4a8964df1ae97a681da67456439b7931f908fd7f5f05ac36bb2a8a76a
+Section: Anemone Fonts
+Description: Clean-looking sans. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontibmplexsans12
+Name: IBM Plex Sans (iOS10-12)
+
 Package: com.evynw.fontintervalsans1011
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1021,6 +1037,22 @@ Description: Classic sans-serif. For Anemone.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontopensans1011
 Name: Open Sans (iOS10/11)
+
+Package: com.evynw.fontpfdin12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontpfdin12_1.0_iphoneos-arm.deb
+Size: 9405912
+MD5sum: 724aa01f4cf4f8d338b95460a06bb19e
+SHA1: b6fa789a9979ce93fd0cc57b4d67090ef149a974
+SHA256: 501311560c3623be462e8756f846b633255566adc9144f85e1b6fdb29f5914b6
+Section: Anemone Fonts
+Description: DIN - one of the best typefaces For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontpfdin12
+Name: PF DIN Text Pro (iOS10-12)
 
 Package: com.evynw.fontsfpro1011
 Version: 1.0

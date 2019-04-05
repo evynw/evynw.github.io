@@ -1,13 +1,13 @@
 {
 	"name": "Myriad Pro (iOS10/11/12)",
-	"package": "com.evynw.fontmyriadpro12",
-	"author": "Evelyn (ev_ynw)",
+	"package": "com.evynw.fontmyriad12",
+	"author": "Alex (@Alexman1979)",
 	"version": "1.0",
 	"dependency": "N/A",
 	"minOSVersion": "10.0",
 	"maxOSVersion": "12.1.2",
 	"otheriOS": "untested",
-	"description": "<div>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with Anemone. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+	"description": "<div>Compatible across iOS10 up to iOS12.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with Anemone. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {
 	    "1.0": [
 	      "Initial release"
