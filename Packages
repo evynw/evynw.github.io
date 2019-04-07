@@ -270,6 +270,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontasterisk1011
 Name: Asterisk Sans (iOS10/11)
 
+Package: com.evynw.fontasterisk12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontasterisk12_1.0_iphoneos-arm.deb
+Size: 16970190
+MD5sum: a749fa3bd26c96c513484bcd3c7b2800
+SHA1: a2b0bd90dabef3fa39ddfa00a25a7e3718390b94
+SHA256: 6b464f37133a048de1aa9533f5f67d40ced36e73dcf59ad1047f882a159ae470
+Section: Anemone Fonts
+Description: Clean & thin sans-serif for iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontasterisk12
+Name: Asterisk Sans (iOS10/11/12)
+
 Package: com.evynw.fontasterisktm
 Version: 1.0
 Architecture: iphoneos-arm
