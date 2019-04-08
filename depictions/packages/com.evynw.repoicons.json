@@ -2,8 +2,8 @@
 	"name": "EVELYN's Repo Icons",
 	"package": "com.evynw.repoicons",
 	"author": "Evelyn (ev_ynw)",
-	"version": "1.0",
-	"dependency": "XenInfo",
+	"version": "1.0-1",
+	"dependency": "N/A",
 	"minOSVersion": "8.0",
 	"maxOSVersion": "12.2",
 	"otheriOS": "untested",
@@ -11,6 +11,9 @@
   	"changelog": {
 	    "1.0": [
 	      "Initial release"
+	    ],
+	    "1.0-1": [
+	      "Added new section of MASQ Themes"
 	    ]
   	},
 	"screenshots": {},

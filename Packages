@@ -3278,15 +3278,31 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsewrisingbars
 Name: LS EW.RisingBars
 
-Package: com.evynw.repoicons
+Package: com.evynw.masqew4
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.repoicons_1.0_iphoneos-arm.deb
-Size: 116690
-MD5sum: 3b79956c2fcf91ccf316b7f3285e4266
-SHA1: 42fa0aba60b6fec3e3c324ba4e923bbb51d98dfb
-SHA256: 5265dbedce245c70f95f2b8f8f7e58dd51f4169119ce71d3b7346084c63f5c5d
+Depends: com.evynw.repoicons (>= 1.0-1)
+Filename: ./debs/com.evynw.masqew4_1.0_iphoneos-arm.deb
+Size: 96692
+MD5sum: 6e92c519aa3c55d407dadcb72a81405e
+SHA1: 37d51c1e136ba59e0047c8c75778f174fdf23e49
+SHA256: 4fefb108cdcda96e8a12294ca0dcbbd572e5c097a4329092760feda893f8023f
+Section: MASQ Themes
+Description: One of my old MASQ themes
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.masqew4
+Name: MASQ.EW4
+
+Package: com.evynw.repoicons
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.repoicons_1.0-1_iphoneos-arm.deb
+Size: 136124
+MD5sum: f60a3c317c9154498df19c33f541da68
+SHA1: ff4f9dd6e93d888417f4794e43f5c8b0b470347a
+SHA256: 4019e187d861c45470ffb46c09458a3d29b4dd335cfaa0cf851ae1d1f9e815f8
 Section: System
 Description: Official Icons for EVELYN's Repo. Icons replacing the ? marks.
 Author: Evelyn (ev_ynw)
