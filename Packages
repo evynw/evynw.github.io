@@ -318,6 +318,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontavenir1011
 Name: Avenir Next (iOS10/11)
 
+Package: com.evynw.fontavenir12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontavenir12_1.0_iphoneos-arm.deb
+Size: 17949902
+MD5sum: e484017c867a995dfc2eb8bdaa163da5
+SHA1: c40fd40186782816880046ebfc811a33522eee03
+SHA256: feed89cf334bbf480d2b325dceece1f2d5a80bae51981e8ecb170eed0d9e53cd
+Section: Anemone Fonts
+Description: Classic sans-serif. Compatible with iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontavenir12
+Name: Avenir Next (iOS10/11/12)
+
 Package: com.evynw.fontbrandontext1011
 Version: 1.0
 Architecture: iphoneos-arm
