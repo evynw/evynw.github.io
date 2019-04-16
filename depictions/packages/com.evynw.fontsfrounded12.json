@@ -1,0 +1,20 @@
+{
+	"name": "SF Compact Rounded (iOS10-12)",
+	"package": "com.evynw.fontsfrounded12",
+	"author": "Alex (@Alexman1979)",
+	"version": "1.0",
+	"dependency": "N/A",
+	"minOSVersion": "10.0",
+	"maxOSVersion": "12.1.2",
+	"otheriOS": "untested",
+	"description": "<div>Installed to: /Library/Themes/[fontname].theme/<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  	"changelog": {
+	    "1.0": [
+	      "Initial release"
+	    ]
+  	},
+	"screenshots": {
+		"ss.png": ""
+	},
+	"links": {}
+}

@@ -334,6 +334,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontavenir12
 Name: Avenir Next (iOS10/11/12)
 
+Package: com.evynw.fontbariol12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.0-2)
+Filename: ./debs/com.evynw.fontbariol12_1.0_iphoneos-arm.deb
+Size: 10358434
+MD5sum: bc0f182be071a7fa21d9e928344d82d0
+SHA1: 032ce946b967cb6045f824db88a557e29b1e950d
+SHA256: 0f187029717cb0e55f34a980a36d274fd7b931e13231b6a01173ec0ab4ced107
+Section: Fonts (Theme)
+Description: Classic iOS ported rounded font. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbariol12
+Name: Bariol (iOS10-12)
+
 Package: com.evynw.fontbrandontext1011
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1101,6 +1117,38 @@ Description: Font in Notebook app applied system-wide
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsfpro1011
 Name: SF Pro Alt (iOS10/11)
+
+Package: com.evynw.fontsfrounded12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.0-2)
+Filename: ./debs/com.evynw.fontsfrounded12_1.0_iphoneos-arm.deb
+Size: 10035274
+MD5sum: 0aaddb65ef852c1acd0f0856c92afabc
+SHA1: f230932cf6ad6f81ea615008b8723d84926ed6a0
+SHA256: 764554268486c34413580b7bbdb5b75f993437fb9b3f8dee4da12ae57d171ec0
+Section: Fonts (Theme)
+Description: Rounded San Franciso. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsfrounded12
+Name: SF Compact Rounded (iOS10-12)
+
+Package: com.evynw.fonttisasans12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.0-2)
+Filename: ./debs/com.evynw.fonttisasans12_1.0_iphoneos-arm.deb
+Size: 9982144
+MD5sum: b15c39fb3933c985779198b52284e8db
+SHA1: f6fc39dad86040ba2aff20f5561291e14f5f7efc
+SHA256: 9234b4dcd58f08145f7f3dad04598e79744816d83f3228e258e71c46413e4b1c
+Section: Fonts (Theme)
+Description: Sans that's kinda cute. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonttisasans12
+Name: FF Tisa Sans (iOS10-12)
 
 Package: com.evynw.fontttteds1011
 Version: 1.0
@@ -3327,14 +3375,14 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.masqew4
 Name: MASQ.EW4
 
 Package: com.evynw.repoicons
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.repoicons_1.0-1_iphoneos-arm.deb
-Size: 136124
-MD5sum: f60a3c317c9154498df19c33f541da68
-SHA1: ff4f9dd6e93d888417f4794e43f5c8b0b470347a
-SHA256: 4019e187d861c45470ffb46c09458a3d29b4dd335cfaa0cf851ae1d1f9e815f8
+Filename: ./debs/com.evynw.repoicons_1.0-2_iphoneos-arm.deb
+Size: 136122
+MD5sum: fd99315d95a29cf1bdeb0fc21d961124
+SHA1: e1757e9e5421a7ef73eb421b92306ca6a5cece9a
+SHA256: bcc276c545ebe7623a260df44462bdf0c63e5ce285a5ae67e5b3cc63427866f6
 Section: System
 Description: Official Icons for EVELYN's Repo. Icons replacing the ? marks.
 Author: Evelyn (ev_ynw)
