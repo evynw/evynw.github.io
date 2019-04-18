@@ -1092,15 +1092,15 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontopensans12_1.0_iphoneos-arm.deb
-Size: 13090186
-MD5sum: 2f95e9f0e905437e7809bb1009882955
-SHA1: f05eba60f84b75bb8ac4aca5b5bcaa0d319c1cba
-SHA256: 2ef6441fb2b6716a9a0d62c76536953754f485d08162e0b9b126f209c27cdf23
-Section: Anemone Fonts
+Size: 13090198
+MD5sum: 5e0425ef89c9f6d0c3741d57ed0f55ce
+SHA1: 7079387c2b1a441014b84973973a3c7faf7fd7d4
+SHA256: ed45630d60565d41cafa86163ebd4b8d8841811ff4a878bcc737d81817b38fa4
+Section: Fonts - Theme
 Description: Classic sans-serif. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontopensans12
-Name: Open Sans (iOS10/11/12)
+Name: Open Sans (iOS10-12)
 
 Package: com.evynw.fontpfdin12
 Version: 1.0
