@@ -174,69 +174,21 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalegreyasans1011
 Name: Alegreya Sans (iOS10/11)
 
-Package: com.evynw.fontalegreyasans9
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
-Filename: ./debs/com.evynw.fontalegreyasans9_1.0_iphoneos-arm.deb
-Size: 11786530
-MD5sum: dfe0428c2373a06d857dd307358d8da2
-SHA1: b56b8254070ae8d4ebcdebc02a9e2dd61cde8b8f
-SHA256: 5b865002fc6f4e2cbe043ef0af4efa9cf2c6ed4b9572445cfd03fae25a73a87a
-Section: Anemone Fonts
-Description: Clean & small sans-serif typeface. For Anemone.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalegreyasans9
-Name: Alegreya Sans (iOS9)
-
-Package: com.evynw.fontalrightsans1011
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
-Filename: ./debs/com.evynw.fontalrightsans1011_1.0_iphoneos-arm.deb
-Size: 17700508
-MD5sum: 1d55dd073c611eb8e1501c1afac2f211
-SHA1: e7013447d4ff9993b87dbf7b5466dd1bccd23d11
-SHA256: 5a5856e48a2f0128d2f978a5f4b008afbeef55b420599ee63ed5ea1a3cd0b2dc
-Section: Anemone Fonts
-Description: Popular sans-serif typeface. For Anemone.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalrightsans1011
-Name: Alright Sans (iOS10/11)
-
 Package: com.evynw.fontalrightsans12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
+Depends: com.evynw.repoicons (>= 1.0-3)
 Filename: ./debs/com.evynw.fontalrightsans12_1.0_iphoneos-arm.deb
-Size: 17069160
-MD5sum: db2509060215d08c6d921efdebb75216
-SHA1: 2770da527c11309945f8d1846bbd000254b065b6
-SHA256: a203a1ed576a85bfb0e7652e00346391b1b38fe36179b7d2cdb416cc611d6322
-Section: Anemone Fonts
+Size: 17069150
+MD5sum: 29e1aba82a8bc8fee79ac25ce84cefd7
+SHA1: 7cc78aa07af22e64f06beb3705fde4c0d4ced1af
+SHA256: 0952d3399b6e09ceb77ab3352c67f8225fcf4b6f8759193ec6c0d71e43c55949
+Section: Fonts - Theme
 Description: Sans serif font. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalrightsans12
-Name: Alright Sans (iOS10/11/12)
-
-Package: com.evynw.fontalrightsans9
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
-Filename: ./debs/com.evynw.fontalrightsans9_1.0_iphoneos-arm.deb
-Size: 18881330
-MD5sum: 98eab30f0ec2312341838477aa1ef2b5
-SHA1: 95c861408695a38d5f3392e8424cc6fa489982d4
-SHA256: 172b4cf55b7f6929847af205be16087797e27e11a55d646893ccdbf5c05e61a1
-Section: Anemone Fonts
-Description: Popular sans-serif typeface. For Anemone.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalrightsans9
-Name: Alright Sans (iOS9)
+Name: Alright Sans (iOS10-12)
 
 Package: com.evynw.fontalrightsanstm
 Version: 1.0
@@ -254,37 +206,21 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalrightsanstm
 Name: Alright Sans (TM)
 
-Package: com.evynw.fontasterisk1011
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
-Filename: ./debs/com.evynw.fontasterisk1011_1.0_iphoneos-arm.deb
-Size: 17055944
-MD5sum: 658ecb63ccb2aaaf257902222a39c06e
-SHA1: 09bd609895fabf0507425c35fe51caf4f32fa326
-SHA256: 2cca3e2e5c71c475539ef6ec565e5990778823abfe1ef2dd11579bdca788f20f
-Section: Anemone Fonts
-Description: Clean & thin sans-serif typeface. For Anemone.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontasterisk1011
-Name: Asterisk Sans (iOS10/11)
-
 Package: com.evynw.fontasterisk12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
+Depends: com.evynw.repoicons (>= 1.0-3)
 Filename: ./debs/com.evynw.fontasterisk12_1.0_iphoneos-arm.deb
-Size: 16970190
-MD5sum: a749fa3bd26c96c513484bcd3c7b2800
-SHA1: a2b0bd90dabef3fa39ddfa00a25a7e3718390b94
-SHA256: 6b464f37133a048de1aa9533f5f67d40ced36e73dcf59ad1047f882a159ae470
-Section: Anemone Fonts
+Size: 16970218
+MD5sum: 022153a347646e086663bfc102854d2a
+SHA1: e289262392a3683a11f429a0f7d0908fedd281fb
+SHA256: ee3b29faa1bc116bc9c5da58175811bad1f27732322f479260b00c74c62b8def
+Section: Fonts - Theme
 Description: Clean & thin sans-serif for iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontasterisk12
-Name: Asterisk Sans (iOS10/11/12)
+Name: Asterisk Sans (iOS10-12)
 
 Package: com.evynw.fontasterisktm
 Version: 1.0
@@ -302,37 +238,21 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontasterisktm
 Name: Asterisk Sans (TM)
 
-Package: com.evynw.fontavenir1011
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
-Filename: ./debs/com.evynw.fontavenir1011_1.0_iphoneos-arm.deb
-Size: 17613620
-MD5sum: 36a8ce9af106c2087af0860f1cc5b0dc
-SHA1: 721f2a7418e1ef6e0f9be856eb458be73aff78ae
-SHA256: 11a08c18b3081aa9cfa5ff15166426d8acae19a08aa4c5913fcb3168dff962e6
-Section: Anemone Fonts
-Description: Classic sans-serif typeface. For Anemone.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontavenir1011
-Name: Avenir Next (iOS10/11)
-
 Package: com.evynw.fontavenir12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
+Depends: com.evynw.repoicons (>= 1.0-3)
 Filename: ./debs/com.evynw.fontavenir12_1.0_iphoneos-arm.deb
-Size: 17949902
-MD5sum: e484017c867a995dfc2eb8bdaa163da5
-SHA1: c40fd40186782816880046ebfc811a33522eee03
-SHA256: feed89cf334bbf480d2b325dceece1f2d5a80bae51981e8ecb170eed0d9e53cd
-Section: Anemone Fonts
+Size: 17949894
+MD5sum: 7142c928ef113c0d2112e719add3caec
+SHA1: 8cf082f05924faf70f91f27f2929accf7002577f
+SHA256: 187af1259e9824d55783c58a44faf9aa94ed0efd6373f95b3c155a59655311a7
+Section: Fonts - Theme
 Description: Classic sans-serif. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontavenir12
-Name: Avenir Next (iOS10/11/12)
+Name: Avenir Next (iOS10-12)
 
 Package: com.evynw.fontbariol12
 Version: 1.0
