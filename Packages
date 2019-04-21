@@ -990,22 +990,6 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontnovelsanstm
 Name: Novel Sans Rounded (TM)
 
-Package: com.evynw.fontopensans1011
-Version: 1.0-1
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
-Filename: ./debs/com.evynw.fontopensans1011_1.0-1_iphoneos-arm.deb
-Size: 13631982
-MD5sum: 5e9d698ebbef9307f3613f5c73e213d3
-SHA1: eea0b04a21a1f9b61fc013d21d83cd524c3dfdb7
-SHA256: 48d4077c5a11b91b427967d570286b6bc3ebfebc34bd03c725c4377ca14bdda2
-Section: Anemone Fonts
-Description: Classic sans-serif. For Anemone.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontopensans1011
-Name: Open Sans (iOS10/11)
-
 Package: com.evynw.fontopensans12
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1245,6 +1229,22 @@ Description: Somehow a familiar-looking widget.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew211
 Name: LS EW211
+
+Package: com.evynw.lse226
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.0-1), com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew226_1.0_iphoneos-arm.deb
+Size: 85616
+MD5sum: b830d48d4e0e4be2efb12f3cbac2dbc1
+SHA1: 69a85c24311f60f8c40d0473603c9906f64e8146
+SHA256: 51c7b1a94cbfb1cdf904eeca81e49338754346a3ae5579aa120924f854939321
+Section: Lockscreen Widgets
+Description: Guess I should think of a new description? OwO
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew226
+Name: LS EW226
 
 Package: com.evynw.lsew1
 Version: 1.0
