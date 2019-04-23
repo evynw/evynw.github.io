@@ -334,21 +334,21 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbrokmantm
 Name: Brokman (TM)
 
-Package: com.evynw.fontbronkoh1011
+Package: com.evynw.fontbronkoh12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
-Filename: ./debs/com.evynw.fontbronkoh1011_1.0_iphoneos-arm.deb
-Size: 17364362
-MD5sum: ac61e8b97ed9f075688748d064f7f75a
-SHA1: 799f86778e088c7a205026bcda105ada7d20339b
-SHA256: 2a36f9a2f2f3745abf618d253535baee1fb2a285729d59053cd15207f4d0dd49
-Section: Anemone Fonts
-Description: Grotesque-ish sans-serif typeface. For Anemone.
+Depends: com.evynw.repoicons (>= 1.0-3)
+Filename: ./debs/com.evynw.fontbronkoh12_1.0_iphoneos-arm.deb
+Size: 16815014
+MD5sum: 89ab6a5482f2cd80c62c93317cf612c7
+SHA1: 037e32a39b6f57da314329c6a84f563df506577a
+SHA256: 72efe9378cea1f0695dde4b382c4a210637b2ee287ce795a7c84e6980fad9c56
+Section: Fonts - Theme
+Description: Grotesque-ish sans-serif. For iOS10-12.
 Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbronkoh1011
-Name: Bronkoh (iOS10/11)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbronkoh12
+Name: Bronkoh (iOS10-12)
 
 Package: com.evynw.fontbronkoh9
 Version: 1.0
@@ -1070,21 +1070,21 @@ Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonttisasans12
 Name: FF Tisa Sans (iOS10-12)
 
-Package: com.evynw.fontttteds1011
+Package: com.evynw.fontttteds12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
-Filename: ./debs/com.evynw.fontttteds1011_1.0_iphoneos-arm.deb
-Size: 15544446
-MD5sum: 346b391bc9e89b6414e282796cb8b662
-SHA1: 39f502fde66952337ab2a9be74f7b5e6f5eabe00
-SHA256: fcddedf40bf03f043881f5ec2a7f9b76ee3721faa2503d5f287ca95a069180fa
-Section: Anemone Fonts
-Description: Clean & narrow sans-serif typeface. For Anemone.
+Depends: com.evynw.repoicons (>= 1.0-3)
+Filename: ./debs/com.evynw.fontttteds12_1.0_iphoneos-arm.deb
+Size: 14911020
+MD5sum: a3aaf714c2a89c7672bb1bce83c0bbc1
+SHA1: 96e578cdebc694e1483723b57e11c503de031010
+SHA256: 81e045f63593c97ca3fefd478178595b79a7461deb715f2284fc6f0f87fe78bf
+Section: Fonts - Theme
+Description: Clean & narrow sans-serif typeface. For iOS10-12.
 Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontttteds1011
-Name: TT Teds (iOS10/11)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontttteds12
+Name: TT Teds (iOS10-12)
 
 Package: com.evynw.fontttteds9
 Version: 1.0
