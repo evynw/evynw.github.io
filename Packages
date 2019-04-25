@@ -462,6 +462,38 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontciutadellatm
 Name: Ciutadella Rounded (TM)
 
+Package: com.evynw.fontconfigrounded12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.0-3)
+Filename: ./debs/com.evynw.fontconfigrounded12_1.0_iphoneos-arm.deb
+Size: 10367236
+MD5sum: 3e7a49f9f32246193d21d4c449e353fe
+SHA1: 806a29309286c9d5b181ff764e920a9399c49fa9
+SHA256: d234c17ddb6bf4f1476fe27d33e35c1eb62745aa036ea47b2fc516ad509ab9d6
+Section: Fonts - Theme
+Description: Half-rounded sans serif. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontconfigrounded12
+Name: Config Rounded (iOS10-12)
+
+Package: com.evynw.fontconfigrounded8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.0-3)
+Filename: ./debs/com.evynw.fontconfigrounded8512_1.0_iphoneos-arm.deb
+Size: 10942652
+MD5sum: 5ab15113b1f22273175b0b046bfeb528
+SHA1: 4826c3a21022ab0c473675e2a62598fbc1f28554
+SHA256: 5dfbfed09d9a4872feca3229f90cb5c8c76adf3713a02b33cc4e456cf8074529
+Section: Fonts - Theme
+Description: Half-rounded sans serif. 85% size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontconfigrounded8512
+Name: Config Rounded_85% (iOS10-12)
+
 Package: com.evynw.fontcontesans1011
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1021,6 +1053,22 @@ Description: DIN - one of the best typefaces For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontpfdin12
 Name: PF DIN Text Pro (iOS10-12)
+
+Package: com.evynw.fontsarala12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.0-3)
+Filename: ./debs/com.evynw.fontsarala12_1.0_iphoneos-arm.deb
+Size: 17151450
+MD5sum: 5b3c3d02b0992b5ccfaa5f3b841beb90
+SHA1: 82a5ab94caacf6738ad2f54be70424c62af7de40
+SHA256: fa24dbefbdce69d27d9db0c3b9e6561ad5539d83d3e0ec09b5134d0328479785
+Section: Fonts - Theme
+Description: Thin-looking sans-serif. Compatible with iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsarala12
+Name: Sarala (iOS10-12)
 
 Package: com.evynw.fontsfpro1011
 Version: 1.0
