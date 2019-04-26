@@ -162,14 +162,14 @@ Package: com.evynw.fontalegreyasans1011
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Depends: com.evynw.repoicons (>=1.0-3)
 Filename: ./debs/com.evynw.fontalegreyasans1011_1.0_iphoneos-arm.deb
-Size: 8292624
-MD5sum: 3042780ed2da3054f3fd454356bfd397
-SHA1: 40949b2e59780dc79cdc4b39844049a3d8f692cd
-SHA256: e29213295bf0e5771e2371ddbcd90bdc9ea02633d33eca3122d0da8fb1fc33c2
-Section: Anemone Fonts
-Description: Clean & small sans-serif typeface. For Anemone.
+Size: 8292546
+MD5sum: 7b3d17394fa0667a70c502daffc5dd10
+SHA1: fecb2dbc5be2b50b0a3c82942ef8cc221765bbdf
+SHA256: 937461417ca9fad9e2421e2ab2545158c46436c4eff08ce50572f8461ff0da70
+Section: Fonts - Theme
+Description: Clean & small sans-serif typeface.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalegreyasans1011
 Name: Alegreya Sans (iOS10/11)
@@ -180,10 +180,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.0-3)
 Filename: ./debs/com.evynw.fontalrightsans12_1.0_iphoneos-arm.deb
-Size: 17069150
-MD5sum: 29e1aba82a8bc8fee79ac25ce84cefd7
-SHA1: 7cc78aa07af22e64f06beb3705fde4c0d4ced1af
-SHA256: 0952d3399b6e09ceb77ab3352c67f8225fcf4b6f8759193ec6c0d71e43c55949
+Size: 17069160
+MD5sum: f982c14047b2de1b4d28d638142f2b79
+SHA1: 9d156764b3198b78378ae20fb450ad47ca91006b
+SHA256: 5889be2d718aa398ec8da29531ba0e6506cefe1d2a6ba418c243ebeaf68c2865
 Section: Fonts - Theme
 Description: Sans serif font. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
@@ -194,13 +194,13 @@ Package: com.evynw.fontalrightsanstm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
+Depends: com.evynw.repoicons (>= 1.0-3)
 Filename: ./debs/com.evynw.fontalrightsanstm_1.0_iphoneos-arm.deb
-Size: 1714842
-MD5sum: d1128d66e9aac89c37f34a2866ae4b56
-SHA1: fc3f9e9a931d4d3d18e09a762c57a14c8f709513
-SHA256: 41545ff0d4b77a3a1346c89471311986f89091ba3f1d33fdf65972f8405b9604
-Section: Tweak Mode Fonts
+Size: 1714852
+MD5sum: 459c0a1cfc77fc7e5f00f45a86a522c7
+SHA1: 0e82ef73ee813c687ab13ba0a6d5f632ea356b8b
+SHA256: 0813ff34a837ffd1037125172499960149864704c420292e127cd38c29300048
+Section: Fonts - Tweak Mode
 Description: Clean sans-serif typeface. For BytaFont Tweak Mode.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalrightsanstm
@@ -226,13 +226,13 @@ Package: com.evynw.fontasterisktm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
+Depends: com.evynw.repoicons (>= 1.0-3)
 Filename: ./debs/com.evynw.fontasterisktm_1.0_iphoneos-arm.deb
-Size: 1619432
-MD5sum: 6207a9494cfe1c66bf28a26b60473e29
-SHA1: 158331c5be0f6ec6ea1adff110f2909ad09734f1
-SHA256: d53f9016767d196bffe828294f2a9643d2760fd169543c56909b519d74eabd5f
-Section: Tweak Mode Fonts
+Size: 1619440
+MD5sum: 273c01c1b940eaf946d24c5efdc3e237
+SHA1: 3a65898c9702f1b0f60a48eb3e012e913e2948ad
+SHA256: fa8ee52294e5944d49e82d950422c00e0c628b3375b2285e473d19a338077438
+Section: Fonts - Tweak Mode
 Description: Clean & thin sans-serif typeface. For BytaFont Tweak Mode.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontasterisktm
@@ -270,33 +270,33 @@ Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbariol12
 Name: Bariol (iOS10-12)
 
-Package: com.evynw.fontbrandontext1011
+Package: com.evynw.fontbrandontext12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
-Filename: ./debs/com.evynw.fontbrandontext1011_1.0_iphoneos-arm.deb
-Size: 18178192
-MD5sum: d3dc82a3b8020830733ff807387acaa5
-SHA1: efc6bee65886d16afba7c2f3f8873bc51fd17edd
-SHA256: 23bd56122410d0815283c10bef7c384d2c4bb4d207d9bfbb28f11a1c63bf44df
-Section: Anemone Fonts
-Description: Popular sans-serif typeface. For Anemone.
+Depends: com.evynw.repoicons (>= 1.0-3)
+Filename: ./debs/com.evynw.fontbrandontext12_1.0_iphoneos-arm.deb
+Size: 18106162
+MD5sum: 9d48b6677087486529a67f6f1cf932f1
+SHA1: ab8b416132f169de7785b49dc9e5ad0dab548f1a
+SHA256: eb66b8bf6ca9516f377f93b17ef50e6f9bb7b1551ff09a8ed2ba48839a116953
+Section: Fonts - Theme
+Description: Popular sans-serif. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbrandontext1011
-Name: Brandon Text (iOS10/11)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbrandontext12
+Name: Brandon Text (iOS10-12)
 
 Package: com.evynw.fontbrandontexttm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
+Depends: com.evynw.repoicons (>= 1.0-3)
 Filename: ./debs/com.evynw.fontbrandontexttm_1.0_iphoneos-arm.deb
-Size: 1756982
-MD5sum: e9c75dcad209519ecf2586a611060d22
-SHA1: cfe52f99bc1a6f52dc613763d8a9c5a6dd9efdbf
-SHA256: 346cc015d768500ac73cec04ff01cd8d0510484de7844e81633890089152fe14
-Section: Tweak Mode Fonts
+Size: 1757408
+MD5sum: 50e28befcbe1980819344f7fcf5d21ac
+SHA1: 7e6a55c444fff65fc59e42b1b1b745c0063991d5
+SHA256: a4b605440a05561949e56bc77c876e4a9cff5bd3b1bd9a7c4936cdab10f746ab
+Section: Fonts - Tweak Mode
 Description: Clean sans-serif typeface. For BytaFont Tweak Mode.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbrandontexttm
