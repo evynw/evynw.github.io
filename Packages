@@ -2558,6 +2558,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew232
 Name: LS EW232
 
+Package: com.evynw.lsew235
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.0-3)
+Filename: ./debs/com.evynw.lsew235_1.0_iphoneos-arm.deb
+Size: 305628
+MD5sum: 8b6dfdeede0f554a4a5b9ef049752c8e
+SHA1: 5f09655fed1193648ed1aed7998e65ddbd6a7b4e
+SHA256: 003050721945c897f0eb5b74674394889077ba1c234c1023029cf3a66f0ba5bf
+Section: Lockscreen Widgets
+Description: Guess I should think of a new description? OwO
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew235
+Name: LS EW235
+
 Package: com.evynw.lsew24
 Version: 1.0-1
 Architecture: iphoneos-arm
