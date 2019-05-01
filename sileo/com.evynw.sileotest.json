@@ -1,0 +1,201 @@
+{
+  "minVersion": "0.3",
+  "class": "DepictionTabView",
+  "tintColor": "#68a1ff",
+  "headerImage": "https://xenpublic.incendo.ws/sileo/com.matchstic.xenhtml.header.png",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "class": "DepictionStackView",
+      "tintColor": "#68a1ff",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "title": "Description"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Unified HTML rendering.<br /><br />Xen HTML allows for layering web views:<ul><li>On the background and foreground of the Lockscreen</li><li>The background of the Homescreen</li><li>Scrollable alongside application icons</li>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "title": "Features Provided"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<b>Homescreen Background Layer</b><br />Adds support for rendering widgets behind icons.<br />This layer has <i>full touch support</i>.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<b>Homescreen Icon Layer</b><br />Adds support for widgets to be added alongside application icons.<br />These widgets can be positioned on any Homescreen page.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<b>Lockscreen Layers</b><br />Adds both a stationary background layer behind the lockscreen, and a moving foreground layer for widgets.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<b>Integrated Widget Settings Editor</b><br />Both Options.plist and config.js can be easily modified whilst in Settings.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<b>WidgetInfo.plist</b><br />Provides support for a new file widget developers can use, which can give additional metadata to Xen HTML.<br />It also allows for the usage of Options.plist in any widget, and is fully backwards compatible.<br />See <b>Documentation</b> for more information.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<b>Improved Performance and Stability</b><br />Xen HTML uses new WebKit APIs from Apple to help improve performance, and to optimise battery usage.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<b>Widget Placement Adjustments</b><br />Provides drag and drop support for moving around widgets whilst in Settings.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<b>In-Settings Preview</b><br />All settings can be previewed without leaving Settings.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<b>No Resprings for Settings Changes</b><br />No settings change in Xen HTML's settings panel will ever require a respring.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "title": "Hints and Tips"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Enter the application icon 'wiggle' mode to add widgets on any Homescreen page.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Drag and drop widgets in the widget editor to move them around.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Widgets can be easily configured by tapping ⚙️ when in the editor.",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "title": "Information"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Author",
+          "text": "Matt Clarke"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "0.5-2"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Price",
+          "text": "FREE"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "title": "Links"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "🐞 Known Issues",
+          "action": "https://github.com/Matchstic/Xen-HTML/issues",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "❓ Documentation",
+          "action": "http://incendo.ws/projects/XenHTML/",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "🔨 Source Code",
+          "action": "https://github.com/Matchstic/Xen-HTML/",
+          "openExternal": true
+        }
+      ]
+    },
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "tintColor": "#68a1ff",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "title": "0.5-1 and 0.5-2"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul><li><p>[iOS 10.3 - 10.3.3] Hotfix for a crash from last update</p></li></ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "title": "0.5"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul><li><p>[iOS 9.0 - 12.1.2] Added support for widgets to be individually placed on any Homescreen page</p><p>This is similar to how the iWidgets tweak functioned</p><br /><p><i>Enter the application icon 'wiggle' mode to add widgets</i></p></li><li><p>[iOS 11.0 - 12.1.2] Fixed issue where long-pressing an image in a widget would cause a white area to appear</p></li><li><p>[iOS 11.0 - 12.1.2] Fixed issue where the zoom magnifier glass could appear</p></li><li><p>[iOS 9.0 - 12.1.2] Tweaked the Setup UI so that it doesn't cause some users to believe the device was just updated/restored</p></li><li><p>[iOS 9.0 - 12.1.2] Added translations for:</p><p>• Turkish</p></li><li><p>[iOS 9.0 - 12.1.2] Various other small bug fixes</p></li></ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "title": "0.4rc8"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul><li>[iOS 9.0 - 12.1.2] Added proper support for WebGL on the Lockscreen</li><li>[iOS 9.0 - 12.1.2] Added two default widgets</li><li>[iOS 12.0 - 12.1.2] Fixed a state management issue with widget hiding for notifications</li><li>[iOS 11.2 - 12.1.2] Fixed issue where the Lockscreen dim timer duration was not working</li><li>[iOS 11.0 - 12.1.2] Fixed issue where the stock Lockscreen clock was prevented from scrolling with notifications</li><li>[iOS 9.0 - 12.1.2] Various other small bug fixes</li></ul>",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ]
+}

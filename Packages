@@ -2564,17 +2564,16 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: firmware (>= 9.0)
 Filename: ./debs/com.evynw.lsew235_1.0_iphoneos-arm.deb
-Size: 305650
-MD5sum: c1757fd6eb1ea4a0f97305aa5e46664f
-SHA1: 9dbcbf22c26c938eb6cff8b0d9f33477d378a405
-SHA256: 2a1f5f8761b34f4d4194895fca7654131436b9c8d4428774a02c8745c9003c97
+Size: 305642
+MD5sum: 1a124615fa6627cd743931de24f0d3fe
+SHA1: 63844291229ff3ee2aad851021154cafdc71244b
+SHA256: 0f33e597a99595e5809c80c4a04a656c331c32855b31513729387e68a1a8c03a
 Section: Lockscreen Widgets
 Description: Guess I should think of a new description? OwO
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew235
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW235
-SileoDepiction: https://evynw.github.io/sileo/lsew235.json
 
 Package: com.evynw.lsew24
 Version: 1.0-1
@@ -4190,3 +4189,22 @@ Description: From 6200PACK. New twitter pack coming!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew93
 Name: SB EW93
+
+Package: com.evynw.sileotest
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: firmware (>= 9.0)
+Filename: ./debs/com.evynw.sileotest_1.0_iphoneos-arm.deb
+Size: 790
+MD5sum: c09becfbcaa47f09a7ed93cf854eb72d
+SHA1: c18dd4a03e8f0db2b7d80cb66ed75d44769a9d80
+SHA256: d7b50ede3b57ea95fcc23620c4e434798b675e586637fdd89c67dac329223c00
+Section: Others
+Description: Guess I should think of a new description? OwO
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.template
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: Sileotest
+Sileodepiction: https://evynw.github.io/sileo/com.evynw.sileotest.json
+
