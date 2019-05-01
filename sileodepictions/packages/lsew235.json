@@ -1,0 +1,126 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://evynw.github.io/sileodepictions/assets/header_LS.png",
+  "minVersion": "0.1",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "<tab style=\"font-size: 10pt;\">Details</tab>",
+      "tintColor": "#abc9e7",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Description",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)</p>\n<p>Apply with XenHTML</p>\n<p>Requires XenInfo for weather/battery components to work properly</p>\n<p><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Screenshots",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{330, auto}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.lsew235/ss.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "<middle style=\"font-size: 12pt;\">Information</middle>",
+          "useBoldText": true,
+          "useBottomMargin": true
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "<small style=\"font-size: 10pt;\">Evelyn (ev_ynw)</small>",
+          "title": "<small style=\"font-size: 10pt;\">Author</small>"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "<small style=\"font-size: 10pt;\">1.0</small>",
+          "title": "<small style=\"font-size: 10pt;\">Version</small>"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "<small style=\"font-size: 10pt;\">N/A</small>",
+          "title": "<small style=\"font-size: 10pt;\">Dependency</small>"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "action": "https://twitter.com/ev_ynw",
+          "class": "DepictionTableButtonView",
+          "title": "<small style=\"font-size: 10pt;\">Find me on Twitter (@ev_ynw)</small>"
+        },
+        {
+          "action": "mailto:ev.ynam.w@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "<small style=\"font-size: 10pt;\">Send me an email</small>"
+        },
+        {
+          "action": "form-https://repo.dynastic.co/api/v0/client-vendor/forms/co.dynastic.ios.tweak.shortlook/gift-code",
+          "class": "DepictionTableButtonView",
+          "title": "<small style=\"font-size: 10pt;\">Buy me a &#x1F37A; via <span style=\"font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal   </strong></span></span></small>"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 40
+        },
+        {
+          "URL": "https://evynw.github.io/CydiaIcon.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "<tab style=\"font-size: 10pt;\">Changelog</tab>",
+      "tintColor": "#abc9e7",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Initial release</li>\n</ul>",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ],
+  "tintColor": "#abc9e7"
+}
