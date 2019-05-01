@@ -1,6 +1,6 @@
 {
   "class": "DepictionTabView",
-  "headerImage": "https://evynw.github.io/sileodepictions/assets/header_LS.png",
+  "headerImage": "https://evynw.github.io/sileo/assets/header_LS.png",
   "minVersion": "0.3",
   "tabs": [
     {
@@ -47,6 +47,10 @@
           "class": "DepictionSeparatorView"
         },
         {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
           "class": "DepictionHeaderView",
           "title": "Information",
           "useBoldText": true,
@@ -73,7 +77,15 @@
           "title": "Dependency"
         },
         {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
           "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
         },
         {
           "action": "https://twitter.com/ev_ynw",
@@ -88,7 +100,7 @@
         {
           "action": "https://paypal.me/evynw",
           "class": "DepictionTableButtonView",
-          "title": "Buy me a 🍺 via PayPal</span></span>"
+          "title": "Buy me a 🍺 via PayPal"
         },
         {
           "class": "DepictionSpacerView",
@@ -111,7 +123,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#abc9e7",
+      "tintColor": "#a2b9c9",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -138,5 +150,5 @@
       ]
     }
   ],
-  "tintColor": "#abc9e7"
+  "tintColor": "#a2b9c9"
 }
