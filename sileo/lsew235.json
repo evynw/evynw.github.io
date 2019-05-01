@@ -1,11 +1,12 @@
 {
-  "class": "DepictionTabView",
-  "headerImage": "https://evynw.github.io/sileodepictions/assets/header_LS.png",
   "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tintColor": "#68a1ff",
+  "headerImage": "https://evynw.github.io/sileodepictions/assets/header_LS.png",
   "tabs": [
     {
       "class": "DepictionStackView",
-      "tabname": "<tab style=\"font-size: 10pt;\">Details</tab>",
+      "tabname": "<tab style=\"font-size: 9pt;\">Details</tab>",
       "tintColor": "#abc9e7",
       "views": [
         {
@@ -48,24 +49,29 @@
         },
         {
           "class": "DepictionHeaderView",
-          "title": "<middle style=\"font-size: 12pt;\">Information</middle>",
+          "title": "<middle style=\"font-size: 11pt;\">Information</middle>",
           "useBoldText": true,
           "useBottomMargin": true
         },
         {
           "class": "DepictionTableTextView",
-          "text": "<small style=\"font-size: 10pt;\">Evelyn (ev_ynw)</small>",
-          "title": "<small style=\"font-size: 10pt;\">Author</small>"
+          "text": "<small style=\"font-size: 9pt;\">Evelyn (ev_ynw)</small>",
+          "title": "<small style=\"font-size: 9pt;\">Author</small>"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "<small style=\"font-size: 10pt;\">1.0</small>",
-          "title": "<small style=\"font-size: 10pt;\">Version</small>"
+          "text": "<small style=\"font-size: 9pt;\">1.0</small>",
+          "title": "<small style=\"font-size: 9pt;\">Version</small>"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "<small style=\"font-size: 10pt;\">N/A</small>",
-          "title": "<small style=\"font-size: 10pt;\">Dependency</small>"
+          "text": "<small style=\"font-size: 9pt;\">iOS9 - 12.1.2</small>",
+          "title": "<small style=\"font-size: 9pt;\">Compatibility</small>"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "<small style=\"font-size: 9pt;\">N/A</small>",
+          "title": "<small style=\"font-size: 9pt;\">Dependency</small>"
         },
         {
           "class": "DepictionSeparatorView"
@@ -73,17 +79,17 @@
         {
           "action": "https://twitter.com/ev_ynw",
           "class": "DepictionTableButtonView",
-          "title": "<small style=\"font-size: 10pt;\">Find me on Twitter (@ev_ynw)</small>"
+          "title": "<small style=\"font-size: 9pt;\">Find me on Twitter (@ev_ynw)</small>"
         },
         {
           "action": "mailto:ev.ynam.w@gmail.com",
           "class": "DepictionTableButtonView",
-          "title": "<small style=\"font-size: 10pt;\">Send me an email</small>"
+          "title": "<small style=\"font-size: 9pt;\">Send me an email</small>"
         },
         {
-          "action": "form-https://repo.dynastic.co/api/v0/client-vendor/forms/co.dynastic.ios.tweak.shortlook/gift-code",
+          "action": "https://paypal.me/evynw",
           "class": "DepictionTableButtonView",
-          "title": "<small style=\"font-size: 10pt;\">Buy me a &#x1F37A; via <span style=\"font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal   </strong></span></span></small>"
+          "title": "<small style=\"font-size: 9pt;\">Buy me a &#x1F37A; via <span style=\"font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal   </strong></span></span></small>"
         },
         {
           "class": "DepictionSpacerView",
@@ -105,7 +111,7 @@
     },
     {
       "class": "DepictionStackView",
-      "tabname": "<tab style=\"font-size: 10pt;\">Changelog</tab>",
+      "tabname": "<tab style=\"font-size: 9pt;\">Changelog</tab>",
       "tintColor": "#abc9e7",
       "views": [
         {
@@ -121,6 +127,5 @@
         }
       ]
     }
-  ],
-  "tintColor": "#abc9e7"
+  ]
 }
