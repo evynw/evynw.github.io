@@ -2574,7 +2574,7 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew235
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW235
-Sileodepiction: https://evynw.github.io/sileo/lsew235.json
+SileoDepiction: https://evynw.github.io/sileo/lsew235.json
 
 Package: com.evynw.lsew24
 Version: 1.0-1
@@ -4190,4 +4190,3 @@ Description: From 6200PACK. New twitter pack coming!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew93
 Name: SB EW93
-
