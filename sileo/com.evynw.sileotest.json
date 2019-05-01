@@ -5,7 +5,7 @@
   "tabs": [
     {
       "class": "DepictionStackView",
-      "tabname": "<tab style=\"font-size: 9pt;\">Details</tab>",
+      "tabname": "Details",
       "tintColor": "#abc9e7",
       "views": [
         {
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)<br />Apply with XenHTML<br />Requires XenInfo for weather/battery components to work properly<br /><strong>Need help?</strong> Link to tutorials in my pinned tweet",
+          "markdown": "<p style=\"font-size:9pt;\">Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)</p>\n<p style=\"font-size:9pt;\">Apply with XenHTML</p>\n<p style=\"font-size:9pt;\">Requires XenInfo for weather/battery components to work properly</p>\n<p style=\"font-size:9pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -54,47 +54,53 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "Nepeta",
+          "text": "Evelyn (ev_ynw)",
           "title": "Author"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "0.2.1-2",
+          "text": "1.0",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "free!",
-          "title": "Price"
+          "text": "iOS9 - 12.1.2",
+          "title": "Compatibility"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "N/A",
+          "title": "Dependency"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "action": "https://twitter.com/ev_ynw",
+          "class": "DepictionTableButtonView",
+          "title": "Find me on Twitter (@ev_ynw)"
+        },
+        {
+          "action": "mailto:ev.ynam.w@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Send me an email"
+        },
+        {
+          "action": "https://paypal.me/evynw",
+          "class": "DepictionTableButtonView",
+          "title": "Buy me a &#x1F37A; via <span style=\"font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal   </strong></span></span>"
         },
         {
           "class": "DepictionSpacerView",
-          "spacing": 16
+          "spacing": 40
         },
         {
-          "class": "DepictionStackView",
-          "views": [
-            {
-              "action": "https://discord.gg/ZZXYD5g",
-              "class": "DepictionTableButtonView",
-              "openExternal": true,
-              "title": "Join the Discord server!"
-            },
-            {
-              "action": "https://twitter.com/NepetaDev",
-              "class": "DepictionTableButtonView",
-              "openExternal": true,
-              "title": "Follow @NepetaDev on Twitter."
-            }
-          ]
-        },
-        {
-          "URL": "https://repo.nepeta.me/assets/sileo.png",
+          "URL": "https://evynw.github.io/CydiaIcon.png",
           "alignment": 1,
           "class": "DepictionImageView",
           "cornerRadius": 0,
-          "height": 44,
-          "width": 36
+          "height": 45,
+          "width": 45
         },
         {
           "class": "DepictionSpacerView",
@@ -105,65 +111,32 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#5d288a",
+      "tintColor": "#abc9e7",
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "0.2.1",
+          "title": "1.0-1",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Fixed touch controls.</li>\n</ul>",
+          "markdown": "<ul>\n<li>Fixed something</li>\n<li>Fixed another something</li>\n</ul>",
           "useRawFormat": true
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "0.2.0",
+          "title": "1.0",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Added knobs.</li>\n<li>Added touch controls.</li>\n<li>Added haptic feedback.</li>\n<li>Added an option to enable the HUD on the lockscreen.</li>\n<li>Added background padding.</li>\n<li>Reorganized preferences.</li>\n</ul>",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "0.1.2",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>arm64e support.</li>\n</ul>",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "0.1.1",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Added saved settings/sharing.</li>\n<li>Fixed ringer volume color.</li>\n</ul>",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "0.1.0",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Initial release.</li>\n</ul>",
+          "markdown": "<ul>\n<li>Initial release</li>\n</ul>",
           "useRawFormat": true
         }
       ]
     }
   ],
-  "tintColor": "#5d288a"
+  "tintColor": "#abc9e7"
 }
