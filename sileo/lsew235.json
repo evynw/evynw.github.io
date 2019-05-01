@@ -1,13 +1,12 @@
 {
-  "minVersion": "0.1",
   "class": "DepictionTabView",
-  "tintColor": "#68a1ff",
-  "headerImage": "https://evynw.github.io/sileodepictions/assets/header_LS.png",
+  "headerImage": "https://evynw.github.io/sileo/assets/header_LS.png",
+  "minVersion": "0.3",
   "tabs": [
     {
       "class": "DepictionStackView",
-      "tabname": "<tab style=\"font-size: 9pt;\">Details</tab>",
-      "tintColor": "#abc9e7",
+      "tabname": "Details",
+      "tintColor": "#a2b9c9",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -17,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)</p>\n<p>Apply with XenHTML</p>\n<p>Requires XenInfo for weather/battery components to work properly</p>\n<p><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)</p>\n<p style=\"font-size:10pt;\">Apply with XenHTML</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -32,7 +31,7 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{330, auto}",
+          "itemSize": "{330, 596.385543}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
@@ -48,48 +47,61 @@
           "class": "DepictionSeparatorView"
         },
         {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
           "class": "DepictionHeaderView",
-          "title": "<middle style=\"font-size: 11pt;\">Information</middle>",
+          "title": "Information",
           "useBoldText": true,
-          "useBottomMargin": true
+          "useBottomMargin": false
         },
         {
           "class": "DepictionTableTextView",
-          "text": "<small style=\"font-size: 9pt;\">Evelyn (ev_ynw)</small>",
-          "title": "<small style=\"font-size: 9pt;\">Author</small>"
+          "text": "Evelyn (ev_ynw)",
+          "title": "Author"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "<small style=\"font-size: 9pt;\">1.0</small>",
-          "title": "<small style=\"font-size: 9pt;\">Version</small>"
+          "text": "1.0",
+          "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "<small style=\"font-size: 9pt;\">iOS9 - 12.1.2</small>",
-          "title": "<small style=\"font-size: 9pt;\">Compatibility</small>"
+          "text": "iOS9 - 12.1.2",
+          "title": "Compatibility"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "<small style=\"font-size: 9pt;\">N/A</small>",
-          "title": "<small style=\"font-size: 9pt;\">Dependency</small>"
+          "text": "N/A",
+          "title": "Dependency"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
           "action": "https://twitter.com/ev_ynw",
           "class": "DepictionTableButtonView",
-          "title": "<small style=\"font-size: 9pt;\">Find me on Twitter (@ev_ynw)</small>"
+          "title": "Find me on Twitter (@ev_ynw)",
+          "openExternal": true
         },
         {
           "action": "mailto:ev.ynam.w@gmail.com",
           "class": "DepictionTableButtonView",
-          "title": "<small style=\"font-size: 9pt;\">Send me an email</small>"
+          "title": "Send me an email"
         },
         {
           "action": "https://paypal.me/evynw",
           "class": "DepictionTableButtonView",
-          "title": "<small style=\"font-size: 9pt;\">Buy me a &#x1F37A; via <span style=\"font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal   </strong></span></span></small>"
+          "title": "Buy me a 🍺 via PayPal"
         },
         {
           "class": "DepictionSpacerView",
@@ -111,8 +123,8 @@
     },
     {
       "class": "DepictionStackView",
-      "tabname": "<tab style=\"font-size: 9pt;\">Changelog</tab>",
-      "tintColor": "#abc9e7",
+      "tabname": "Changelog",
+      "tintColor": "#a2b9c9",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -127,5 +139,6 @@
         }
       ]
     }
-  ]
+  ],
+  "tintColor": "#a2b9c9"
 }

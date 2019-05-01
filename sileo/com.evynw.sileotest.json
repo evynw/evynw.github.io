@@ -90,7 +90,8 @@
         {
           "action": "https://twitter.com/ev_ynw",
           "class": "DepictionTableButtonView",
-          "title": "Find me on Twitter (@ev_ynw)"
+          "title": "Find me on Twitter (@ev_ynw)",
+          "openExternal": true
         },
         {
           "action": "mailto:ev.ynam.w@gmail.com",

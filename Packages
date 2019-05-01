@@ -1060,15 +1060,17 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.0-3)
 Filename: ./debs/com.evynw.fontsarala12_1.0_iphoneos-arm.deb
-Size: 17151450
-MD5sum: 5b3c3d02b0992b5ccfaa5f3b841beb90
-SHA1: 82a5ab94caacf6738ad2f54be70424c62af7de40
-SHA256: fa24dbefbdce69d27d9db0c3b9e6561ad5539d83d3e0ec09b5134d0328479785
+Size: 17151484
+MD5sum: 8e05088bbdc05da88b7da38449d772d5
+SHA1: 38df9080802937bd24f1f6e533c48b5688071005
+SHA256: d14feccb3a72fc6d45e020b7826b2145f3ec98c76729f28a710b9a1b1e73762b
 Section: Fonts - Theme
 Description: Thin-looking sans-serif. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsarala12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Sarala (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontsarala12.json
 
 Package: com.evynw.fontsfpro1011
 Version: 1.0
@@ -2564,16 +2566,17 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: firmware (>= 9.0)
 Filename: ./debs/com.evynw.lsew235_1.0_iphoneos-arm.deb
-Size: 305642
-MD5sum: 1a124615fa6627cd743931de24f0d3fe
-SHA1: 63844291229ff3ee2aad851021154cafdc71244b
-SHA256: 0f33e597a99595e5809c80c4a04a656c331c32855b31513729387e68a1a8c03a
+Size: 305652
+MD5sum: a0bc77970ce4bc4b0d7f3f371f03c950
+SHA1: b04f15f3b201b60d8bbf004f26c78081bb1aa90c
+SHA256: d4da3817fc637f199d07010f0b3ea3fea5b200df7d0c1bafd2b0e7203437dde7
 Section: Lockscreen Widgets
 Description: Guess I should think of a new description? OwO
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew235
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW235
+Sileodepiction: https://evynw.github.io/sileo/lsew235.json
 
 Package: com.evynw.lsew24
 Version: 1.0-1
@@ -3363,17 +3366,18 @@ Package: com.evynw.masqew4
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.0-1)
 Filename: ./debs/com.evynw.masqew4_1.0_iphoneos-arm.deb
-Size: 96692
-MD5sum: 6e92c519aa3c55d407dadcb72a81405e
-SHA1: 37d51c1e136ba59e0047c8c75778f174fdf23e49
-SHA256: 4fefb108cdcda96e8a12294ca0dcbbd572e5c097a4329092760feda893f8023f
+Size: 96694
+MD5sum: bc03a26a6efbbc7d4aaeb62d3f3a7859
+SHA1: 2824768a04aca34e52e185387b0387fb09846ac6
+SHA256: d14498adfee656b6d29254a6c478ea51171684ae1a7b65d5d2d494f9633e9060
 Section: MASQ Themes
 Description: One of my old MASQ themes
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.masqew4
+Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
 Name: MASQ.EW4
+Sileodepiction: https://evynw.github.io/sileo/masqew4.json
 
 Package: com.evynw.repoicons
 Version: 1.0-3
@@ -4180,15 +4184,17 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.sbew93_1.0_iphoneos-arm.deb
-Size: 372856
-MD5sum: 9782878fedf5d5646c3cb1c0675125fd
-SHA1: 3372cd9f9b72232f7be536d4628ffb2e48f8e39b
-SHA256: 867ae098ea35d8d19a98be2f741bddbb9935bebb753bfb3455b510eb683dc25d
+Size: 372890
+MD5sum: 65502887d28465cda1cd88d3e10aaf7a
+SHA1: d2bfdcbd2cb1df825484fb142656a2b79f334f3d
+SHA256: 21f786303d9ad11d3d0d2fa0851a5fb2ab7d2932503ad0129eeda8b71cf8fd90
 Section: Homescreen Widgets
 Description: From 6200PACK. New twitter pack coming!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew93
+Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
 Name: SB EW93
+Sileodepiction: https://evynw.github.io/sileo/sbew93.json
 
 Package: com.evynw.sileotest
 Version: 1.0
