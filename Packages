@@ -3362,6 +3362,24 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsewrisingbars
 Name: LS EW.RisingBars
 
+Package: com.evynw.masqbordered
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.0-3)
+Filename: ./debs/com.evynw.masqbordered_1.0_iphoneos-arm.deb
+Size: 283074
+MD5sum: 8ae200fce77174a91c7516c032d45429
+SHA1: 8a556ffd92fae79a2b32cebdfb9729149d37bdad
+SHA256: 986b26941257b0a912ada7f3e3b2b895976ef8ffa0d0ecca6a1941c582379475
+Section: MASQ Themes
+Description: From CCover to MASQ to MASQKit
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.masqbordered
+Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
+Name: Bordered
+Sileodepiction: https://evynw.github.io/sileo/masqbordered.json
+
 Package: com.evynw.masqew4
 Version: 1.0
 Architecture: iphoneos-arm

@@ -61,6 +61,10 @@
           "useBottomMargin": false
         },
         {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
           "class": "DepictionTableTextView",
           "text": "Evelyn (ev_ynw)",
           "title": "Author"
