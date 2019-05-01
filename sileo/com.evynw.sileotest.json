@@ -6,7 +6,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#abc9e7",
+      "tintColor": "#a2b9c9",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:9pt;\">Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)</p>\n<p style=\"font-size:9pt;\">Apply with XenHTML</p>\n<p style=\"font-size:9pt;\">Requires XenInfo for weather/battery components to work properly</p>\n<p style=\"font-size:9pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)</p>\n<p style=\"font-size:10pt;\">Apply with XenHTML</p>\n<p style=\"font-size:10pt;\">Requires XenInfo for weather/battery components to work properly</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -47,7 +47,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "class": "DepictionSubheaderView",
+          "class": "DepictionHeaderView",
           "title": "Information",
           "useBoldText": true,
           "useBottomMargin": false
@@ -88,7 +88,7 @@
         {
           "action": "https://paypal.me/evynw",
           "class": "DepictionTableButtonView",
-          "title": "Buy me a &#x1F37A; via <span style=\"font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal   </strong></span></span>"
+          "title": "Buy me a 🍺 via PayPal</span></span>"
         },
         {
           "class": "DepictionSpacerView",
