@@ -1168,53 +1168,40 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonttttedstm
 Name: TT Teds (TM)
 
-Package: com.evynw.fonturwgeo1011
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
-Filename: ./debs/com.evynw.fonturwgeo1011_1.1_iphoneos-arm.deb
-Size: 16948064
-MD5sum: c880041ed5848d3e4073fd8ec18b1c82
-SHA1: 521dd67df84e6b495a0fbc4c7b8fac2a9e0c0d25
-SHA256: 351bc381a4fc16ec1c5f4cd648fa4c099a404aeca90635d205a53bb5e1a3ce0e
-Section: Anemone Fonts
-Description: Small sans-serif typeface. For Anemone.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonturwgeo1011
-Name: URW Geometric (iOS10/11)
-
 Package: com.evynw.fonturwgeo12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
+Depends: com.evynw.repoicons (>= 1.0-3)
 Filename: ./debs/com.evynw.fonturwgeo12_1.0_iphoneos-arm.deb
-Size: 16865030
-MD5sum: 29ab1bf5708b6068753f4d4e3b365829
-SHA1: 12d9506c8f8d101afca2c72d036cdde8daffe513
-SHA256: 94282625dc2bef63f8160ff37b886c624ab94a28660efeb78e2c2f6e556e2f0d
-Section: Anemone Fonts
+Size: 16865070
+MD5sum: 409dc759f1cf99932a10ad772534ef40
+SHA1: b1f8090922d149e88398ddd65d23262ba3ecc820
+SHA256: 7528b1f32a6b3792cde5be6983d97e511c318c71ae720aa4226a3ad3c4354b49
+Section: Fonts - Theme
 Description: Small sans-serif. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonturwgeo12
-Name: URW Geometric (iOS12)
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: URW Geometric (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fonturwgeo12.json
 
 Package: com.evynw.fonturwgeotm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fonturwgeotm_1.0_iphoneos-arm.deb
-Size: 1614330
-MD5sum: 8e5e5372c348aaacd7559635c22ec491
-SHA1: 4ca05827e0a7d69f32e64792b0e17696f1f3df6c
-SHA256: d4a333cece723521571164f4aa48f7ca3437a2cc4ffb54ccd3e3b326911b3abf
-Section: Tweak Mode Fonts
+Size: 1614366
+MD5sum: c21e06bc4401afa81af2fc716b98312b
+SHA1: cd92a5e21d79d45ead76601c13bf10c9b192556f
+SHA256: fb2d7d71a3a9d1e51935d0e15a3a6ed90aa057ebd16f7b99398af640f6cee6df
+Section: Fonts - Tweak Mode
 Description: Easy-on-the-eye sans-serif typeface. For BytaFont Tweak Mode.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonturwgeotm
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: URW Geometric (TM)
+Sileodepiction: https://evynw.github.io/sileo/fonturwgeotm.json
 
 Package: com.evynw.fontvito1011
 Version: 1.0
@@ -4213,22 +4200,4 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew93
 Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
 Name: SB EW93
 Sileodepiction: https://evynw.github.io/sileo/sbew93.json
-
-Package: com.evynw.sileotest
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: firmware (>= 9.0)
-Filename: ./debs/com.evynw.sileotest_1.0_iphoneos-arm.deb
-Size: 790
-MD5sum: c09becfbcaa47f09a7ed93cf854eb72d
-SHA1: c18dd4a03e8f0db2b7d80cb66ed75d44769a9d80
-SHA256: d7b50ede3b57ea95fcc23620c4e434798b675e586637fdd89c67dac329223c00
-Section: Others
-Description: Guess I should think of a new description? OwO
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.template
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
-Name: Sileotest
-Sileodepiction: https://evynw.github.io/sileo/com.evynw.sileotest.json
 
