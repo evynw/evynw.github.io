@@ -702,21 +702,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffstrada9
 Name: FF Strada (iOS9)
 
-Package: com.evynw.fontfrygia1011
+Package: com.evynw.fontfrygia12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
-Filename: ./debs/com.evynw.fontfrygia1011_1.0_iphoneos-arm.deb
-Size: 15898124
-MD5sum: b2479d7355d0a8e911c080decb511c71
-SHA1: abbfbec1164e9ea25eec24b16027a192536ff6d3
-SHA256: 2d6686cbc3251ee9524690bd52f2fef8322b97e50b38c381496ae18c8c716b67
-Section: Anemone Fonts
-Description: Small sans-serif typeface. For Anemone.
+Filename: ./debs/com.evynw.fontfrygia12_1.0_iphoneos-arm.deb
+Size: 15777994
+MD5sum: a00b1d6ceb79356ccdf9fb1e65d80cfd
+SHA1: 8c61d7878377df5756760afb18ae637123ba6b6d
+SHA256: a609fff33761d97292e252ecb5702f6823761b9e6c303fe465b035a34ac9c5eb
+Section: Fonts - Theme
+Description: Small sans-serif. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontfrygia1011
-Name: Frygia (iOS10/11)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontfrygia12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Frygia (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontfrygia12.json
 
 Package: com.evynw.fontfrygia9
 Version: 1.0

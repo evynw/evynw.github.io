@@ -1,0 +1,20 @@
+{
+	"name": "Frygia (iOS10-12)",
+	"package": "com.evynw.fontfrygia12",
+	"author": "Evelyn (ev_ynw)",
+	"version": "1.0",
+	"dependency": "N/A",
+	"minOSVersion": "10.0",
+	"maxOSVersion": "12.1.2",
+	"otheriOS": "untested",
+	"description": "<div>Optimised for iOS12. Downward compatible with iOS10&11 as well.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  	"changelog": {
+	    "1.0": [
+	      "Initial release"
+	    ]
+  	},
+	"screenshots": {
+		"ss.png": ""
+	},
+	"links": {}
+}
