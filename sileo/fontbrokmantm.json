@@ -1,0 +1,148 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://evynw.github.io/sileo/assets/header_Font.png",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "tintColor": "#a2b9c9",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Description",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:10pt;\">Installed to: /Library/BytaFont/[fontname].font</p>\n<p style=\"font-size:10pt;\">Apply with BytaFont Tweak Mode. 6 font weights available.</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Screenshots",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{330, 468.6}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontbrokmantm/ss.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Evelyn (ev_ynw)",
+          "title": "Author"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.0",
+          "title": "Version"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS10.0 - 12.1.2",
+          "title": "Compatibility"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "N/A",
+          "title": "Dependency"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://twitter.com/ev_ynw",
+          "class": "DepictionTableButtonView",
+          "title": "Find me on Twitter (@ev_ynw)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:ev.ynam.w@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Send me an email"
+        },
+        {
+          "action": "https://paypal.me/evynw",
+          "class": "DepictionTableButtonView",
+          "title": "Buy me a 🍺 via PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 40
+        },
+        {
+          "URL": "https://evynw.github.io/CydiaIcon.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "tintColor": "#a2b9c9",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Initial release</li>\n</ul>",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ],
+  "tintColor": "#a2b9c9"
+}
