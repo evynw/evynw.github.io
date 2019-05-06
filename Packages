@@ -396,21 +396,22 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Bronkoh (TM)
 Sileodepiction: https://evynw.github.io/sileo/fontbrokmantm.json
 
-Package: com.evynw.fontcera1011
+Package: com.evynw.fontcera12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
-Filename: ./debs/com.evynw.fontcera1011_1.0_iphoneos-arm.deb
-Size: 16273876
-MD5sum: 89c3bcd141f0a00389c79335caba54d7
-SHA1: 223f0d78e0b1929a303c38c1160733975f59d5de
-SHA256: 404baf6d89b7a05ba9944f8ea071422878e7369dd11a039b4a66bdce8cc3076e
-Section: Anemone Fonts
-Description: Easy-on-the-eye sans-serif typeface. For Anemone.
+Filename: ./debs/com.evynw.fontcera12_1.0_iphoneos-arm.deb
+Size: 16193214
+MD5sum: fa581bfb8e6c6ca721b8097585719cdb
+SHA1: 7416c2f997e2247e20f15f4404ad6c62447a91e5
+SHA256: df58fba341c6493f3b3c739717d8d984950e7c7c622e5a9a98e9692d46e8859e
+Section: Fonts - Theme
+Description: Easy-on-the-eye sans-serif. For iOS10-12.
 Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcera1011
-Name: Cera (iOS10/11)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcera12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Cera (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontcera12.json
 
 Package: com.evynw.fontceratm
 Version: 1.0
@@ -464,33 +465,35 @@ Package: com.evynw.fontconfigrounded12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.0-3)
 Filename: ./debs/com.evynw.fontconfigrounded12_1.0_iphoneos-arm.deb
-Size: 10367236
-MD5sum: 3e7a49f9f32246193d21d4c449e353fe
-SHA1: 806a29309286c9d5b181ff764e920a9399c49fa9
-SHA256: d234c17ddb6bf4f1476fe27d33e35c1eb62745aa036ea47b2fc516ad509ab9d6
+Size: 10367252
+MD5sum: 59fc6f3d8eebf26fa64609a6cff14045
+SHA1: 16e9b4010dc4b26bb17fe574a9076291c252226d
+SHA256: 41408e725f1d72076f134358b3769ca9e72f0ffc3a37c9173e0cc997d20c36ea
 Section: Fonts - Theme
 Description: Half-rounded sans serif. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontconfigrounded12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Config Rounded (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontconfigrounded12.json
 
 Package: com.evynw.fontconfigrounded8512
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.0-3)
 Filename: ./debs/com.evynw.fontconfigrounded8512_1.0_iphoneos-arm.deb
-Size: 10942652
-MD5sum: 5ab15113b1f22273175b0b046bfeb528
-SHA1: 4826c3a21022ab0c473675e2a62598fbc1f28554
-SHA256: 5dfbfed09d9a4872feca3229f90cb5c8c76adf3713a02b33cc4e456cf8074529
+Size: 10942664
+MD5sum: a237c323c953ac059921ae685c8e3548
+SHA1: fd52c15c09ebc99ef75ad1895720727e5e64d0c4
+SHA256: b95f53b6964d88e63336f6a348b1975745c8ac195f30760d8d965e35e434a61f
 Section: Fonts - Theme
 Description: Half-rounded sans serif. 85% size. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontconfigrounded8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Config Rounded_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontconfigrounded8512.json
 
 Package: com.evynw.fontcontesans1011
 Version: 1.0
@@ -507,22 +510,6 @@ Description: Clean sans-serif typeface. For Anemone.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesans1011
 Name: Conte Sans (iOS10/11)
-
-Package: com.evynw.fontcontesans9
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
-Filename: ./debs/com.evynw.fontcontesans9_1.0_iphoneos-arm.deb
-Size: 11960064
-MD5sum: b9c5064c90934da77e15c36203d38539
-SHA1: 6572be0f1fe954603731561b1ee32f8c1a2220bb
-SHA256: 9ddb81d52c35e0129284aa843702bb621a353bf78bee05464436efc6acc8e902
-Section: Anemone Fonts
-Description: Clean sans-serif typeface. For Anemone.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesans9
-Name: Conte Sans (iOS9)
 
 Package: com.evynw.fontcontesanstm
 Version: 1.0
@@ -556,22 +543,6 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcoresansar1011
 Name: Core Sans AR (iOS10/11)
 
-Package: com.evynw.fontcoresansar9
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
-Filename: ./debs/com.evynw.fontcoresansar9_1.0_iphoneos-arm.deb
-Size: 17023888
-MD5sum: d30cd84dcb5ec36653aedc4b16952f7d
-SHA1: 4dc00940273c1a04e4d97e7b162b95a9f65e0742
-SHA256: 40b9aabc282a679caf2c577946f675745c1147b27f459b9226f74bd81ee2e6c7
-Section: Anemone Fonts
-Description: Slightly-rounded sans-serif typeface. For Anemone.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcoresansar9
-Name: Core Sans AR (iOS9)
-
 Package: com.evynw.fontcoresansd1011
 Version: 1.0
 Architecture: iphoneos-arm
@@ -587,22 +558,6 @@ Description: Popular sans-serif typeface. For Anemone.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcoresansd1011
 Name: Core Sans D (iOS10/11)
-
-Package: com.evynw.fontcoresansd9
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
-Filename: ./debs/com.evynw.fontcoresansd9_1.0_iphoneos-arm.deb
-Size: 17095208
-MD5sum: 580fbb6968e0d2a050c7dc2d0ede7e7c
-SHA1: 7ff1d43765f607f8699176a758e64016ce7bb85b
-SHA256: 1f922d611dd4acefc32f95c2d925d1d85d06b09c0db2ea94ce912935e8a0a287
-Section: Anemone Fonts
-Description: Popular sans-serif typeface. For Anemone.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcoresansd9
-Name: Core Sans D (iOS9)
 
 Package: com.evynw.fontcorpsansalt12
 Version: 1.0
