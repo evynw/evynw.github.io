@@ -2516,6 +2516,23 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew24
 Name: LS EW24
 
+Package: com.evynw.lsew242
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.lsew242_1.0_iphoneos-arm.deb
+Size: 98064
+MD5sum: 74ee7f7d8e1c80b9564bb58b91d3757e
+SHA1: 127fdbc8137491987fc65cfa9fae7f37691b5be8
+SHA256: aca3a332c86a821e54c50f473ccf0c08014711d0c5c46601e38dd423d639bc57
+Section: Lockscreen Widgets
+Description: Guess I should think of a new description? OwO
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew242
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW242
+Sileodepiction: https://evynw.github.io/sileo/lsew242.json
+
 Package: com.evynw.lsew27
 Version: 1.0
 Architecture: iphoneos-arm
