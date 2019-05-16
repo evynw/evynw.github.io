@@ -563,33 +563,35 @@ Package: com.evynw.fontcorpsansalt12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontcorpsansalt12_1.0_iphoneos-arm.deb
-Size: 9811792
-MD5sum: 10372e11b4a4b779af8eae8db87e4f0c
-SHA1: 18e2ba8ddccbfc40c1938c62e2a503772482d5c5
-SHA256: 5b777488325eadf862fa4b0cdf6ea955bfd72ecfcac71129884b2c6c2851c344
-Section: Anemone Fonts
+Size: 9811700
+MD5sum: 56a0b1deb73bd5cea2642e3220eb3090
+SHA1: afa05f82cfbec39d9ff68f6a09622f4ce0c4a40f
+SHA256: b6faa7f327828d46327eb3f7c9eec8969412066a6083112e788ee71e633c676a
+Section: Fonts - Theme
 Description: 100% stock font size of Corporative Sans Alt
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcorpsansalt12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Corporative Sans Alt (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontcorpsansalt12.json
 
 Package: com.evynw.fontcorpsansalt8512
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontcorpsansalt8512_1.0_iphoneos-arm.deb
-Size: 10431560
-MD5sum: d48333e040225e1c0a91c5c96bd65c8e
-SHA1: 2916ff54be3b89b24e8e70b3395cdc33dcfeeebe
-SHA256: ce93251a6bf8bb3c1780902314797e295d24a45ac26ab17c49e2eb63187ec98d
-Section: Anemone Fonts
+Size: 10431606
+MD5sum: 01cf1819e2e8c9aecf2e373a84a49830
+SHA1: 32e15342a18c10527de3d49f7bdbd17b998f4b64
+SHA256: fa164858e74ec90e5210d040266eb14aff4a32b8b49cf6476074fb4e36dbf720
+Section: Fonts - Theme
 Description: 85% size of the original Corporative Sans
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcorpsansalt8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Corporative Sans Alt_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontcorpsansalt8512.json
 
 Package: com.evynw.fontffmark1011
 Version: 1.0
@@ -900,17 +902,18 @@ Package: com.evynw.fontopensans12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontopensans12_1.0_iphoneos-arm.deb
-Size: 13090198
-MD5sum: 5e0425ef89c9f6d0c3741d57ed0f55ce
-SHA1: 7079387c2b1a441014b84973973a3c7faf7fd7d4
-SHA256: ed45630d60565d41cafa86163ebd4b8d8841811ff4a878bcc737d81817b38fa4
+Size: 13090222
+MD5sum: f28de8b5e03ad2368345c3721e55c059
+SHA1: 88fd83136368fdafa8e3ff8a3f75ad6506e0ed69
+SHA256: 7ffc67cfc7227d6ab1059a935c725b8a7562426d30fa081c3a8dac9ec7115ff5
 Section: Fonts - Theme
 Description: Classic sans-serif. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontopensans12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Open Sans (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontopensans12.json
 
 Package: com.evynw.fontpfdin12
 Version: 1.0
@@ -1000,49 +1003,52 @@ Package: com.evynw.fontsfrounded12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.0-2)
 Filename: ./debs/com.evynw.fontsfrounded12_1.0_iphoneos-arm.deb
-Size: 10035276
-MD5sum: e49402459d3ef504aeffbb6b266a435d
-SHA1: ea0e55350b0820b3ec666ab6452df1dfff6935a0
-SHA256: edbca0c0bc5f97368bd99b43c0e20a5f0f5efb87636f42da6b20604ca6ef971f
+Size: 10035290
+MD5sum: 2f97f860cb53f427c5af1852f0e657ad
+SHA1: 4af5f9b6ba01a1e0af788629d45195990df9729f
+SHA256: 67564d240daa8d0013bdd0340384a67c386029e380bd3f4193590f6f824f08d8
 Section: Fonts - Theme
 Description: Rounded San Franciso. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsfrounded12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: SF Compact Rounded (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontsfrounded12.json
 
 Package: com.evynw.fonttisasans12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.0-3)
 Filename: ./debs/com.evynw.fonttisasans12_1.0_iphoneos-arm.deb
-Size: 9982138
-MD5sum: 0ed352abbe8c7e84eabd42ffd717dd7a
-SHA1: 1135276b2c8ae319de625d67bd8d385cda10e502
-SHA256: 2e138fe5236a781062c10a981d90c020949800ac582472a79107fc2d69e44011
+Size: 9982158
+MD5sum: 891bf6e5fc6aa358bc5a895ed38d734d
+SHA1: c912bc772fca33518e5502c63608bb00b3041bbd
+SHA256: 4ef9f00a8c5cdf2e15eaac157d84e39adb981251f1a81f5c35bdee13f216c751
 Section: Fonts - Theme
 Description: Sans that's kinda cute. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonttisasans12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: FF Tisa Sans (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fonttisasans12.json
 
 Package: com.evynw.fontttteds12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.0-3)
 Filename: ./debs/com.evynw.fontttteds12_1.0_iphoneos-arm.deb
-Size: 14911020
-MD5sum: a3aaf714c2a89c7672bb1bce83c0bbc1
-SHA1: 96e578cdebc694e1483723b57e11c503de031010
-SHA256: 81e045f63593c97ca3fefd478178595b79a7461deb715f2284fc6f0f87fe78bf
+Size: 14911026
+MD5sum: 04cd4fcccc327496c1feddfdcdb57478
+SHA1: cde939c847d58fe6258d93257a161cf88bd5e5e3
+SHA256: be0dc8960f0d4b46847fe0bac425a0e24f5127067721ad743a62b28b3672e2fe
 Section: Fonts - Theme
 Description: Clean & narrow sans-serif typeface. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontttteds12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: TT Teds (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontttteds12.json
 
 Package: com.evynw.fonttttedstm
 Version: 1.0
@@ -1439,97 +1445,107 @@ Package: com.evynw.lsew120
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.lsew120_1.0_iphoneos-arm.deb
-Size: 199086
-MD5sum: 5b07e6233aa4746fb2c6bc283fceee83
-SHA1: bec698d992049b2460c1360c592f37df12954f44
-SHA256: 0de2f13316e90ec595dcb58a83b48a705437c12f5905b21a9b7e7fc0e331301e
+Size: 199100
+MD5sum: a95f8af881c9035c46ede0ff646e28c5
+SHA1: 1315732d8f3063c04409ac50c7644ed395a4c8cb
+SHA256: 0a25474c8d0add8f653af7e2f821adfa8175dd889edcfbd04320ea415dfff840
 Section: Lockscreen Widgets
 Description: [Enter generic LS widget description ^_^]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew120
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW120
+Sileodepiction: https://evynw.github.io/sileo/lsew120.json
 
 Package: com.evynw.lsew123
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.lsew123_1.0_iphoneos-arm.deb
-Size: 704350
-MD5sum: ad46d6d63c49f4e3492b5de94c5f0c3b
-SHA1: 099059008834c2eae9a1e3bd242d6e58538cbfd0
-SHA256: 35e79771400111fd8ccf126cbb6b0deb99be3c6f244b81fdcde616d3fce0743d
+Size: 704368
+MD5sum: b8fda78c200c65abc771d25807a2986d
+SHA1: c4a0c18477c556fce4170e181c00972f076661a5
+SHA256: 133f42005c20cc0ec844b1f687599e9e58dd33e187be2b6c39b346d199b70e65
 Section: Lockscreen Widgets
 Description: [Enter generic LS widget description ^_^]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew123
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW123
+Sileodepiction: https://evynw.github.io/sileo/lsew123.json
 
 Package: com.evynw.lsew125
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.lsew125_1.0_iphoneos-arm.deb
-Size: 852060
-MD5sum: c515b7b4332956081240256f965a5b73
-SHA1: bd850166cff1e4279996a7a5f845e2c891d3c478
-SHA256: c0c983a4f0a834af5efee30c2a67615d4c35b6ed53bba088e3086b7d4ed9291d
+Size: 852088
+MD5sum: 3124411affb43d7ccdb3d617bdf240e7
+SHA1: ee1d7db28f2ce8bf680bbe95263ea82c6f4895a9
+SHA256: f23f562666d8b1d25d9d164b78e732d51a2d2636be7cd81337959242ae4764f7
 Section: Lockscreen Widgets
 Description: [Enter generic LS widget description ^_^]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew125
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW125
+Sileodepiction: https://evynw.github.io/sileo/lsew125.json
 
 Package: com.evynw.lsew127
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.lsew127_1.0_iphoneos-arm.deb
-Size: 271574
-MD5sum: 041de54779bf9f353d4c7de0f71d1d31
-SHA1: 36df62608dbea8cea0021451f6363452dffed2c8
-SHA256: a9ea291efd371f3b16181e61039bccbf19c226637354a29142a1dce6d38c0d9d
+Size: 271594
+MD5sum: 2e0e4d3d22daa7d3a3965e404c57a6c6
+SHA1: 0756d0dc31b768e3d3de8167b28d37d6ff3c21ca
+SHA256: cd30db4dcbbcfb4592c9fc10dd30c7fd0a72385a3e2a2e56d0e4c182dfed1734
 Section: Lockscreen Widgets
 Description: [Enter generic LS widget description ^_^]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew127
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW127
+Sileodepiction: https://evynw.github.io/sileo/lsew127.json
 
 Package: com.evynw.lsew128
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.lsew128_1.0_iphoneos-arm.deb
-Size: 179576
-MD5sum: d441b73799cd53f71680e0db596720a8
-SHA1: 5c62f3843437b1879a44fd5d71b3102d025c61b0
-SHA256: 7bc0273d625d13152e3ff36a4bb63f846941e4d1be37a50b1be442b8635548e1
+Size: 179600
+MD5sum: f95340ea568272e4de11496488889936
+SHA1: 0328302833990f7d10f1fa2d2401dd2f8a3998a6
+SHA256: 5a6153f952c513415996ff77c092264cbb57555ca7451b35818c38454762487e
 Section: Lockscreen Widgets
 Description: [Enter generic LS widget description ^_^]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew128
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW128
+Sileodepiction: https://evynw.github.io/sileo/lsew128.json
 
 Package: com.evynw.lsew129
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.lsew129_1.0_iphoneos-arm.deb
-Size: 175470
-MD5sum: 808c58f6c23bc6de6a97b97879f54a42
-SHA1: 828fdcdc0a92588a51e40655d6fc9add363f04bc
-SHA256: ba92c349be3a7170fdc0e4f870f1d06a15ca727306587f14a12bba1934d3324e
+Size: 175484
+MD5sum: dc669f55a4211e50dccd511392343212
+SHA1: ce4a97f6c05187b676a66583ac05b0efbf55a7bf
+SHA256: e33fc262b758a41c5cacde3d9a17dc6a38a77a3bc9cd940a71e80a9267b60133
 Section: Lockscreen Widgets
 Description: [Enter generic LS widget description ^_^]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew129
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW129
+Sileodepiction: https://evynw.github.io/sileo/lsew129.json
 
 Package: com.evynw.lsew13
 Version: 1.0
@@ -1551,81 +1567,90 @@ Package: com.evynw.lsew131
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.lsew131_1.0_iphoneos-arm.deb
-Size: 264428
-MD5sum: e923058c01da7d6fb7075057c74f6d19
-SHA1: afd9b78ff3bfb2779fa93ea47c949234ae67867c
-SHA256: 4149a96d2a5f2079ebba0a573872d53c4e6eec2d5d120f2401d450bd38460263
+Size: 264448
+MD5sum: 96b651c63d4aa3fcc677fa6bb9dae1d3
+SHA1: 725602f4b5821974b37ff025d91c3e62f3211cac
+SHA256: 5996ed3c1ef8b373cdf2aac2ff7078bba8035c58f2e67c93fc83aa16fb4f578a
 Section: Lockscreen Widgets
 Description: [Enter generic LS widget description ^_^]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew131
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW131
+Sileodepiction: https://evynw.github.io/sileo/lsew131.json
 
 Package: com.evynw.lsew133
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.lsew133_1.0_iphoneos-arm.deb
-Size: 1038784
-MD5sum: d4f7abb85056a1b370ff1c3da99fe7e3
-SHA1: 9eac4702257b8b0af59ab97075629f7e104d9dc2
-SHA256: c149b02cd1592bb11e62cab30f93187a968688d92da4fb8f3093a49a8577cc87
+Size: 1038806
+MD5sum: bd45aa1e0d2e3c157e9ac6b992a0c389
+SHA1: a25ccd385390235574aee1c24ff79d32a2a8a188
+SHA256: bd5310db216fa1bca7c676a06669e3c95e502e4b4ec127e827a28780d347878a
 Section: Lockscreen Widgets
 Description: [Enter generic LS widget description ^_^]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew133
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW133
+Sileodepiction: https://evynw.github.io/sileo/lsew133.json
 
 Package: com.evynw.lsew134
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.lsew134_1.0_iphoneos-arm.deb
-Size: 247880
-MD5sum: 71251e015efd4d8750973e5319fbeccc
-SHA1: 1b3d961b2618ad29512daf9a2ca2be6eb9f10647
-SHA256: 0781a974dcb8fa80092201736c7279262bfc1c6fc9b1bf981d09e3ece2688770
+Size: 247616
+MD5sum: 6ba098e2389292ca280750f9af5f3c6b
+SHA1: a466227b6751c5ac68efd9acc1adb65830b19fbf
+SHA256: bb5abab6fc8e3eabdb915cd69a822fe9c0d6a62746f08907b7db3a4cf4e57f33
 Section: Lockscreen Widgets
 Description: [Enter generic LS widget description ^_^]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew134
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW134
+Sileodepiction: https://evynw.github.io/sileo/lsew134.json
 
 Package: com.evynw.lsew137
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.lsew137_1.0_iphoneos-arm.deb
-Size: 104664
-MD5sum: 0e53fdd747af441b51d969311dd309cf
-SHA1: 0f684097c16ed61d36280aea76b12c57a532794f
-SHA256: b02ffd901369cef156b918b03483dd1a5f49483ab738168069a55d8225c86986
+Size: 104688
+MD5sum: 078e4e7efc2b6c3167e1385c4b14e29e
+SHA1: 2f5b0f258c5470a0df7c494d32514163d6e44d38
+SHA256: 1277bb706dcef9e914df2a5683e743ec3b773fd9fde83cfc1d0b94c0d182ebed
 Section: Lockscreen Widgets
 Description: [Enter generic LS widget description ^_^]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew137
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW137
+Sileodepiction: https://evynw.github.io/sileo/lsew137.json
 
 Package: com.evynw.lsew138
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.lsew138_1.0_iphoneos-arm.deb
-Size: 519696
-MD5sum: 365dab90bef6654869eb0f98c82379b3
-SHA1: 513a8e0888ca89403f24901dc1c26e21c8e5b60b
-SHA256: 876887f58b04c0fc3dfdd161d52194183f5c7656dce14a23b2ab34fcb2eb7950
+Size: 519708
+MD5sum: 6a601fbae413e8ba7a8dd1842403f1ee
+SHA1: b4fb9e9cb92cdf772c8bb178a156b45306fcb644
+SHA256: 354823ef9e524d510c9fc3f5ae4152395d8ea8ccc7b1dfe2dccca13fc92a64f2
 Section: Lockscreen Widgets
 Description: [Enter generic LS widget description ^_^]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew138
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW138
+Sileodepiction: https://evynw.github.io/sileo/lsew138.json
 
 Package: com.evynw.lsew14
 Version: 1.0
