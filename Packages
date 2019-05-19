@@ -610,21 +610,22 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Corporative Sans Alt_85% (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcorpsansalt8512.json
 
-Package: com.evynw.fontffmark1011
+Package: com.evynw.fontffmark12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
-Filename: ./debs/com.evynw.fontffmark1011_1.0_iphoneos-arm.deb
-Size: 18180106
-MD5sum: de291b1b0aacb73b5d88d6b4184b83c9
-SHA1: a476ed954ae80cd5eb2c3bb038c1b36bc49db404
-SHA256: 0b51e5fe3322cee9048c3f13c523edeb0df8e8a4edfd54fed5aba6097d528eff
-Section: Anemone Fonts
-Description: Clean sans-serif typeface. For Anemone.
+Filename: ./debs/com.evynw.fontffmark12_1.0_iphoneos-arm.deb
+Size: 18097498
+MD5sum: e1126b22c6f31790c515085d14aef143
+SHA1: 087106cbe13c8a9cad195cca3c157c13df1b186f
+SHA256: b60edace0f8cb2844dfdd16f538e9c802f20fe6323131dd9c9e7a7cf0d10a295
+Section: Fonts - Theme
+Description: Clean sans-serif typeface. For iOS10-12.
 Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffmark1011
-Name: FF Mark Pro (iOS10/11)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffmark12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: FF Mark Pro (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontffmark12.json
 
 Package: com.evynw.fontffmarktm
 Version: 1.0
