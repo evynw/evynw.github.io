@@ -417,17 +417,18 @@ Package: com.evynw.fontceratm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontceratm_1.0_iphoneos-arm.deb
 Size: 1576714
-MD5sum: 0928d2f43f30d1ce9813881549634560
-SHA1: 99298d323ddefdc82d292f38ae6b60fe5b38c1da
-SHA256: 10b18890bd41f017d221f489358a1858529399c0b5ffa4e0b99b10541c6ae2ad
-Section: Tweak Mode Fonts
+MD5sum: 6070c21979540a278c81adf5dca85903
+SHA1: 7c7ccd75310a7d310596f6503cd82119e643a1cc
+SHA256: bfc8f08a6d15b3f8f23a0bff363fdcd5f15c7ad29a9b42ba90ff6d0aee5e66ed
+Section: Fonts - Tweak Mode
 Description: Easy-on-the-eye sans-serif typeface. For BytaFont Tweak Mode.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontceratm
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Cera (TM)
+Sileodepiction: https://evynw.github.io/sileo/fontceratm.json
 
 Package: com.evynw.fontciutadella1011
 Version: 1.0
@@ -449,17 +450,18 @@ Package: com.evynw.fontciutadellatm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontciutadellatm_1.0_iphoneos-arm.deb
-Size: 1522548
-MD5sum: 3dc7d938f352c543be8ee84c3db627d1
-SHA1: 0140e5c60815d502adbdc692d97da3372654b2ef
-SHA256: 059b6f767e7db0ca6498d391f4ffac661039f56f997ff2e466d4a11ecd8aa567
-Section: Tweak Mode Fonts
+Size: 1522582
+MD5sum: f7267b31b3b9b4bb2c721eb04a5c9117
+SHA1: 61c5467c2e08f0c9004282f7f2bc75a59ce40a71
+SHA256: c6961c98715f2b68be216d2229c8ebda4d8af6f203876d8d7f44ea355494a7b2
+Section: Fonts - Tweak Mode
 Description: First ever rounded font on my repo lol. For BytaFont Tweak Mode.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontciutadellatm
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Ciutadella Rounded (TM)
+Sileodepiction: https://evynw.github.io/sileo/fontciutadellatm.json
 
 Package: com.evynw.fontconfigrounded12
 Version: 1.0
@@ -515,17 +517,18 @@ Package: com.evynw.fontcontesanstm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontcontesanstm_1.0_iphoneos-arm.deb
-Size: 1660720
-MD5sum: c6d925bc6f826b7e41e4ffeda3af009c
-SHA1: f7674ce48f00cb8127a3ae416304c0b174b76361
-SHA256: ebc223ee5b1fc92128d6fa25bca8836f3249f4fcd0985539c470225ffd40a60f
-Section: Tweak Mode Fonts
+Size: 1660746
+MD5sum: c30505bc7a371fc54ef5dcb97b5434d7
+SHA1: 1867fdbe37139596628c2cf6c7e4b137fc8af4b8
+SHA256: 34b7969d861a958c7601e2901212c43443ad6abc06632bf0aee8ff76f6dfbe44
+Section: Fonts - Tweak Mode
 Description: Clean sans-serif typeface. For BytaFont Tweak Mode.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesanstm
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Conte Sans (TM)
+Sileodepiction: https://evynw.github.io/sileo/fontcontesanstm.json
 
 Package: com.evynw.fontcoresansar1011
 Version: 1.0
@@ -631,17 +634,18 @@ Package: com.evynw.fontffmarktm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontffmarktm_1.0_iphoneos-arm.deb
-Size: 1622236
-MD5sum: 2dd739d207351811f49f536bd6206c93
-SHA1: a4b609e0b2c751381ec4d49497f8593acd91692f
-SHA256: ddbff70f27e4c9fb26048c39b380b088a8c8e6bef7bb7aa0c470a78c976ae76b
-Section: Tweak Mode Fonts
+Size: 1622262
+MD5sum: 4821043f3c6c40167b2d6510c767c326
+SHA1: e2ea022e92cda7063cfb57363e504783eea62ad2
+SHA256: 1e91bb73f814986a2d22ecac6cf650fa3fbdc6da55576084da7047df39a24f0d
+Section: Fonts - Tweak Mode
 Description: Clean sans-serif typeface. For BytaFont Tweak Mode.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffmarktm
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: FF Mark Pro (TM)
+Sileodepiction: https://evynw.github.io/sileo/fontffmarktm.json
 
 Package: com.evynw.fontffstrada1011
 Version: 1.0
@@ -680,17 +684,18 @@ Package: com.evynw.fontfrygiatm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontfrygiatm_1.0_iphoneos-arm.deb
-Size: 1658206
-MD5sum: 3ec2699d7c60907fed206407c417eedc
-SHA1: 76cdec577f2ec4fc888bc665289896eac817a045
-SHA256: 3aa8a2d080b080ed2a6043491118632eaa31c50c60c359208a3ec6bd20ade436
-Section: Tweak Mode Fonts
+Size: 1658238
+MD5sum: a35ede3ac2c10f5f9744395470cb0734
+SHA1: 3b0e16ba382178e360ce15b088c95e7a4ed4ab4a
+SHA256: b92ec0f6f9cf8ae36ce62153c04b488409441fc3d284563cf96ba5ff95f0489d
+Section: Fonts - Tweak Mode
 Description: Easy-on-the-eye sans-serif typeface. For BytaFont Tweak Mode.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontfrygiatm
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Frygia (TM)
+Sileodepiction: https://evynw.github.io/sileo/fontfrygiatm.json
 
 Package: com.evynw.fontgineso1011
 Version: 1.0
@@ -728,17 +733,18 @@ Package: com.evynw.fontginesotm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontginesotm_1.0_iphoneos-arm.deb
-Size: 1569304
-MD5sum: 7762ddd40ad6d8c7b08b7bf620ade4aa
-SHA1: db4dc8d074b9ece7ec136610ca9155bde3b0fcc4
-SHA256: 8dac13d105e10d60dcffd8c83eca42abeb465346dd2e2343dbd9b04333ac7d80
-Section: Tweak Mode Fonts
+Size: 1569342
+MD5sum: fbbfb295fbf0415a6f8a251e027d3fe3
+SHA1: 437eb5a71bffdf9242d0ad9a538edc6370bffa44
+SHA256: 42671f721a4fc934c106a78274dbea964ceea431e90a867eff843aed1020cda5
+Section: Fonts - Tweak Mode
 Description: Grotesque-ish typeface. For BytaFont Tweak Mode.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontginesotm
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Gineso (TM)
+Sileodepiction: https://evynw.github.io/sileo/fontginesotm.json
 
 Package: com.evynw.fontglober1011
 Version: 1.0
@@ -760,17 +766,18 @@ Package: com.evynw.fontglobertm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontglobertm_1.0_iphoneos-arm.deb
-Size: 1782916
-MD5sum: 09ef8628243586dff0713c8a1b427f92
-SHA1: 5049157ca1a7c6c9e1cb06dadb8b34f363752cee
-SHA256: 7cff43d178141f6fc3ea108bca278fd9cb5b616b33ef413d44b1ca6278d74d4f
-Section: Tweak Mode Fonts
+Size: 1782942
+MD5sum: b7c78be54f91e24ad00e5006dc57bbdc
+SHA1: 2c3cdba959164277f476b2325e0b42cff5fe0d6a
+SHA256: 4bfb3def3d09caa29f2167c55c4e4e56ee6fb672553eb47f124b0b441fd38b2d
+Section: Fonts - Tweak Mode
 Description: Clean-looking sans-serif. For BytaFont Tweak Mode.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontglobertm
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Glober (TM)
+Sileodepiction: https://evynw.github.io/sileo/fontglobertm.json
 
 Package: com.evynw.fontibmplexsans12
 Version: 1.0
@@ -808,17 +815,18 @@ Package: com.evynw.fontintervalsanstm
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontintervalsanstm_1.0_iphoneos-arm.deb
-Size: 1578396
-MD5sum: 30d4a3346b8548e80892277f73b6a20d
-SHA1: f8489c4beaed68709143649be3681b558df03476
-SHA256: de05277073a2b9ddaa94a0c108a0538d87dd67336c8b503e3cc9635cb1f7853e
-Section: Tweak Mode Fonts
+Size: 1578428
+MD5sum: 7d7eb943da00a64a65ea888e5bd4b7e6
+SHA1: dee83e492b20ce3e3908c1eb220f16ac174c1840
+SHA256: 6aa16f04c6da772757c39f5fb8fe87e984a5035e211e6dafa744e1d108c9bb94
+Section: Fonts - Tweak Mode
 Description: Clean sans-serif typeface. For BytaFont Tweak Mode.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontintervalsanstm
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Interval Sans (TM)
+Sileodepiction: https://evynw.github.io/sileo/fontintervalsanstm.json
 
 Package: com.evynw.fontmetrisch1011
 Version: 1.0
@@ -2594,6 +2602,24 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew242
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW242
 Sileodepiction: https://evynw.github.io/sileo/lsew242.json
+
+Package: com.evynw.lsew243
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew243_1.0_iphoneos-arm.deb
+Size: 645422
+MD5sum: 7a346ac74b88b954ccf50f0415924e0b
+SHA1: 9cced7ab473580192f1156e6d4233f4913d3c8a9
+SHA256: b9784d6c74cedebde18419f9476696e5490165e59793e8367c45c68ca595d4d1
+Section: Lockscreen Widgets
+Description: Guess I should think of a new description? OwO
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew243
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW243
+Sileodepiction: https://evynw.github.io/sileo/lsew243.json
 
 Package: com.evynw.lsew27
 Version: 1.0
