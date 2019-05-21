@@ -31,11 +31,11 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{330, 587}",
+          "itemSize": "{500, 500}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.sbew77/ss.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.sbew69/ss.png"
             }
           ]
         },
