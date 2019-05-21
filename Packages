@@ -2604,15 +2604,15 @@ Name: LS EW242
 Sileodepiction: https://evynw.github.io/sileo/lsew242.json
 
 Package: com.evynw.lsew243
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.lsew243_1.0_iphoneos-arm.deb
-Size: 645422
-MD5sum: 7a346ac74b88b954ccf50f0415924e0b
-SHA1: 9cced7ab473580192f1156e6d4233f4913d3c8a9
-SHA256: b9784d6c74cedebde18419f9476696e5490165e59793e8367c45c68ca595d4d1
+Filename: ./debs/com.evynw.lsew243_1.0-1_iphoneos-arm.deb
+Size: 645420
+MD5sum: 72fe53135cb05113215a5ff8905c70a6
+SHA1: 685db35a14437b41819e171a52fe5198f11b78d0
+SHA256: 2456e25ce06217701666f46fbfeb331728fb9425f42598da12f6a9afab8c4925
 Section: Lockscreen Widgets
 Description: Guess I should think of a new description? OwO
 Author: Evelyn (ev_ynw)
