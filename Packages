@@ -434,17 +434,18 @@ Package: com.evynw.fontciutadella12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.0-3)
 Filename: ./debs/com.evynw.fontciutadella12_1.0_iphoneos-arm.deb
-Size: 17119576
-MD5sum: e0c322174e32eaa6a9f0b9a56d587245
-SHA1: 54ed4761a2bcb7872b7087346bfd5f7afbcb64df
-SHA256: 581a4bb7597db9718ba8c8f4d4dbefe1a0c4bc43593aad4fbb1c40b4da71c1ee
+Size: 17119374
+MD5sum: f29c903f73208235986c463b9ff9f606
+SHA1: 81869b42a5e98938bb3c7ebcff694969bbb6a21d
+SHA256: 4f3c22857b6531fc3daabc92209227aba1910ebdf5c80f11689a8c88e220c679
 Section: Fonts - Theme
 Description: Rounded font. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontciutadella12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Ciutadella Rounded (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontciutadella12.json
 
 Package: com.evynw.fontciutadellatm
 Version: 1.0
