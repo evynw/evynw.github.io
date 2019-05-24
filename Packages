@@ -502,17 +502,18 @@ Package: com.evynw.fontcontesans1011
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
 Filename: ./debs/com.evynw.fontcontesans1011_1.0_iphoneos-arm.deb
-Size: 8264828
-MD5sum: 032ba2de2bd76ff68fb1b4ea38496b9b
-SHA1: bd3d80e995b36f601ce7603e83a030c519e43fa9
-SHA256: 08eaf2f17688349c22dcf57a98c1dc7470b69dd0e819f940cef85e819e27c13d
-Section: Anemone Fonts
+Size: 8264816
+MD5sum: 5d923ddd2f19d9fc96e33e2525e5e04a
+SHA1: f09a8cf3fc4f0cd0d572eef2c67a88743d58b6ef
+SHA256: 308953ec4254ad2667053c929407843df9f5cc14d2170179e175364531b4b12e
+Section: Fonts - Theme
 Description: Clean sans-serif typeface. For Anemone.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesans1011
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Conte Sans (iOS10/11)
+Sileodepiction: https://evynw.github.io/sileo/fontcontesans1011.json
 
 Package: com.evynw.fontcontesanstm
 Version: 1.0
@@ -530,22 +531,6 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesanstm
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Conte Sans (TM)
 Sileodepiction: https://evynw.github.io/sileo/fontcontesanstm.json
-
-Package: com.evynw.fontcoresansar1011
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
-Filename: ./debs/com.evynw.fontcoresansar1011_1.0_iphoneos-arm.deb
-Size: 15403732
-MD5sum: 804f011454ef65f1c8f74929be83d5cb
-SHA1: 3b23f693282626bce34b9508d9ee57f7eaab2824
-SHA256: cf4d57274215649a46b588010a41af4933ec7e1299862c87af89dab020f29ffa
-Section: Anemone Fonts
-Description: Slightly-rounded sans-serif typeface. For Anemone.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcoresansar1011
-Name: Core Sans AR (iOS10/11)
 
 Package: com.evynw.fontcoresansar12
 Version: 1.0
@@ -568,17 +553,18 @@ Package: com.evynw.fontcoresansd1011
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
 Filename: ./debs/com.evynw.fontcoresansd1011_1.0_iphoneos-arm.deb
-Size: 16312962
-MD5sum: aa8f7f9ca3e528d002859810dac9fc21
-SHA1: c96c6e10562ffd7168e39d8051d885b9725ca47d
-SHA256: 69ce1a135daf8374ed138cbf848059ee416464b0733999b617432d95a7a543cb
-Section: Anemone Fonts
-Description: Popular sans-serif typeface. For Anemone.
+Size: 16312782
+MD5sum: e6e83d028b793f242208c5661bda66f0
+SHA1: c683920aee7847351264f105f8c0347bd5e43b67
+SHA256: 7903fdc4c467fb7af9842198415fab34c35b3694d860a5946cac63db3cd76365
+Section: Fonts - Theme
+Description: Sans-serif with a special "k"
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcoresansd1011
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Core Sans D (iOS10/11)
+Sileodepiction: https://evynw.github.io/sileo/fontcoresansd1011.json
 
 Package: com.evynw.fontcorpsansalt12
 Version: 1.0
@@ -652,17 +638,18 @@ Package: com.evynw.fontffstrada1011
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
 Filename: ./debs/com.evynw.fontffstrada1011_1.0_iphoneos-arm.deb
-Size: 17465068
-MD5sum: fb107d148c82cbc94ce7189315c960b8
-SHA1: 2fbfbf284631751886a243fd0ab5c010ab223cdd
-SHA256: ded22e99d6f5c2b097517b28534e48a2db4e6bebfaeefeced02d24f1e954facf
-Section: Anemone Fonts
-Description: Clean sans-serif typeface. For Anemone.
+Size: 17464942
+MD5sum: 42e8d9096a55edb7085d45caa756ea57
+SHA1: 38cf121f69f89d30b559c3cd8f9dd78f0c1ce1ee
+SHA256: 4fb6f442c1685e4110635acb6220867e5804212f24287f8e02833d88663ea9c5
+Section: Fonts - Theme
+Description: I've run out of adjectives for fonts SMH
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffstrada1011
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: FF Strada (iOS10/11)
+Sileodepiction: https://evynw.github.io/sileo/fontffstrada1011.json
 
 Package: com.evynw.fontfrygia12
 Version: 1.0
@@ -698,37 +685,22 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Frygia (TM)
 Sileodepiction: https://evynw.github.io/sileo/fontfrygiatm.json
 
-Package: com.evynw.fontgineso1011
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
-Filename: ./debs/com.evynw.fontgineso1011_iphoneos-arm.deb
-Size: 16294318
-MD5sum: 260c644c427f6cc7040e1f9d30c16ef7
-SHA1: 3007af103d4f0a8db390bc408eee6c516b3a647c
-SHA256: b7b7ee9e5da30757987e162381596cc0c17ed453256617d46ba588eb9d3f7062
-Section: Anemone Fonts
-Description: Grotesque-ish typeface. For Anemone.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgineso1011
-Name: Gineso (iOS10/11)
-
 Package: com.evynw.fontginesoext12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontginesoext12_1.0_iphoneos-arm.deb
-Size: 10423652
-MD5sum: f5cae98496ea5af3358f9255f3c67edf
-SHA1: af1ef4c9bcd937157aa3a767be85933f1503af98
-SHA256: 8c1b47a144eee333e21aa2ccacf6ce4ca79fd504cfd4991ac126fa3238c015e4
-Section: Anemone Fonts
+Size: 10423674
+MD5sum: d1a7ab69e1928c88fc5087d68816276d
+SHA1: ce4a54cc34c3b219bed5f9f6841a466dc177f448
+SHA256: 47a92239b2598b042114017abe03c3090cf8258a7641f41b518639f6dc65afa9
+Section: Fonts - Theme
 Description: Alex's 1st ever font on my repo!
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontginesoext12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Gineso Ext (iOS12)
+Sileodepiction: https://evynw.github.io/sileo/fontginesoext12.json
 
 Package: com.evynw.fontginesotm
 Version: 1.0
@@ -751,17 +723,18 @@ Package: com.evynw.fontglober1011
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
 Filename: ./debs/com.evynw.fontglober1011_1.0_iphoneos-arm.deb
-Size: 18202036
-MD5sum: 7240f4a0d687d92f7fa7272fcecf049b
-SHA1: e47dd2c272d1ae4420a85b5a4caaf9c91f7c1d87
-SHA256: 140f645045da7aac66904a8bc67e8f1b379e69bc459e2101d03e222b5377cfa2
-Section: Anemone Fonts
+Size: 18201992
+MD5sum: 22a5f16a27385f7115c2403189cf1fbd
+SHA1: 08bcb49e4beda4aee763635b7bd1f39050b53375
+SHA256: 0a77b0189846d86ded67312d67782a5cfd3cfab0dff5709cf2c615668a3061c9
+Section: Fonts - Theme
 Description: Clean-looking sans-serif. For Anemone.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontglober1011
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Glober (iOS10/11)
+Sileodepiction: https://evynw.github.io/sileo/fontglober1011.json
 
 Package: com.evynw.fontglobertm
 Version: 1.0
@@ -784,33 +757,35 @@ Package: com.evynw.fontibmplexsans12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontibmplexsans12_1.0_iphoneos-arm.deb
-Size: 11366220
-MD5sum: a4852060ee389bfa64cd38b336cb1039
-SHA1: f01128bccf238e3a3ccb9c8634e0c2465a8c0ae5
-SHA256: 5c416bc4a8964df1ae97a681da67456439b7931f908fd7f5f05ac36bb2a8a76a
-Section: Anemone Fonts
+Size: 11366228
+MD5sum: 9726264ba980d86e68c703afbd07c657
+SHA1: bf35cdf2355e77d3d11a3252b0c69803650fa0d5
+SHA256: 78eb9303e0299fa500c224c028d6a160717b578a18e0cbd039e7467034c39431
+Section: Fonts - Theme
 Description: Clean-looking sans. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontibmplexsans12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: IBM Plex Sans (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontibmplexsans12.json
 
 Package: com.evynw.fontintervalsans1011
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
 Filename: ./debs/com.evynw.fontintervalsans1011_1.0_iphoneos-arm.deb
-Size: 16255718
-MD5sum: 608badc5a0e6ab7692e2cd373ce869f4
-SHA1: d74db0efbc87ac598bca73eb38a899688667a355
-SHA256: 28cf21772a2493fb5f0dbb91a3b60ea127dba136250cab85099596fa3b294c17
-Section: Anemone Fonts
-Description: Popular sans-serif typeface. For Anemone.
+Size: 16255648
+MD5sum: 238ac2ae44150fac69ca57e178aaa696
+SHA1: 1d2de7407737559f306548dbc7ff9eb56e04fee0
+SHA256: 51df03af5495081d4f100ebc39691094bd9c4602f15a65331079db1f83a13303
+Section: Fonts - Theme
+Description: I can only tell you this is a sans-serif typeface.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontintervalsans1011
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Interval Sans (iOS10/11)
+Sileodepiction: https://evynw.github.io/sileo/fontintervalsans1011.json
 
 Package: com.evynw.fontintervalsanstm
 Version: 1.0
@@ -833,17 +808,18 @@ Package: com.evynw.fontmetrisch1011
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontmetrisch1011_1.0_iphoneos-arm.deb
-Size: 17247234
-MD5sum: 2c9dc88baefb4036d2ea1de6dba0cf83
-SHA1: 8328f16fd2f0b783b76ca3351a26637ce1ee9f54
-SHA256: 287996d0f79f41c9c1150f4a5af93946012a8a92866b4f967847b2b226169f1d
-Section: Anemone Fonts
-Description: Fat sans-serif typeface. For Anemone.
+Size: 17247230
+MD5sum: 27398b7c07a12825a720faf3a22aadff
+SHA1: 45440d1f16133688b5f5a2ba894ab4ce11e4307c
+SHA256: b62f5f8a77110c6e6cdd0cd83ebffb474409f0fabf4b6231ebfdb6bc94d7afc6
+Section: Fonts - Theme
+Description: Fat sans-serif typeface
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmetrisch1011
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Metrisch (iOS10/11)
+Sileodepiction: https://evynw.github.io/sileo/fontmetrisch1011.json
 
 Package: com.evynw.fontmetronoatm
 Version: 1.0
@@ -866,49 +842,52 @@ Package: com.evynw.fontmetronova1011
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontmetronova1011_1.0_iphoneos-arm.deb
-Size: 16330914
-MD5sum: 8f33ed552ce6d99194aca8ba4ad41fa6
-SHA1: 309c0abb04c8482b12030c50922cbcd1ed955b58
-SHA256: 99316a0d16fb1c70627ef7d5f1cc6a9f67efa5f20d2e9780b514c2b6ddacbe15
-Section: Anemone Fonts
-Description: Clean & kinda cute (?) typeface. For Anemone.
+Size: 16330854
+MD5sum: d40ef288e4217b8250dbca70c1093873
+SHA1: 5cc9084b6880e29e8911dd5085a911ca03c1abee
+SHA256: 549f844712f53dae76812dc940da98dd20696cf66bf866ff2a739e142add5952
+Section: Fonts - Theme
+Description: Clean & kinda cute (?) typeface
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmetronova1011
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Metro Nova Pro (iOS10/11)
+Sileodepiction: https://evynw.github.io/sileo/fontmetronova1011.json
 
 Package: com.evynw.fontmyriad12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontmyriad12_1.0_iphoneos-arm.deb
-Size: 10820160
-MD5sum: 8cead7866cc7c0c807724d375c9c3e8c
-SHA1: ce8541275a1dfe26bf00811aae14ce09e8522a65
-SHA256: 80a50ef1706bd8fd8187579d7b4697f2b943663003103b92af88b4c84e9a45ff
-Section: Anemone Fonts
+Size: 10820186
+MD5sum: 1e5e5cdd409d7fb97ed9e22258e010c6
+SHA1: 800bae3cad1ceb4598f88dfcbf3f8c9e2532582a
+SHA256: 48a1b61c139eafbac4a396a78665020686febb073c742def944f79d8b199f66d
+Section: Fonts - Theme
 Description: A classic font & Alex's all time fav <3
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmyriad12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Myriad Pro (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontmyriad12.json
 
 Package: com.evynw.fontnovelsans1011
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
 Filename: ./debs/com.evynw.fontnovelsans1011_1.0_iphoneos-arm.deb
-Size: 15100854
-MD5sum: 1019625602aa3bca8b6751d0d4070f9b
-SHA1: 08721cab7b91790f8fefbf8bcfccdb1602bee0e9
-SHA256: 67622501f8b5edc336ea18a3e0ecd2567bed7715822c397221379e25f9e61f26
-Section: Anemone Fonts
+Size: 15100750
+MD5sum: c6bcda0bb9563697a65edb890c3d7295
+SHA1: d9c4eaa5c54248cee079f98fb77f277f4ad003dd
+SHA256: 1bd83d186a9a323a6d4104eb8960a06338bdb8c906939bd349c6a0531f67de7f
+Section: Fonts - Theme
 Description: Popular sans-serif typeface. For Anemone.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontnovelsans1011
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Novel Sans Rounded (iOS10/11)
+Sileodepiction: https://evynw.github.io/sileo/fontnovelsans1011.json
 
 Package: com.evynw.fontnovelsanstm
 Version: 1.0
@@ -948,17 +927,18 @@ Package: com.evynw.fontpfdin12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontpfdin12_1.0_iphoneos-arm.deb
-Size: 9405912
-MD5sum: 724aa01f4cf4f8d338b95460a06bb19e
-SHA1: b6fa789a9979ce93fd0cc57b4d67090ef149a974
-SHA256: 501311560c3623be462e8756f846b633255566adc9144f85e1b6fdb29f5914b6
-Section: Anemone Fonts
+Size: 9405914
+MD5sum: 4a5d8b9102e76e2abb0f0e7591281357
+SHA1: b28df1c127794ded71e8bfd0cbcb9b61e98de6fb
+SHA256: 456443e4a36056d104b5fbde6a8ffa6ac987a86f8bca6e3ee14657debb98860c
+Section: Fonts - Theme
 Description: DIN - one of the best typefaces For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontpfdin12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: PF DIN Text Pro (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontpfdin12.json
 
 Package: com.evynw.fontroboto12
 Version: 1.0
@@ -1016,17 +996,18 @@ Package: com.evynw.fontsfpro1011
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
 Filename: ./debs/com.evynw.fontsfpro1011_1.0_iphoneos-arm.deb
-Size: 1186598
-MD5sum: a86b052b7ba1b4e45b93ba2f35aaee8b
-SHA1: 143ad382f1277d24cd5510cef643b93b900ad42c
-SHA256: 5dc788d65f64981f9bf078108d4adbcb49d7152df843609fede7ca463ecd1cfe
-Section: Anemone Fonts
+Size: 1186592
+MD5sum: 43e21f178a6667b2d630b11370571cef
+SHA1: 18b18b419dc9eafaecb42a2a8a0f0adf5ede8902
+SHA256: e5fd7f21dfb85b50aabe96a34ce38a8ec6d4ddbf6f35e8fc33b901f0ef196331
+Section: Fonts - Theme
 Description: Font in Notebook app applied system-wide
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsfpro1011
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: SF Pro Alt (iOS10/11)
+Sileodepiction: https://evynw.github.io/sileo/fontsfpro1011.json
 
 Package: com.evynw.fontsfrounded12
 Version: 1.0
@@ -1135,17 +1116,18 @@ Package: com.evynw.fontvito1011
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
 Filename: ./debs/com.evynw.fontvito1011_1.0_iphoneos-arm.deb
-Size: 16354584
-MD5sum: b1d92a9ddcf58ced8d6ec1bf857883a2
-SHA1: e2ddb2f0fcfd76166f72e958125a7e2be8fb6e19
-SHA256: 8d063b5c5b05490489745f5850daeeb1800c87a646738b2b7184d286ccf02f4b
-Section: Anemone Fonts
+Size: 16354536
+MD5sum: 4472e585713e177800e15cad7dce1c65
+SHA1: c85e9b08593bf2cc61e10d684661a6208697a23d
+SHA256: 55f6f8870b2c9addcf090e94a07dc8dc2e01766860da857a319f1ef5350a588d
+Section: Fonts - Theme
 Description: Clean sans-serif typeface. For Anemone.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontvito1011
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Vito (iOS10/11)
+Sileodepiction: https://evynw.github.io/sileo/fontvito1011.json
 
 Package: com.evynw.fontvitotm
 Version: 1.0
