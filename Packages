@@ -566,6 +566,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Core Sans D (iOS10/11)
 Sileodepiction: https://evynw.github.io/sileo/fontcoresansd1011.json
 
+Package: com.evynw.fontcoresansd12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontcoresansd12_1.0_iphoneos-arm.deb
+Size: 16423794
+MD5sum: c1fa5b5ce52d5816cfe5eb9c728677c7
+SHA1: 01bed243c41c295b481be693b1406ade20689f04
+SHA256: f60e07b3b88da1e2907b7ea340d366ee62f486a07bc7e055d700448dea48fb00
+Section: Fonts - Theme
+Description: Clean sans-serif. For iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcoresansd12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Core Sans D (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontcoresansd12.json
+
 Package: com.evynw.fontcorpsansalt12
 Version: 1.0
 Architecture: iphoneos-arm
