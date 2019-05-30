@@ -95,36 +95,40 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack18
 Name: EW.WdgtPack.18
 
 Package: com.evynw.ewwdgtpack2
-Version: 2.0
+Version: 2.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.ewwdgtpack2_2.0_iphoneos-arm.deb
-Size: 1190552
-MD5sum: 235b59b27b130718006d4cf77ab9ab0e
-SHA1: 720c0bec3d78611c4c43bd2a5a1f86c17a853d9e
-SHA256: 1347df8c8e4a21d9b788ac6543d41bc967cbb74d6a827acc7d00d3a1d9f77c7c
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.ewwdgtpack2_2.0-1_iphoneos-arm.deb
+Size: 1336732
+MD5sum: e001f49bd27a75227c42c90f9cb04285
+SHA1: 56fb572ed2bb1d2a3bd71951e72908e177b86548
+SHA256: 43fcce48b144964074bb8aeee097d7ed421d297007fc15282be3332ffd1976ab
 Section: Lockscreen Widgets
 Description: Last in the queue. YAY!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack2
+Icon: https://evynw.github.io/depictions/sectionIcons/Pack.png
 Name: EW.WdgtPack.2
+Sileodepiction: https://evynw.github.io/sileo/ewwdgtpack2.json
 
 Package: com.evynw.ewwdgtpack4
-Version: 2.0
+Version: 2.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.ewwdgtpack4_2.0_iphoneos-arm.deb
-Size: 765242
-MD5sum: dc4d458d36b5824497f0d68b68e675f0
-SHA1: c973898a4d9df324b8edb2a80877d276e6b2ec8c
-SHA256: 7025c86bc3a9ef958902157a96b00a9e8f4513911eca431de2e30b9668ba4d50
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.ewwdgtpack4_2.0-1_iphoneos-arm.deb
+Size: 943452
+MD5sum: a9a811ebb80d3d0e9e6b388478f25c35
+SHA1: 7e17651efacab754d58623cac453e1b7652e8621
+SHA256: 5ec568c605a460e75e08c5ce1bf6fe7682a909c4318386801bcdc8597f997464
 Section: Lockscreen Widgets
 Description: Been slacking off with updating wdgt packs, oops
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack4
+Icon: https://evynw.github.io/depictions/sectionIcons/Pack.png
 Name: EW.WdgtPack.4
+Sileodepiction: https://evynw.github.io/sileo/ewwdgtpack4.json
 
 Package: com.evynw.ewwdgtpack6
 Version: 2.0
