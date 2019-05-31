@@ -2,7 +2,7 @@
 	"name": "EW.WdgtPack.10",
 	"package": "com.evynw.ewwdgtpack10",
 	"author": "Evelyn (ev_ynw)",
-	"version": "2.0-2",
+	"version": "2.0-3",
 	"dependency": "XenInfo",
 	"minOSVersion": "9.0",
 	"maxOSVersion": "12.1.2",
@@ -21,6 +21,10 @@
 	    ],
 	    "2.0-2" : [
 	      "Fixed potential freezing on iPX"
+	    ],
+	    "2.0-3" : [
+	      "Added Turkish translations",
+	      "Fixed font size rendering"
 	    ]
   	},
 	"screenshots": {

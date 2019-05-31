@@ -2,7 +2,7 @@
 	"name": "EW.WdgtPack.4",
 	"package": "com.evynw.ewwdgtpack4",
 	"author": "Evelyn (ev_ynw)",
-	"version": "2.0",
+	"version": "2.0-1",
 	"dependency": "XenInfo",
 	"minOSVersion": "9.0",
 	"maxOSVersion": "12.1.2",
@@ -14,6 +14,10 @@
 	    ],
 	    "2.0": [
 	      "iOS11+ compatibility"
+	    ],
+	    "2.0-1": [
+	      "Added Turkish translations",
+	      "Added screenshot thumbnail"
 	    ]
   	},
 	"screenshots": {

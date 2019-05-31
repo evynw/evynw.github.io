@@ -15,20 +15,22 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1pagedots
 Name: EW1.PageDots
 
 Package: com.evynw.ewwdgtpack10
-Version: 2.0-2
+Version: 2.0-3
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.ewwdgtpack10_2.0-2_iphoneos-arm.deb
-Size: 1066100
-MD5sum: bd1a6c1d5d1a28ae05a9bf3aad175029
-SHA1: 722836d07ed9575abd31bfb43de04225b7e3b0ca
-SHA256: c0b45889334af06580c77bd9c1ee128c627e8330922c0acdb00d03fab1d4b4f1
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.ewwdgtpack10_2.0-3_iphoneos-arm.deb
+Size: 1175252
+MD5sum: f4eb421a428e3c475a7965512a629f42
+SHA1: 4bd5546b8633f5dc04671385e314368f2f6b7ff0
+SHA256: 5e60cbcd59afe430c72200fb6afb03a99d273aa81b585e6b847590bd998bc4c5
 Section: Lockscreen Widgets
 Description: iOS11-compatible widget pack. I'm working hard T^T
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack10
+Icon: https://evynw.github.io/depictions/sectionIcons/Pack.png
 Name: EW.WdgtPack.10
+Sileodepiction: https://evynw.github.io/sileo/ewwdgtpack10.json
 
 Package: com.evynw.ewwdgtpack12
 Version: 2.0-3
@@ -131,36 +133,40 @@ Name: EW.WdgtPack.4
 Sileodepiction: https://evynw.github.io/sileo/ewwdgtpack4.json
 
 Package: com.evynw.ewwdgtpack6
-Version: 2.0
+Version: 2.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.ewwdgtpack6_2.0_iphoneos-arm.deb
-Size: 664728
-MD5sum: 4e2ae254d78eb9aad18bb3d22fae08a2
-SHA1: c3088fef720491de717a2b183c2008f87310dc33
-SHA256: cab4dd95cfbd10c3dc40b348c98cd96bd45272730e168a634e4e17a81ca16866
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.ewwdgtpack6_2.0-1_iphoneos-arm.deb
+Size: 835436
+MD5sum: c986ce31bda0a8e834e1d3cf5100bd2b
+SHA1: 50bc6359fae0c12f978e868775c99dfe08132b98
+SHA256: ba8d23b15c8452d6c2c61126522311a7685b64d42d98997cdc2ca06faf41667c
 Section: Lockscreen Widgets
 Description: Another widget pack...2 more free ones to go
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack6
+Icon: https://evynw.github.io/depictions/sectionIcons/Pack.png
 Name: EW.WdgtPack.6
+Sileodepiction: https://evynw.github.io/sileo/ewwdgtpack6.json
 
 Package: com.evynw.ewwdgtpack8
-Version: 2.0
+Version: 2.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.ewwdgtpack8_2.0_iphoneos-arm.deb
-Size: 820820
-MD5sum: 416f350d8e024de5cfecdde67e745796
-SHA1: 25967f3adabefadf164142579c5dee65ff0afcfb
-SHA256: 19e81c3a849205290d69b20a466415676752fd5e102792888f9c03f5d52d3845
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.ewwdgtpack8_2.0-1_iphoneos-arm.deb
+Size: 957650
+MD5sum: c9212580334d8ad1a4e69bca868e9875
+SHA1: 5970f265578e262130f31e32476df31a9ea50a6a
+SHA256: c794f158e58ee2ac2badc747331f043ddc86004664163ca1b89e8dbe6af205f8
 Section: Lockscreen Widgets
 Description: Another widget pack...I'm so tired T^T
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack8
+Icon: https://evynw.github.io/depictions/sectionIcons/Pack.png
 Name: EW.WdgtPack.8
+Sileodepiction: https://evynw.github.io/sileo/ewwdgtpack8.json
 
 Package: com.evynw.fontalegreyasans12
 Version: 1.0
@@ -603,6 +609,23 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcorpsansalt8512
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Corporative Sans Alt_85% (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcorpsansalt8512.json
+
+Package: com.evynw.fontestandar12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontestandar12_1.0_iphoneos-arm.deb
+Size: 17132566
+MD5sum: 72b02f31e6872ca962c8dadd47af4652
+SHA1: c3c5d5723343cb9857f025be279d03d1b14cb826
+SHA256: 3d4e5548ba8e4a48ae37faa5e36a8fcdb0af1b1dd7873f2bc4c4cf8d65f79592
+Section: Fonts - Theme
+Description: Originally from 8400PACK. Compatible with iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontestandar12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Estandar (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontestandar12.json
 
 Package: com.evynw.fontffmark12
 Version: 1.0
@@ -2493,6 +2516,24 @@ Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW213
 Sileodepiction: https://evynw.github.io/sileo/lsew213.json
 
+Package: com.evynw.lsew215
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew215_1.0_iphoneos-arm.deb
+Size: 83526
+MD5sum: 66699902010a6122336c1b6381e5a273
+SHA1: 36dc4015e50d3e08dd10d2a30b2078aecb009e1f
+SHA256: 89d6d00958ff5e99cafaa9a17d29b33343d9be4278f42c0e9c0eb817be967614
+Section: Lockscreen Widgets
+Description: Originally from 8400PACK.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew215
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW215
+Sileodepiction: https://evynw.github.io/sileo/lsew215.json
+
 Package: com.evynw.lsew216
 Version: 1.0
 Architecture: iphoneos-arm
@@ -2525,6 +2566,42 @@ Description: [Putting in a generic desc because I'm lazy]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew22
 Name: LS EW22
+
+Package: com.evynw.lsew220
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew220_1.0_iphoneos-arm.deb
+Size: 320566
+MD5sum: 941bee07ccdfe90d6713facfb0386005
+SHA1: 05092764694a37014cae46f376e0247f54b4880b
+SHA256: 4b6d27723a2c06a3064463dead78bb108ea9fc69f98a1af3b9b7f90bf1799106
+Section: Lockscreen Widgets
+Description: Originally from 8400PACK.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew220
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW220
+Sileodepiction: https://evynw.github.io/sileo/lsew220.json
+
+Package: com.evynw.lsew221
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew221_1.0_iphoneos-arm.deb
+Size: 531626
+MD5sum: 6a7ecc06d72cf3dea6734e821c2e5941
+SHA1: f44835f2b2cf499a9453626bf49e4de277ea34e6
+SHA256: 09c1725ce74d9859fb54f56b69a87027e7ad96438e106bca0708b84e8878d251
+Section: Lockscreen Widgets
+Description: Originally from 8400PACK.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew221
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW221
+Sileodepiction: https://evynw.github.io/sileo/lsew221.json
 
 Package: com.evynw.lsew232
 Version: 1.0
