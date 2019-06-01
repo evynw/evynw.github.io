@@ -1,12 +1,12 @@
 {
   "class": "DepictionTabView",
-  "headerImage": "https://evynw.github.io/sileo/assets/header_LS.png",
+  "headerImage": "https://evynw.github.io/sileo/assets/header_HS.png",
   "minVersion": "0.3",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#354263",
+      "tintColor": "#d0445e",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Contains 3 LS & 2 HS widgets</p>\n<p style=\"font-size:10pt;\">Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)</p>\n<p style=\"font-size:10pt;\">Apply with XenHTML</p>\n<p style=\"font-size:10pt;\">Requires XenInfo for weather/battery components to work properly</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)</p>\n<p style=\"font-size:10pt;\">Apply with XenHTML</p>\n<p style=\"font-size:10pt;\">Requires XenInfo for weather/battery components to work properly</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -31,19 +31,11 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{300, 200}",
+          "itemSize": "{350, 622}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ewwdgtpack2/LS.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ewwdgtpack2/SB1.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ewwdgtpack2/SB2.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.sbew92/ss.png"
             }
           ]
         },
@@ -132,7 +124,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#354263",
+      "tintColor": "#d0445e",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -148,5 +140,5 @@
       ]
     }
   ],
-  "tintColor": "#354263"
+  "tintColor": "#d0445e"
 }
