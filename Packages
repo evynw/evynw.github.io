@@ -14,6 +14,22 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1pagedots
 Name: EW1.PageDots
 
+Package: com.evynw.ewcombo5
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.ewcombo5_1.0_iphoneos-arm.deb
+Size: 13065204
+MD5sum: 97f990c90a94c93e6a8fc4289bf25dfe
+SHA1: 0996e06aa1c4a76ad79b9685781a21cde46d649a
+SHA256: dafa7e71630087519bc6bd525f4edb4d1d2bf39545416ef2169c791a80f5ed00
+Section: Lockscreen Widgets
+Description: The long-awaited Combo :P Interactive widgets on both LS & HS
+Author: Evelyn (ev_ynw)
+Icon: https://evynw.github.io/depictions/sectionIcons/Combo.png
+Name: EW.Combo.5
+
 Package: com.evynw.ewwdgtpack10
 Version: 2.0-3
 Architecture: iphoneos-arm
@@ -711,6 +727,23 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontfrygiatm
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Frygia (TM)
 Sileodepiction: https://evynw.github.io/sileo/fontfrygiatm.json
+
+Package: com.evynw.fontgimbal12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontgimbal12_1.0_iphoneos-arm.deb
+Size: 17365730
+MD5sum: 834da22ce9c11def2310a03f8594c9d9
+SHA1: e03404793e908581ef05296dfcd3b263031fc531
+SHA256: 6a06ad5a6350ce1d5c8a722576903a44a2f413557cc33a9cd9356616efc48ca7
+Section: Fonts - Theme
+Description: Originally from 8400PACK. Compatible with iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgimbal12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Gimbal Grotesque (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontgimbal12.json
 
 Package: com.evynw.fontginesoext12
 Version: 1.0
@@ -4135,6 +4168,24 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew6
 Name: SB EW6
 
+Package: com.evynw.sbew68
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew68_1.0_iphoneos-arm.deb
+Size: 145718
+MD5sum: e4f0d459337f9acaa30705873822a13a
+SHA1: 2d06d56165cf1543cc6e365d7417124d93fa325c
+SHA256: 20e3d1e1e1937457ca4cb4a69c9b54a23304107458df3dfca4dd4ade34d1f341
+Section: Homescreen Widgets
+Description: Originally from 8400PACK :)
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew68
+Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
+Name: SB EW68
+Sileodepiction: https://evynw.github.io/sileo/sbew68.json
+
 Package: com.evynw.sbew69
 Version: 1.0
 Architecture: iphoneos-arm
@@ -4361,6 +4412,24 @@ Description: A widget. Like what else do you think this is lol.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew9
 Name: SB EW9
+
+Package: com.evynw.sbew92
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew92_1.0_iphoneos-arm.deb
+Size: 498200
+MD5sum: ec62bd0b66f849c9ae94327d8a7e1f29
+SHA1: 8e25268887d8774b47b72c0318da947372a46f09
+SHA256: 48b645325ebbdba5a0e1bd5bc468d4b86a2801850cc37c4c71bc4c6e1edbd852
+Section: Homescreen Widgets
+Description: Originally from 8400PACK :)
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew92
+Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
+Name: SB EW92
+Sileodepiction: https://evynw.github.io/sileo/sbew92.json
 
 Package: com.evynw.sbew93
 Version: 1.0
