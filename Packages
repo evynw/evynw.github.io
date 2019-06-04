@@ -4433,21 +4433,3 @@ Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
 Name: SB EW93
 Sileodepiction: https://evynw.github.io/sileo/sbew93.json
 
-Package: com.evynw.sbew98
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.sbew98_1.0_iphoneos-arm.deb
-Size: 145256
-MD5sum: c153dea031cded20cb5caeb968ad3146
-SHA1: 1091ee32b347c5d1f35c24049fe695daadece788
-SHA256: 8908f1bda0571d6e13c70928daeb933bea730d50de6f8e0e927e1849ccae8260
-Section: Homescreen Widgets
-Description: Matching HS for LS EW244. I promise, I deliver.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew98
-Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
-Name: SB EW98
-Sileodepiction: https://evynw.github.io/sileo/sbew98.json
-
