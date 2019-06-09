@@ -525,6 +525,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Conte Sans (iOS10/11)
 Sileodepiction: https://evynw.github.io/sileo/fontcontesans1011.json
 
+Package: com.evynw.fontcontesans12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontcontesans12_1.0_iphoneos-arm.deb
+Size: 9200392
+MD5sum: ed63d8debc598d963acf274410a85948
+SHA1: ab44d50f983505002ef1af11cc1aef82c1bf0aa0
+SHA256: 4f194abcbbd281ed817e2d52f1f0a205bb47c9b6f95767b8db8ebc363258d4f0
+Section: Fonts - Theme
+Description: Remade from single-weight to multiple :) Compatible with iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesans12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Conte Sans (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontcontesans12.json
+
 Package: com.evynw.fontcontesanstm
 Version: 1.0
 Architecture: iphoneos-arm
