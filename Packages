@@ -3570,6 +3570,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
 Name: MASQ.EW4
 Sileodepiction: https://evynw.github.io/sileo/masqew4.json
 
+Package: com.evynw.masqew8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.masqew8_1.0_iphoneos-arm.deb
+Size: 32874
+MD5sum: 846832dd926d414ef8ee67d7018e092b
+SHA1: fcc4c0ef80eb0d818153f6a70a55de80182ad1fb
+SHA256: eae18a14fa1a6823335a622a82c863997f9b514565dc2ecfca74a5e03c1921c4
+Section: MASQ Themes
+Description: MASQ theme w/ glass reflection effects
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.masqew8
+Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
+Name: MASQ.EW8
+Sileodepiction: https://evynw.github.io/sileo/masqew8.json
+
 Package: com.evynw.repoicons
 Version: 1.0-3
 Architecture: iphoneos-arm
