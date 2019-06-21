@@ -3953,20 +3953,22 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew28
 Name: SB EW28
 
 Package: com.evynw.sbew29
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.sbew29_1.0_iphoneos-arm.deb
-Size: 716376
-MD5sum: fb3f39dcab9fa891b903330b643cbb6d
-SHA1: 4026d9c62d4a53d1bbaee1e711fa827e6f8a8ef1
-SHA256: af78771e17d48199b6dd5d8636b77b4d8597c626a28a5926f95f2a23860962c0
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew29_1.0-1_iphoneos-arm.deb
+Size: 733108
+MD5sum: b16d2b1dc7cb876c703a20d270d987ac
+SHA1: 916f367958b113623659a5560e97fcbecb29f06c
+SHA256: f758502c8cbdce8dde382e1d438b1ce93c45d6e441159afcc60bb83e38a4952f
 Section: Homescreen Widgets
-Description: A widget. Like what else do you think this is?
+Description: I need another widget description. HALP!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew29
+Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
 Name: SB EW29
+Sileodepiction: https://evynw.github.io/sileo/sbew29.json
 
 Package: com.evynw.sbew3
 Version: 1.0
@@ -3988,129 +3990,145 @@ Package: com.evynw.sbew30
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.sbew30_1.0_iphoneos-arm.deb
-Size: 105788
-MD5sum: 0bf5765b1217503d3b0eb6a3c826f923
-SHA1: 19c64aed438486d874af50f770ebdeb34187b2ad
-SHA256: 2acd83db429336d5be28ebf54a4115b121ff78f44652cb8b32f86d82904c32aa
+Size: 105806
+MD5sum: dddf07ad210091b1c9ad86e6fa5b6aa8
+SHA1: 4e182659d9f6f53becf317cf97f71bd2eb4578dc
+SHA256: d9ff4bf05f78cea5987389b395de6feb2f815d412c78a48e516b49a9d6e3b534
 Section: Homescreen Widgets
 Description: A widget. Like what else do you think this is?
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew30
+Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
 Name: SB EW30
+Sileodepiction: https://evynw.github.io/sileo/sbew30.json
 
 Package: com.evynw.sbew31
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.sbew31_1.0_iphoneos-arm.deb
-Size: 158420
-MD5sum: d6d7a3b2bee5723563986b427d4dd065
-SHA1: 12177548a4bb3df57d77ef81a60205f4aa1c66c7
-SHA256: 2c4273cec7c9c05587ec84472d98990ace7aeb0f31bfa3ce459980de15c351ac
+Size: 158434
+MD5sum: 4798f5db78515031cb3484da3745a3ad
+SHA1: 15791388dd15c199c06ca7d0afafcb9ec8eb5757
+SHA256: 97268fbc425f66e4f399ef8d45a1d116fde553407af71f84f6a12ec2bdb2a3ad
 Section: Homescreen Widgets
 Description: Widget at screen top w/ battery bar
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew31
+Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
 Name: SB EW31
+Sileodepiction: https://evynw.github.io/sileo/sbew31.json
 
 Package: com.evynw.sbew33
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.sbew33_1.0_iphoneos-arm.deb
-Size: 68838
-MD5sum: 4e85d2c4e07405761d522b6478830467
-SHA1: a790611e26bf26275eb7c64065b884ea6177becb
-SHA256: 8111c5e870d4a79c42f1ca1f97dfa62fd464b27791ed8ac453e061ca7ccfe4eb
+Size: 68860
+MD5sum: 42768bf9e7e10639f248eec1fce022cf
+SHA1: 44126f6f606f0cca23695a9f8262ad5ebee9c7b1
+SHA256: a480ee18be41c090e9dfb72fa7390d40e660403a77a67944bc2f41d0d7f2e46b
 Section: Homescreen Widgets
 Description: Clock + calendar + weather + battery
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew33
+Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
 Name: SB EW33
+Sileodepiction: https://evynw.github.io/sileo/sbew33.json
 
 Package: com.evynw.sbew34
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.sbew34_1.0_iphoneos-arm.deb
-Size: 55522
-MD5sum: ccce2708e064a8d61cd9c1d73f83859e
-SHA1: 2b4ea4b2c92917209f22d08668e43d9417a2afa1
-SHA256: 5326b751d3577707938658caa556becadd4433469abb731d6351c92f625cb63f
+Size: 55536
+MD5sum: 0df88045af7007a56199a0c8031b719a
+SHA1: b99b44b5b0fe8d0ffb7b886d754e0d6fcf4ea58e
+SHA256: d1e4bed31022bae102f163a4e02465765ea49d23f0dcf509dd8a8dd939325e5a
 Section: Homescreen Widgets
 Description: A widget. Like what else do you think this is?
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew34
+Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
 Name: SB EW34
+Sileodepiction: https://evynw.github.io/sileo/sbew34.json
 
 Package: com.evynw.sbew35
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.sbew35_1.0_iphoneos-arm.deb
-Size: 248380
-MD5sum: 56a8f95df6c292396f352e17ecd89afa
-SHA1: 81122e18050f3711f382569d8f036529a4ba7fcb
-SHA256: 4f27882639b5b98ee6ffeb8a9624b11c10cd75494e7cd7b69baad2e8974ef531
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew35_1.0-1_iphoneos-arm.deb
+Size: 306896
+MD5sum: 228c4d32d95032dbf607dd953d3c026a
+SHA1: 596473491d36b23cebf7221f9da41eaf82ee50c3
+SHA256: 20634220ba9b19dd3ed02a741d652b00c4cec1f6ced14bbfc3063966950148bb
 Section: Homescreen Widgets
-Description: [Enter generic HS widget description ^_^]
+Description: I need another widget description. HALP!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew35
+Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
 Name: SB EW35
+Sileodepiction: https://evynw.github.io/sileo/sbew35.json
 
 Package: com.evynw.sbew36
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.sbew36_1.0_iphoneos-arm.deb
-Size: 51566
-MD5sum: 25c56e4a5d81489c99b2674b596ddb66
-SHA1: 046d145b04ec7b62c8371bc67e449a1403c28cfd
-SHA256: 4a0f3266e818319a15ee36670b27129aa3ece0bdc4857f8337a6ac66afea327e
+Size: 51588
+MD5sum: 324978e2f76eb2949644cdf86f2444e7
+SHA1: 1bbfce54cefa4363de78ed2d364c5c4a771c2d5b
+SHA256: 58aad1824139a9aff0ad6dbd5ed6e0d077d9002db5ae76023825ee335b378303
 Section: Homescreen Widgets
 Description: Now compatible across all iOS!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew36
+Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
 Name: SB EW36
+Sileodepiction: https://evynw.github.io/sileo/sbew36.json
 
 Package: com.evynw.sbew37
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.sbew37_1.0_iphoneos-arm.deb
-Size: 51860
-MD5sum: 285e777dffe73e9ebce8972e7edaa856
-SHA1: a3c631b4931fa691d806619403234f6f61411bd4
-SHA256: e6ddb2ada510bbf91e8eb618599074e755db6308f4ad3e347482433a2c10e919
+Size: 51880
+MD5sum: e24b9643c438a8870e7f4e3fb8bcc21b
+SHA1: 77dfe49094e476399f8a182ad571d17b8c140c38
+SHA256: a7f5593fa5a6ed4074d5dc5ac32a9f076b63f4a35ed13ea7a106c5c00dca73c6
 Section: Homescreen Widgets
 Description: Now compatible across all iOS!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew37
+Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
 Name: SB EW37
+Sileodepiction: https://evynw.github.io/sileo/sbew37.json
 
 Package: com.evynw.sbew38
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.sbew38_1.0_iphoneos-arm.deb
-Size: 72492
-MD5sum: d4d4fca91d4ae79f8068b46ac0c25b92
-SHA1: bb68014cd78b0d64552bf6433bc820440f421ea9
-SHA256: 6b2493296f3b9b11b1e69617eb5c24c0195d13b8348ec280616b197790cc2cd8
+Size: 72514
+MD5sum: 3b39de789fdfc69340d81d2756972845
+SHA1: fafbb6587d5c7afa4524b9009193fdea5d7643bc
+SHA256: 1b30e5867693e137d83b1ed7731c7364bd8f2bbbcea9b6da2ef9cfcded92372f
 Section: Homescreen Widgets
 Description: [Enter generic HS widget description ^_^]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew38
+Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
 Name: SB EW38
+Sileodepiction: https://evynw.github.io/sileo/sbew38.json
 
 Package: com.evynw.sbew3nw
 Version: 1.0
