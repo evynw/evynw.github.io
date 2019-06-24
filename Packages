@@ -114,6 +114,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Pack.png
 Name: EW.WdgtPack.2
 Sileodepiction: https://evynw.github.io/sileo/ewwdgtpack2.json
 
+Package: com.evynw.ewwdgtpack20
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.ewwdgtpack20_1.0_iphoneos-arm.deb
+Size: 1331562
+MD5sum: 2d54ddd81300db0d478589257e2269f6
+SHA1: 62cb29b09547a7781ac200b4e8c075f60cbf61bc
+SHA256: a0862637b4f266f0356e7ce6311c4fd53cd3a178796778ab38284c56dd4d591e
+Section: Lockscreen Widgets
+Description: The pack that's kept in the drawer for too long
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack20
+Icon: https://evynw.github.io/depictions/sectionIcons/Pack.png
+Name: EW.WdgtPack.20
+Sileodepiction: https://evynw.github.io/sileo/ewwdgtpack20.json
+
 Package: com.evynw.ewwdgtpack4
 Version: 2.0-1
 Architecture: iphoneos-arm
