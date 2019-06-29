@@ -831,6 +831,40 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Glober (TM)
 Sileodepiction: https://evynw.github.io/sileo/fontglobertm.json
 
+Package: com.evynw.fontgooglesans12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontgooglesans12_1.0_iphoneos-arm.deb
+Size: 9702506
+MD5sum: 07444489441dfe613ed04d051560dbde
+SHA1: a2818480c9c57190e36d0533d533916a89e755d7
+SHA256: 28e37576fcad3cfc5c552cded35ef17e1bd6e9f2cd736842db19b881e5dfe5da
+Section: Fonts - Theme
+Description: Add more Android-ness to your iDevice. 100% full size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgooglesans12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Google Sans (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontgooglesans12.json
+
+Package: com.evynw.fontgooglesans8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontgooglesans8512_1.0_iphoneos-arm.deb
+Size: 10258370
+MD5sum: 64c1ab24e833ce44a946fbfda3b5202b
+SHA1: 85cbcab28bbe6ea7415e3b6d6390433dd5a43995
+SHA256: 68d8bf7ef6466b464828d6245da321e4068820c5cdeb7e9791182422361199d7
+Section: Fonts - Theme
+Description: Add more Android-ness to your iDevice. 85% size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgooglesans8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Google Sans_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontgooglesans8512.json
+
 Package: com.evynw.fontibmplexsans12
 Version: 1.0
 Architecture: iphoneos-arm
@@ -949,6 +983,23 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmyriad12
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Myriad Pro (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontmyriad12.json
+
+Package: com.evynw.fontneutra12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontneutra12_1.0_iphoneos-arm.deb
+Size: 9949014
+MD5sum: da50d0be939c893159914627935feeb3
+SHA1: 543a76493e50e328b2f86b709e5f2353d2bd533e
+SHA256: d6aed9d2f4e1b2e928947aba7733398731f058fdd36d0e4896c9945ba3642df5
+Section: Fonts - Theme
+Description: Once-popular font but has lost its charm to both Alex & me. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontneutra12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Neutra Text (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontneutra12.json
 
 Package: com.evynw.fontnovelsans1011
 Version: 1.0
@@ -2695,6 +2746,23 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew235
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW235
 Sileodepiction: https://evynw.github.io/sileo/lsew235.json
+
+Package: com.evynw.lsew238
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.lsew238_1.0_iphoneos-arm.deb
+Size: 99920
+MD5sum: ef96f3374d6029aebb628873b16eea4f
+SHA1: d604e8799fdf612959e506bc0d8892081532b15d
+SHA256: cc66d3a7dadb830e5b73f6e40ce8b3fb34a5713de9b02a80fd076fd765e2ed14
+Section: Lockscreen Widgets
+Description: Guess I should think of a new description? OwO
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew238
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW238
+Sileodepiction: https://evynw.github.io/sileo/lsew238.json
 
 Package: com.evynw.lsew24
 Version: 1.0-1
