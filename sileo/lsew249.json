@@ -6,7 +6,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#bfbace",
+      "tintColor": "#828e9e",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -35,7 +35,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.lsew238/ss.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.lsew249/ss.png"
             }
           ]
         },
@@ -124,7 +124,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#bfbace",
+      "tintColor": "#828e9e",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -140,5 +140,5 @@
       ]
     }
   ],
-  "tintColor": "#bfbace"
+  "tintColor": "#828e9e"
 }
