@@ -2871,15 +2871,15 @@ Name: LS EW246
 Sileodepiction: https://evynw.github.io/sileo/lsew246.json
 
 Package: com.evynw.lsew249
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.lsew249_1.0_iphoneos-arm.deb
-Size: 134264
-MD5sum: 498b0758420cff60fb4e5898f6c1c8b0
-SHA1: 052141128fdc75e9ceeff75b95af3e9f1b82bf46
-SHA256: b1f22ac7dc6634a551365e92077af1fdd75b23963bf90a1bf2f609e65dbe0274
+Filename: ./debs/com.evynw.lsew249_1.0-1_iphoneos-arm.deb
+Size: 125842
+MD5sum: 9d32569aa3dd4e2454fd6da08c900d6b
+SHA1: 6f1d0f2764385018e4d407dcad519e18e1d5a42a
+SHA256: 2ca990b1dbe5dca119f4ce836aeb6a16e8c4b9e8708a240a126a8101d43dd094
 Section: Lockscreen Widgets
 Description: I really should be focusing on widgets again T^T
 Author: Evelyn (ev_ynw)
