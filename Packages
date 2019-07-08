@@ -102,10 +102,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.ewwdgtpack2_2.0-1_iphoneos-arm.deb
-Size: 1336732
-MD5sum: e001f49bd27a75227c42c90f9cb04285
-SHA1: 56fb572ed2bb1d2a3bd71951e72908e177b86548
-SHA256: 43fcce48b144964074bb8aeee097d7ed421d297007fc15282be3332ffd1976ab
+Size: 1336750
+MD5sum: 55db962dac5884c0d32814fecd9622a2
+SHA1: b6a54a4fc81d5e6e95473ffab593c57111c85235
+SHA256: 52f8b69bbb6cc02e2c218890ddc1af4cec4c29b633af9b4ee63efc75c57c22ea
 Section: Lockscreen Widgets
 Description: Last in the queue. YAY!
 Author: Evelyn (ev_ynw)
