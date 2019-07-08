@@ -2888,6 +2888,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW249
 Sileodepiction: https://evynw.github.io/sileo/lsew249.json
 
+Package: com.evynw.lsew252
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.lsew252_1.0_iphoneos-arm.deb
+Size: 107430
+MD5sum: 321d777d2506f944d6c7d952c46b26fd
+SHA1: 8929e66486483a23d634acb0d37a200ef0860bf2
+SHA256: 34545ad9e91a7358493fa9ba4b646da746cda36d6fd4add15576595921e1dbde
+Section: Lockscreen Widgets
+Description: After 3 years I'm still bad at writing this =3=
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew252
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW252
+Sileodepiction: https://evynw.github.io/sileo/lsew252.json
+
 Package: com.evynw.lsew27
 Version: 1.0
 Architecture: iphoneos-arm
