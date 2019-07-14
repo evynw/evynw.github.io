@@ -933,6 +933,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Interval Sans (TM)
 Sileodepiction: https://evynw.github.io/sileo/fontintervalsanstm.json
 
+Package: com.evynw.fontkomet12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontkomet12_1.0_iphoneos-arm.deb
+Size: 10184494
+MD5sum: 172438598848eebcab58fb18c58cce1f
+SHA1: df66e0ed3b934331d5636e5f4245c2e6c387f6d8
+SHA256: a258f91b599f69b72dc3547b1a8a1aa4c68537f3652833bc293ce9ca724d98d2
+Section: Fonts - Theme
+Description: Script-ish sans serif. Compatible with iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontkomet12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Komet (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontkomet12.json
+
 Package: com.evynw.fontmetrisch1011
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1222,6 +1239,23 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonttttedstm
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: TT Teds (TM)
 Sileodepiction: https://evynw.github.io/sileo/fonttttedstm.json
+
+Package: com.evynw.fontunineue12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontunineue12_1.0_iphoneos-arm.deb
+Size: 10486262
+MD5sum: 6aa952b712c7c20b593eb1f396735649
+SHA1: 6aa4daa5077888186f7cb32818be4041ce1ee6b7
+SHA256: d13b8fec421d9c13d777feb47f51a9731be64273f3e2486c884fcbdb1cdf60cc
+Section: Fonts - Theme
+Description: New font in a while. Compatible with iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontunineue12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Uni Neue (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontunineue12.json
 
 Package: com.evynw.fonturwgeo12
 Version: 1.0
