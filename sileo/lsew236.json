@@ -128,6 +128,17 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
+          "title": "1.0-1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Fixed issue of clock not updating</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSubheaderView",
           "title": "1.0",
           "useBoldText": true,
           "useBottomMargin": false

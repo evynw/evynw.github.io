@@ -2,13 +2,16 @@
 	"name": "LS EW236",
 	"package": "com.evynw.lsew236",
 	"author": "Evelyn (ev_ynw)",
-	"version": "1.0",
+	"version": "1.0-1",
 	"dependency": "N/A",
 	"minOSVersion": "9.0",
 	"maxOSVersion": "12.1.2",
 	"otheriOS": "untested",
 	"description": "<div>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)<br><br>Apply with XenHTML<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {
+	    "1.0-1": [
+	      "Fixed issue of clock not updating"
+	    ],
 	    "1.0": [
 	      "Initial release"
 	    ]
