@@ -1366,33 +1366,36 @@ Package: com.evynw.lsew1
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.lsew1_1.0_iphoneos-arm.deb
-Size: 117132
-MD5sum: fbddf8ceede2403228f67a34585b5a6d
-SHA1: ec57ba63ace67e5236ece4940c9b311d1726e45c
-SHA256: 99f41abf1fd0b9e78c9bcc282ea57f2821268dcab42d5b4a72f8038908456c0d
+Size: 117162
+MD5sum: 8a85739da261f91f9282c416a5083507
+SHA1: 84d1aabe00f8d0d447930bdebfdf59199d25fa9b
+SHA256: 253af4bd665c60e10e2ed6fb3b624688d961b8bd64056c9b054c5cd005fbc304
 Section: Lockscreen Widgets
 Description: First ever LS widget. Feelin' nostalgic!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew1
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW1
+Sileodepiction: https://evynw.github.io/sileo/lsew1.json
 
 Package: com.evynw.lsew10
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.lsew10_1.0-1_iphoneos-arm.deb
-Size: 261854
-MD5sum: 57fe78019184465113cb32456343c754
-SHA1: bc6ea66b4703d476114dadb2499687c0c3c07a1b
-SHA256: 0c48d2867085861828df4be1bb6b1803d99872c2fe943dc5ae28ce4629f69577
+Size: 261870
+MD5sum: 7cdece554de4516d3b8e2ad994dbc701
+SHA1: f0e5db0ac52c5f1edf92e35d23b7c1a509a3cb12
+SHA256: 0ac653e9d4d8d946faf1dcf7f9a5283248f03a18b9c1cf87f623cbf9c3632e04
 Section: Lockscreen Widgets
 Description: [Putting in a generic desc because I'm lazy]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew10
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW10
+Sileodepiction: https://evynw.github.io/sileo/lsew10.json
 
 Package: com.evynw.lsew100
 Version: 1.0-1
@@ -1503,17 +1506,19 @@ Package: com.evynw.lsew11
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.lsew11_1.0-1_iphoneos-arm.deb
-Size: 92318
-MD5sum: 80403aeced258d36de9c9a0ffd405d55
-SHA1: 738852f88ba575a506bcc2ec76d7b1b30f7316fe
-SHA256: 9c6bbd5108b27f90e1a5b7a28d64960c248b6691418744073c2426e98f3e8e9c
+Size: 92338
+MD5sum: 3722b2388e1a67066deee20f65eee268
+SHA1: 852a4dec7a95324eb74c7552b65d0243a82e8cf8
+SHA256: e67ee46d0916bc73b2d0172b218452c808ed7fabc7b189830c739f4bfc39f128
 Section: Lockscreen Widgets
 Description: [Putting in a generic desc because I'm lazy]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew11
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW11
+Sileodepiction: https://evynw.github.io/sileo/lsew11.json
 
 Package: com.evynw.lsew110
 Version: 1.0
@@ -1641,17 +1646,19 @@ Package: com.evynw.lsew12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.lsew12_1.0_iphoneos-arm.deb
-Size: 66356
-MD5sum: d33a7a03ba1b147ccf09937d5864f808
-SHA1: 2f41ffa6ec80b073f2e6afa9d36773deda0beeef
-SHA256: 2e7a1f442de2825fef4ca955e624593b294b7473acf6699ab8896aecf9c98259
+Size: 66068
+MD5sum: da3bf9c62a269f567f2099986857c071
+SHA1: 8507bafd134d98b0df78a174323bafcbcffc7b23
+SHA256: 20c7ebcd12249134392775ee99a0316431c058ff5b8348383e9fd7afd831d396
 Section: Lockscreen Widgets
 Description: [Enter generic LS widget description ^_^]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew12
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW12
+Sileodepiction: https://evynw.github.io/sileo/lsew12.json
 
 Package: com.evynw.lsew120
 Version: 1.0
@@ -1763,17 +1770,19 @@ Package: com.evynw.lsew13
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.lsew13_1.0_iphoneos-arm.deb
-Size: 268296
-MD5sum: c29c6612dc789ef9d9a290fdc7313ef8
-SHA1: af27aa0ca4592593db341fb5c6194aebcf6e3329
-SHA256: 29ba3ec96088e46532b3bb04ca4ffcb07a7ededf4a05a16a47ce0d4ee00f2f02
+Size: 268316
+MD5sum: 2ee32a43c464d25f1e77aac30393c2e7
+SHA1: a1e7a846f057002ec2969855c7f5fffeed219554
+SHA256: b09152a97f4b7497e6ea59b98d52af93cc2a64df4cb9644b8ddb5bd9f63b725b
 Section: Lockscreen Widgets
 Description: Now compatible across all iOS!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew13
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW13
+Sileodepiction: https://evynw.github.io/sileo/lsew13.json
 
 Package: com.evynw.lsew131
 Version: 1.0
@@ -1868,17 +1877,18 @@ Package: com.evynw.lsew14
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.lsew14_1.0_iphoneos-arm.deb
-Size: 141340
-MD5sum: 4585a8f3092a6b66e6e5813d6499024f
-SHA1: 7dc7d5fdda91ebd4a3e213c16c105e7019874236
-SHA256: 9024634ffd0548f146558ff68242249986add89a8e402d2979dfa223dee5fdfa
+Size: 141358
+MD5sum: f8aad258b05a106462b0e682243c9927
+SHA1: 9650b0a862e74d32832e8f973c5b9fcf182d31bd
+SHA256: f2eef852ee559b528b9bb53696f5d025a465a4a5c6e3e52e1b56d2dd4016d581
 Section: Lockscreen Widgets
 Description: [Enter generic LS widget description ^_^]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew14
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW14
+Sileodepiction: https://evynw.github.io/sileo/lsew14.json
 
 Package: com.evynw.lsew140
 Version: 1.0
@@ -2455,17 +2465,19 @@ Package: com.evynw.lsew2
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.lsew2_1.0-1_iphoneos-arm.deb
-Size: 62066
-MD5sum: f634b706e39117a3ca62d9b55a7e04ed
-SHA1: c49a3089f24cc1b47c298b803aa1a9346fb3d1bd
-SHA256: 6f47807929085551c90b07f313f2acfacf26280439a53d8a8711ab167e9593e9
+Size: 62082
+MD5sum: 2976d4b8889e5d4ae9e16fb48bb676df
+SHA1: d6ead2f1498ec78a33f0d4a25146411738f44458
+SHA256: e6fbbeda9f1137dc99fae3ec7e6065b6c39f33fff4b0b93b8fd425a8678bfd87
 Section: Lockscreen Widgets
 Description: [Putting in a generic desc because I'm lazy]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew2
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW2
+Sileodepiction: https://evynw.github.io/sileo/lsew2.json
 
 Package: com.evynw.lsew20
 Version: 1.0
@@ -2978,17 +2990,19 @@ Package: com.evynw.lsew3
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.lsew3_1.0_iphoneos-arm.deb
-Size: 291594
-MD5sum: 3a1b923ea4f1a75675d8e85ad2b54916
-SHA1: 3c024960f10aab6c97a1d40c3b7fb58a1c90710e
-SHA256: 84b7d88ca7baba474a592fc69df56b92d450f8a37c42939bffd1681109d3b760
+Size: 291624
+MD5sum: 98f2789abbb7e8b0e6dea7b3afe3b6c7
+SHA1: edb4cc989b7e0820a59577968e2134d461ff4acb
+SHA256: 4baad79344ed1e25b44605eab716b53f8071b0a9fed8896d024892e5f5ae5c54
 Section: Lockscreen Widgets
 Description: Now compatible across all iOS!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew3
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW3
+Sileodepiction: https://evynw.github.io/sileo/lsew3.json
 
 Package: com.evynw.lsew31
 Version: 1.0
@@ -3117,17 +3131,19 @@ Package: com.evynw.lsew4
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.lsew4_1.0_iphoneos-arm.deb
-Size: 964630
-MD5sum: 2885d5bb52375c0bfd9df523a1a1d5ac
-SHA1: 36be35dcdc94db9ad44533e9471bf77c328f4476
-SHA256: 62731deb6d23a63eb595b91c3f883780f23f7e5f82f91f8a74e311f87c61895e
+Size: 964654
+MD5sum: 4c9bdb011e768462b0aec074b30a27da
+SHA1: d273494659e8db109a72645a25b427cc5619337f
+SHA256: 8998c803f882867af31cf9af802d95e58be38e1df2d95deaa4d86ab3ca3b4059
 Section: Lockscreen Widgets
 Description: Now compatible across all iOS!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew4
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW4
+Sileodepiction: https://evynw.github.io/sileo/lsew4.json
 
 Package: com.evynw.lsew40
 Version: 1.0
@@ -3239,17 +3255,19 @@ Package: com.evynw.lsew5
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.lsew5_1.0_iphoneos-arm.deb
-Size: 62868
-MD5sum: be36e4f39ee2634fc6e3e4ee78df6b1f
-SHA1: 8adc2cca69ece5f888791344a190924b015ea045
-SHA256: 8d4380a78fb2b922091779b18776b08df588284d23c0d4afebbb9bafed1250f4
+Size: 62888
+MD5sum: eeea88fadc7d76493692e25687be67b9
+SHA1: e9f0ec5bfebe7ccf12b9d9a3b65f338d892c677a
+SHA256: 8f73e419c9290c504eef4c14f51f136d6cef4a66819437ac157d899843784958
 Section: Lockscreen Widgets
 Description: Now compatible across all iOS!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew5
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW5
+Sileodepiction: https://evynw.github.io/sileo/lsew5.json
 
 Package: com.evynw.lsew50
 Version: 1.0
@@ -3343,17 +3361,19 @@ Package: com.evynw.lsew6
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.lsew6_1.0_iphoneos-arm.deb
-Size: 130956
-MD5sum: 3b39ec5add0d8757d2b7548c525e2792
-SHA1: 944c226615b84be7137564144dbffb30b464ddc6
-SHA256: 87b15cc323895cbef97a4136db985dd0d3ad8249505da1480e37a5ebe6244617
+Size: 130980
+MD5sum: e3518b9a9e309b040507ec93562868ae
+SHA1: 8d0bc5213aba5d0f52865e5ddbb22907c8a89f2b
+SHA256: 1390a2e15e956ab18bef23dc48521426f536f336c0e240a2b8df12a17425fa40
 Section: Lockscreen Widgets
 Description: Now compatible across all iOS!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew6
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW6
+Sileodepiction: https://evynw.github.io/sileo/lsew6.json
 
 Package: com.evynw.lsew62
 Version: 1.0
@@ -3535,17 +3555,19 @@ Package: com.evynw.lsew8
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.lsew8_1.0_iphoneos-arm.deb
-Size: 102654
-MD5sum: 62798c32edcb5e9dc3ba6183853871cc
-SHA1: 8fb8e8a21bf3624d2dc726bf294ba897a013c487
-SHA256: d58bed51738c8202608b9394a67b9538e5bdac2fe0e12752b83f26695fa47d32
+Size: 102688
+MD5sum: 1838614a45a14a4f3e800a38feaebbf1
+SHA1: 20dc3014ed67220a0dbed1bbe4681e7c59eb86de
+SHA256: f8e608559fa790f70435d492231041a3695e551c3c768dcdcd80b421ca5773d3
 Section: Lockscreen Widgets
 Description: Now compatible across all iOS!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew8
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW8
+Sileodepiction: https://evynw.github.io/sileo/lsew8.json
 
 Package: com.evynw.lsew80
 Version: 1.0
@@ -3639,17 +3661,18 @@ Package: com.evynw.lsew9
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.lsew9_1.0_iphoneos-arm.deb
-Size: 70548
-MD5sum: 19c5874ef3fc6ef82f5359e640fbeea3
-SHA1: 80056eefb71b729c78fc8d555c1ab04c85f63dbc
-SHA256: 030e940aaa2705083289858b90be8937a5ab31f543c6ef3bd77340d88ea4ac5e
+Size: 70562
+MD5sum: 5e3646eefff1f6c45c627dad5b0ec5cb
+SHA1: 1ecb210ba1c8d1ab0013e563867ba92afcca2444
+SHA256: 5188311ed4ae010aeefdee85f1207d2088d3f8f20e7e569844f6decd25fe13c4
 Section: Lockscreen Widgets
 Description: Just found out I missed this one lol
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew9
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW9
+Sileodepiction: https://evynw.github.io/sileo/lsew9.json
 
 Package: com.evynw.lsew92
 Version: 1.0
