@@ -185,6 +185,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Pack.png
 Name: EW.WdgtPack.8
 Sileodepiction: https://evynw.github.io/sileo/ewwdgtpack8.json
 
+Package: com.evynw.fontainsliesans12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontainsliesans12_1.0_iphoneos-arm.deb
+Size: 17076368
+MD5sum: e6394e11a3fcee1c32ad9b28f360fe83
+SHA1: 13dc472820f533283e129b02270cfcc7e9178f51
+SHA256: f278f7924795109c277b7aac5a3d0a9c4fd7cd4984d259b8b626716875103a3c
+Section: Fonts - Theme
+Description: Sans serif slightly rounded. Compatible with iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontainsliesans12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Ainslie Sans (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontainsliesans12.json
+
 Package: com.evynw.fontalegreyasans12
 Version: 1.0
 Architecture: iphoneos-arm
