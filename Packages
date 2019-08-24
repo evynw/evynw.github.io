@@ -2986,6 +2986,24 @@ Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW252
 Sileodepiction: https://evynw.github.io/sileo/lsew252.json
 
+Package: com.evynw.lsew254
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew254_1.0_iphoneos-arm.deb
+Size: 292988
+MD5sum: e96767aa835bf3ce47c60fefe69dc0be
+SHA1: a590cd2448abf66562f301f6cc0ae12db4c882d9
+SHA256: 2064c9f9d93ac61dda399e68787c6e8532d5ee93c8e1bfc79521b5400d7679ad
+Section: Lockscreen Widgets
+Description: Catch us when we fall. We stand as one.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew254
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW254
+Sileodepiction: https://evynw.github.io/sileo/lsew254.json
+
 Package: com.evynw.lsew27
 Version: 1.0
 Architecture: iphoneos-arm

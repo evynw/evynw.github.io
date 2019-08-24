@@ -6,7 +6,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#bbc7d3",
+      "tintColor": "#e9d109",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)</p>\n<p style=\"font-size:10pt;\">Apply with XenHTML</p>\n<p style=\"font-size:10pt;\">Requires XenInfo for weather/battery components to work properly</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">In commemoration of those who stood up to fight against oppression and injustice.</p>\n<p style=\"font-size:10pt;\">Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)</p>\n<p style=\"font-size:10pt;\">Apply with XenHTML</p>\n<p style=\"font-size:10pt;\">Requires XenInfo for weather/battery components to work properly</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -31,11 +31,11 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{360, 640}",
+          "itemSize": "{360, 724}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.lsew236/ss.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.lsew254/ss.png"
             }
           ]
         },
@@ -68,7 +68,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS9.0 - 12.1.2",
+          "text": "iOS9.0 - 12.4",
           "title": "Compatibility"
         },
         {
@@ -124,19 +124,8 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#bbc7d3",
+      "tintColor": "#e9d109",
       "views": [
-        {
-          "class": "DepictionSubheaderView",
-          "title": "1.0-1",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Fixed issue of clock not updating</li>\n</ul>",
-          "useRawFormat": true
-        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
@@ -151,5 +140,5 @@
       ]
     }
   ],
-  "tintColor": "#bbc7d3"
+  "tintColor": "#e9d109"
 }
