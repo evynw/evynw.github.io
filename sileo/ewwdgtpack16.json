@@ -6,7 +6,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#354263",
+      "tintColor": "#919ccb",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -31,27 +31,27 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{300, 533}",
+          "itemSize": "{330, 715}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ewwdgtpack10/LS1.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ewwdgtpack16/LS1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ewwdgtpack10/LS2.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ewwdgtpack16/LS2.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ewwdgtpack10/LS3.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ewwdgtpack16/LS3.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ewwdgtpack10/SB1.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ewwdgtpack16/SB1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ewwdgtpack10/SB2.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ewwdgtpack16/SB2.png"
             }
           ]
         },
@@ -84,7 +84,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS9.0 - 12.1.2",
+          "text": "iOS9.0 - 12.4",
           "title": "Compatibility"
         },
         {
@@ -140,51 +140,8 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#354263",
+      "tintColor": "#919ccb",
       "views": [
-        {
-          "class": "DepictionSubheaderView",
-          "title": "2.0-3",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Added Turkish translations</li>\n<li>Fixed font size rendering</li>\n</ul>",
-          "useRawFormat": true
-        },        {
-        {
-          "class": "DepictionSubheaderView",
-          "title": "2.0-2",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Fixed potential freezing on iPX</li>\n</ul>",
-          "useRawFormat": true
-        },        {
-        {
-          "class": "DepictionSubheaderView",
-          "title": "2.0-1",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>SB1: Fixed temp unit issue</li>\n<li>SB2: Fixed battery and ram not showing</li>\n</ul>",
-          "useRawFormat": true
-        },        {
-          "class": "DepictionSubheaderView",
-          "title": "2.0",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>iOS11+ compatbility</li>\n</ul>",
-          "useRawFormat": true
-        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
@@ -199,5 +156,5 @@
       ]
     }
   ],
-  "tintColor": "#354263"
+  "tintColor": "#919ccb"
 }
