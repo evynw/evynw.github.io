@@ -36,65 +36,71 @@ Package: com.evynw.ewwdgtpack12
 Version: 2.0-3
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.ewwdgtpack12_2.0-3_iphoneos-arm.deb
-Size: 2747704
-MD5sum: 240376f1f7c9a20fecfd4b626e2ff190
-SHA1: 083e624c725fb3d7222c8b916b87b452b8c672c3
-SHA256: 951bc08b0adeadb34e4d85077d4e679f45840879a76f106a2419b0e093612401
+Size: 2747726
+MD5sum: b04943a8b4e1ef26c334ae19a36a0c55
+SHA1: 7176f71729859d485ee96dc6981b99442f81d8b2
+SHA256: e16650374c5d238aa29249a0c4b8de6723f1d47f3e06f3bfb2a833e13f3535af
 Section: Lockscreen Widgets
 Description: iOS11-compatible widget pack. I'm working hard T^T
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack12
+Icon: https://evynw.github.io/depictions/sectionIcons/Pack.png
 Name: EW.WdgtPack.12
+Sileodepiction: https://evynw.github.io/sileo/ewwdgtpack12.json
 
 Package: com.evynw.ewwdgtpack14
 Version: 2.0-2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Depends: com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.ewwdgtpack14_2.0-2_iphoneos-arm.deb
-Size: 2770642
-MD5sum: df92029fc70074cdfea42d24951b10d8
-SHA1: 5772a8eaee73862a684cb3f1899ec7844d997a9c
-SHA256: c3444e257aab78e3a936d263eebf3d306a178e7ba56a28a8455878bad5807553
+Size: 2770668
+MD5sum: 101181d4eb65a6851aff88d7453d30ae
+SHA1: ba53c6005899f114153f58dc9df61af07e94e7c6
+SHA256: 8057396b94bfa61d445ddf7dbfea0d4053529cfd77e1ae80037f72a8a151c7f2
 Section: Lockscreen Widgets
 Description: iOS11-compatible widget pack. I'm working hard T^T
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack14
+Icon: https://evynw.github.io/depictions/sectionIcons/Pack.png
 Name: EW.WdgtPack.14
+Sileodepiction: https://evynw.github.io/sileo/ewwdgtpack14.json
 
 Package: com.evynw.ewwdgtpack16
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.ewwdgtpack16_1.0_iphoneos-arm.deb
-Size: 3004752
-MD5sum: 93390900d5de851a4b08932c4b17ed14
-SHA1: 349d10f6ad759da079c8fbe069e17de56e4dd293
-SHA256: 5a6a8af724b454627231b44d18089d218c73e1291c09b7fdb099baf1e5219473
+Size: 3004748
+MD5sum: 9f677c94a38af6df4c6239059a00796d
+SHA1: 136430349c2e1b9746ffb83b76ed075edcc969f9
+SHA256: b7f04306c16694fb3550db20e379a816d540f697cfc921a5d1466932bdfedd7a
 Section: Lockscreen Widgets
 Description: Brand new widget pack :D
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack16
+Icon: https://evynw.github.io/depictions/sectionIcons/Pack.png
 Name: EW.WdgtPack.16
+Sileodepiction: https://evynw.github.io/sileo/ewwdgtpack16.json
 
 Package: com.evynw.ewwdgtpack18
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
 Filename: ./debs/com.evynw.ewwdgtpack18_1.0_iphoneos-arm.deb
-Size: 1326938
-MD5sum: 70983dcd18d63a2e030084303a077b5f
-SHA1: e65825f278d1657b13dfbcda8dcae622485b899d
-SHA256: 9bda3b148a8f990768d352d8bbb9d4af91e1c54de483c31bd05862d0b6c4caa6
+Size: 1326934
+MD5sum: 1626564305f0b04da78e4eac17244554
+SHA1: 21324b7482022c1a0d79641624c2a232c148e3de
+SHA256: 3b2a1c933f7781e597c2a2fbe38bb28a9cdc73b51d365a5a03185e23c9414516
 Section: Lockscreen Widgets
-Description: New free widget pack <3
+Description: Free Widget Pack - LS x 5
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack18
+Icon: https://evynw.github.io/depictions/sectionIcons/Pack.png
 Name: EW.WdgtPack.18
+Sileodepiction: https://evynw.github.io/sileo/ewwdgtpack18.json
 
 Package: com.evynw.ewwdgtpack2
 Version: 2.0-1
@@ -2985,6 +2991,23 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew252
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW252
 Sileodepiction: https://evynw.github.io/sileo/lsew252.json
+
+Package: com.evynw.lsew253
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.lsew253_1.0_iphoneos-arm.deb
+Size: 106970
+MD5sum: 9a73f3a570c754c68b129ce5cef4d95f
+SHA1: db70243ac9cafc2fff18603cc76e25f3ca05b040
+SHA256: 1d28980f986a20b3cb987dcb42c8bf5c99b60df9532de5f518d612c2a6e2f5fb
+Section: Lockscreen Widgets
+Description: #BeWater #WeStandTogether
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew253
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW252
+Sileodepiction: https://evynw.github.io/sileo/lsew253.json
 
 Package: com.evynw.lsew254
 Version: 1.0
