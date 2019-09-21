@@ -446,6 +446,40 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Bronkoh (TM)
 Sileodepiction: https://evynw.github.io/sileo/fontbrokmantm.json
 
+Package: com.evynw.fontcabritosans12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontcabritosans12_1.0_iphoneos-arm.deb
+Size: 9850796
+MD5sum: bd5f0dea0c9790c4adbc63278aa11b7c
+SHA1: 002957facb8716304e569ea9ed411aa5a6cb630d
+SHA256: fa2861c38df4f99fc70ef355a17e069fda5ce01edf1fef15bc7903f40d550afb
+Section: Fonts - Theme
+Description: Sans serif slightly rounded. Compatible with iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcabritosans12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Cabrito Sans (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontcabritosans12.json
+
+Package: com.evynw.fontcabritosans8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontcabritosans8512_1.0_iphoneos-arm.deb
+Size: 10385658
+MD5sum: 1ace8a047856a3ef09a514b7e57d22e2
+SHA1: ec6537870dfafe3092798c1ed6c342d5878d43b8
+SHA256: 968326e1be6650b430bcf5afd86512810871d8ca7e1d907c009ef60223c01fe2
+Section: Fonts - Theme
+Description: Sans serif slightly rounded. 85% size. For iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcabritosans8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Cabrito Sans_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontcabritosans8512.json
+
 Package: com.evynw.fontcera12
 Version: 1.0
 Architecture: iphoneos-arm
