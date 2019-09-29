@@ -3009,6 +3009,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW249
 Sileodepiction: https://evynw.github.io/sileo/lsew249.json
 
+Package: com.evynw.lsew251
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.lsew251_1.0_iphoneos-arm.deb
+Size: 134246
+MD5sum: cc71449b26d856dbf2b7a8227c3b3475
+SHA1: d39478bdc249808ebde0f9e88b4d1b24b166fbf8
+SHA256: c51a4f511307ace46c726b2288d271e2e6029eb1b20204d77c4c09938e02dc49
+Section: Lockscreen Widgets
+Description: Guess I should think of a new description? OwO
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew251
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW251
+Sileodepiction: https://evynw.github.io/sileo/lsew251.json
+
 Package: com.evynw.lsew252
 Version: 1.0
 Architecture: iphoneos-arm
@@ -3031,10 +3048,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.lsew253_1.0_iphoneos-arm.deb
-Size: 106970
-MD5sum: 9a73f3a570c754c68b129ce5cef4d95f
-SHA1: db70243ac9cafc2fff18603cc76e25f3ca05b040
-SHA256: 1d28980f986a20b3cb987dcb42c8bf5c99b60df9532de5f518d612c2a6e2f5fb
+Size: 106960
+MD5sum: 993eed21646e4ccd1eac92fa70c3aba5
+SHA1: 32a532fdf7937ac4f16f9676eeb9be278846992d
+SHA256: 6b945cf4da4455b4865fa3a4fe4c47cfd97c17710409f5135682d6cd6ae7dc8f
 Section: Lockscreen Widgets
 Description: #BeWater #WeStandTogether
 Author: Evelyn (ev_ynw)
