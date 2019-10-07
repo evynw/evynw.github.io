@@ -468,10 +468,10 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontcabritosans8512_1.0-1_iphoneos-arm.deb
-Size: 10379436
-MD5sum: 49808c938ac1f668bc4d99f228c1e57c
-SHA1: 0510eb67277e2bdbf5fc4fd3d3b611f8e01dcb8d
-SHA256: 9b591f7d07b1fc8d9b66b15e54bcfa248922faf0bf05fcad03a6e8a5bb160037
+Size: 10384298
+MD5sum: 1f62ecc0a9fe40063c7df600f0bcb3ca
+SHA1: d66d7837e9b656f5a9bf80fda57726c1a7b0290a
+SHA256: 1c9d0f74b4f84a08b9c1517844cd467f91401817bf976b84ae6c95858006c157
 Section: Fonts - Theme
 Description: Sans serif slightly rounded. 85% size. For iOS10-12.
 Author: Evelyn (ev_ynw)
