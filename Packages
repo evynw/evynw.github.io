@@ -447,14 +447,14 @@ Name: Bronkoh (TM)
 Sileodepiction: https://evynw.github.io/sileo/fontbrokmantm.json
 
 Package: com.evynw.fontcabritosans12
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontcabritosans12_1.0_iphoneos-arm.deb
-Size: 9850796
-MD5sum: bd5f0dea0c9790c4adbc63278aa11b7c
-SHA1: 002957facb8716304e569ea9ed411aa5a6cb630d
-SHA256: fa2861c38df4f99fc70ef355a17e069fda5ce01edf1fef15bc7903f40d550afb
+Filename: ./debs/com.evynw.fontcabritosans12_1.0-1_iphoneos-arm.deb
+Size: 9850858
+MD5sum: d4b6b4b1aead4e33c47718994524dc1b
+SHA1: 58a866e2e63d1cc93356ebc043d502438b7f980c
+SHA256: 28c78c8017dafd6652b8f9fe685a5981f4a85ee81ee65a7b059722d6c672a0dc
 Section: Fonts - Theme
 Description: Sans serif slightly rounded. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
@@ -464,14 +464,14 @@ Name: Cabrito Sans (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcabritosans12.json
 
 Package: com.evynw.fontcabritosans8512
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontcabritosans8512_1.0_iphoneos-arm.deb
-Size: 10385658
-MD5sum: 1ace8a047856a3ef09a514b7e57d22e2
-SHA1: ec6537870dfafe3092798c1ed6c342d5878d43b8
-SHA256: 968326e1be6650b430bcf5afd86512810871d8ca7e1d907c009ef60223c01fe2
+Filename: ./debs/com.evynw.fontcabritosans8512_1.0-1_iphoneos-arm.deb
+Size: 10379436
+MD5sum: 49808c938ac1f668bc4d99f228c1e57c
+SHA1: 0510eb67277e2bdbf5fc4fd3d3b611f8e01dcb8d
+SHA256: 9b591f7d07b1fc8d9b66b15e54bcfa248922faf0bf05fcad03a6e8a5bb160037
 Section: Fonts - Theme
 Description: Sans serif slightly rounded. 85% size. For iOS10-12.
 Author: Evelyn (ev_ynw)

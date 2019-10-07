@@ -31,7 +31,7 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{330, 832}",
+          "itemSize": "{360, 1410}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
@@ -130,6 +130,17 @@
       "tabname": "Changelog",
       "tintColor": "#a2b9c9",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0-1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Fixed interpolation of some symbols</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
