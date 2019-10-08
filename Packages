@@ -701,6 +701,40 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Corporative Sans Alt_85% (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcorpsansalt8512.json
 
+Package: com.evynw.fontdubai12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontdubai12_1.0_iphoneos-arm.deb
+Size: 9828648
+MD5sum: 272c45db0126370eaa6041bd1dbefa1f
+SHA1: b9cc60bce13cf9b697b7e414b32f3b172f0dfa56
+SHA256: f86cfe73db412ae6d6387a89424bb4bc23a9350853360c6eef2441b1340c8046
+Section: Fonts - Theme
+Description: Well-known Microsoft font. 100% size. For iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontdubai12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Dubai (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontdubai12.json
+
+Package: com.evynw.fontdubai8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontdubai8512_1.0_iphoneos-arm.deb
+Size: 10358964
+MD5sum: a13af724b02a2d0d4f01523b6ca872ce
+SHA1: 11e034e4ea29e6430dff1319481b495cc8132ccf
+SHA256: f3c51ef0858fb2cbe0ee6283803e6ae9b5f4df18238e20427d5041d913ccd422
+Section: Fonts - Theme
+Description: Well-known Microsoft font. 85% size. For iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontdubai8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Dubai_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontdubai8512.json
+
 Package: com.evynw.fontestandar12
 Version: 1.0
 Architecture: iphoneos-arm
@@ -3989,33 +4023,35 @@ Package: com.evynw.respringantlers
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.respringantlers_1.0_iphoneos-arm.deb
-Size: 138528
-MD5sum: 0fdbd97d2550c9c78069ff6a3fa6692f
-SHA1: 47a11baa0a51ee7c28266ccd86f338c28f2c4c4e
-SHA256: 62958a3603dcc2de9c6f7968676bd111def29cc60a0f9499e0e816b7be0e21f8
+Size: 138548
+MD5sum: efffdc69e0fc0ef432a72bf5dc95752c
+SHA1: 819f3059ebbd4dc12bcc40703cd40c8165a3eebc
+SHA256: a9adfe5bbe3ce58c495f0810945b32a61f09afac3e231fe7b5dd162ce6e134a9
 Section: Others
 Description: Respring logo of a red deer head
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.respringantlers
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
 Name: Antlers Respring Logo
+Sileodepiction: https://evynw.github.io/sileo/respringantlers.json
 
 Package: com.evynw.respringexplicit
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.respringexplicit_1.0_iphoneos-arm.deb
-Size: 119550
-MD5sum: c8c77229326e78545cdea68508d2d129
-SHA1: 85f90c5081502154cc194713a757b840208c020f
-SHA256: e76b676e99b61000e7d4d2af88d7a25abdb1e426bf74400574bcafccca13fb6b
+Size: 119564
+MD5sum: 8ba2a5ded6fa072bedbaa0184c77b1e2
+SHA1: aa1eb59c34379e762800cdbf038abf9615ffe75f
+SHA256: 73dda7ec8bc083a6b7f284569a1863f3b0a353e0587fa00c99746eee3730c920
 Section: Others
 Description: PARENTAL ADVISORY EXPLICIT CONTENT
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.respringexplicit
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
 Name: Explicit Respring Logo
+Sileodepiction: https://evynw.github.io/sileo/respringexplicit.json
 
 Package: com.evynw.sbew1
 Version: 1.0
