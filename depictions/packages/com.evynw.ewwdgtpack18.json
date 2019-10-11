@@ -5,8 +5,8 @@
 	"version": "1.0",
 	"dependency": "XenInfo",
 	"minOSVersion": "9.0",
-	"maxOSVersion": "12.1.2",
-	"otheriOS": "unsupported",
+	"maxOSVersion": "12.4",
+	"otheriOS": "untested",
 	"description": "<div>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)<br><br>Apply with XenHTML<br><br>Requires XenInfo for weather/battery components to work properly<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {
 	    "1.0": [

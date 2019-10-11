@@ -1,11 +1,11 @@
 {
-	"name": "URW Geometric (iOS10/11/12)",
+	"name": "URW Geometric (iOS10-12)",
 	"package": "com.evynw.fonturwgeo12",
 	"author": "Evelyn (ev_ynw)",
 	"version": "1.0",
 	"dependency": "N/A",
 	"minOSVersion": "10.0",
-	"maxOSVersion": "12.1.2",
+	"maxOSVersion": "12.4",
 	"otheriOS": "untested",
 	"description": "<div>Variable .ttfs are reworked from ground up. Downward compatible with iOS10&11. You can refer to the screenshot for reference as to the appearance/effect.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with Anemone. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {

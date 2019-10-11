@@ -5,7 +5,7 @@
 	"version": "1.0-3",
 	"dependency": "N/A",
 	"minOSVersion": "8.0",
-	"maxOSVersion": "12.2",
+	"maxOSVersion": "12.4",
 	"otheriOS": "untested",
 	"description": "<div>Replace the '?' in package icon/thumbnails</div>",
   	"changelog": {
