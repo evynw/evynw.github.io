@@ -446,6 +446,40 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Bronkoh (TM)
 Sileodepiction: https://evynw.github.io/sileo/fontbrokmantm.json
 
+Package: com.evynw.fontbunday12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontbunday12_1.0_iphoneos-arm.deb
+Size: 11285358
+MD5sum: 374f3fe8248a5c526a36c3ec01fd7a50
+SHA1: dbbdf0dd5d48b376cfae57cefa8e1a7e0e8de399
+SHA256: 74d92f849ec3903358433fe3b7fadb16c2e92c5ce7a56b67f5f8d273abc497ec
+Section: Fonts - Theme
+Description: Scriptive Sans (alt ver). 100% size. For iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbunday12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bunday Clean (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontbunday12.json
+
+Package: com.evynw.fontbunday8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontbunday8512_1.0_iphoneos-arm.deb
+Size: 11763496
+MD5sum: d00b47200289af091d63957a7662a522
+SHA1: aa15e092cbc8d1960c75daf8c08b5c36c57b1719
+SHA256: 956404fde1f122858cc73873a554177d890a5129fc48f9dd946f90a16ec6f195
+Section: Fonts - Theme
+Description: Scriptive Sans (alt ver). 85% size. For iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbunday8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bunday Clean_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontbunday8512.json
+
 Package: com.evynw.fontcabritosans12
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -870,23 +904,6 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgimbal12
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Gimbal Grotesque (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontgimbal12.json
-
-Package: com.evynw.fontginesoext12
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontginesoext12_1.0_iphoneos-arm.deb
-Size: 10423674
-MD5sum: d1a7ab69e1928c88fc5087d68816276d
-SHA1: ce4a54cc34c3b219bed5f9f6841a466dc177f448
-SHA256: 47a92239b2598b042114017abe03c3090cf8258a7641f41b518639f6dc65afa9
-Section: Fonts - Theme
-Description: Alex's 1st ever font on my repo!
-Author: Alex (@Alexman1979)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontginesoext12
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Gineso Ext (iOS12)
-Sileodepiction: https://evynw.github.io/sileo/fontginesoext12.json
 
 Package: com.evynw.fontginesotm
 Version: 1.0
