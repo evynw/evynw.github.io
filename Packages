@@ -905,6 +905,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Gimbal Grotesque (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontgimbal12.json
 
+Package: com.evynw.fontginesoext12
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontginesoext12_1.1_iphoneos-arm.deb
+Size: 13156368
+MD5sum: 7f322801e74f612694eb1eff99cdc60f
+SHA1: ac79c3ae89c674d7154e182d9897efef55a6cf61
+SHA256: c6fc9f50157890d9a7059127263cac93194bd068ac1345e24a40f8fe925cc508
+Section: Fonts - Theme
+Description: Alex's 1st ever font on my repo!
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontginesoext12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Gineso Ext (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontginesoext12.json
+
 Package: com.evynw.fontginesotm
 Version: 1.0
 Architecture: iphoneos-arm
