@@ -1314,6 +1314,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: SF Compact Rounded (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontsfrounded12.json
 
+Package: com.evynw.fontsica12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontsica12_1.0_iphoneos-arm.deb
+Size: 17570826
+MD5sum: 1ec38c7c817daf37f50e04147262d368
+SHA1: 02c987b1f1353ab09a64cd23f3a10a26aa67df9e
+SHA256: 68426bb67884ee629b99f24a59e7447199a078680c7f110e0d144b9ad7af0930
+Section: Fonts - Theme
+Description: Square-ish grosteque sans. For iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsica12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Sica (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontsica12.json
+
 Package: com.evynw.fonttisasans12
 Version: 1.0
 Architecture: iphoneos-arm
