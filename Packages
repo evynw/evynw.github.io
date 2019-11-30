@@ -345,14 +345,14 @@ Name: Bariol (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontbariol12.json
 
 Package: com.evynw.fontbrandontext12
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontbrandontext12_1.0_iphoneos-arm.deb
-Size: 18106954
-MD5sum: 3e57865af7b33d16fc7ab3b17861aadc
-SHA1: 4847106d8afb5a296013882d8e42ca9586ffc53c
-SHA256: a327d6538630e53146825d8211115860da5ca3dd6bc040f9205b3a55d274b087
+Filename: ./debs/com.evynw.fontbrandontext12_1.1_iphoneos-arm.deb
+Size: 18161416
+MD5sum: ec3bc3f6fd0b2ef4119f858824284911
+SHA1: f8533b0920a9f8ce3c7b0c4201be11efc88bd3cc
+SHA256: 5d0763fe745114b92989ec371a21be234ed3a040dda89c08a32232be4f53f0a6
 Section: Fonts - Theme
 Description: Popular sans-serif. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
@@ -515,14 +515,14 @@ Name: Bunday Clean_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontbunday8513.json
 
 Package: com.evynw.fontcabritosans12
-Version: 1.0-1
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontcabritosans12_1.0-1_iphoneos-arm.deb
-Size: 9850858
-MD5sum: d4b6b4b1aead4e33c47718994524dc1b
-SHA1: 58a866e2e63d1cc93356ebc043d502438b7f980c
-SHA256: 28c78c8017dafd6652b8f9fe685a5981f4a85ee81ee65a7b059722d6c672a0dc
+Filename: ./debs/com.evynw.fontcabritosans12_1.1_iphoneos-arm.deb
+Size: 9852406
+MD5sum: 548bf03a3248ff546e6e4cd72fc7bd97
+SHA1: 3e396d86a8c59ca4cdc86c45c9c66c709f33848a
+SHA256: 535a5c5ac3795e4485967b02b9cf689918d05d7a2ca3524d4ce48aae4d3b9d7c
 Section: Fonts - Theme
 Description: Sans serif slightly rounded. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
@@ -532,14 +532,14 @@ Name: Cabrito Sans (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcabritosans12.json
 
 Package: com.evynw.fontcabritosans8512
-Version: 1.0-1
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontcabritosans8512_1.0-1_iphoneos-arm.deb
-Size: 10384298
-MD5sum: 1f62ecc0a9fe40063c7df600f0bcb3ca
-SHA1: d66d7837e9b656f5a9bf80fda57726c1a7b0290a
-SHA256: 1c9d0f74b4f84a08b9c1517844cd467f91401817bf976b84ae6c95858006c157
+Filename: ./debs/com.evynw.fontcabritosans8512_1.1_iphoneos-arm.deb
+Size: 10384196
+MD5sum: e5759177f270633c226a9bf3b4f5ae6b
+SHA1: 40ecfd8902b902eec396aa0f4e0e11be16c510b1
+SHA256: e2f7b37a98a83ed939efed11f58f244b0fc821858b2ee0cfea35443930ada1c8
 Section: Fonts - Theme
 Description: Sans serif slightly rounded. 85% size. For iOS10-12.
 Author: Evelyn (ev_ynw)
@@ -649,23 +649,6 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontconfigrounded8512
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Config Rounded_85% (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontconfigrounded8512.json
-
-Package: com.evynw.fontcontesans1011
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontcontesans1011_1.0_iphoneos-arm.deb
-Size: 8264816
-MD5sum: 5d923ddd2f19d9fc96e33e2525e5e04a
-SHA1: f09a8cf3fc4f0cd0d572eef2c67a88743d58b6ef
-SHA256: 308953ec4254ad2667053c929407843df9f5cc14d2170179e175364531b4b12e
-Section: Fonts - Theme
-Description: Clean sans-serif typeface. For Anemone.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesans1011
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Conte Sans (iOS10/11)
-Sileodepiction: https://evynw.github.io/sileo/fontcontesans1011.json
 
 Package: com.evynw.fontcontesans12
 Version: 1.0

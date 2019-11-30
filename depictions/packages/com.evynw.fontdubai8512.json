@@ -6,7 +6,7 @@
 	"dependency": "N/A",
 	"minOSVersion": "10.0",
 	"maxOSVersion": "12.4",
-	"otheriOS": "untested",
+	"otheriOS": "unsupported",
 	"description": "<div><strong>85% size. Install 'Dubai' for normal character size</strong><br><br>Optimised for iOS12. Downward compatible with iOS10&11 as well. Better Vietnamese support.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {
 	    "1.0": [

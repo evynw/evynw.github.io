@@ -6,7 +6,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#a2b9c9",
+      "tintColor": "#105961",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -31,15 +31,11 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{300, 650}",
+          "itemSize": "{360, 1287}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontbrandontext12/ss1.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontbrandontext12/ss2.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontbrandontext12/ss.png"
             }
           ]
         },
@@ -71,7 +67,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0",
+          "text": "1.1",
           "title": "Version"
         },
         {
@@ -132,8 +128,19 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#a2b9c9",
+      "tintColor": "#105961",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Fixed “ᴇ” on iOS12.4</li>\n<li>Better Vietnamese support</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
@@ -148,5 +155,5 @@
       ]
     }
   ],
-  "tintColor": "#a2b9c9"
+  "tintColor": "#105961"
 }
