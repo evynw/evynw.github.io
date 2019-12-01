@@ -1042,14 +1042,14 @@ Name: IBM Plex Sans (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontibmplexsans12.json
 
 Package: com.evynw.fontintervalsans12
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontintervalsans12_1.0_iphoneos-arm.deb
-Size: 9781072
-MD5sum: 9df7d8690fb7d0b3264807204dae10a8
-SHA1: 2c580de3f4939d3618266286315724c3702fd4e2
-SHA256: 164288fb120c6a0b47e45122c660e75069b344a25ec2c4637db9079b99e79ab4
+Filename: ./debs/com.evynw.fontintervalsans12_1.1_iphoneos-arm.deb
+Size: 9783210
+MD5sum: d8df3ea0057d0a6be14c60caff495d16
+SHA1: 35ef9df7e76305f5b92576e91aca64310f61dd37
+SHA256: 40baabfb5b74f7bb0baf5b83d95c3f440e6295cb34a3addf04abcf7eb63420c8
 Section: Fonts - Theme
 Description: Complete remake. Better Viet support. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
@@ -1332,14 +1332,14 @@ Name: SF Compact Rounded (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontsfrounded12.json
 
 Package: com.evynw.fontsica12
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontsica12_1.0_iphoneos-arm.deb
-Size: 17570826
-MD5sum: 1ec38c7c817daf37f50e04147262d368
-SHA1: 02c987b1f1353ab09a64cd23f3a10a26aa67df9e
-SHA256: 68426bb67884ee629b99f24a59e7447199a078680c7f110e0d144b9ad7af0930
+Filename: ./debs/com.evynw.fontsica12_1.1_iphoneos-arm.deb
+Size: 17570794
+MD5sum: 299e333188d40808af2fda49b07d1f6d
+SHA1: 2f6847588fd4f42a65569cbdb8d65e5506c04838
+SHA256: e69c93a333dbdb5b500103875dab33b1fd474b9d59f9dc0132fe7388eff91c5e
 Section: Fonts - Theme
 Description: Square-ish grosteque sans. For iOS10-12.
 Author: Evelyn (ev_ynw)
