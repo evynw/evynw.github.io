@@ -1,0 +1,11 @@
+Package: com.evynw.fontbrandontext12
+Name: Brandon Text (iOS10-12)
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Popular sans-serif. Compatible with iOS10-12.
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbrandontext12
+SileoDepiction: https://evynw.github.io/sileo/fontbrandontext12.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: Evelyn (ev_ynw)
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Section: Fonts - Theme
