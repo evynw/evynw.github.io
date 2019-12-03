@@ -753,14 +753,14 @@ Name: Corporative Sans Alt_85% (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcorpsansalt8512.json
 
 Package: com.evynw.fontdubai12
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontdubai12_1.0_iphoneos-arm.deb
-Size: 9828648
-MD5sum: 272c45db0126370eaa6041bd1dbefa1f
-SHA1: b9cc60bce13cf9b697b7e414b32f3b172f0dfa56
-SHA256: f86cfe73db412ae6d6387a89424bb4bc23a9350853360c6eef2441b1340c8046
+Filename: ./debs/com.evynw.fontdubai12_1.1_iphoneos-arm.deb
+Size: 9828634
+MD5sum: 9e7712e6db2892698d852c766cc12370
+SHA1: b03e2af9950381555779beab292ab92b7d227c69
+SHA256: 4f6fb68d04662ac7d1b35e5480fbadb1ac9efa7f147c084c4fcdca0cd0ab183c
 Section: Fonts - Theme
 Description: Well-known Microsoft font. 100% size. For iOS10-12.
 Author: Evelyn (ev_ynw)
@@ -770,14 +770,14 @@ Name: Dubai (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontdubai12.json
 
 Package: com.evynw.fontdubai8512
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontdubai8512_1.0_iphoneos-arm.deb
-Size: 10358964
-MD5sum: a13af724b02a2d0d4f01523b6ca872ce
-SHA1: 11e034e4ea29e6430dff1319481b495cc8132ccf
-SHA256: f3c51ef0858fb2cbe0ee6283803e6ae9b5f4df18238e20427d5041d913ccd422
+Filename: ./debs/com.evynw.fontdubai8512_1.1_iphoneos-arm.deb
+Size: 10358990
+MD5sum: 417fdbf919c5fd17d1d74a88936e5613
+SHA1: 01ada85033f0279da3f46e2f0392acdeaa00b394
+SHA256: 128c8cc2985bf6788e4097153f64d1cfb76bee11059cf010f4516ba6beea2616
 Section: Fonts - Theme
 Description: Well-known Microsoft font. 85% size. For iOS10-12.
 Author: Evelyn (ev_ynw)
