@@ -192,14 +192,14 @@ Name: EW.WdgtPack.8
 Sileodepiction: https://evynw.github.io/sileo/ewwdgtpack8.json
 
 Package: com.evynw.fontainsliesans12
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontainsliesans12_1.0_iphoneos-arm.deb
-Size: 17076368
-MD5sum: e6394e11a3fcee1c32ad9b28f360fe83
-SHA1: 13dc472820f533283e129b02270cfcc7e9178f51
-SHA256: f278f7924795109c277b7aac5a3d0a9c4fd7cd4984d259b8b626716875103a3c
+Filename: ./debs/com.evynw.fontainsliesans12_1.1_iphoneos-arm.deb
+Size: 17076366
+MD5sum: 60c747f104d1bc6561e64c1276ccb3c7
+SHA1: 18337c6a70ab373f32f931eecdae738a5967fa7d
+SHA256: be3e42560de16c2bff42ebea69cea9cde5be63cb3421345a8da3b080f5ada94c
 Section: Fonts - Theme
 Description: Sans serif slightly rounded. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
