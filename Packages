@@ -531,6 +531,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Cabrito Sans (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcabritosans12.json
 
+Package: com.evynw.fontcabritosans13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontcabritosans13_1.0_iphoneos-arm.deb
+Size: 7083190
+MD5sum: e9c5a3b1b5da5a50aac83f3eadc71f0d
+SHA1: 65b8b80a2967beaadfa02873dd1e07b6c61aacf0
+SHA256: a0afd421947c8ae34859d51b3b18cc7a95138a3c3b045a8fc0dbbc191d8f024a
+Section: Fonts - Theme
+Description: Sans serif slightly rounded. Compatible with iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcabritosans13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Cabrito Sans (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontcabritosans13.json
+
 Package: com.evynw.fontcabritosans8512
 Version: 1.1
 Architecture: iphoneos-arm
@@ -547,6 +564,23 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcabritosans8512
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Cabrito Sans_85% (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcabritosans8512.json
+
+Package: com.evynw.fontcabritosans8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontcabritosans8513_1.0_iphoneos-arm.deb
+Size: 7547766
+MD5sum: 1c0287af4e85eddaf3c46cd94abcebef
+SHA1: 88763088f3fa7b919c0720afc136b23de9307843
+SHA256: d3c4cebfed7baa9357ed03e7f51636d908440a85ee388651bc555602e54bb1ce
+Section: Fonts - Theme
+Description: Sans serif slightly rounded. 85% size. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcabritosans8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Cabrito Sans_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontcabritosans8513.json
 
 Package: com.evynw.fontcera12
 Version: 1.0
