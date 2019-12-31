@@ -6,7 +6,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#354263",
+      "tintColor": "#105961",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Optimised for iOS12. Also downward compatible with iOS10&11.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\"><strong>100% size. Install 'Conte Sans_85% (iOS10-12)' for normal character size.</strong></p>\n<p style=\"font-size:10pt;\">Compatible with iOS10-12. iOS13 users please download the package marked “iOS10-12”.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -31,7 +31,7 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{350, 837}",
+          "itemSize": "{360, 1260}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
@@ -67,7 +67,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0",
+          "text": "1.1",
           "title": "Version"
         },
         {
@@ -128,8 +128,19 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#354263",
+      "tintColor": "#105961",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Fixed “ᴇ” on iOS12.4</li>\n<li>Better Vietnamese support</li>\n<li>Remade the 5 Helvetica.TTCs</li>\n</ul>",
+          "useRawFormat": true
+        }
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
@@ -144,5 +155,5 @@
       ]
     }
   ],
-  "tintColor": "#354263"
+  "tintColor": "#105961"
 }
