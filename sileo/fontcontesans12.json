@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"><strong>100% size. Install 'Conte Sans_85% (iOS10-12)' for normal character size.</strong></p>\n<p style=\"font-size:10pt;\">Compatible with iOS10-12. iOS13 users please download the package marked “iOS10-12”.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\"><strong>100% size. Install 'Conte Sans_85% (iOS10-12)' for normal character size.</strong></p>\n<p style=\"font-size:10pt;\">Compatible with iOS10-12. iOS13 users please download the package marked “iOS13”.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -140,7 +140,7 @@
           "class": "DepictionMarkdownView",
           "markdown": "<ul>\n<li>Fixed “ᴇ” on iOS12.4</li>\n<li>Better Vietnamese support</li>\n<li>Remade the 5 Helvetica.TTCs</li>\n</ul>",
           "useRawFormat": true
-        }
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
