@@ -31,7 +31,7 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{330, 586.492889}",
+          "itemSize": "{360, 640}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
@@ -72,12 +72,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS11.0 - 12.4",
+          "text": "iOS11.0 - 13.3",
           "title": "Compatibility"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "N/A",
+          "text": "MASQKit",
           "title": "Dependency"
         },
         {

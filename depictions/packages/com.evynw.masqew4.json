@@ -3,9 +3,9 @@
 	"package": "com.evynw.masqew4",
 	"author": "Evelyn (ev_ynw)",
 	"version": "1.0",
-	"dependency": "N/A",
+	"dependency": "MASQKit",
 	"minOSVersion": "11.0",
-	"maxOSVersion": "12.4",
+	"maxOSVersion": "13.3",
 	"otheriOS": "untested",
 	"description": "<div>Installed to: /Library/Application Support/MASQ/Themes/Evelyn.bundle/<br><br>Enable via MASQKit (repo: https://ndoizo.ca/)<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {

@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"><strong>85% size. Install 'Bunday Clean' for normal character size</strong></p>\n<p style=\"font-size:10pt;\">Only compatible on iOS13. iOS10-12 users please install the package marked “iOS10-12”.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\"><strong>85% size. Install 'Bunday Clean (iOS13)' for normal character size</strong></p>\n<p style=\"font-size:10pt;\">Only compatible on iOS13. iOS10-12 users please install the package marked “iOS10-12”.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -31,7 +31,7 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{360, 1422}",
+          "itemSize": "{360, 1533}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
@@ -67,7 +67,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0",
+          "text": "1.1",
           "title": "Version"
         },
         {
@@ -130,6 +130,17 @@
       "tabname": "Changelog",
       "tintColor": "#105961",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Remade the variable ttfs for better effect</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",

@@ -6,7 +6,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#a2b9c9",
+      "tintColor": "#a991dc",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -31,7 +31,7 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{330, 586.445781}",
+          "itemSize": "{360, 640}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
@@ -72,12 +72,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS11.0 - 12.4",
+          "text": "iOS11.0 - 13.3",
           "title": "Compatibility"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "N/A",
+          "text": "MASQKit",
           "title": "Dependency"
         },
         {
@@ -128,7 +128,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#a2b9c9",
+      "tintColor": "#a991dc",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -144,5 +144,5 @@
       ]
     }
   ],
-  "tintColor": "#a2b9c9"
+  "tintColor": "#a991dc"
 }

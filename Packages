@@ -464,14 +464,15 @@ Name: Bunday Clean (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontbunday12.json
 
 Package: com.evynw.fontbunday13
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontbunday13_1.0_iphoneos-arm.deb
-Size: 8484750
-MD5sum: 2dc4552758f3c3e96f682dd8110576c6
-SHA1: c6df8a57fb2f45ecc391dd94eac79ac7050f941a
-SHA256: 6d7adc4cafae8bb520905b5b3088e354fa52c9b7c2a956e1f781ba58a91c1dd5
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontbunday13_1.1_iphoneos-arm.deb
+Size: 8285706
+MD5sum: a785bee88b8addd8b210c909736ff90c
+SHA1: 3dce0099fb3bf2e4b0616efee6a8f5a7886b11d3
+SHA256: 5b8a198decf21a43b6a3aa52b6cb019e30953641181cbbbab1d50eab733c0ce2
 Section: Fonts - Theme
 Description: Scriptive Sans (alt ver). 100% size. For iOS13.
 Author: Evelyn (ev_ynw)
@@ -498,14 +499,15 @@ Name: Bunday Clean_85% (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontbunday8512.json
 
 Package: com.evynw.fontbunday8513
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontbunday8513_1.0_iphoneos-arm.deb
-Size: 8900480
-MD5sum: 78c0e5b00594ec64021d59886aff91b8
-SHA1: ce14b8a038bd8eb13837df0e47340bbf9f70ef79
-SHA256: 2c029c5567a332386345ff9a3b2d430e8f0474b9d3c6e8decb3d0346b452a41b
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontbunday8513_1.1_iphoneos-arm.deb
+Size: 8697554
+MD5sum: f0daf8f564d61a076dfc7ea2be7110c2
+SHA1: 9f8a35c7837f8dddeaa8b39ee1e13d88efa67548
+SHA256: b0e4f454c91e1470cc1d4f8fa1dea52152f8c4a93ed378deebcc658ec4120772
 Section: Fonts - Theme
 Description: Scriptive Sans (alt ver). 85% size. For iOS13.
 Author: Evelyn (ev_ynw)
