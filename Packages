@@ -1236,22 +1236,41 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Metro Nova (TM)
 Sileodepiction: https://evynw.github.io/sileo/fontmetronovatm.json
 
-Package: com.evynw.fontmetronova1011
+Package: com.evynw.fontmetronova12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontmetronova1011_1.0_iphoneos-arm.deb
-Size: 16330854
-MD5sum: d40ef288e4217b8250dbca70c1093873
-SHA1: 5cc9084b6880e29e8911dd5085a911ca03c1abee
-SHA256: 549f844712f53dae76812dc940da98dd20696cf66bf866ff2a739e142add5952
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontmetronova12_1.0_iphoneos-arm.deb
+Size: 9717374
+MD5sum: ad0fb782296a9b82933a7415b4f9699a
+SHA1: b8142664fd5f355de8d13a7463ee3811eb98eab0
+SHA256: 8c6e083d8c19d9ba6e8123f1a48b843e678acafc37904f10a98e248b2111bbe5
 Section: Fonts - Theme
-Description: Clean & kinda cute (?) typeface
+Description: Clean & small sans serif. For iOS10-12.
 Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmetronova1011
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmetronova12
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Metro Nova Pro (iOS10/11)
-Sileodepiction: https://evynw.github.io/sileo/fontmetronova1011.json
+Name: Metro Nova Pro (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontmetronova12.json
+
+Package: com.evynw.fontmetronova13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontmetronova13_1.0_iphoneos-arm.deb
+Size: 6789106
+MD5sum: 9ee5cf1c60a1cb4beb3259d37e0804c8
+SHA1: 380cac1c6fab678ee4642ce63a8a2fe0c722c01b
+SHA256: 9b3cae079c09575d12c15045be7b057b635839e96172d6d05fd12cb972b4be34
+Section: Fonts - Theme
+Description: Clean & small sans serif. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmetronova13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Metro Nova Pro (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontmetronova13.json
 
 Package: com.evynw.fontmyriad12
 Version: 1.0
