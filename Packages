@@ -361,6 +361,24 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Brandon Text (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontbrandontext12.json
 
+Package: com.evynw.fontbrandontext13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontbrandontext13_1.0_iphoneos-arm.deb
+Size: 7978584
+MD5sum: ea60c6b0ebe2193e5f47b0dbd319f5d3
+SHA1: 1fb695f722d6ca5bdbacc2e05582c8b822bc2669
+SHA256: 2f4e762671730bc4afe6fb5378a164078edb9161b6d17f4ef463a384a907f967
+Section: Fonts - Theme
+Description: Popular sans serif. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbrandontext13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Brandon Text (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontbrandontext13.json
+
 Package: com.evynw.fontbrandontexttm
 Version: 1.0
 Architecture: iphoneos-arm
