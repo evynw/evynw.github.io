@@ -670,6 +670,74 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Ciutadella Rounded (TM)
 Sileodepiction: https://evynw.github.io/sileo/fontciutadellatm.json
 
+Package: com.evynw.fontcocon12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontcocon12_1.0_iphoneos-arm.deb
+Size: 13066310
+MD5sum: 768afca7374beb37600ba98bff905efd
+SHA1: ef655bacebbe460e8bb7ba19c3c604d8ad94cacc
+SHA256: 901be85bd073dba60a8608bab11bbcee3ed8fb293dfcded53a3df27a7949ef57
+Section: Fonts - Theme
+Description: Fat, round & rather cute. 100% size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcocon12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Cocon Pro (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontcocon12.json
+
+Package: com.evynw.fontcocon13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontcocon13_1.0_iphoneos-arm.deb
+Size: 12137914
+MD5sum: a4c5d86e369ddcddbf7758eda2ccfdbb
+SHA1: aecaede3d4fa513d7d3b8f09489fc7e0bb5103bc
+SHA256: a9d01cd0f2c041a477aa326ad7a1d4c52f15f239cffe9c43a03154bbcbd83de0
+Section: Fonts - Theme
+Description: Rounded & unique sans. 100% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcocon13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Cocon Pro (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontcocon13.json
+
+Package: com.evynw.fontcocon8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontcocon8512_1.0_iphoneos-arm.deb
+Size: 14017992
+MD5sum: 45b71f25f757afcd40c0ed8027bf8f9f
+SHA1: 41685cea8021cd344346bdcf797fc69dc2ffe05a
+SHA256: 076db0eb3fc69a26e8f3bb674caed5d7a72f3f39835dc3f14af4ee079a7d93bc
+Section: Fonts - Theme
+Description: Fat, round & rather cute. 85% size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcocon8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Cocon Pro_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontcocon8512.json
+
+Package: com.evynw.fontcocon8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontcocon8513_1.0_iphoneos-arm.deb
+Size: 12970376
+MD5sum: f62990174ba9f698662fca0cbb03bbb8
+SHA1: 6fb937496d296207f8d21ef4a3db99052069bd62
+SHA256: 328fb0998473c2beb3c5045c3c8bb899f464c986c11d426d00747cebc886effa
+Section: Fonts - Theme
+Description: Rounded & unique sans. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcocon8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Cocon Pro_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontcocon8513.json
+
 Package: com.evynw.fontconfigrounded12
 Version: 1.0
 Architecture: iphoneos-arm

@@ -1,0 +1,22 @@
+{
+	"name": "Cocon Pro_85% (iOS10-12)",
+	"package": "com.evynw.fontcocon8512",
+	"author": "Alex (@Alexman1979)",
+	"version": "1.0",
+	"dependency": "N/A",
+	"minOSVersion": "10.0",
+	"maxOSVersion": "12.4",
+	"otheriOS": "unsupported",
+	"description": "<div><strong>85% size. Install 'Cocon Pro' for normal character size.</strong><br><br>Only compatible on iOS10-12. iOS13 users please install the package marked “iOS13”.</strong><br><br>Installed to: /Library/Themes/[fontname].theme/<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  	"changelog": {
+	    "1.0": [
+	      "Initial release"
+	    ]
+  	},
+	"screenshots": {
+		"ss1.png": "",
+		"ss2.png": "",
+		"ss3.png": ""
+	},
+	"links": {}
+}
