@@ -345,14 +345,14 @@ Name: Bariol (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontbariol12.json
 
 Package: com.evynw.fontbrandontext12
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontbrandontext12_1.1_iphoneos-arm.deb
-Size: 18161416
-MD5sum: ec3bc3f6fd0b2ef4119f858824284911
-SHA1: f8533b0920a9f8ce3c7b0c4201be11efc88bd3cc
-SHA256: 5d0763fe745114b92989ec371a21be234ed3a040dda89c08a32232be4f53f0a6
+Filename: ./debs/com.evynw.fontbrandontext12_1.2_iphoneos-arm.deb
+Size: 15135100
+MD5sum: 4407ecb0b0e03698b227092187f31dbf
+SHA1: 44abeef321051d9302e3a61e0505bdcbade13f32
+SHA256: 9dfdb703c7d524fcbc28ed296dd5efa9653472f62a3f9e43df8d8ea1a206463d
 Section: Fonts - Theme
 Description: Popular sans-serif. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)

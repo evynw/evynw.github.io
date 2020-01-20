@@ -2,13 +2,16 @@
 	"name": "Brandon Text (iOS10-12)",
 	"package": "com.evynw.fontbrandontext12",
 	"author": "Evelyn (ev_ynw)",
-	"version": "1.1",
+	"version": "1.2",
 	"dependency": "N/A",
 	"minOSVersion": "10.0",
 	"maxOSVersion": "12.4",
 	"otheriOS": "unsupported",
 	"description": "<div>Optimised for iOS12. Also downward compatible with iOS10&11.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {
+	    "1.2": [
+	      "Updated Helvetica.TTCs for better Vietnamese support - now stop bugging me please"
+	    ],
 	    "1.1": [
 	      "Fixed “ᴇ” on iOS12.4",
 	      "Better Vietnamese support"
