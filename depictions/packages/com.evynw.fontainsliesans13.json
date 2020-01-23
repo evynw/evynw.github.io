@@ -1,0 +1,20 @@
+{
+  "name": "Ainslie Sans (iOS13)",
+  "package": "com.evynw.fontainsliesans13",
+  "author": "Evelyn (ev_ynw)",
+  "version": "1.0",
+  "dependency": "N/A",
+  "minOSVersion": "13.0",
+  "maxOSVersion": "13.3",
+  "otheriOS": "unsupported",
+  "description": "<div>Only compatible on iOS13. iOS10-12 users please install the package marked “iOS10-12”.<br><br>Warning: Limited Vietnamese support for Helvetica.TTCs<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "changelog": {
+    "1.0": [
+      "Initial release"
+    ]
+  },
+  "screenshots": {
+    "ss.png": ""
+  },
+  "links": {}
+}
