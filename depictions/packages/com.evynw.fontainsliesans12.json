@@ -1,23 +1,26 @@
 {
-	"name": "Ainslie Sans (iOS10-12)",
-	"package": "com.evynw.fontainsliesans12",
-	"author": "Evelyn (ev_ynw)",
-	"version": "1.1",
-	"dependency": "N/A",
-	"minOSVersion": "10.0",
-	"maxOSVersion": "12.4",
-	"otheriOS": "unsupported",
-	"description": "<div>Optimised for iOS12. Downward compatible with iOS10&11 as well. Better Vietnamese support.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
-  	"changelog": {
-	    "1.1": [
-	      "Fixed “ᴇ” on iOS12.4 - <strong>Pre-iOS12.4 users do NOT need to upgrade</strong>"
-	    ],
-	    "1.0": [
-	      "Initial release"
-	    ]
-  	},
-	"screenshots": {
-		"ss.png": ""
-	},
-	"links": {}
+  "name": "Ainslie Sans (iOS10-12)",
+  "package": "com.evynw.fontainsliesans12",
+  "author": "Evelyn (ev_ynw)",
+  "version": "1.2",
+  "dependency": "N/A",
+  "minOSVersion": "10.0",
+  "maxOSVersion": "12.4",
+  "otheriOS": "unsupported",
+  "description": "<div>Optimised for iOS12. Downward compatible with iOS10&11 as well. Better Vietnamese support.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "changelog": {
+    "1.2": [
+      "Better Vietnamese support for Helvetica.TTCs"
+    ],
+    "1.1": [
+      "Fixed “ᴇ” on iOS12.4 - <strong>Pre-iOS12.4 users do NOT need to upgrade</strong>"
+    ],
+    "1.0": [
+      "Initial release"
+    ]
+  },
+  "screenshots": {
+    "ss.png": ""
+  },
+  "links": {}
 }

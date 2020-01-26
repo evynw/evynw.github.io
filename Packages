@@ -192,14 +192,14 @@ Name: EW.WdgtPack.8
 Sileodepiction: https://evynw.github.io/sileo/ewwdgtpack8.json
 
 Package: com.evynw.fontainsliesans12
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontainsliesans12_1.1_iphoneos-arm.deb
-Size: 17076366
-MD5sum: 60c747f104d1bc6561e64c1276ccb3c7
-SHA1: 18337c6a70ab373f32f931eecdae738a5967fa7d
-SHA256: be3e42560de16c2bff42ebea69cea9cde5be63cb3421345a8da3b080f5ada94c
+Filename: ./debs/com.evynw.fontainsliesans12_1.2_iphoneos-arm.deb
+Size: 10174650
+MD5sum: 8b80a5c7caefe04da46d9c30acf1d7c0
+SHA1: 488ea925bbec2b00ef4e71f7b36e9c0f34123084
+SHA256: b26f23ba8db076a3793212c9ddf1b6d602a24ec9471868c382f23251913c3c7f
 Section: Fonts - Theme
 Description: Sans serif slightly rounded. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
@@ -209,15 +209,14 @@ Name: Ainslie Sans (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontainsliesans12.json
 
 Package: com.evynw.fontainsliesans13
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
-Filename: ./debs/com.evynw.fontainsliesans13_1.0_iphoneos-arm.deb
-Size: 11569924
-MD5sum: f7024ed05fdf8453fe4edf3a060ce788
-SHA1: 1dda6090ed7ef3e0205712ae507ff3647d5ec432
-SHA256: 3c25ab7ad96db7831f87c090993b142cc918021395cf3f339092d0f9fa272d19
+Filename: ./debs/com.evynw.fontainsliesans13_1.1_iphoneos-arm.deb
+Size: 7543690
+MD5sum: 99ad75009bf3d015e69216ce0a6d2b39
+SHA1: 9ffbe39d87e37799408b7dca438c3f84734489bf
+SHA256: 1121b0a6111b534543fc62d98b9635736841bcb4339c30c37f46a319d28d0900
 Section: Fonts - Theme
 Description: Sans serif slightly rounded. For iOS13.
 Author: Evelyn (ev_ynw)

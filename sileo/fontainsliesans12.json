@@ -67,7 +67,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1",
+          "text": "1.2",
           "title": "Version"
         },
         {
@@ -130,6 +130,17 @@
       "tabname": "Changelog",
       "tintColor": "#105961",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.2",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Better Vietnamese support for Helvetica.TTCs</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.1",
