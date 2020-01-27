@@ -1289,21 +1289,38 @@ Name: Interval Sans (TM)
 Sileodepiction: https://evynw.github.io/sileo/fontintervalsanstm.json
 
 Package: com.evynw.fontkomet12
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontkomet12_1.0_iphoneos-arm.deb
-Size: 10184494
-MD5sum: 172438598848eebcab58fb18c58cce1f
-SHA1: df66e0ed3b934331d5636e5f4245c2e6c387f6d8
-SHA256: a258f91b599f69b72dc3547b1a8a1aa4c68537f3652833bc293ce9ca724d98d2
+Filename: ./debs/com.evynw.fontkomet12_1.1_iphoneos-arm.deb
+Size: 11695142
+MD5sum: 70686f566174429835fcd59c2d6b6307
+SHA1: 44da3290e342639783a829f8d3d3a0e90b97335c
+SHA256: 962f48e9382b002412b3da08eddef472294eef11bf8b24f700ca40b027ab877f
 Section: Fonts - Theme
-Description: Script-ish sans serif. Compatible with iOS10-12.
+Description: Script-ish sans serif. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontkomet12
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Komet (iOS10-12)
+Name: Komet Pro (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontkomet12.json
+
+Package: com.evynw.fontkomet13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontkomet13_1.0_iphoneos-arm.deb
+Size: 8539834
+MD5sum: d17137bbadcd8b833fcb500767095bb0
+SHA1: fdc0fc5a62078dac4904ee1be4d96cef2cb11f38
+SHA256: f2e14edde3505cec65a8073492331ed29ca6af014043f256082b8c12cfbce19c
+Section: Fonts - Theme
+Description: Script-ish sans serif. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontkomet13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Komet Pro (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontkomet13.json
 
 Package: com.evynw.fontmetrisch1011
 Version: 1.0
