@@ -1,0 +1,20 @@
+{
+  "name": "Pixeled (Keypad)",
+  "package": "com.evynw.keypadpixeled",
+  "author": "Evelyn (ev_ynw)",
+  "version": "1.0",
+  "dependency": "N/A",
+  "minOSVersion": "12.0",
+  "maxOSVersion": "13.3",
+  "otheriOS": "untested",
+  "description": "<div>Only applies on the lockscreen passcode keypad<br><br>Images are installed to /var/mobile/Library/Caches/TelephonyUI-7<br><br>Install/Reinstall every time you want to apply this theme. Removing this package will automatically remove the relevant caches files. Your keypad will revert to your stock/applied font.<br><br><strong>Need help?</strong> Link to tutorials on my blog: evelynynw.wordpress.com/</div>",
+  "changelog": {
+    "1.0": [
+      "Initial release"
+    ]
+  },
+  "screenshots": {
+    "ss.png": ""
+  },
+  "links": {}
+}

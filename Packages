@@ -1734,6 +1734,57 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Vito (TM)
 Sileodepiction: https://evynw.github.io/sileo/fontvitotm.json
 
+Package: com.evynw.keypaddigital
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.keypaddigital_1.0_iphoneos-arm.deb
+Size: 31014
+MD5sum: 2e9f0908f93018b230ad762410487fdd
+SHA1: 52ed7fbed61dfd61a660b4bc448f5e9b21b1b622
+SHA256: 93ef8bf9d80d8f93be7ecba87de1954645ccd4ebed4122d844c883d9572c33d7
+Section: Others
+Description: Digital font on passcode keypad
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.keypaddigital
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: Digital (Keypad)
+Sileodepiction: https://evynw.github.io/sileo/keypaddigital.json
+
+Package: com.evynw.keypadgallifreyan
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.keypadgallifreyan_1.0_iphoneos-arm.deb
+Size: 170436
+MD5sum: 6a17aab6fbcb68bdfa0d42bf53ece57b
+SHA1: 575af4c421abeb4ddeb49425a10db1e466a6b355
+SHA256: 7462aec46d9b751cb6f5eabf592e322500cf61a72cac81a607b3cc7373f38af1
+Section: Others
+Description: Gallifreyan Keypad revived!
+Author: Puka1701
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.keypadgallifreyan
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: Gallifreyan (Keypad)
+Sileodepiction: https://evynw.github.io/sileo/keypadgallifreyan.json
+
+Package: com.evynw.keypadpixeled
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.keypadpixeled_1.0_iphoneos-arm.deb
+Size: 30356
+MD5sum: 25c30fc28145404af4b4c66e754c3bea
+SHA1: fbeb3bcddb5b60ab48536dbd5a4b5b1b6c8b8dfe
+SHA256: c836f803ddc2ad111aa30c6709cecda7456feef561190840e25c55a9c3e3df87
+Section: Others
+Description: Pixeled font on passcode keypad
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.keypadpixeled
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: Pixeled (Keypad)
+Sileodepiction: https://evynw.github.io/sileo/keypadpixeled.json
+
 Package: com.evynw.lse211
 Version: 1.0
 Architecture: iphoneos-arm
