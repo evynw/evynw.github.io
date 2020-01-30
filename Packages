@@ -1734,56 +1734,107 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Vito (TM)
 Sileodepiction: https://evynw.github.io/sileo/fontvitotm.json
 
-Package: com.evynw.keypaddigital
+Package: com.evynw.keypaddigital2x
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.keypaddigital_1.0_iphoneos-arm.deb
-Size: 31014
-MD5sum: 2e9f0908f93018b230ad762410487fdd
-SHA1: 52ed7fbed61dfd61a660b4bc448f5e9b21b1b622
-SHA256: 93ef8bf9d80d8f93be7ecba87de1954645ccd4ebed4122d844c883d9572c33d7
+Filename: ./debs/com.evynw.keypaddigital2x_1.0_iphoneos-arm.deb
+Size: 21182
+MD5sum: 4f55daa57a68cd12036e56f0dc902612
+SHA1: 00889603bba3e5d101565377cced4b8b25aacd8f
+SHA256: 90b21757e20e97e9071695663354dfc29420dcf0dc1c30ff7cfcdd2fbc7bd85c
 Section: Others
 Description: Digital font on passcode keypad
 Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.keypaddigital
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.keypaddigital2x
 Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
-Name: Digital (Keypad)
-Sileodepiction: https://evynw.github.io/sileo/keypaddigital.json
+Name: Digital (Keypad for 2x)
+Sileodepiction: https://evynw.github.io/sileo/keypaddigital2x.json
 
-Package: com.evynw.keypadgallifreyan
+Package: com.evynw.keypaddigital3x
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.keypadgallifreyan_1.0_iphoneos-arm.deb
-Size: 170436
-MD5sum: 6a17aab6fbcb68bdfa0d42bf53ece57b
-SHA1: 575af4c421abeb4ddeb49425a10db1e466a6b355
-SHA256: 7462aec46d9b751cb6f5eabf592e322500cf61a72cac81a607b3cc7373f38af1
+Filename: ./debs/com.evynw.keypaddigital3x_1.0_iphoneos-arm.deb
+Size: 31022
+MD5sum: cf6c81e4c3d67804215c7523d2d3978e
+SHA1: 058c808938e898f5c4b05d3b1d40f454c8a76be9
+SHA256: 27cfc2cc78c5c9cc63f37915be33abb6898802962c9edc2600780b5ebbffc5c7
+Section: Others
+Description: Digital font on passcode keypad
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.keypaddigital3x
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: Digital (Keypad for 3x)
+Sileodepiction: https://evynw.github.io/sileo/keypaddigital3x.json
+
+Package: com.evynw.keypadgallifreyan2x
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.keypadgallifreyan2x_1.0_iphoneos-arm.deb
+Size: 95412
+MD5sum: 1189474e394c6ba1a08c469f1bedeaf9
+SHA1: 5d6955141fdeaa4508a6635c4cf5f2369171d2a5
+SHA256: 4b5aa9ee716f27db957a8cf1d99cada5098f1e0c34f3743742b6c1a4433c226c
 Section: Others
 Description: Gallifreyan Keypad revived!
 Author: Puka1701
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.keypadgallifreyan
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.keypadgallifreyan2x
 Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
-Name: Gallifreyan (Keypad)
-Sileodepiction: https://evynw.github.io/sileo/keypadgallifreyan.json
+Name: Gallifreyan (Keypad for 2x)
+Sileodepiction: https://evynw.github.io/sileo/keypadgallifreyan2x.json
 
-Package: com.evynw.keypadpixeled
+Package: com.evynw.keypadgallifreyan3x
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.keypadgallifreyan3x_1.0-1_iphoneos-arm.deb
+Size: 186560
+MD5sum: b329ddaab16390acff8bc035439a070a
+SHA1: 8e294b49a007bfe20ba92e434367c8bd6d3282a0
+SHA256: 68faf3543d15649abb25a19fe19cc174be8b5705233e7597d1b60515b8635899
+Section: Others
+Description: Gallifreyan Keypad revived!
+Author: Puka1701
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.keypadgallifreyan3x
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: Gallifreyan (Keypad for 3x)
+Sileodepiction: https://evynw.github.io/sileo/keypadgallifreyan3x.json
+
+Package: com.evynw.keypadpixeled2x
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.keypadpixeled_1.0_iphoneos-arm.deb
-Size: 30356
-MD5sum: 25c30fc28145404af4b4c66e754c3bea
-SHA1: fbeb3bcddb5b60ab48536dbd5a4b5b1b6c8b8dfe
-SHA256: c836f803ddc2ad111aa30c6709cecda7456feef561190840e25c55a9c3e3df87
+Filename: ./debs/com.evynw.keypadpixeled2x_1.0_iphoneos-arm.deb
+Size: 12000
+MD5sum: 10bf05974e342094c5793366fb541f1c
+SHA1: a672ce3901c3e8d95516035d9373ef58fed2614a
+SHA256: 4367b2e68a10b1c365f97528ebf6d501812412543cbe54dfa947b5bcc8462476
 Section: Others
 Description: Pixeled font on passcode keypad
 Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.keypadpixeled
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.keypadpixeled2x
 Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
-Name: Pixeled (Keypad)
-Sileodepiction: https://evynw.github.io/sileo/keypadpixeled.json
+Name: Pixeled (Keypad for 2x)
+Sileodepiction: https://evynw.github.io/sileo/keypadpixeled2x.json
+
+Package: com.evynw.keypadpixeled3x
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.keypadpixeled3x_1.0_iphoneos-arm.deb
+Size: 30368
+MD5sum: bd009d5490f2f642fbd5120d2da93b61
+SHA1: f5639c68b01d93f6f820af57cd499e847d98101c
+SHA256: 153fa76ba40cc96a1113220ed3216ba5b25afda6b3c021b2b2a1f979fcaf6204
+Section: Others
+Description: Pixeled font on passcode keypad
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.keypadpixeled3x
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: Pixeled (Keypad for 3x)
+Sileodepiction: https://evynw.github.io/sileo/keypadpixeled3x.json
 
 Package: com.evynw.lse211
 Version: 1.0
