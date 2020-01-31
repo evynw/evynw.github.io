@@ -6,7 +6,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#a2cc9f",
+      "tintColor": "#33a351",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"><strong>Normal size. Install 'Google Sans_85%' for smaller character size</strong></p>\n<p style=\"font-size:10pt;\">Optimised for iOS12. Also downward compatible with iOS10&11.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\"><strong>Normal size. Install 'Google Sans_85%' for smaller character size</strong></p>\n<p style=\"font-size:10pt;\">Only compatible on iOS10-12. iOS13 users please install the package marked “iOS13”.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -128,7 +128,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#a2cc9f",
+      "tintColor": "#33a351",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -144,5 +144,5 @@
       ]
     }
   ],
-  "tintColor": "#a2cc9f"
+  "tintColor": "#33a351"
 }

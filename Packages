@@ -361,6 +361,74 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Bariol (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontbariol12.json
 
+Package: com.evynw.fontbauhaus12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontbauhaus12_1.0_iphoneos-arm.deb
+Size: 23299812
+MD5sum: 30d787b595021688436508848308589f
+SHA1: 8f6f0a78b55f67433762886cb24fb883bde3ceb9
+SHA256: 0012ad0f19575be85dc92859531adb0a0911077b7e17ae9f76ef3fe2dbdb229a
+Section: Fonts - Theme
+Description: Throwback to the early days. 100% size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbauhaus12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bauhaus (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontbauhaus12.json
+
+Package: com.evynw.fontbauhaus13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontbauhaus13_1.0_iphoneos-arm.deb
+Size: 20152614
+MD5sum: cda7041891533e460cc0875b42a0b60d
+SHA1: 70a50920ee45e072c893bf897a656f8081832375
+SHA256: 1fa927d607011bd117770a2e172b6a66763c9a3b2f94bb58a1937ba152964640
+Section: Fonts - Theme
+Description: Throwback to the early days. 100% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbauhaus13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bauhaus (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontbauhaus13.json
+
+Package: com.evynw.fontbauhaus8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontbauhaus8512_1.0_iphoneos-arm.deb
+Size: 24426178
+MD5sum: b67e389ade8e566d25f8abb8fa5a4bf6
+SHA1: 87b6759da3c56b483def653261ac26296231aa10
+SHA256: 0cdf69a0ffc72717572bdebeaf605acd755e3bd42fa1ccf852148a123b6d2348
+Section: Fonts - Theme
+Description: Throwback to the early days. 85% size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbauhaus8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bauhaus_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontbauhaus8512.json
+
+Package: com.evynw.fontbauhaus8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontbauhaus8513_1.0_iphoneos-arm.deb
+Size: 21136962
+MD5sum: 470c8c75d1fd55646e33ee4ae432a809
+SHA1: fbf12398e56cedafb042332369bbac393b2da55a
+SHA256: ab2e2a02b836722628ee496178a051769214689670c5757f03bb6e1e21433c07
+Section: Fonts - Theme
+Description: Throwback to the early days. 85% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbauhaus8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bauhaus_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontbauhaus8513.json
+
 Package: com.evynw.fontbrandontext12
 Version: 1.2
 Architecture: iphoneos-arm
@@ -1220,6 +1288,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Google Sans (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontgooglesans12.json
 
+Package: com.evynw.fontgooglesans13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontgooglesans13_1.0_iphoneos-arm.deb
+Size: 13395232
+MD5sum: 92a4843323be0436b2b0fe407c6efe62
+SHA1: ef95ef919d1b682bacc50dda1d50ad736552b499
+SHA256: e3e061eadf729151c35318ce150fdbe63429ffa6e6f78f3e01d886c515c5a143
+Section: Fonts - Theme
+Description: Add more Android-ness to your iDevice. 100% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgooglesans13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Google Sans (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontgooglesans13.json
+
 Package: com.evynw.fontgooglesans8512
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1236,6 +1321,23 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgooglesans8512
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Google Sans_85% (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontgooglesans8512.json
+
+Package: com.evynw.fontgooglesans8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontgooglesans8513_1.0_iphoneos-arm.deb
+Size: 14197638
+MD5sum: d7a5226c21963bd60b67346ed3da65ba
+SHA1: 7c7e635c13228d848a683944424e97f43ad8e7af
+SHA256: 19bc58aa98e3b31091f8a1be0e49bc88350d03e7351eccbb7b68e8c221cb3467
+Section: Fonts - Theme
+Description: Add more Android-ness to your iDevice. 85% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgooglesans8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Google Sans_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontgooglesans8513.json
 
 Package: com.evynw.fontibmplexsans12
 Version: 1.0
