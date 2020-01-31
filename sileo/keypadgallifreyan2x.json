@@ -6,7 +6,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#b1c8d1",
+      "tintColor": "#2a6972",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -72,7 +72,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS12.1 - 13.3",
+          "text": "iOS12.1 - 13.2.3",
           "title": "Compatibility"
         },
         {
@@ -128,7 +128,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#b1c8d1",
+      "tintColor": "#2a6972",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -144,5 +144,5 @@
       ]
     }
   ],
-  "tintColor": "#b1c8d1"
+  "tintColor": "#2a6972"
 }
