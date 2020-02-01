@@ -1066,21 +1066,72 @@ Name: Estandar (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontestandar12.json
 
 Package: com.evynw.fontexo12
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontexo12_1.0_iphoneos-arm.deb
-Size: 9375082
-MD5sum: 5d7186d9a2a5acdefcbd44dcf12e85a2
-SHA1: 9d5fcf6c41e4282cc2d5bd0e00e4d8c71b611837
-SHA256: 7b8a4d92e9479795f455776511ced6939596c96f9525fb9482228f77c3472bf4
+Filename: ./debs/com.evynw.fontexo12_1.1_iphoneos-arm.deb
+Size: 13472372
+MD5sum: 7fffb025c2c3b03d2e43a094fe0f30cb
+SHA1: c4bad58b0d7401b809cb9b8a197c90405c416b8c
+SHA256: a3d70e3550cef6deb0ee0976450c142b7f69e36355559a0eed14386036615df5
 Section: Fonts - Theme
-Description: One of the oldest fonts on Bytafont era. For iOS10-12.
+Description: One of the oldest fonts in BytaFont era. 100% size. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontexo12
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Exo (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontexo12.json
+
+Package: com.evynw.fontexo13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontexo13_1.0_iphoneos-arm.deb
+Size: 11366716
+MD5sum: de30463d8932890f8f8ac2449ffac5ae
+SHA1: 1ab86620da28116e437c2903655c5dce393a5814
+SHA256: b7df52cc62888cb4b0703440a9f21832b8ce16515d66c8bd74d86e24cbe47085
+Section: Fonts - Theme
+Description: One of the oldest fonts in BytaFont era. 100% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontexo13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Exo (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontexo13.json
+
+Package: com.evynw.fontexo8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontexo8512_1.0_iphoneos-arm.deb
+Size: 14185724
+MD5sum: fab3501a775a5ba3f70df5ab9b8b17f8
+SHA1: dc8d205220c6c7c595fdb5bc6a1e019b3f08da2d
+SHA256: 70e10d6190429ca204003ee94bc6806ce2c7122342dae201d3db1c59e9e168ca
+Section: Fonts - Theme
+Description: One of the oldest fonts in BytaFont era. 85% size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontexo8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Exo_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontexo8512.json
+
+Package: com.evynw.fontexo8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontexo8513_1.0_iphoneos-arm.deb
+Size: 11991244
+MD5sum: 2ec99e03a1aef40ef04673820ad20c90
+SHA1: b49e182751dae9d96bf9ba87fb7cda3c99e355cd
+SHA256: 8487f3e79e37841d16ec91498e050b1db808f9520bf7e87d0a07559d65975029
+Section: Fonts - Theme
+Description: One of the oldest fonts in BytaFont era. 85% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontexo8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Exo_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontexo8513.json
 
 Package: com.evynw.fontffmark12
 Version: 1.0
