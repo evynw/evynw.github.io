@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"><strong>Normal size. Install 'Exo_85%' for smaller character size.</strong></p>\n<p style=\"font-size:10pt;\">Only compatible on iOS10-12. iOS13 users please install the package marked “iOS13”.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\"><strong>Normal size. Install 'Exo_85%' for smaller character size.</strong></p>\n<p style=\"font-size:10pt;\">Only compatible on iOS13. iOS10-12 users please install the package marked “iOS10-12”.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -71,7 +71,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1",
+          "text": "1.0",
           "title": "Version"
         },
         {
@@ -134,17 +134,6 @@
       "tabname": "Changelog",
       "tintColor": "#00a4d9",
       "views": [
-        {
-          "class": "DepictionSubheaderView",
-          "title": "1.1",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Updated for iOS12.4</li>\n<li>Better Vietnamese support</li>\n<li>Added support for Jellyfish & News.app</li>\n</ul>",
-          "useRawFormat": true
-        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
