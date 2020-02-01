@@ -1031,6 +1031,24 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Dubai (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontdubai12.json
 
+Package: com.evynw.fontdubai13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontdubai13_1.0_iphoneos-arm.deb
+Size: 6897698
+MD5sum: 80f1e27827d60f002bfc590e1361ac67
+SHA1: 30354eefd2e5831bdb7d4d6abcc5b07f006d5009
+SHA256: 069c0812d36d9ca54c87d9bcf198193092547623496003b14ff2683bd0e72249
+Section: Fonts - Theme
+Description: Well-known Microsoft font. 100% size. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontdubai13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Dubai (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontdubai13.json
+
 Package: com.evynw.fontdubai8512
 Version: 1.1
 Architecture: iphoneos-arm
@@ -1047,6 +1065,24 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontdubai8512
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Dubai_85% (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontdubai8512.json
+
+Package: com.evynw.fontdubai8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontdubai8513_1.0_iphoneos-arm.deb
+Size: 7366468
+MD5sum: 3b98b880c041e10a3bf653241210a5d3
+SHA1: f14d8d6d1939e4ac6abfbb92b565c06d0e64630b
+SHA256: ca2bc2a3820b6e7bdc58a95615188ca64d65fe61a89e79738c6e061257359e48
+Section: Fonts - Theme
+Description: Well-known Microsoft font. 85% size. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontdubai8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Dubai_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontdubai8513.json
 
 Package: com.evynw.fontestandar12
 Version: 1.0
