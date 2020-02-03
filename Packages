@@ -1271,6 +1271,40 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Gimbal Grotesque (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontgimbal12.json
 
+Package: com.evynw.fontgineso13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontgineso13_1.0_iphoneos-arm.deb
+Size: 12890062
+MD5sum: 79c48ce18b63a70bcf735f506a8bf7e0
+SHA1: 69e61425b7e0d265f78d952beedda30dc17beacc
+SHA256: 05ec64fa0fcc226157509073a7da13fa354d1e1d38152374fc6d191f54773203
+Section: Fonts - Theme
+Description: Tall & grotesque sans serif. 100% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgineso13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Gineso (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontgineso13.json
+
+Package: com.evynw.fontgineso8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontgineso8513_1.0_iphoneos-arm.deb
+Size: 13568620
+MD5sum: 173370d325bdd29dca98a08add09727f
+SHA1: 33c113020122f34f2b49901d286ef6a479ea223d
+SHA256: 1d00bcc6d98d2bc7b3ceeab1a3e88e4485ab4eb5dd2d18d147a93f4b4d5bb8ab
+Section: Fonts - Theme
+Description: Tall & grotesque sans serif. 85% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgineso8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Gineso_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontgineso8513.json
+
 Package: com.evynw.fontginesoext12
 Version: 1.1
 Architecture: iphoneos-arm
