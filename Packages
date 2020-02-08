@@ -196,11 +196,11 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontainsliesans12_1.2_iphoneos-arm.deb
-Size: 10174650
-MD5sum: 8b80a5c7caefe04da46d9c30acf1d7c0
-SHA1: 488ea925bbec2b00ef4e71f7b36e9c0f34123084
-SHA256: b26f23ba8db076a3793212c9ddf1b6d602a24ec9471868c382f23251913c3c7f
-Section: Fonts - Theme
+Size: 10174630
+MD5sum: 939befdec66dfbdf590a0cd18c72a747
+SHA1: 023a04c5bf2dc48924b00f42f6535a5ffa6fdfbe
+SHA256: 6ce25b1a0836a9aca20bdcd9aeefdacc3f96c94ac69b1776efd5bf71443c7137
+Section: Fonts (iOS10-12)
 Description: Sans serif slightly rounded. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontainsliesans12
@@ -213,11 +213,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontainsliesans13_1.1_iphoneos-arm.deb
-Size: 7543690
-MD5sum: 99ad75009bf3d015e69216ce0a6d2b39
-SHA1: 9ffbe39d87e37799408b7dca438c3f84734489bf
-SHA256: 1121b0a6111b534543fc62d98b9635736841bcb4339c30c37f46a319d28d0900
-Section: Fonts - Theme
+Size: 7543702
+MD5sum: 08e6bf98a2ff1034ba8c0cc0dc285bba
+SHA1: bdaa42ec75193dcb4b13fa440a85f20bf88fdf0c
+SHA256: 09fdce64a264ce96688f953e06b4287038c75616654309172eaea6e63472c6d6
+Section: Fonts (iOS13)
 Description: Sans serif slightly rounded. For iOS13.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontainsliesans13
@@ -231,10 +231,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontalegreyasans12_1.0_iphoneos-arm.deb
 Size: 8292570
-MD5sum: bf07a2570562a65fa32416d807231ad3
-SHA1: e8b707aceaab95c82ee8efca0017cba1dd3fa850
-SHA256: 01625a72573c6fa02da4a59bef4697b4567e3fcd233c662c990930d1ca65741f
-Section: Fonts - Theme
+MD5sum: 6dacdb4d434c6d04514e6ec585bc4dd2
+SHA1: a1b82c742a059df629a3cee3c7ba00ef0e8aea85
+SHA256: 5ccb87cc096b92788324940e915e3d6f257578fb6ee62599e932f6b6f8dc72b7
+Section: Fonts (iOS10-12)
 Description: Clean & small sans-serif typeface. Single weight.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalegreyasans12
@@ -242,33 +242,16 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Alegreya Sans (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontalegreyasans12.json
 
-Package: com.evynw.fontalegreyasanstm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontalegreyasanstm_1.0_iphoneos-arm.deb
-Size: 1686382
-MD5sum: 47f6f0bcc83be2bcb43cd897364cfcf9
-SHA1: 387040203d3af306af5e012ce40081fed3f085b8
-SHA256: a0dbd7c13528150ebeb1bda3a05f8061cb0bc1db52910747d9082b1053e512a8
-Section: Fonts - Tweak Mode
-Description: Small script-like sans. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalegreyasanstm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Alegreya Sans (TM)
-Sileodepiction: https://evynw.github.io/sileo/fontalegreyasanstm.json
-
 Package: com.evynw.fontalrightsans12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontalrightsans12_1.0_iphoneos-arm.deb
-Size: 17069144
-MD5sum: 85d0a66452ef262082f28a700f952ad2
-SHA1: 340a2656402d309e6dad2665c6ea687670c4a27b
-SHA256: 6b11219f3454b8b467eb4a25d3f00644df6364886256bb33f9f1dc39a2a8a3a3
-Section: Fonts - Theme
+Size: 17069146
+MD5sum: f5e71306f0c1da121884734b1565b80a
+SHA1: c5205c113507e025d3d411c0f3c3ae5ab4a54d1f
+SHA256: 0d0ea6d9cc5a7bc360c13901933bcd4ddaa3341131e4c5b606a8ca83a60c01fc
+Section: Fonts (iOS10-12)
 Description: Sans serif font. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalrightsans12
@@ -276,33 +259,16 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Alright Sans (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontalrightsans12.json
 
-Package: com.evynw.fontalrightsanstm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontalrightsanstm_1.0_iphoneos-arm.deb
-Size: 1714868
-MD5sum: 48787ae1cb9352d86f5856af2bad8b9a
-SHA1: 3d62b7a56638fc61695a368a49ac8e7c1ccb7c7c
-SHA256: 19fe67df0069d984d58d353613895508493655782416c3738bee227137fa4115
-Section: Fonts - Tweak Mode
-Description: Clean sans-serif typeface. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontalrightsanstm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Alright Sans (TM)
-Sileodepiction: https://evynw.github.io/sileo/fontalrightsanstm.json
-
 Package: com.evynw.fontasterisk12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontasterisk12_1.0_iphoneos-arm.deb
-Size: 16969948
-MD5sum: 15e5baab15851e98fd1d06d204664097
-SHA1: adae1864626012243c56b730eb1eaf15a85d2701
-SHA256: 6cfa1a7bba822b73120bdc4c0cff6620bca54d722ad918892796d47aa2d8f73d
-Section: Fonts - Theme
+Size: 16969936
+MD5sum: 01e66de7d290e6ef9d20d260bcc58869
+SHA1: daff9badb2f892e6ef263d53084a89a6b8cb0ba4
+SHA256: a06770281d6ff008b27b371a1e426932f94d1382ef30259947b4b4581f647640
+Section: Fonts (iOS10-12)
 Description: Clean & thin sans-serif for iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontasterisk12
@@ -310,33 +276,16 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Asterisk Sans (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontasterisk12.json
 
-Package: com.evynw.fontasterisktm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontasterisktm_1.0_iphoneos-arm.deb
-Size: 1619454
-MD5sum: 21a85012d3fa408105aeaf6d3268fa5d
-SHA1: 9adcda696b19e2d0daba2e6cf2669c7e3ce1feaa
-SHA256: 6e7a051b93e047c20b36778d126e16736618abf29955dfd895fb558a89857cf0
-Section: Fonts - Tweak Mode
-Description: Clean & thin sans-serif typeface. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontasterisktm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Asterisk Sans (TM)
-Sileodepiction: https://evynw.github.io/sileo/fontasterisktm.json
-
 Package: com.evynw.fontavenir12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontavenir12_1.0_iphoneos-arm.deb
-Size: 17949762
-MD5sum: 9f1902094082a79b6a4a0d828b4596c4
-SHA1: f1e291136f963bf2c26691e7724ad06646a7105d
-SHA256: df86f0b1e6cdc3f3aa87a92769dcccd461f098aec57c3e8ca171e4d748646ab8
-Section: Fonts - Theme
+Size: 17949756
+MD5sum: c55b182a5c91a429cd9e6f7d86e8cbfd
+SHA1: 9a57b8daa535a6f83784a9ea1e00160cca56f9a8
+SHA256: 435f5d0aeee836bc517ddeb31a60ed1bc9d0f7e81efcda41d0c829de474c933d
+Section: Fonts (iOS10-12)
 Description: Classic sans-serif. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontavenir12
@@ -349,11 +298,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontbariol12_1.0_iphoneos-arm.deb
-Size: 10358448
-MD5sum: 7e1ae67717e28d2b880b5116c5eb42bc
-SHA1: dc6edbfe607f41ce9dc99c1a7468a73a02922f23
-SHA256: fcc8d728e9cc337323d77cda7fea610eae6069aebe0fbbcfc88da3777db1c6fe
-Section: Fonts - Theme
+Size: 10358442
+MD5sum: 6feaa6d0f50cbf33be78ff2a203385d3
+SHA1: 392e6145a95211a8a214ea16c547f68c1aed2c67
+SHA256: 8a546b8b0032e64d5ce38e603f4addb762135599a1b3dba4254b878e78c24fee
+Section: Fonts (iOS10-12)
 Description: Classic iOS ported rounded font. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbariol12
@@ -366,11 +315,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontbauhaus12_1.0_iphoneos-arm.deb
-Size: 23299812
-MD5sum: 30d787b595021688436508848308589f
-SHA1: 8f6f0a78b55f67433762886cb24fb883bde3ceb9
-SHA256: 0012ad0f19575be85dc92859531adb0a0911077b7e17ae9f76ef3fe2dbdb229a
-Section: Fonts - Theme
+Size: 23299802
+MD5sum: acf60feada880e600962a3ed194286b5
+SHA1: beca6b6f41935c99efdaeefdf06ec018307092f8
+SHA256: 8c720257ed6aceef041b6700559229d6041f408078c09e8f2b48093d0ac07343
+Section: Fonts (iOS10-12)
 Description: Throwback to the early days. 100% size. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbauhaus12
@@ -383,11 +332,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontbauhaus13_1.0_iphoneos-arm.deb
-Size: 20152614
-MD5sum: cda7041891533e460cc0875b42a0b60d
-SHA1: 70a50920ee45e072c893bf897a656f8081832375
-SHA256: 1fa927d607011bd117770a2e172b6a66763c9a3b2f94bb58a1937ba152964640
-Section: Fonts - Theme
+Size: 20152604
+MD5sum: 88d9f3a1d6e2a699ba8bef40fae3929a
+SHA1: fdca2d0a0097c62d62829faf2ee417034941dde8
+SHA256: ce49f6391f26f6251229318d8de13be16590c5b646cb99f424e3fcc36ca98f85
+Section: Fonts (iOS13)
 Description: Throwback to the early days. 100% size. For iOS13.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbauhaus13
@@ -400,11 +349,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontbauhaus8512_1.0_iphoneos-arm.deb
-Size: 24426178
-MD5sum: b67e389ade8e566d25f8abb8fa5a4bf6
-SHA1: 87b6759da3c56b483def653261ac26296231aa10
-SHA256: 0cdf69a0ffc72717572bdebeaf605acd755e3bd42fa1ccf852148a123b6d2348
-Section: Fonts - Theme
+Size: 24426152
+MD5sum: d2cfe446174c04cb4d3b8613b16b6208
+SHA1: c0570ccb78ee95df4c9f85ec1d865a8d15012db5
+SHA256: a8316da299dcdde03a588b4e1a7836f814da5eb08d26916fe5ffb13e20020413
+Section: Fonts (iOS10-12)
 Description: Throwback to the early days. 85% size. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbauhaus8512
@@ -417,11 +366,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontbauhaus8513_1.0_iphoneos-arm.deb
-Size: 21136962
-MD5sum: 470c8c75d1fd55646e33ee4ae432a809
-SHA1: fbf12398e56cedafb042332369bbac393b2da55a
-SHA256: ab2e2a02b836722628ee496178a051769214689670c5757f03bb6e1e21433c07
-Section: Fonts - Theme
+Size: 21136942
+MD5sum: 1c7353d5db3514da71f3bd5fe1822823
+SHA1: f446b70a59fde0e358ba639f45cf3383e482ec6b
+SHA256: eb8f11b8a8f67cf72e7d9cb760b3e4243d55efc9f07e884574a54ab4972bc6f4
+Section: Fonts (iOS13)
 Description: Throwback to the early days. 85% size. For iOS13.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbauhaus8513
@@ -434,11 +383,11 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontbrandontext12_1.2_iphoneos-arm.deb
-Size: 15135100
-MD5sum: 4407ecb0b0e03698b227092187f31dbf
-SHA1: 44abeef321051d9302e3a61e0505bdcbade13f32
-SHA256: 9dfdb703c7d524fcbc28ed296dd5efa9653472f62a3f9e43df8d8ea1a206463d
-Section: Fonts - Theme
+Size: 15135110
+MD5sum: 01c96f8dc907cda0ee001bf41eaa72d6
+SHA1: 37d8989416bd03301da35ea819126347ef1bfeef
+SHA256: bca34c3c5ebaf02611366c8b5f7fc5ee3142884973370bdb086c965d2860676b
+Section: Fonts (iOS10-12)
 Description: Popular sans-serif. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbrandontext12
@@ -450,13 +399,12 @@ Package: com.evynw.fontbrandontext13
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontbrandontext13_1.0_iphoneos-arm.deb
-Size: 7978584
-MD5sum: ea60c6b0ebe2193e5f47b0dbd319f5d3
-SHA1: 1fb695f722d6ca5bdbacc2e05582c8b822bc2669
-SHA256: 2f4e762671730bc4afe6fb5378a164078edb9161b6d17f4ef463a384a907f967
-Section: Fonts - Theme
+Size: 7978544
+MD5sum: 9d74e1659ce67d6d18e3c2bb9e939cfd
+SHA1: 0ba12951649210573aa421592ab5ee89db5bd535
+SHA256: 301400d3b422d06b8c8683b85149c404a91bf93ba4eaf8451e255811c3f5b56a
+Section: Fonts (iOS13)
 Description: Popular sans serif. For iOS13.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbrandontext13
@@ -464,33 +412,16 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Brandon Text (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontbrandontext13.json
 
-Package: com.evynw.fontbrandontexttm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontbrandontexttm_1.0_iphoneos-arm.deb
-Size: 1757402
-MD5sum: 4e79d879cdccde22ab4ad71f67f0d790
-SHA1: 456efa5cf3b9069772d223a7d4c4f910de1b2b8c
-SHA256: a23a6393801961eaf50cd3500a19573910addcaada37f0c2b6aa270ebb10ea5d
-Section: Fonts - Tweak Mode
-Description: Clean sans-serif typeface. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbrandontexttm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Brandon Text (TM)
-Sileodepiction: https://evynw.github.io/sileo/fontbrandontexttm.json
-
 Package: com.evynw.fontbrokman12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontbrokman12_1.0_iphoneos-arm.deb
-Size: 8411796
-MD5sum: 13a0339900eed5e63c94a342a8b11d75
-SHA1: ac867c1a0b31bd175c1eefa465205ffd0bf2c282
-SHA256: 6ab4f295db3ed857073afb65b8a59f3a39975b262ede72687778399cbb635d07
-Section: Fonts - Theme
+Size: 8411790
+MD5sum: 0bfbc6558131ebecaf139c51eda5054f
+SHA1: 5bce766199d1eede8e6520ab9e1c9df28783cc3d
+SHA256: a985b3c1c9ab05eebebe42029af97fc4a94392ecd45e0d64355ef8fe2199670b
+Section: Fonts (iOS10-12)
 Description: Grotesque-ish sans-serif typeface. For Anemone.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbrokman12
@@ -498,33 +429,16 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Brokman (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontbrokman12.json
 
-Package: com.evynw.fontbrokmantm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontbrokmantm_1.0_iphoneos-arm.deb
-Size: 1679674
-MD5sum: afc129bf8173434f2eda46ece8e71e21
-SHA1: 692c2d8c1e0c0eee8c3f6aeb7ca92e23b21113ba
-SHA256: 0ffed4b0d5df30f64396eb28284d8517533e0d86a41263ddb8689d9e9f175d9f
-Section: Fonts - Tweak Mode
-Description: Clean sans-serif typeface. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbrokmantm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Brokman (TM)
-Sileodepiction: https://evynw.github.io/sileo/fontbrokmantm.json
-
 Package: com.evynw.fontbronkoh12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontbronkoh12_1.0_iphoneos-arm.deb
-Size: 16815010
-MD5sum: 2c937be6b8a0261d58dc819e080b3fb4
-SHA1: b75507d3d6e9d06676c77a48b591b78ee1f4f572
-SHA256: 7c023c9843113c10042304110af775ab4631ed5b92d977f8e5c68b56eec0c180
-Section: Fonts - Theme
+Size: 16815008
+MD5sum: 891fafca17289d2d95995a75e4d4fa70
+SHA1: 4c2df6f727bc9d705eb224e3070bfbc66d513587
+SHA256: 010d424232500e7d0d61d392c9159165ac80652dbe4f9c9134e108edb1818511
+Section: Fonts (iOS10-12)
 Description: Grotesque-ish sans-serif. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbronkoh12
@@ -532,33 +446,16 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Bronkoh (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontbronkoh12.json
 
-Package: com.evynw.fontbronkohtm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontbronkohtm_1.0_iphoneos-arm.deb
-Size: 1758264
-MD5sum: fef68317ea87576838e1b1d29c06274b
-SHA1: 18c2df224716b22f59d5dee3503b56199b2390f1
-SHA256: 7444589f54d3497a0e08188bfed4a8324364c0c162e1d4739698b57a0b621d23
-Section: Fonts - Tweak Mode
-Description: Grotesque-ish sans-serif typeface. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbronkohtm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Bronkoh (TM)
-Sileodepiction: https://evynw.github.io/sileo/fontbrokmantm.json
-
 Package: com.evynw.fontbunday12
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontbunday12_1.1_iphoneos-arm.deb
-Size: 11285324
-MD5sum: c182044011d7d5dd8f96f09c55e2a05b
-SHA1: d54b0f4e281d5fe36d1472a565397dc9428da308
-SHA256: 2338a51d5cf9a4fed0ee2262d9f0fe69cc90dd9cb7c46a9fdc4017478937b79f
-Section: Fonts - Theme
+Size: 11285378
+MD5sum: 55773db2618f81b3abe3c2419b84dd46
+SHA1: 40e4a38fdb5f840791f125656e275fd2323e1e0e
+SHA256: 3ac02760f99402d22b39737811be917a29fe8d4fab829e9deeb30cf7d324eaa6
+Section: Fonts (iOS10-12)
 Description: Scriptive Sans (alt ver). 100% size. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbunday12
@@ -572,11 +469,11 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontbunday13_1.1_iphoneos-arm.deb
-Size: 8285706
-MD5sum: a785bee88b8addd8b210c909736ff90c
-SHA1: 3dce0099fb3bf2e4b0616efee6a8f5a7886b11d3
-SHA256: 5b8a198decf21a43b6a3aa52b6cb019e30953641181cbbbab1d50eab733c0ce2
-Section: Fonts - Theme
+Size: 8285708
+MD5sum: 8917df5d65a3863898f2f6192a438642
+SHA1: 18581a2a2aff926c8feeaf3e1c0a69bacca2c278
+SHA256: 1f3fe0d5884722ae6eac63c68335b72443553b2fe0c15b3e34595106ea323701
+Section: Fonts (iOS13)
 Description: Scriptive Sans (alt ver). 100% size. For iOS13.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbunday13
@@ -590,10 +487,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontbunday8512_1.1_iphoneos-arm.deb
 Size: 11763524
-MD5sum: 74ab399a7e2789ad3686415ab72d2f30
-SHA1: caa2184be4ff23b4b15bee4a3f283800055be9f7
-SHA256: 48ef6643aeb8d87e4275eae3011db56c342e79873def4d1da626b3b922b3fad3
-Section: Fonts - Theme
+MD5sum: cfe2cb19416edddf379936d9b506214d
+SHA1: 06840b04f7087f4a1d6fbfa83a5f175e42c4c422
+SHA256: 6a0bdd37986ea96d9e8454fb3fc35f3c65f1fd4bf3091b37968285a6f4aed8d6
+Section: Fonts (iOS10-12)
 Description: Scriptive Sans (alt ver). 85% size. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbunday8512
@@ -605,13 +502,12 @@ Package: com.evynw.fontbunday8513
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontbunday8513_1.1_iphoneos-arm.deb
-Size: 8697554
-MD5sum: f0daf8f564d61a076dfc7ea2be7110c2
-SHA1: 9f8a35c7837f8dddeaa8b39ee1e13d88efa67548
-SHA256: b0e4f454c91e1470cc1d4f8fa1dea52152f8c4a93ed378deebcc658ec4120772
-Section: Fonts - Theme
+Size: 8697520
+MD5sum: 257cad4be22674dd1fc05fefb34c156c
+SHA1: 595f5ea0339d22b9fb129c3f521709f7627d09bd
+SHA256: 3d939e669e98090b67f62c303a03d40c5a6722dca151069ede60df563426b361
+Section: Fonts (iOS13)
 Description: Scriptive Sans (alt ver). 85% size. For iOS13.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbunday8513
@@ -624,11 +520,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontcabritosans12_1.1_iphoneos-arm.deb
-Size: 9852406
-MD5sum: 548bf03a3248ff546e6e4cd72fc7bd97
-SHA1: 3e396d86a8c59ca4cdc86c45c9c66c709f33848a
-SHA256: 535a5c5ac3795e4485967b02b9cf689918d05d7a2ca3524d4ce48aae4d3b9d7c
-Section: Fonts - Theme
+Size: 9852424
+MD5sum: 1281a2fd749a44228749b84a09fc0ce5
+SHA1: fdd66a447b6fed7879b5639a10174f3a209be2a8
+SHA256: 7fb81b959c74b3d3473c20a80e25094c007f1dbde8edd6f14141aae7213475f7
+Section: Fonts (iOS10-12)
 Description: Sans serif slightly rounded. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcabritosans12
@@ -641,11 +537,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontcabritosans13_1.0_iphoneos-arm.deb
-Size: 7083190
-MD5sum: e9c5a3b1b5da5a50aac83f3eadc71f0d
-SHA1: 65b8b80a2967beaadfa02873dd1e07b6c61aacf0
-SHA256: a0afd421947c8ae34859d51b3b18cc7a95138a3c3b045a8fc0dbbc191d8f024a
-Section: Fonts - Theme
+Size: 7083174
+MD5sum: 006d15e70a32499b22c818b0fb384ca9
+SHA1: 023145d7f9c5ae64b89a3631be72c172b00fd488
+SHA256: b636a878c8bc281acb5456d077fe5f2e21cac647d45209bafcad387cb85bb265
+Section: Fonts (iOS13)
 Description: Sans serif slightly rounded. Compatible with iOS13.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcabritosans13
@@ -658,11 +554,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontcabritosans8512_1.1_iphoneos-arm.deb
-Size: 10384196
-MD5sum: e5759177f270633c226a9bf3b4f5ae6b
-SHA1: 40ecfd8902b902eec396aa0f4e0e11be16c510b1
-SHA256: e2f7b37a98a83ed939efed11f58f244b0fc821858b2ee0cfea35443930ada1c8
-Section: Fonts - Theme
+Size: 10384190
+MD5sum: 7f8b1c5075db30c6bd32b86998657d41
+SHA1: 3695e1a25fdebc13ca73bde14863e4009032e06b
+SHA256: 8537d21dc1d38f196e4d783950008abd3ce300115252a526dc16d792437e98b6
+Section: Fonts (iOS10-12)
 Description: Sans serif slightly rounded. 85% size. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcabritosans8512
@@ -675,11 +571,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontcabritosans8513_1.0_iphoneos-arm.deb
-Size: 7547766
-MD5sum: 1c0287af4e85eddaf3c46cd94abcebef
-SHA1: 88763088f3fa7b919c0720afc136b23de9307843
-SHA256: d3c4cebfed7baa9357ed03e7f51636d908440a85ee388651bc555602e54bb1ce
-Section: Fonts - Theme
+Size: 7547758
+MD5sum: 0d24e86bc676817ddf805abe454fbe5b
+SHA1: 6d714595bc63773809c6eefa45adc94150512753
+SHA256: 7eea2da23c5be2257dd774f3d47998cdad89d3bcb199afff0b6ede840e10652c
+Section: Fonts (iOS13)
 Description: Sans serif slightly rounded. 85% size. For iOS13.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcabritosans8513
@@ -692,11 +588,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontcera12_1.0_iphoneos-arm.deb
-Size: 16193214
-MD5sum: fa581bfb8e6c6ca721b8097585719cdb
-SHA1: 7416c2f997e2247e20f15f4404ad6c62447a91e5
-SHA256: df58fba341c6493f3b3c739717d8d984950e7c7c622e5a9a98e9692d46e8859e
-Section: Fonts - Theme
+Size: 16193204
+MD5sum: ad89a1b58db9f5fdea2d8403a43921c7
+SHA1: f8c7f50c9f25b1ae19037d8c3811551812d0802c
+SHA256: c7793480b8e6d21647d5fbc6383828b9f2ea016363ee30abeaed6b555c84dd5c
+Section: Fonts (iOS10-12)
 Description: Easy-on-the-eye sans-serif. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcera12
@@ -704,33 +600,16 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Cera (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcera12.json
 
-Package: com.evynw.fontceratm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontceratm_1.0_iphoneos-arm.deb
-Size: 1576714
-MD5sum: 6070c21979540a278c81adf5dca85903
-SHA1: 7c7ccd75310a7d310596f6503cd82119e643a1cc
-SHA256: bfc8f08a6d15b3f8f23a0bff363fdcd5f15c7ad29a9b42ba90ff6d0aee5e66ed
-Section: Fonts - Tweak Mode
-Description: Easy-on-the-eye sans-serif typeface. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontceratm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Cera (TM)
-Sileodepiction: https://evynw.github.io/sileo/fontceratm.json
-
 Package: com.evynw.fontciutadella12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontciutadella12_1.0_iphoneos-arm.deb
-Size: 17119374
-MD5sum: f29c903f73208235986c463b9ff9f606
-SHA1: 81869b42a5e98938bb3c7ebcff694969bbb6a21d
-SHA256: 4f3c22857b6531fc3daabc92209227aba1910ebdf5c80f11689a8c88e220c679
-Section: Fonts - Theme
+Size: 17119372
+MD5sum: 01fa366514ff8e7f217e70a4a1795472
+SHA1: 71979c238e10a004410021cd6a522e1e1504ddae
+SHA256: ae7d7f50dd748d98f68962c2bfb016413d69fb6a8d26d68459a9d667f540b75e
+Section: Fonts (iOS10-12)
 Description: Rounded font. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontciutadella12
@@ -738,33 +617,16 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Ciutadella Rounded (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontciutadella12.json
 
-Package: com.evynw.fontciutadellatm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontciutadellatm_1.0_iphoneos-arm.deb
-Size: 1522582
-MD5sum: f7267b31b3b9b4bb2c721eb04a5c9117
-SHA1: 61c5467c2e08f0c9004282f7f2bc75a59ce40a71
-SHA256: c6961c98715f2b68be216d2229c8ebda4d8af6f203876d8d7f44ea355494a7b2
-Section: Fonts - Tweak Mode
-Description: First ever rounded font on my repo lol. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontciutadellatm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Ciutadella Rounded (TM)
-Sileodepiction: https://evynw.github.io/sileo/fontciutadellatm.json
-
 Package: com.evynw.fontcocon12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontcocon12_1.0_iphoneos-arm.deb
-Size: 13066310
-MD5sum: 768afca7374beb37600ba98bff905efd
-SHA1: ef655bacebbe460e8bb7ba19c3c604d8ad94cacc
-SHA256: 901be85bd073dba60a8608bab11bbcee3ed8fb293dfcded53a3df27a7949ef57
-Section: Fonts - Theme
+Size: 13066298
+MD5sum: b46cbc9c38df0d16770d9e74769b30c3
+SHA1: 20900ba4dacbe5fafca2acd05c35c05875855677
+SHA256: d709c6efb8c7df0a246ce202f30c31c2fb0be4788648244510e1a0c5eddbdf86
+Section: Fonts (iOS10-12)
 Description: Fat, round & rather cute. 100% size. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcocon12
@@ -777,11 +639,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontcocon13_1.0_iphoneos-arm.deb
-Size: 12137914
-MD5sum: a4c5d86e369ddcddbf7758eda2ccfdbb
-SHA1: aecaede3d4fa513d7d3b8f09489fc7e0bb5103bc
-SHA256: a9d01cd0f2c041a477aa326ad7a1d4c52f15f239cffe9c43a03154bbcbd83de0
-Section: Fonts - Theme
+Size: 12137902
+MD5sum: d37a197e020ee4262f06b90d0fbe6a06
+SHA1: 9352ea3aeee3db60c2410d0454ab4945873268bc
+SHA256: b6936a92cbfa23d4774d17e3eadf0b9f000e4c96b25120cb17a18c9f5ea98b51
+Section: Fonts (iOS13)
 Description: Rounded & unique sans. 100% size. For iOS13.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcocon13
@@ -794,11 +656,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontcocon8512_1.0_iphoneos-arm.deb
-Size: 14017992
-MD5sum: 45b71f25f757afcd40c0ed8027bf8f9f
-SHA1: 41685cea8021cd344346bdcf797fc69dc2ffe05a
-SHA256: 076db0eb3fc69a26e8f3bb674caed5d7a72f3f39835dc3f14af4ee079a7d93bc
-Section: Fonts - Theme
+Size: 14017994
+MD5sum: a0a34efab9853dc95c1ff0e3aa1f27a8
+SHA1: be9660bb2ab3f2220a5f9244f926d1f6a264e22b
+SHA256: faa650a81126fbdb0508dbaf3cee19dbaf8e05510a3019157d4c74dd4ae31707
+Section: Fonts (iOS10-12)
 Description: Fat, round & rather cute. 85% size. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcocon8512
@@ -811,11 +673,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontcocon8513_1.0_iphoneos-arm.deb
-Size: 12970376
-MD5sum: f62990174ba9f698662fca0cbb03bbb8
-SHA1: 6fb937496d296207f8d21ef4a3db99052069bd62
-SHA256: 328fb0998473c2beb3c5045c3c8bb899f464c986c11d426d00747cebc886effa
-Section: Fonts - Theme
+Size: 12970392
+MD5sum: 6bec49e04d5272fcbcc95b498acab11e
+SHA1: 765962fc9ae3049a24d378ff229557f8033e6cff
+SHA256: ffeb1b2daf956d8bccc1caa0e31172ab2e60d6243d57244df9d59917bbb443ec
+Section: Fonts (iOS13)
 Description: Rounded & unique sans. For iOS13.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcocon8513
@@ -828,11 +690,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontconfigrounded12_1.0_iphoneos-arm.deb
-Size: 10367252
-MD5sum: 59fc6f3d8eebf26fa64609a6cff14045
-SHA1: 16e9b4010dc4b26bb17fe574a9076291c252226d
-SHA256: 41408e725f1d72076f134358b3769ca9e72f0ffc3a37c9173e0cc997d20c36ea
-Section: Fonts - Theme
+Size: 10367248
+MD5sum: 1f4819fb57d221cb96842db8e6c1c444
+SHA1: 207a1f5b8a7b4a77945d7bb2bddb17e6cec5588d
+SHA256: 403d6f00b2564c24a7f6c3fba7f37691a469ab19b4caf3486a038e6d1c6a7198
+Section: Fonts (iOS10-12)
 Description: Half-rounded sans serif. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontconfigrounded12
@@ -845,11 +707,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontconfigrounded8512_1.0_iphoneos-arm.deb
-Size: 10942664
-MD5sum: a237c323c953ac059921ae685c8e3548
-SHA1: fd52c15c09ebc99ef75ad1895720727e5e64d0c4
-SHA256: b95f53b6964d88e63336f6a348b1975745c8ac195f30760d8d965e35e434a61f
-Section: Fonts - Theme
+Size: 10942660
+MD5sum: b1f2b9c60ca2c5b54c887ca8d8a68adc
+SHA1: 526081df6a72fd71764629b3f23d7057f6e04fe5
+SHA256: 7d19dfb3a62f91b4213f23671653d538c7a47fa42e5777088d7caeeb1b28e16a
+Section: Fonts (iOS10-12)
 Description: Half-rounded sans serif. 85% size. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontconfigrounded8512
@@ -861,13 +723,12 @@ Package: com.evynw.fontcontesans12
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontcontesans12_1.1_iphoneos-arm.deb
-Size: 10618944
-MD5sum: 00572e6a8bec00befb393f7809dd324d
-SHA1: 4ba40a2f4c42320772836bc1e547bcc04beb5430
-SHA256: ba65bce431c23897e004fa89191eb5690523c9870ae7478ab0f89a691a989116
-Section: Fonts - Theme
+Size: 10618930
+MD5sum: eeafab7cc767bf6cceb6311258949ba3
+SHA1: 615f9b798df79858a43f8e2494892cbe8ce03e7e
+SHA256: 4fa415738001bf141629a16fb33b141f4bd7305aaa038edf11cc3f74c2abefa5
+Section: Fonts (iOS10-12)
 Description: Sleek sans serif. 100% size. For iOS12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesans12
@@ -881,11 +742,11 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontcontesans13_1.0_iphoneos-arm.deb
-Size: 7803536
-MD5sum: baec93102cbae60a4b9232a6d049aeb8
-SHA1: 5ed4e6fb618996c87564eb7d2a98314a1b38c854
-SHA256: 3f2bdd369bf3da956fec1fbf6773ae281dd8948c84feb055847ea2ea0165701a
-Section: Fonts - Theme
+Size: 7803530
+MD5sum: c63d335021dfa375564b14d76e809103
+SHA1: 5d61b09ff5dfba2a95dc503137085af8641261b6
+SHA256: 59e95354be64591126f82c75ed7285f78f43e9126f960657cd3f87d316c149be
+Section: Fonts (iOS13)
 Description: Sleek sans serif. 100% size. For iOS13.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesans13
@@ -897,13 +758,12 @@ Package: com.evynw.fontcontesans8512
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontcontesans8512_1.0_iphoneos-arm.deb
-Size: 11160268
-MD5sum: a8d40f81694ea4383c3841e0a717013e
-SHA1: e713796ea0d1371f3689a00e99aa9bb5a62cbd7d
-SHA256: 6ab4b82ab74fe5a136ca2452a194996756f85eddcd7779ba561ee63c1b27fb6e
-Section: Fonts - Theme
+Size: 11160242
+MD5sum: 793ae9976843833cbb7808d42315a94c
+SHA1: e98798efdd93453522222a729515a65161429e5c
+SHA256: 4edeed6e01c26b74299d85ae1ddf5a2127107936f16f4228d5a7ca9c5c4addc8
+Section: Fonts (iOS10-12)
 Description: Sleek sans serif. 85% size. For iOS12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesans8512
@@ -915,13 +775,12 @@ Package: com.evynw.fontcontesans8513
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontcontesans8513_1.0_iphoneos-arm.deb
-Size: 8297914
-MD5sum: 87d0448745e9f40d7a934ef3915c1793
-SHA1: a349bb75fdcd41ac2043f28191279b60c75b7b4c
-SHA256: a077b758442c83b8d78f3e1b7ed5163f719e805fb0486789e771394b64d59f09
-Section: Fonts - Theme
+Size: 8297880
+MD5sum: bc69a7632a57e5fa44d05f3a58627e4a
+SHA1: 0c4bc2fc8fab61f5798f2b9feab076902111fcce
+SHA256: 44b8e77c063d6b3f88c6d61896bda13c274e4a78286bf0c0c1d6a53c07317a01
+Section: Fonts (iOS13)
 Description: Sleek sans serif. 85% size. For iOS13.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesans8513
@@ -929,33 +788,16 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Conte Sans_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontcontesans8513.json
 
-Package: com.evynw.fontcontesanstm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontcontesanstm_1.0_iphoneos-arm.deb
-Size: 1660746
-MD5sum: c30505bc7a371fc54ef5dcb97b5434d7
-SHA1: 1867fdbe37139596628c2cf6c7e4b137fc8af4b8
-SHA256: 34b7969d861a958c7601e2901212c43443ad6abc06632bf0aee8ff76f6dfbe44
-Section: Fonts - Tweak Mode
-Description: Clean sans-serif typeface. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesanstm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Conte Sans (TM)
-Sileodepiction: https://evynw.github.io/sileo/fontcontesanstm.json
-
 Package: com.evynw.fontcoresansar12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontcoresansar12_1.0_iphoneos-arm.deb
-Size: 16024344
-MD5sum: 333644656b4a47f16cf45579bc3d8d93
-SHA1: dbde7accb90fecddea3dfc0ed8eaf956aab51a25
-SHA256: 1892ddee8e744839043fd3aa72e4c432a5653fb86fc2da439307fb322e9ebfb7
-Section: Fonts - Theme
+Size: 16024306
+MD5sum: ef265fcf754ff26cc1d018cc28a1d493
+SHA1: 00f763e487caf49708633f0862078432856ff5b2
+SHA256: e53c1ee5ce0a7a0e2dcc359006b3ef8a35453eb905a474ebef873d4fc3b12747
+Section: Fonts (iOS10-12)
 Description: Fat & half-rounded sans-serif. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcoresansar12
@@ -968,11 +810,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontcoresansd12_1.0_iphoneos-arm.deb
-Size: 16423794
-MD5sum: c1fa5b5ce52d5816cfe5eb9c728677c7
-SHA1: 01bed243c41c295b481be693b1406ade20689f04
-SHA256: f60e07b3b88da1e2907b7ea340d366ee62f486a07bc7e055d700448dea48fb00
-Section: Fonts - Theme
+Size: 16423810
+MD5sum: cf4aeb79922264ac8856d87969daa359
+SHA1: 821f33c5c88ad5710bbfbb7b18e15674dd1335a2
+SHA256: d5ce56eca1380c26e7d268a32281cee1057249880f5ff7d7793560808c5a5580
+Section: Fonts (iOS10-12)
 Description: Clean sans-serif. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcoresansd12
@@ -985,11 +827,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontcorpsansalt12_1.0_iphoneos-arm.deb
-Size: 9811700
-MD5sum: 56a0b1deb73bd5cea2642e3220eb3090
-SHA1: afa05f82cfbec39d9ff68f6a09622f4ce0c4a40f
-SHA256: b6faa7f327828d46327eb3f7c9eec8969412066a6083112e788ee71e633c676a
-Section: Fonts - Theme
+Size: 9811720
+MD5sum: aaa33192becbabd637dba04ad0116400
+SHA1: a1282d694199255f8dcf55fd86baa3d05eeb446c
+SHA256: 8fdcbd566c0c81a7b2ef3e76440c20ca3b731f841d2b66c2206e27a9a03e1217
+Section: Fonts (iOS10-12)
 Description: 100% stock font size of Corporative Sans Alt
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcorpsansalt12
@@ -1002,11 +844,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontcorpsansalt8512_1.0_iphoneos-arm.deb
-Size: 10431606
-MD5sum: 01cf1819e2e8c9aecf2e373a84a49830
-SHA1: 32e15342a18c10527de3d49f7bdbd17b998f4b64
-SHA256: fa164858e74ec90e5210d040266eb14aff4a32b8b49cf6476074fb4e36dbf720
-Section: Fonts - Theme
+Size: 10431590
+MD5sum: 209642f9aed2032d540ab8709986ff89
+SHA1: 842c13696d1f04965c763b38dc999cd2f65b2a6c
+SHA256: 3666ad6aaa693f3463770819d4882bf54d45aea201a65a4084c7cb32736ccb0e
+Section: Fonts (iOS10-12)
 Description: 85% size of the original Corporative Sans
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcorpsansalt8512
@@ -1019,11 +861,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontdubai12_1.1_iphoneos-arm.deb
-Size: 9828634
-MD5sum: 9e7712e6db2892698d852c766cc12370
-SHA1: b03e2af9950381555779beab292ab92b7d227c69
-SHA256: 4f6fb68d04662ac7d1b35e5480fbadb1ac9efa7f147c084c4fcdca0cd0ab183c
-Section: Fonts - Theme
+Size: 9828626
+MD5sum: 2ee097a344587635a7b8e746e177945d
+SHA1: e48ae24295481a43ab9191ede0f9ebf9784bda9b
+SHA256: 122b7bcf88006eca945887c7a99f2346737391c28d736ec554e333f02605a3bc
+Section: Fonts (iOS10-12)
 Description: Well-known Microsoft font. 100% size. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontdubai12
@@ -1035,13 +877,12 @@ Package: com.evynw.fontdubai13
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontdubai13_1.0_iphoneos-arm.deb
-Size: 6897698
-MD5sum: 80f1e27827d60f002bfc590e1361ac67
-SHA1: 30354eefd2e5831bdb7d4d6abcc5b07f006d5009
-SHA256: 069c0812d36d9ca54c87d9bcf198193092547623496003b14ff2683bd0e72249
-Section: Fonts - Theme
+Size: 6897666
+MD5sum: f7787c6432bc49c57c4752d0f22e7b36
+SHA1: 55465405281daa9d2e849af04f06c36ff7ff5a8f
+SHA256: 0d3314966c0ac10f9623db23a4317e1b674e046010713a538376dd11cd3ffaf1
+Section: Fonts (iOS13)
 Description: Well-known Microsoft font. 100% size. For iOS13.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontdubai13
@@ -1054,11 +895,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontdubai8512_1.1_iphoneos-arm.deb
-Size: 10358990
-MD5sum: 417fdbf919c5fd17d1d74a88936e5613
-SHA1: 01ada85033f0279da3f46e2f0392acdeaa00b394
-SHA256: 128c8cc2985bf6788e4097153f64d1cfb76bee11059cf010f4516ba6beea2616
-Section: Fonts - Theme
+Size: 10358988
+MD5sum: 5402ebb0635b98b0d70eb302a33efd11
+SHA1: c0b09d19b8610df0164c2df789caf593c190abe1
+SHA256: b656c87f01eb8fe4730fd8be6fdbfd3c5490669bab9ecb638d18dfb8815f72e1
+Section: Fonts (iOS10-12)
 Description: Well-known Microsoft font. 85% size. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontdubai8512
@@ -1072,11 +913,11 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontdubai8513_1.0_iphoneos-arm.deb
-Size: 7366468
-MD5sum: 3b98b880c041e10a3bf653241210a5d3
-SHA1: f14d8d6d1939e4ac6abfbb92b565c06d0e64630b
-SHA256: ca2bc2a3820b6e7bdc58a95615188ca64d65fe61a89e79738c6e061257359e48
-Section: Fonts - Theme
+Size: 7366456
+MD5sum: 3bde3c9acea8a6cc26283d6e6b31aeef
+SHA1: 6150d214eb765133bdf6198a5a787cb17461f17c
+SHA256: 7c39b5497b1cb24dac057266a52a9c913e933498bbe72d8a0af2988f4daf56d4
+Section: Fonts (iOS13)
 Description: Well-known Microsoft font. 85% size. For iOS13.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontdubai8513
@@ -1089,11 +930,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontestandar12_1.0_iphoneos-arm.deb
-Size: 17132566
-MD5sum: 72b02f31e6872ca962c8dadd47af4652
-SHA1: c3c5d5723343cb9857f025be279d03d1b14cb826
-SHA256: 3d4e5548ba8e4a48ae37faa5e36a8fcdb0af1b1dd7873f2bc4c4cf8d65f79592
-Section: Fonts - Theme
+Size: 17132552
+MD5sum: 108c65868b689ce71aef192a0a2b4c1a
+SHA1: b00f1831e7cc3d70a3d73fe805a1681884894dde
+SHA256: e757748cd34815dea530f42e4ac2eff2a9f05632027481dfe4ac7559982d279b
+Section: Fonts (iOS10-12)
 Description: Originally from 8400PACK. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontestandar12
@@ -1106,11 +947,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontexo12_1.1_iphoneos-arm.deb
-Size: 13472372
-MD5sum: 7fffb025c2c3b03d2e43a094fe0f30cb
-SHA1: c4bad58b0d7401b809cb9b8a197c90405c416b8c
-SHA256: a3d70e3550cef6deb0ee0976450c142b7f69e36355559a0eed14386036615df5
-Section: Fonts - Theme
+Size: 13472366
+MD5sum: a1e143ad7c0d8005ee6456f97bccb575
+SHA1: 34549b0d7187dfd6a91afae3f295a72bb58c6c02
+SHA256: bf6a743796970079180afea36fd7574312d88937296f6d66bd2130fe8f154db7
+Section: Fonts (iOS10-12)
 Description: One of the oldest fonts in BytaFont era. 100% size. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontexo12
@@ -1123,11 +964,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontexo13_1.0_iphoneos-arm.deb
-Size: 11366716
-MD5sum: de30463d8932890f8f8ac2449ffac5ae
-SHA1: 1ab86620da28116e437c2903655c5dce393a5814
-SHA256: b7df52cc62888cb4b0703440a9f21832b8ce16515d66c8bd74d86e24cbe47085
-Section: Fonts - Theme
+Size: 11366682
+MD5sum: f36a2dfa439b08ce71b57b7eb29b427c
+SHA1: 4cef34f0b7d92d3f2ac3fe46644f50ce23cf658a
+SHA256: 568247a345a6a618f9785b80c2e67af6e9e53df86c54cc8ae334fce25ac8a41a
+Section: Fonts (iOS13)
 Description: One of the oldest fonts in BytaFont era. 100% size. For iOS13.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontexo13
@@ -1140,11 +981,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontexo8512_1.0_iphoneos-arm.deb
-Size: 14185724
-MD5sum: fab3501a775a5ba3f70df5ab9b8b17f8
-SHA1: dc8d205220c6c7c595fdb5bc6a1e019b3f08da2d
-SHA256: 70e10d6190429ca204003ee94bc6806ce2c7122342dae201d3db1c59e9e168ca
-Section: Fonts - Theme
+Size: 14185702
+MD5sum: ddaa472401b997fc6639e4b93b9fa87f
+SHA1: b8d097a6405e95ceef443d99887b8f687987b42d
+SHA256: c3e26d2945ce38cdab87a837d322f82e44f58ef0371a57afcf847ac061ec7c4d
+Section: Fonts (iOS10-12)
 Description: One of the oldest fonts in BytaFont era. 85% size. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontexo8512
@@ -1157,11 +998,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontexo8513_1.0_iphoneos-arm.deb
-Size: 11991244
-MD5sum: 2ec99e03a1aef40ef04673820ad20c90
-SHA1: b49e182751dae9d96bf9ba87fb7cda3c99e355cd
-SHA256: 8487f3e79e37841d16ec91498e050b1db808f9520bf7e87d0a07559d65975029
-Section: Fonts - Theme
+Size: 11991236
+MD5sum: 53fd679766615434827e0c69ca4e245d
+SHA1: 3350a91cffccce954444501c402cffd81fc0b9b9
+SHA256: 828e384d77df0ec4b3a720052eb917f7fa113d4d8a936544a4790088b2c637e7
+Section: Fonts (iOS13)
 Description: One of the oldest fonts in BytaFont era. 85% size. For iOS13.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontexo8513
@@ -1174,11 +1015,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontffmark12_1.0_iphoneos-arm.deb
-Size: 18097498
-MD5sum: e1126b22c6f31790c515085d14aef143
-SHA1: 087106cbe13c8a9cad195cca3c157c13df1b186f
-SHA256: b60edace0f8cb2844dfdd16f538e9c802f20fe6323131dd9c9e7a7cf0d10a295
-Section: Fonts - Theme
+Size: 18097518
+MD5sum: fb926a4c34e7985cc1fa5f1bb86f0487
+SHA1: 2acd6829e087d2ef57bce615ea10df92eec02f59
+SHA256: abae255a76d829a77015032b55b790db57b55982b4a9cd92fefbea1d7991fa24
+Section: Fonts (iOS10-12)
 Description: Clean sans-serif typeface. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffmark12
@@ -1186,33 +1027,16 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: FF Mark Pro (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontffmark12.json
 
-Package: com.evynw.fontffmarktm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontffmarktm_1.0_iphoneos-arm.deb
-Size: 1622262
-MD5sum: 4821043f3c6c40167b2d6510c767c326
-SHA1: e2ea022e92cda7063cfb57363e504783eea62ad2
-SHA256: 1e91bb73f814986a2d22ecac6cf650fa3fbdc6da55576084da7047df39a24f0d
-Section: Fonts - Tweak Mode
-Description: Clean sans-serif typeface. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffmarktm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: FF Mark Pro (TM)
-Sileodepiction: https://evynw.github.io/sileo/fontffmarktm.json
-
 Package: com.evynw.fontffstrada1011
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontffstrada1011_1.0_iphoneos-arm.deb
-Size: 17464942
-MD5sum: 42e8d9096a55edb7085d45caa756ea57
-SHA1: 38cf121f69f89d30b559c3cd8f9dd78f0c1ce1ee
-SHA256: 4fb6f442c1685e4110635acb6220867e5804212f24287f8e02833d88663ea9c5
-Section: Fonts - Theme
+Size: 17464936
+MD5sum: 470a100a1106c186c20dea7e09c50f39
+SHA1: 2ea8953c7985b42b99a02a64d2562b9ff937e6f3
+SHA256: 6f4f1809722b0890adef1c85b720cfe9b29675773b947be623d71452774ca9a5
+Section: Fonts (iOS10-12)
 Description: I've run out of adjectives for fonts SMH
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffstrada1011
@@ -1225,11 +1049,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontfrygia12_1.0_iphoneos-arm.deb
-Size: 15777994
-MD5sum: a00b1d6ceb79356ccdf9fb1e65d80cfd
-SHA1: 8c61d7878377df5756760afb18ae637123ba6b6d
-SHA256: a609fff33761d97292e252ecb5702f6823761b9e6c303fe465b035a34ac9c5eb
-Section: Fonts - Theme
+Size: 15777978
+MD5sum: f7a0f03753d8e9943534cea5786ded00
+SHA1: c2e12f2977fea7b45fe7b69102392992a7ebdf96
+SHA256: 169b4e6a3c8ced1ef03ffab792f5b56545e54840d529c6882cc328711b5d6cc4
+Section: Fonts (iOS10-12)
 Description: Small sans-serif. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontfrygia12
@@ -1237,33 +1061,16 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Frygia (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontfrygia12.json
 
-Package: com.evynw.fontfrygiatm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontfrygiatm_1.0_iphoneos-arm.deb
-Size: 1658238
-MD5sum: a35ede3ac2c10f5f9744395470cb0734
-SHA1: 3b0e16ba382178e360ce15b088c95e7a4ed4ab4a
-SHA256: b92ec0f6f9cf8ae36ce62153c04b488409441fc3d284563cf96ba5ff95f0489d
-Section: Fonts - Tweak Mode
-Description: Easy-on-the-eye sans-serif typeface. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontfrygiatm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Frygia (TM)
-Sileodepiction: https://evynw.github.io/sileo/fontfrygiatm.json
-
 Package: com.evynw.fontgimbal12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontgimbal12_1.0_iphoneos-arm.deb
-Size: 17365730
-MD5sum: 834da22ce9c11def2310a03f8594c9d9
-SHA1: e03404793e908581ef05296dfcd3b263031fc531
-SHA256: 6a06ad5a6350ce1d5c8a722576903a44a2f413557cc33a9cd9356616efc48ca7
-Section: Fonts - Theme
+Size: 17365728
+MD5sum: 6566f0b2b73280c24cbb4b6c4855d7ca
+SHA1: c05a98cd6bb42a899e22a3493ce48121245e9b8b
+SHA256: e82f5d9b4b439bdb313d7778359452fc53cc512c2e0444c1a7171f91a60436bf
+Section: Fonts (iOS10-12)
 Description: Originally from 8400PACK. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgimbal12
@@ -1276,11 +1083,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontgineso13_1.0_iphoneos-arm.deb
-Size: 12890062
-MD5sum: 79c48ce18b63a70bcf735f506a8bf7e0
-SHA1: 69e61425b7e0d265f78d952beedda30dc17beacc
-SHA256: 05ec64fa0fcc226157509073a7da13fa354d1e1d38152374fc6d191f54773203
-Section: Fonts - Theme
+Size: 12890028
+MD5sum: 200a616c72ee88c8b389a82daf7754e5
+SHA1: a0a1007ff8619d25fe630ed2a1f1c7326c3b1605
+SHA256: 4a9e9a50af91b940009a3da85311932b8b881dbf82b8e80e73b0d35f0a1e348d
+Section: Fonts (iOS13)
 Description: Tall & grotesque sans serif. 100% size. For iOS13.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgineso13
@@ -1293,11 +1100,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontgineso8513_1.0_iphoneos-arm.deb
-Size: 13568620
-MD5sum: 173370d325bdd29dca98a08add09727f
-SHA1: 33c113020122f34f2b49901d286ef6a479ea223d
-SHA256: 1d00bcc6d98d2bc7b3ceeab1a3e88e4485ab4eb5dd2d18d147a93f4b4d5bb8ab
-Section: Fonts - Theme
+Size: 13568596
+MD5sum: 62545e3d2ee34b737160f1d303439b0c
+SHA1: 3d9a024492e12b39bc817aaf6052c78105f00462
+SHA256: f98bd5a804d7c9267daf1536adfa990d9ff9fbce92949b80bf72befa9bb9db4c
+Section: Fonts (iOS13)
 Description: Tall & grotesque sans serif. 85% size. For iOS13.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgineso8513
@@ -1310,11 +1117,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontginesoext12_1.1_iphoneos-arm.deb
-Size: 13156368
-MD5sum: 7f322801e74f612694eb1eff99cdc60f
-SHA1: ac79c3ae89c674d7154e182d9897efef55a6cf61
-SHA256: c6fc9f50157890d9a7059127263cac93194bd068ac1345e24a40f8fe925cc508
-Section: Fonts - Theme
+Size: 13156374
+MD5sum: be0b4ecff346243283135b4e0cbca0a2
+SHA1: 65e7eb4b11d507d1c56c0482ba1d55950f51b360
+SHA256: 70f7caa787b59ee7b50ed4fa9c9457c65fb1a94d5085fe22f1edd87b5ef68ec6
+Section: Fonts (iOS10-12)
 Description: Alex's 1st ever font on my repo!
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontginesoext12
@@ -1322,34 +1129,16 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Gineso Ext (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontginesoext12.json
 
-Package: com.evynw.fontginesotm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontginesotm_1.0_iphoneos-arm.deb
-Size: 1569342
-MD5sum: fbbfb295fbf0415a6f8a251e027d3fe3
-SHA1: 437eb5a71bffdf9242d0ad9a538edc6370bffa44
-SHA256: 42671f721a4fc934c106a78274dbea964ceea431e90a867eff843aed1020cda5
-Section: Fonts - Tweak Mode
-Description: Grotesque-ish typeface. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontginesotm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Gineso (TM)
-Sileodepiction: https://evynw.github.io/sileo/fontginesotm.json
-
 Package: com.evynw.fontglober12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontglober12_1.0_iphoneos-arm.deb
-Size: 11555242
-MD5sum: d7798d11cdb8d6f026ec22870c2f6b6a
-SHA1: 20b5f729be22a7254bdc1f530537495c92438a19
-SHA256: 61a6d09bb5a79e041257515d4fad1ca511a72c403e2c34024af54579ae9c3147
-Section: Fonts - Theme
+Size: 11555218
+MD5sum: bbcabf2a1951f071609b09b94f8e27f2
+SHA1: 92f87bb7935f7abc89018f9c5609a97f1dde106f
+SHA256: 641688bb0982624fdefb27f39fe1f591b7284ba06f7c02d7fca8e9d1f11c5682
+Section: Fonts (iOS10-12)
 Description: Clean-looking sans serif. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontglober12
@@ -1361,13 +1150,12 @@ Package: com.evynw.fontglober13
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontglober13_1.0_iphoneos-arm.deb
-Size: 8157312
-MD5sum: 69e32858f484fff2be55969aeb9b5a25
-SHA1: 49819ce38b1de02a203351c5a2fde8ef42c495ef
-SHA256: f0e4464d2b918be56dfcd8f2f01017d1c3866fa9b3f8a4a1d773282ba30c74a2
-Section: Fonts - Theme
+Size: 8157262
+MD5sum: 1d535f87172777bd06fa93f8c72e3a30
+SHA1: 04d871ebb23519ac7e47f6d899a35c4a78e0d792
+SHA256: c1f0da3f48f47938eb614bf2b221d7016856ebf56125f6780094ca2103573dba
+Section: Fonts (iOS13)
 Description: Clean-looking sans serif. For iOS13.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontglober13
@@ -1375,33 +1163,16 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Glober Grotesk (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontglober13.json
 
-Package: com.evynw.fontglobertm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontglobertm_1.0_iphoneos-arm.deb
-Size: 1782942
-MD5sum: b7c78be54f91e24ad00e5006dc57bbdc
-SHA1: 2c3cdba959164277f476b2325e0b42cff5fe0d6a
-SHA256: 4bfb3def3d09caa29f2167c55c4e4e56ee6fb672553eb47f124b0b441fd38b2d
-Section: Fonts - Tweak Mode
-Description: Clean-looking sans-serif. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontglobertm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Glober (TM)
-Sileodepiction: https://evynw.github.io/sileo/fontglobertm.json
-
 Package: com.evynw.fontgooglesans12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontgooglesans12_1.0_iphoneos-arm.deb
-Size: 9702506
-MD5sum: 07444489441dfe613ed04d051560dbde
-SHA1: a2818480c9c57190e36d0533d533916a89e755d7
-SHA256: 28e37576fcad3cfc5c552cded35ef17e1bd6e9f2cd736842db19b881e5dfe5da
-Section: Fonts - Theme
+Size: 9702502
+MD5sum: b93f52b0179889a39da01038cd311a83
+SHA1: 084856f3b113966cca4cb510f3ff25e2a3d45a39
+SHA256: 3598d0fa2d426ba18f7ad68b37fbebc31c7be9ff618abb83667df0b59e343c28
+Section: Fonts (iOS10-12)
 Description: Add more Android-ness to your iDevice. 100% full size. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgooglesans12
@@ -1414,11 +1185,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontgooglesans13_1.0_iphoneos-arm.deb
-Size: 13395232
-MD5sum: 92a4843323be0436b2b0fe407c6efe62
-SHA1: ef95ef919d1b682bacc50dda1d50ad736552b499
-SHA256: e3e061eadf729151c35318ce150fdbe63429ffa6e6f78f3e01d886c515c5a143
-Section: Fonts - Theme
+Size: 13395200
+MD5sum: b8bf67b45d9f4652346fc2cfdf97ff16
+SHA1: 177f7d2cefdb4c6aaf9289f63638083eb5be9209
+SHA256: 4f164c4caffa937fa6e9fa36699f375d4fc161e6a01850c65e47f62bc156f032
+Section: Fonts (iOS13)
 Description: Add more Android-ness to your iDevice. 100% size. For iOS13.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgooglesans13
@@ -1431,11 +1202,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontgooglesans8512_1.0_iphoneos-arm.deb
-Size: 10258370
-MD5sum: 64c1ab24e833ce44a946fbfda3b5202b
-SHA1: 85cbcab28bbe6ea7415e3b6d6390433dd5a43995
-SHA256: 68d8bf7ef6466b464828d6245da321e4068820c5cdeb7e9791182422361199d7
-Section: Fonts - Theme
+Size: 10258368
+MD5sum: 893a96ab26e3fdaba26d4349dee8df90
+SHA1: 942d2bc31fd4d8b3a4169ed6b81eec38df336d30
+SHA256: d80c8f8827c6541842cac985227f3fdfc011dad8bf9446fced5c008cd4b31504
+Section: Fonts (iOS10-12)
 Description: Add more Android-ness to your iDevice. 85% size. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgooglesans8512
@@ -1448,11 +1219,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontgooglesans8513_1.0_iphoneos-arm.deb
-Size: 14197638
-MD5sum: d7a5226c21963bd60b67346ed3da65ba
-SHA1: 7c7e635c13228d848a683944424e97f43ad8e7af
-SHA256: 19bc58aa98e3b31091f8a1be0e49bc88350d03e7351eccbb7b68e8c221cb3467
-Section: Fonts - Theme
+Size: 14197634
+MD5sum: 6fb044a9c492ef30487cb98618e08f4e
+SHA1: 3ab7e8f67dad185f85caa83a84cb116daaf96d93
+SHA256: 54ea073d769d493d705f9b197c5f898dcb314b79895186b5eb8ecac5ed5b3991
+Section: Fonts (iOS13)
 Description: Add more Android-ness to your iDevice. 85% size. For iOS13.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontgooglesans8513
@@ -1465,11 +1236,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontibmplexsans12_1.0_iphoneos-arm.deb
-Size: 11366228
-MD5sum: 9726264ba980d86e68c703afbd07c657
-SHA1: bf35cdf2355e77d3d11a3252b0c69803650fa0d5
-SHA256: 78eb9303e0299fa500c224c028d6a160717b578a18e0cbd039e7467034c39431
-Section: Fonts - Theme
+Size: 11366218
+MD5sum: 3de10b29b7cb0c818daa3aab845273dc
+SHA1: bbe33c69efaf821153c39f003182bf1839583961
+SHA256: 6b8680818a6fcf284a7d0a108fac59ec24e7dc1f8428d44b59aee8a2a6acfc01
+Section: Fonts (iOS10-12)
 Description: Clean-looking sans. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontibmplexsans12
@@ -1482,11 +1253,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontintervalsans12_1.1_iphoneos-arm.deb
-Size: 9783210
-MD5sum: d8df3ea0057d0a6be14c60caff495d16
-SHA1: 35ef9df7e76305f5b92576e91aca64310f61dd37
-SHA256: 40baabfb5b74f7bb0baf5b83d95c3f440e6295cb34a3addf04abcf7eb63420c8
-Section: Fonts - Theme
+Size: 9783208
+MD5sum: 8bdaff65cd47521dcb67f42aaa056bc9
+SHA1: 4f163212afe5762a0bf70c7fe728486162197635
+SHA256: f0392e70ba56b5f404ac8e9f1ee70066396b5470cdc924c32df4fe4179b52823
+Section: Fonts (iOS10-12)
 Description: Complete remake. Better Viet support. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontintervalsans12
@@ -1494,33 +1265,16 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Interval Sans (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontintervalsans12.json
 
-Package: com.evynw.fontintervalsanstm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontintervalsanstm_1.0_iphoneos-arm.deb
-Size: 1578428
-MD5sum: 7d7eb943da00a64a65ea888e5bd4b7e6
-SHA1: dee83e492b20ce3e3908c1eb220f16ac174c1840
-SHA256: 6aa16f04c6da772757c39f5fb8fe87e984a5035e211e6dafa744e1d108c9bb94
-Section: Fonts - Tweak Mode
-Description: Clean sans-serif typeface. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontintervalsanstm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Interval Sans (TM)
-Sileodepiction: https://evynw.github.io/sileo/fontintervalsanstm.json
-
 Package: com.evynw.fontkomet12
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontkomet12_1.1_iphoneos-arm.deb
-Size: 11695142
-MD5sum: 70686f566174429835fcd59c2d6b6307
-SHA1: 44da3290e342639783a829f8d3d3a0e90b97335c
-SHA256: 962f48e9382b002412b3da08eddef472294eef11bf8b24f700ca40b027ab877f
-Section: Fonts - Theme
+Size: 11695134
+MD5sum: de9ab325ce81cc4b09134e4259a67f14
+SHA1: cb961f06e104902637ae94a91092c3f9755f775e
+SHA256: b7fa965270cf4e4a2c2354981a1f618f39a97f0f383a2d20d68031b0491642b3
+Section: Fonts (iOS10-12)
 Description: Script-ish sans serif. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontkomet12
@@ -1533,11 +1287,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontkomet13_1.0_iphoneos-arm.deb
-Size: 8539834
-MD5sum: d17137bbadcd8b833fcb500767095bb0
-SHA1: fdc0fc5a62078dac4904ee1be4d96cef2cb11f38
-SHA256: f2e14edde3505cec65a8073492331ed29ca6af014043f256082b8c12cfbce19c
-Section: Fonts - Theme
+Size: 8539828
+MD5sum: 0edac383470baf3eebff3d947117a506
+SHA1: c1fbc7d9365aaadec4791be40780cc6101e08845
+SHA256: ab71975a634dcaa8035b4002d7cfbf2e9c747ded48a92f454ec9371694a578a1
+Section: Fonts (iOS13)
 Description: Script-ish sans serif. For iOS13.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontkomet13
@@ -1550,11 +1304,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontmetrisch1011_1.0_iphoneos-arm.deb
-Size: 17247230
-MD5sum: 27398b7c07a12825a720faf3a22aadff
-SHA1: 45440d1f16133688b5f5a2ba894ab4ce11e4307c
-SHA256: b62f5f8a77110c6e6cdd0cd83ebffb474409f0fabf4b6231ebfdb6bc94d7afc6
-Section: Fonts - Theme
+Size: 17247246
+MD5sum: 48e4aa06d175708f0c0de6233a96fde7
+SHA1: e84485fba272f7661644e556b89d166e24f1bd53
+SHA256: 2141769c8aec34172cb3d18376c023c4c66f7038f29cfc142c490837809a0b45
+Section: Fonts (iOS10-12)
 Description: Fat sans-serif typeface
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmetrisch1011
@@ -1562,34 +1316,16 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Metrisch (iOS10/11)
 Sileodepiction: https://evynw.github.io/sileo/fontmetrisch1011.json
 
-Package: com.evynw.fontmetronoatm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontmetronovatm_1.0_iphoneos-arm.deb
-Size: 1688280
-MD5sum: b596d78d57a07db3da20708c8906a96e
-SHA1: b9a76fcf9342f9e5f8f3716ce91554dff59943bc
-SHA256: e8ab91825628847c8eb0cfe3ba034c0cc9b0b9cbcb99c95b41b83e98057d37bf
-Section: Fonts - Tweak Mode
-Description: Clean & kinda cute (?) typeface. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmetronovatm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Metro Nova (TM)
-Sileodepiction: https://evynw.github.io/sileo/fontmetronovatm.json
-
 Package: com.evynw.fontmetronova12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontmetronova12_1.0_iphoneos-arm.deb
-Size: 9717374
-MD5sum: ad0fb782296a9b82933a7415b4f9699a
-SHA1: b8142664fd5f355de8d13a7463ee3811eb98eab0
-SHA256: 8c6e083d8c19d9ba6e8123f1a48b843e678acafc37904f10a98e248b2111bbe5
-Section: Fonts - Theme
+Size: 9717350
+MD5sum: 0df47d70d542b78f285e38e0762c4db5
+SHA1: 586a818af97a06bcc07a3536f054bbd7b5f68fa4
+SHA256: e7ce3f315f495fa242fabc26aea69ab7ce94e3acf84fd8d7c1b722bdede9f940
+Section: Fonts (iOS10-12)
 Description: Clean & small sans serif. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmetronova12
@@ -1601,13 +1337,12 @@ Package: com.evynw.fontmetronova13
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontmetronova13_1.0_iphoneos-arm.deb
-Size: 6789106
-MD5sum: 9ee5cf1c60a1cb4beb3259d37e0804c8
-SHA1: 380cac1c6fab678ee4642ce63a8a2fe0c722c01b
-SHA256: 9b3cae079c09575d12c15045be7b057b635839e96172d6d05fd12cb972b4be34
-Section: Fonts - Theme
+Size: 6789086
+MD5sum: e199ba44098e7975e286dd03be928779
+SHA1: 1517a30b79f093ecfaa66ee261629f6d215543ea
+SHA256: 954e259b30ca7ba5e675b151d6e05764894a7454a0ed1ed933f92f807c3a3b6f
+Section: Fonts (iOS13)
 Description: Clean & small sans serif. For iOS13.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmetronova13
@@ -1616,32 +1351,83 @@ Name: Metro Nova Pro (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontmetronova13.json
 
 Package: com.evynw.fontmyriad12
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontmyriad12_1.0_iphoneos-arm.deb
-Size: 10820186
-MD5sum: 1e5e5cdd409d7fb97ed9e22258e010c6
-SHA1: 800bae3cad1ceb4598f88dfcbf3f8c9e2532582a
-SHA256: 48a1b61c139eafbac4a396a78665020686febb073c742def944f79d8b199f66d
-Section: Fonts - Theme
-Description: A classic font & Alex's all time fav <3
+Filename: ./debs/com.evynw.fontmyriad12_1.1_iphoneos-arm.deb
+Size: 17415866
+MD5sum: ecf22f007dd6492550aee174db2ce2d8
+SHA1: 22420ba602a1d232561c17583db9733cfccb8d0b
+SHA256: a3a6ddc71f77cb680d543ce3f15f73ed72035a9c9cfe1bc915ecff9b380af6e6
+Section: Fonts (iOS10-12)
+Description: Classic font & Alex's all time fav. 100% size. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmyriad12
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Myriad Pro (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontmyriad12.json
 
+Package: com.evynw.fontmyriad13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontmyriad13_1.0_iphoneos-arm.deb
+Size: 14889272
+MD5sum: 80be84f4ef5b5f362d390a7179757e7e
+SHA1: 80a63daa7f0eeba5eb9900493f5e5195a5d038c8
+SHA256: 124fe9b481f798c0c0d89bb2d14504bec39abfba133c52a86cf72f453df2f942
+Section: Fonts (iOS13)
+Description: Classic font & Alex's all time fav. 100% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmyriad13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Myriad Pro (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontmyriad13.json
+
+Package: com.evynw.fontmyriad8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontmyriad8512_1.0_iphoneos-arm.deb
+Size: 18297726
+MD5sum: 620501b3e1fd45be87cbcac9f1f82ea4
+SHA1: e016e0de0984c1db26d589c1d8cbce2b99d1dd62
+SHA256: de5f331eea2fe292e333882e1c833b6fe651672595144d3f67c9a3cf5f5cee98
+Section: Fonts (iOS10-12)
+Description: Classic font & Alex's all time fav. 85% size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmyriad8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Myriad Pro_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontmyriad8512.json
+
+Package: com.evynw.fontmyriad8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontmyriad8513_1.0_iphoneos-arm.deb
+Size: 15659406
+MD5sum: 79fbd6ee7d80c1779cb6baae22f39096
+SHA1: e8e4108e714de89078ad4076bd07b6ac30fb1484
+SHA256: 07078fde49c4cfc0d735deabca848b18a85b20a0fe876890d56b5d50a1bd0835
+Section: Fonts (iOS13)
+Description: Classic font & Alex's all time fav. 85% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmyriad8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Myriad Pro_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontmyriad8513.json
+
 Package: com.evynw.fontneutra12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontneutra12_1.0_iphoneos-arm.deb
-Size: 9949014
-MD5sum: da50d0be939c893159914627935feeb3
-SHA1: 543a76493e50e328b2f86b709e5f2353d2bd533e
-SHA256: d6aed9d2f4e1b2e928947aba7733398731f058fdd36d0e4896c9945ba3642df5
-Section: Fonts - Theme
+Size: 9949012
+MD5sum: 170e401cc02144581d761668def8717b
+SHA1: f839bc70369af8fc9cdc92a2439f4b148149ad6b
+SHA256: 3e88ace9c6396d8b41b1cc84f51f975ae7ebe10af915200eb05e55cae8e6ecd4
+Section: Fonts (iOS10-12)
 Description: Once-popular font but has lost its charm to both Alex & me. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontneutra12
@@ -1654,11 +1440,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontnovelsans1011_1.0_iphoneos-arm.deb
-Size: 15100750
-MD5sum: c6bcda0bb9563697a65edb890c3d7295
-SHA1: d9c4eaa5c54248cee079f98fb77f277f4ad003dd
-SHA256: 1bd83d186a9a323a6d4104eb8960a06338bdb8c906939bd349c6a0531f67de7f
-Section: Fonts - Theme
+Size: 15100768
+MD5sum: 6f22ff6220e060f80b09d6d075da2f61
+SHA1: e289f8cff94c19dcd4f07ac7755ee3fbe6f3fee4
+SHA256: 147356dc17dd4052f3827c17721eba55b9878c94b963de19f4b8e9cea863cad8
+Section: Fonts (iOS10-12)
 Description: Popular sans-serif typeface. For Anemone.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontnovelsans1011
@@ -1666,33 +1452,16 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Novel Sans Rounded (iOS10/11)
 Sileodepiction: https://evynw.github.io/sileo/fontnovelsans1011.json
 
-Package: com.evynw.fontnovelsanstm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontnovelsanstm_1.0_iphoneos-arm.deb
-Size: 1713902
-MD5sum: 2c9f5d620395ec215d102ec542d8e8f1
-SHA1: 42e921560c7c1ff1337ec8d479d9f5b9b706fd70
-SHA256: 84d0bebad068e32a05828d0c11aab4219ffed6a1b5bad91c7b3d8befd741d565
-Section: Fonts - Tweak Mode
-Description: Clean sans-serif typeface. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontnovelsanstm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Novel Sans Rounded (TM)
-Sileodepiction: https://evynw.github.io/sileo/fontnovelsanstm.json
-
 Package: com.evynw.fontopensans12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontopensans12_1.0_iphoneos-arm.deb
-Size: 13090222
-MD5sum: f28de8b5e03ad2368345c3721e55c059
-SHA1: 88fd83136368fdafa8e3ff8a3f75ad6506e0ed69
-SHA256: 7ffc67cfc7227d6ab1059a935c725b8a7562426d30fa081c3a8dac9ec7115ff5
-Section: Fonts - Theme
+Size: 13090226
+MD5sum: b9c5d032747c92faa14e97c3eac81962
+SHA1: 53d801fce2c9c965b0074678c3120cbc972e7a18
+SHA256: 239027c9d48983f3281867a01e1ee8103cfdb5c9319d9d00d291e934cc42f6af
+Section: Fonts (iOS10-12)
 Description: Classic sans-serif. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontopensans12
@@ -1705,11 +1474,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontpfdin12_1.0_iphoneos-arm.deb
-Size: 9405914
-MD5sum: 4a5d8b9102e76e2abb0f0e7591281357
-SHA1: b28df1c127794ded71e8bfd0cbcb9b61e98de6fb
-SHA256: 456443e4a36056d104b5fbde6a8ffa6ac987a86f8bca6e3ee14657debb98860c
-Section: Fonts - Theme
+Size: 9405908
+MD5sum: 9ba26d08e8659dfe14183a8c2e4bdafb
+SHA1: 2fc982ea215b2709f1763176524fdee160f5cfcc
+SHA256: 3d2b5025efcc14d7a66a9d89761b0a39195e18264ffbcb7f4b0f67c67fa86dfa
+Section: Fonts (iOS10-12)
 Description: DIN - one of the best typefaces For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontpfdin12
@@ -1722,11 +1491,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontroboto12_1.0_iphoneos-arm.deb
-Size: 11681528
-MD5sum: 84ffb718f5e7bc4f634fae652d2ec71d
-SHA1: ce530dd9124991cfc69f3f658d582ca807ac7909
-SHA256: b8c42fa744bb62086baf80bac719df1c2a8bbc17da0abebd12c6c561f68252b0
-Section: Fonts - Theme
+Size: 11681490
+MD5sum: ba709ed384e3efb2ad90e53930e71519
+SHA1: 799d1cf204d27c34e4283093562b5702f4426d99
+SHA256: 73d0ce70199f0561551ccc963a1aa55d585643a559a9e5381a15577d88b33408
+Section: Fonts (iOS10-12)
 Description: Classic sans-serif. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontroboto12
@@ -1740,11 +1509,11 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.0-3)
 Filename: ./debs/com.evynw.fontsarala12_1.0_iphoneos-arm.deb
-Size: 17151484
-MD5sum: 8e05088bbdc05da88b7da38449d772d5
-SHA1: 38df9080802937bd24f1f6e533c48b5688071005
-SHA256: d14feccb3a72fc6d45e020b7826b2145f3ec98c76729f28a710b9a1b1e73762b
-Section: Fonts - Theme
+Size: 17151480
+MD5sum: 27c269314903f4768ac02033b1681c8a
+SHA1: fe32562b3cffb36bf1a1e7b1f153e944c1ac94d5
+SHA256: 71a59402b048fff33792185a40b13ecbe606ef8014bf8697cd1afc3eeebac780
+Section: Fonts (iOS10-12)
 Description: Thin-looking sans-serif. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsarala12
@@ -1757,11 +1526,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontsegoeui12_1.0_iphoneos-arm.deb
-Size: 9525662
-MD5sum: 365e3cef83bb83fa9ef2d87f4f2d74ca
-SHA1: 3868bbe668560f00a850c1fe81382973cc9cf118
-SHA256: b738489558b078df46e5f35484cad227e57b349a04e3ec145e803e05b732cc4c
-Section: Fonts - Theme
+Size: 9525650
+MD5sum: 085fd3b803012d1e7251841f3a5ba9ad
+SHA1: 2fa97a30a842a27de1f3b373b7688a85ca16dd09
+SHA256: 287de7e720d76cc84d0aa520df9149c5a7a489e0294edb030e2973ab92559c97
+Section: Fonts (iOS10-12)
 Description: Clean sans-serif. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsegoeui12
@@ -1774,11 +1543,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontsfpro1011_1.0_iphoneos-arm.deb
-Size: 1186592
-MD5sum: 43e21f178a6667b2d630b11370571cef
-SHA1: 18b18b419dc9eafaecb42a2a8a0f0adf5ede8902
-SHA256: e5fd7f21dfb85b50aabe96a34ce38a8ec6d4ddbf6f35e8fc33b901f0ef196331
-Section: Fonts - Theme
+Size: 1186610
+MD5sum: f10c5a1f180d127783bf22e60a094644
+SHA1: f3ba6651a936655f215f5b0758becdac08845baf
+SHA256: b2aaec1b63010f871392cbba3f1555c573f4837926a259ee58dc2639bda799c8
+Section: Fonts (iOS10-12)
 Description: Font in Notebook app applied system-wide
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsfpro1011
@@ -1791,11 +1560,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontsfrounded12_1.0_iphoneos-arm.deb
-Size: 10035290
-MD5sum: 2f97f860cb53f427c5af1852f0e657ad
-SHA1: 4af5f9b6ba01a1e0af788629d45195990df9729f
-SHA256: 67564d240daa8d0013bdd0340384a67c386029e380bd3f4193590f6f824f08d8
-Section: Fonts - Theme
+Size: 10035294
+MD5sum: 57056bd1aaac1d93dd3d1ef9e7d816e6
+SHA1: a5f6c666fc87f0934dac6aa0ad80b955bdf1c97d
+SHA256: 3836c81f369c8e46b6d68937003b01757d977c264ac76fbbbab177c97abba840
+Section: Fonts (iOS10-12)
 Description: Rounded San Franciso. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsfrounded12
@@ -1808,11 +1577,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontsica12_1.1_iphoneos-arm.deb
-Size: 17570794
-MD5sum: 299e333188d40808af2fda49b07d1f6d
-SHA1: 2f6847588fd4f42a65569cbdb8d65e5506c04838
-SHA256: e69c93a333dbdb5b500103875dab33b1fd474b9d59f9dc0132fe7388eff91c5e
-Section: Fonts - Theme
+Size: 17570802
+MD5sum: cbf5bbcf34fa35cdf1a37a2045f71bf4
+SHA1: b4981328505e53457661c641730d8d4ad1665664
+SHA256: 8ecf6dac848f3e1a15e04857f7f3341357ef9314ee93eeff365b3b8de45e21bd
+Section: Fonts (iOS10-12)
 Description: Square-ish grosteque sans. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsica12
@@ -1825,11 +1594,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fonttisasans12_1.0_iphoneos-arm.deb
-Size: 9982158
-MD5sum: 891bf6e5fc6aa358bc5a895ed38d734d
-SHA1: c912bc772fca33518e5502c63608bb00b3041bbd
-SHA256: 4ef9f00a8c5cdf2e15eaac157d84e39adb981251f1a81f5c35bdee13f216c751
-Section: Fonts - Theme
+Size: 9982136
+MD5sum: 52d7aa976c75f94addfe680b6525c397
+SHA1: 2682974d077eb8b96186eb12533b5aa844d0d25d
+SHA256: 42eab762cbeacb3f5d1f8ade2c9d610fb87340f1e86e80ab830eeb0a558f2209
+Section: Fonts (iOS10-12)
 Description: Sans that's kinda cute. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonttisasans12
@@ -1842,11 +1611,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontttteds12_1.0_iphoneos-arm.deb
-Size: 14911026
-MD5sum: 04cd4fcccc327496c1feddfdcdb57478
-SHA1: cde939c847d58fe6258d93257a161cf88bd5e5e3
-SHA256: be0dc8960f0d4b46847fe0bac425a0e24f5127067721ad743a62b28b3672e2fe
-Section: Fonts - Theme
+Size: 14911016
+MD5sum: 00825f99f0c1faef1d25b30b202ba6d1
+SHA1: d2411639cb81a2829f2c5b6687362ef5624b9df6
+SHA256: 545523adc80995fe7b28fe0b75bf8bdd3040a1142002481a6cddaafac5ba3ad9
+Section: Fonts (iOS10-12)
 Description: Clean & narrow sans-serif typeface. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontttteds12
@@ -1854,33 +1623,16 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: TT Teds (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontttteds12.json
 
-Package: com.evynw.fonttttedstm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fonttttedstm_1.0_iphoneos-arm.deb
-Size: 1582058
-MD5sum: 97dde0d4fd2744fa17a761795306913b
-SHA1: 83320490efd833307f226e56db5503ae56da3770
-SHA256: f233936f7b19daa570b9d6684ccccf55191f4c607ac659e1ebbb13fa9a9889b3
-Section: Fonts - Tweak Mode
-Description: Clean & narrow sans-serif typeface. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonttttedstm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: TT Teds (TM)
-Sileodepiction: https://evynw.github.io/sileo/fonttttedstm.json
-
 Package: com.evynw.fontunineue12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontunineue12_1.0_iphoneos-arm.deb
-Size: 10486262
-MD5sum: 6aa952b712c7c20b593eb1f396735649
-SHA1: 6aa4daa5077888186f7cb32818be4041ce1ee6b7
-SHA256: d13b8fec421d9c13d777feb47f51a9731be64273f3e2486c884fcbdb1cdf60cc
-Section: Fonts - Theme
+Size: 10486268
+MD5sum: 6a77e0f3404ac21fdabb4133e3c3ca70
+SHA1: cb71a133a5aec14b07399f1c2500704b76f9e2c7
+SHA256: 30482e2a2593b48c14856f22b83a2c0668916fc6146557a589882e001290bae2
+Section: Fonts (iOS10-12)
 Description: New font in a while. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontunineue12
@@ -1892,13 +1644,12 @@ Package: com.evynw.fonturwgeo12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.0-3)
 Filename: ./debs/com.evynw.fonturwgeo12_1.0_iphoneos-arm.deb
-Size: 16865070
-MD5sum: 409dc759f1cf99932a10ad772534ef40
-SHA1: b1f8090922d149e88398ddd65d23262ba3ecc820
-SHA256: 7528b1f32a6b3792cde5be6983d97e511c318c71ae720aa4226a3ad3c4354b49
-Section: Fonts - Theme
+Size: 16865038
+MD5sum: e46a375501992731b38370d25df3b30e
+SHA1: e777fc728f89e168b7725b467891be0654397cf5
+SHA256: 1d07a9ed1892c8da35502bb133d8a532d1256639289e1d5e327024f6f3dddf6f
+Section: Fonts (iOS10-12)
 Description: Small sans-serif. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonturwgeo12
@@ -1906,56 +1657,22 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: URW Geometric (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fonturwgeo12.json
 
-Package: com.evynw.fonturwgeotm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fonturwgeotm_1.0_iphoneos-arm.deb
-Size: 1614366
-MD5sum: c21e06bc4401afa81af2fc716b98312b
-SHA1: cd92a5e21d79d45ead76601c13bf10c9b192556f
-SHA256: fb2d7d71a3a9d1e51935d0e15a3a6ed90aa057ebd16f7b99398af640f6cee6df
-Section: Fonts - Tweak Mode
-Description: Easy-on-the-eye sans-serif typeface. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonturwgeotm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: URW Geometric (TM)
-Sileodepiction: https://evynw.github.io/sileo/fonturwgeotm.json
-
 Package: com.evynw.fontvito1011
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontvito1011_1.0_iphoneos-arm.deb
-Size: 16354536
-MD5sum: 4472e585713e177800e15cad7dce1c65
-SHA1: c85e9b08593bf2cc61e10d684661a6208697a23d
-SHA256: 55f6f8870b2c9addcf090e94a07dc8dc2e01766860da857a319f1ef5350a588d
-Section: Fonts - Theme
+Size: 16354530
+MD5sum: cbdd237f95e5200f3c0f0681230a4b8e
+SHA1: cfe66d80b183a7a49acec39f9a95bd9f1aa5ed72
+SHA256: f5bf5b64cb3a7ec99befcd88a5edf90a43bee3be526e903cefaf0b697fff5af1
+Section: Fonts (iOS10-12)
 Description: Clean sans-serif typeface. For Anemone.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontvito1011
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Vito (iOS10/11)
 Sileodepiction: https://evynw.github.io/sileo/fontvito1011.json
-
-Package: com.evynw.fontvitotm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontvitotm_1.0_iphoneos-arm.deb
-Size: 1681548
-MD5sum: 238e13ce770cb0dd2471d71ecccadf92
-SHA1: 3cc1ad1b16ef776593d230097e41792f4243ff87
-SHA256: 6f7f81cb67092ec4137c8f65ee30ed264b003f0e7fdae1da966506c79c59906a
-Section: Fonts - Tweak Mode
-Description: Clean sans-serif typeface. For BytaFont Tweak Mode.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontvitotm
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Vito (TM)
-Sileodepiction: https://evynw.github.io/sileo/fontvitotm.json
 
 Package: com.evynw.keypaddigital2x
 Version: 1.0
@@ -4665,19 +4382,20 @@ Name: MASQ.EW8
 Sileodepiction: https://evynw.github.io/sileo/masqew8.json
 
 Package: com.evynw.repoicons
-Version: 1.0-3
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.repoicons_1.0-3_iphoneos-arm.deb
-Size: 136592
-MD5sum: 365c70409aed34c53fed67ab1c4b1e74
-SHA1: fac6dfe957f4d06230eb9db35592201bffcad244
-SHA256: 169ec26943e2e21147999f4d47cd4e674011a81f2987a4db6222d5ae561aaa0b
+Filename: ./debs/com.evynw.repoicons_1.1_iphoneos-arm.deb
+Size: 148530
+MD5sum: 80e900956b2c1a5f5bffb1b282253d2a
+SHA1: 604c15cd5eb07f3052e49f9d6bb4459392898115
+SHA256: 95f3c5f51d75ac6bab4f32e3cbbe5b66173351634fd7e66b395551c488c4e5ca
 Section: System
 Description: Official Icons for EVELYN's Repo. Icons replacing the ? marks.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.repoicons
 Name: EVELYN's Repo Icons
+Sileodepiction: https://evynw.github.io/sileo/repoicons.json
 
 Package: com.evynw.respringantlers
 Version: 1.0
