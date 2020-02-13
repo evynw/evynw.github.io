@@ -1658,21 +1658,38 @@ Name: Uni Neue (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontunineue12.json
 
 Package: com.evynw.fonturwgeo12
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fonturwgeo12_1.0_iphoneos-arm.deb
-Size: 16865038
-MD5sum: e46a375501992731b38370d25df3b30e
-SHA1: e777fc728f89e168b7725b467891be0654397cf5
-SHA256: 1d07a9ed1892c8da35502bb133d8a532d1256639289e1d5e327024f6f3dddf6f
+Filename: ./debs/com.evynw.fonturwgeo12_1.1_iphoneos-arm.deb
+Size: 13036516
+MD5sum: 498c743b26b043d9bc9017d39f4e3878
+SHA1: 205019ffabac5e4355f469c2770f2e0141075137
+SHA256: 0ce937fe6286885d4f2c68942dd22b0407e3aa91c21ac0588662c18d41d79b98
 Section: Fonts (iOS10-12)
-Description: Small sans-serif. Compatible with iOS10-12.
+Description: Small & conventional sans. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonturwgeo12
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: URW Geometric (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fonturwgeo12.json
+
+Package: com.evynw.fonturwgeo13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fonturwgeo13_1.0_iphoneos-arm.deb
+Size: 9532556
+MD5sum: a1e64291080e90d2f8aa332dcad1da4c
+SHA1: 19a478f54a0b08fabcbc1b12be44ac2b988c4d42
+SHA256: 58cf1d4f902d9e91eaa2727fea313ffc6e0840ada44dc03c7d19d15f3a1b942a
+Section: Fonts (iOS13)
+Description: Small & conventional sans. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonturwgeo13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: URW Geometric (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fonturwgeo13.json
 
 Package: com.evynw.fontvito1011
 Version: 1.0
