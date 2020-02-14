@@ -1249,21 +1249,38 @@ Name: IBM Plex Sans (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontibmplexsans12.json
 
 Package: com.evynw.fontintervalsans12
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontintervalsans12_1.1_iphoneos-arm.deb
-Size: 9783208
-MD5sum: 8bdaff65cd47521dcb67f42aaa056bc9
-SHA1: 4f163212afe5762a0bf70c7fe728486162197635
-SHA256: f0392e70ba56b5f404ac8e9f1ee70066396b5470cdc924c32df4fe4179b52823
+Filename: ./debs/com.evynw.fontintervalsans12_1.2_iphoneos-arm.deb
+Size: 10200562
+MD5sum: c60687fe529921e4c07a2a9c8d42d2fb
+SHA1: 886b29c6796332089c77b65a7177b7f5962b6a67
+SHA256: 5de3de2a6d86926213bdaa852dd066d0d41d1ac20b48058a54651191a2a09765
 Section: Fonts (iOS10-12)
-Description: Complete remake. Better Viet support. Compatible with iOS10-12.
+Description: Clean sans serif. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontintervalsans12
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Interval Sans (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontintervalsans12.json
+
+Package: com.evynw.fontintervalsans13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontintervalsans13_1.0_iphoneos-arm.deb
+Size: 7297042
+MD5sum: 90bea7f52e455ba2f63e4c9fc09ccc66
+SHA1: e127065924f3453b087a70e91e9192e63dfc428c
+SHA256: 124bf3847158fa02ae2a38ae3a8d122c5f8df4b28902308956a4d6f62490ed74
+Section: Fonts (iOS13)
+Description: Clean sans serif. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontintervalsans13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Interval Sans (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontintervalsans13.json
 
 Package: com.evynw.fontkomet12
 Version: 1.1
