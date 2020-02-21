@@ -1,20 +1,20 @@
 {
-	"name": "LS EW75",
-	"package": "com.evynw.lsew75",
-	"author": "Evelyn (ev_ynw)",
-	"version": "1.0",
-	"dependency": "XenInfo",
-	"minOSVersion": "9.0",
-	"maxOSVersion": "12.4",
-	"otheriOS": "untested",
-	"description": "<div>Includes 2 versions - 1 shows weather desc, 1 shows ram<br><br>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)<br><br>Apply with XenHTML<br><br>Requires XenInfo for weather/battery components to work properly<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
-  	"changelog": {
-	    "1.0": [
-	      "Initial release"
-	    ]
-  	},
-	"screenshots": {
-		"ss.png": ""
-	},
-	"links": {}
+  "name": "LS EW75",
+  "package": "com.evynw.lsew75",
+  "author": "Evelyn (ev_ynw)",
+  "version": "1.0",
+  "dependency": "XenInfo",
+  "minOSVersion": "9.0",
+  "maxOSVersion": "13.4",
+  "otheriOS": "untested",
+  "description": "<div>Includes 2 versions - 1 shows weather desc, 1 shows ram<br><br>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)<br><br>Apply with XenHTML<br><br>Requires XenInfo for weather/battery components to work properly<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "changelog": {
+    "1.0": [
+      "Initial release"
+    ]
+  },
+  "screenshots": {
+    "ss.png": ""
+  },
+  "links": {}
 }

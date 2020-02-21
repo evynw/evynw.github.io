@@ -1,20 +1,20 @@
 {
-	"name": "LS EW33",
-	"package": "com.evynw.lsew33",
-	"author": "Evelyn (ev_ynw)",
-	"version": "1.0",
-	"dependency": "N/A",
-	"minOSVersion": "9.0",
-	"maxOSVersion": "12.4",
-	"otheriOS": "untested",
-	"description": "<div>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)<br><br>Apply with XenHTML<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
-  	"changelog": {
-	    "1.0": [
-	      "Initial release"
-	    ]
-  	},
-	"screenshots": {
-		"ss.png": ""
-	},
-	"links": {}
+  "name": "LS EW33",
+  "package": "com.evynw.lsew33",
+  "author": "Evelyn (ev_ynw)",
+  "version": "1.0",
+  "dependency": "N/A",
+  "minOSVersion": "9.0",
+  "maxOSVersion": "13.4",
+  "otheriOS": "untested",
+  "description": "<div>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)<br><br>Apply with XenHTML<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "changelog": {
+    "1.0": [
+      "Initial release"
+    ]
+  },
+  "screenshots": {
+    "ss.png": ""
+  },
+  "links": {}
 }

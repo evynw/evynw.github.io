@@ -5,7 +5,7 @@
   "version": "1.0",
   "dependency": "N/A",
   "minOSVersion": "13.0",
-  "maxOSVersion": "13.3",
+  "maxOSVersion": "13.3.1",
   "otheriOS": "unsupported",
   "description": "<div>Compatible with iOS13. iOS10-12 users please download the package marked “iOS10-12”.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
