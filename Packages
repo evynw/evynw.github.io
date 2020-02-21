@@ -1577,16 +1577,16 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontsfrounded12_1.1_iphoneos-arm.deb
-Size: 21500936
-MD5sum: 2670bd9ad4998c8045c4e7440ffbdbbf
-SHA1: 4aa71310b910cf5a59d1a131c10c94292e494959
-SHA256: 5455641a1ba4f74de0a95994923744678c05b10aa346f424e6b04f3271aa40bd
+Size: 21500928
+MD5sum: 3c43e87bece238dcc32836dfad543112
+SHA1: a8ac881a7c65e6263d28db03fc38bf7ecedb400f
+SHA256: 5d458ea31d8258da5cd7e7107ff7ce4aa8777595215e18db3f41f0e65dff6bcf
 Section: Fonts (iOS10-12)
 Description: Apple Watch font. 100% size. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsfrounded12
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: SF Compact Rounded_85% (iOS10-12)
+Name: SF Compact Rounded (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontsfrounded12.json
 
 Package: com.evynw.fontsfrounded13
