@@ -4220,6 +4220,24 @@ Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW67
 Sileodepiction: https://evynw.github.io/sileo/lsew67.json
 
+Package: com.evynw.lsew7
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.lsew7_1.0_iphoneos-arm.deb
+Size: 425726
+MD5sum: 2eb18a68f0e178b12565e9db636a15d7
+SHA1: 97850cbb44fd18cb3d3666c9e1d91c172cd83562
+SHA256: f1ff4df2b5d63f99ae867d24d0ce29fd8c57cd4726b8f19b959395a1937ba660
+Section: Lockscreen Widgets
+Description: A widget made in 2016 =3= Good ol' vibes!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew7
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW7
+Sileodepiction: https://evynw.github.io/sileo/lsew7.json
+
 Package: com.evynw.lsew71
 Version: 1.0
 Architecture: iphoneos-arm
@@ -5239,6 +5257,24 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew48
 Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
 Name: SB EW48
 Sileodepiction: https://evynw.github.io/sileo/sbew48.json
+
+Package: com.evynw.sbew5
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew5_1.0_iphoneos-arm.deb
+Size: 412086
+MD5sum: 020449c068d9d5d57ac1e9f56717e893
+SHA1: 15a22bf26f96f7c6bb7a1d67e9146f95c421eb7c
+SHA256: 3ba9939503bbc326029a777b4d923fd4b828724ca72a16f1d1696bd6907d5b42
+Section: Homescreen Widgets
+Description: A widget made in 2016 =3= Good ol' vibes!
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew5
+Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
+Name: SB EW5
+Sileodepiction: https://evynw.github.io/sileo/sbew5.json
 
 Package: com.evynw.sbew53
 Version: 1.0
