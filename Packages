@@ -293,6 +293,74 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Avenir Next (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontavenir12.json
 
+Package: com.evynw.fontbaijamjuree12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontbaijamjuree12_1.0_iphoneos-arm.deb
+Size: 11667938
+MD5sum: 1f983f4db69d4475ead1022ccdec960e
+SHA1: 94f1b835f846b0bcc89c1793872a8e38e725b388
+SHA256: 3d1ba7e9fb9e6862ac7225298edc09bf60c04e4edd17062f58ea37bc5410f541
+Section: Fonts (iOS10-12)
+Description: Techno-looking sans. 100% size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbaijamjuree12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bai Jamjuree (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontbaijamjuree12.json
+
+Package: com.evynw.fontbaijamjuree13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontbaijamjuree13_1.0_iphoneos-arm.deb
+Size: 22228134
+MD5sum: 07f3717ed2efa58d7a582450ab3b4c86
+SHA1: daf5218c6cb7d3b8da5cc33dd5eed4f2b4ae4a23
+SHA256: fc42526f86e3eab51ed747ef4ddc8e0ba18dfb0c9bb5529493a8f9dccf62976a
+Section: Fonts (iOS13)
+Description: Techno-looking sans. 100% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbaijamjuree13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bai Jamjuree (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontbaijamjuree13.json
+
+Package: com.evynw.fontbaijamjuree8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontbaijamjuree8512_1.0_iphoneos-arm.deb
+Size: 12393608
+MD5sum: a9c0cf0fcc5d2deba246687cb23a8657
+SHA1: 8604f4bfcb2764016394cf6186f1a0d138120fae
+SHA256: 1cc60790176e8bf1b702bd4f7a44da000844675cf84d35bdfbe53d20c7cbdf44
+Section: Fonts (iOS10-12)
+Description: Techno-looking sans. 85% size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbaijamjuree8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bai Jamjuree_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontbaijamjuree8512.json
+
+Package: com.evynw.fontbaijamjuree8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontbaijamjuree8513_1.0_iphoneos-arm.deb
+Size: 23222616
+MD5sum: b1e80128678dbc1965b6f3a9720bbf36
+SHA1: 42a4e395558270cfe7d715e6f4a1d607f29ae812
+SHA256: 5b4b73634dc5b30b3b8afe16d59b48a84818a7b937670dad848de17f672a1db8
+Section: Fonts (iOS13)
+Description: Techno-looking sans. 85% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbaijamjuree8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bai Jamjuree_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontbaijamjuree8513.json
+
 Package: com.evynw.fontbariol12
 Version: 1.0
 Architecture: iphoneos-arm
@@ -600,6 +668,74 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Cera (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcera12.json
 
+Package: com.evynw.fontchalkboard12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontchalkboard12_1.0_iphoneos-arm.deb
+Size: 20517996
+MD5sum: 82f111cb7796e8ab66732074e0f6eec6
+SHA1: c56eefbb2bd877339bb45294c0018ce69d482701
+SHA256: 3cdee55342f3c80609f6b31329dd23bd4442edf24726b5e59707b446cea82877
+Section: Fonts (iOS10-12)
+Description: NOT Comic Sans lol. 100% size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontchalkboard12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Chalkboard SE (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontchalkboard12.json
+
+Package: com.evynw.fontchalkboard13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontchalkboard13_1.0_iphoneos-arm.deb
+Size: 19750252
+MD5sum: ae45e4ab80bf7a4489d73c7257525683
+SHA1: a6cae8d883e5930bbc3eb387f5e9ac21b326be24
+SHA256: c6f1ac8406125e732a211689ba475ff68f8737a723bf9c97d18c1c5add607892
+Section: Fonts (iOS13)
+Description: NOT Comic Sans lol. 100% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontchalkboard13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Chalkboard SE (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontchalkboard13.json
+
+Package: com.evynw.fontchalkboard8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontchalkboard8512_1.0_iphoneos-arm.deb
+Size: 21913298
+MD5sum: 211720dee2254a598fe622d18c77ebc6
+SHA1: 3a6f29d7805ac79527e36b17822ce73fd106f1f8
+SHA256: 541bfabb881f4d0e7787ae2d367c6721eac95b1e35b4e626da15d404ca39d3f0
+Section: Fonts (iOS10-12)
+Description: NOT Comic Sans lol. 85% size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontchalkboard8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Chalkboard SE_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontchalkboard8512.json
+
+Package: com.evynw.fontchalkboard8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontchalkboard8513_1.0_iphoneos-arm.deb
+Size: 21031144
+MD5sum: 50a6d7a717838a11053de83b9fe66f8f
+SHA1: 875d10eef4d7bf9e99d130784939d993b2c1d872
+SHA256: 37061dd48f7206851e7dc12d941f28467ecb83a8c426e0f2058ee56729cf28f0
+Section: Fonts (iOS13)
+Description: NOT Comic Sans lol. 85% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontchalkboard8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Chalkboard SE_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontchalkboard8513.json
+
 Package: com.evynw.fontciutadella12
 Version: 1.0
 Architecture: iphoneos-arm
@@ -823,38 +959,72 @@ Name: Core Sans D (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcoresansd12.json
 
 Package: com.evynw.fontcorpsansalt12
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontcorpsansalt12_1.0_iphoneos-arm.deb
-Size: 9811720
-MD5sum: aaa33192becbabd637dba04ad0116400
-SHA1: a1282d694199255f8dcf55fd86baa3d05eeb446c
-SHA256: 8fdcbd566c0c81a7b2ef3e76440c20ca3b731f841d2b66c2206e27a9a03e1217
+Filename: ./debs/com.evynw.fontcorpsansalt12_1.1_iphoneos-arm.deb
+Size: 28537752
+MD5sum: c8825cdba14f6ae9e889cb20b8df818b
+SHA1: 87a4aea88e073cf91fed63eb25019b080b03da17
+SHA256: d42b80208dbdfe3f6afec15ce14c67d5791adda6dbeb67cf98836b72ec56cf53
 Section: Fonts (iOS10-12)
-Description: 100% stock font size of Corporative Sans Alt
+Description: Nice rounded font. 100% size. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcorpsansalt12
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Corporative Sans Alt (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcorpsansalt12.json
 
-Package: com.evynw.fontcorpsansalt8512
+Package: com.evynw.fontcorpsansalt13
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontcorpsansalt8512_1.0_iphoneos-arm.deb
-Size: 10431590
-MD5sum: 209642f9aed2032d540ab8709986ff89
-SHA1: 842c13696d1f04965c763b38dc999cd2f65b2a6c
-SHA256: 3666ad6aaa693f3463770819d4882bf54d45aea201a65a4084c7cb32736ccb0e
+Filename: ./debs/com.evynw.fontcorpsansalt13_1.0_iphoneos-arm.deb
+Size: 25244046
+MD5sum: 4f9b8da3fd29590cec7f3c21592e02b7
+SHA1: a2bc08efed6bcdeec2be40e87aa9deab06b56f40
+SHA256: d2e4a3420d0b8aaaccccb217594e7bccf8d52fea56e0d5fe8aa2c12e05a9ff14
+Section: Fonts (iOS13)
+Description: Nice rounded font. 100% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcorpsansalt13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Corporative Sans Alt (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontcorpsansalt13.json
+
+Package: com.evynw.fontcorpsansalt8512
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontcorpsansalt8512_1.1_iphoneos-arm.deb
+Size: 30047234
+MD5sum: 1dbb0e198a609d184a06f3e7599fd21a
+SHA1: daf3c238032eb2abb53a83d21ea56e48d4b57ee4
+SHA256: d666966837d092f7159844fdd9087cc38b87b406bb044af857bb61f1fd91d298
 Section: Fonts (iOS10-12)
-Description: 85% size of the original Corporative Sans
+Description: Nice rounded font. 85% size. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcorpsansalt8512
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Corporative Sans Alt_85% (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcorpsansalt8512.json
+
+Package: com.evynw.fontcorpsansalt8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontcorpsansalt8513_1.0_iphoneos-arm.deb
+Size: 26576570
+MD5sum: 197d2bf3c9705a5ea010e2b5a156c037
+SHA1: 8b0262af77e914fb4f18cfac2f20deaea3caaf79
+SHA256: c00fcdf024c608933a05ba4c7322f627a9ff0511d0a059d5b8ca72ecd781bd3c
+Section: Fonts (iOS13)
+Description: Nice rounded font. 85% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcorpsansalt8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Corporative Sans Alt_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontcorpsansalt8513.json
 
 Package: com.evynw.fontdubai12
 Version: 1.1
@@ -3892,17 +4062,17 @@ Name: LS EW5
 Sileodepiction: https://evynw.github.io/sileo/lsew5.json
 
 Package: com.evynw.lsew50
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.lsew50_1.0_iphoneos-arm.deb
-Size: 201072
-MD5sum: 6cba63e5c51c347f20af1c6067ebaaa5
-SHA1: 5f63d8bcd36ce6a8a78a506bbf326222e551c6fa
-SHA256: fb46a144461e828ef86846bf9277ba2d97a244e2ad03d29be9177b0b450b4caa
+Filename: ./debs/com.evynw.lsew50_1.1_iphoneos-arm.deb
+Size: 370004
+MD5sum: 90b0ccacbc6c4d9a4a530e607bde9ac6
+SHA1: 6683c45a232cc9b128a4b67f679a8d36564ac200
+SHA256: 3e47b422cb687972c3c2e74ff0766c349ea8163198bbe10551b24d50eb2e34a0
 Section: Lockscreen Widgets
-Description: One of my favs <3
+Description: One of my favs from the old times <3
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew50
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
