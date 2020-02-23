@@ -498,21 +498,38 @@ Name: Brokman (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontbrokman12.json
 
 Package: com.evynw.fontbronkoh12
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontbronkoh12_1.0_iphoneos-arm.deb
-Size: 16815008
-MD5sum: 891fafca17289d2d95995a75e4d4fa70
-SHA1: 4c2df6f727bc9d705eb224e3070bfbc66d513587
-SHA256: 010d424232500e7d0d61d392c9159165ac80652dbe4f9c9134e108edb1818511
+Filename: ./debs/com.evynw.fontbronkoh12_1.1_iphoneos-arm.deb
+Size: 10479524
+MD5sum: fa8ab453eb19773defb8b6ecb26216d6
+SHA1: 4592cd222b4b473e75116e155106e20e40cfeb27
+SHA256: 0b987e2fa6e6536f1cfbf8d319602d40da22bfa4a36a4084f30ca89842205b8a
 Section: Fonts (iOS10-12)
-Description: Grotesque-ish sans-serif. For iOS10-12.
+Description: Grotesque-ish sans serif. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbronkoh12
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Bronkoh (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontbronkoh12.json
+
+Package: com.evynw.fontbronkoh13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontbronkoh13_1.0_iphoneos-arm.deb
+Size: 7522246
+MD5sum: c485f92093ab1538ced736422a583a12
+SHA1: 7e6790cd3e5ff8fc0476c4a2359547a7731c7d48
+SHA256: 395978fe158fcf79abefa6fae82f8d27eb3bc44f56367e43723afc37cc04ef66
+Section: Fonts (iOS13)
+Description: Grotesque-ish sans serif. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbronkoh13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bronkoh (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontbronkoh13.json
 
 Package: com.evynw.fontbunday12
 Version: 1.1

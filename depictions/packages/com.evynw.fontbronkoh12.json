@@ -2,13 +2,17 @@
 	"name": "Bronkoh (iOS10-12)",
 	"package": "com.evynw.fontbronkoh12",
 	"author": "Evelyn (ev_ynw)",
-	"version": "1.0",
+	"version": "1.1",
 	"dependency": "N/A",
 	"minOSVersion": "10.0",
 	"maxOSVersion": "12.4",
-	"otheriOS": "untested",
-	"description": "<div>Optimised for iOS12. Also downward compatible with iOS10&11.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+	"otheriOS": "unsupported",
+	"description": "<div>Only compatible on iOS10-12. iOS13 users please install the package marked “iOS13”.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {
+	    "1.1": [
+	      "Updated for iOS12.4",
+	      "Better Vietnamese support"
+	    ],
 	    "1.0": [
 	      "Initial release"
 	    ]
