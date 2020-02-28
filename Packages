@@ -277,21 +277,38 @@ Name: Asterisk Sans (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontasterisk12.json
 
 Package: com.evynw.fontavenir12
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontavenir12_1.0_iphoneos-arm.deb
-Size: 17949756
-MD5sum: c55b182a5c91a429cd9e6f7d86e8cbfd
-SHA1: 9a57b8daa535a6f83784a9ea1e00160cca56f9a8
-SHA256: 435f5d0aeee836bc517ddeb31a60ed1bc9d0f7e81efcda41d0c829de474c933d
+Filename: ./debs/com.evynw.fontavenir12_1.1_iphoneos-arm.deb
+Size: 11214710
+MD5sum: a588b34ef3b5b34d47f0a80455aa918f
+SHA1: a36b0b63e1b451831003e0fcc679b66ce31eee3f
+SHA256: 6efda55020355bcfd596b6db736eee288fb660492d041906c6a39058604c0f19
 Section: Fonts (iOS10-12)
-Description: Classic sans-serif. Compatible with iOS10-12.
+Description: Classic sans serif. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontavenir12
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Avenir Next (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontavenir12.json
+
+Package: com.evynw.fontavenir13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontavenir13_1.0_iphoneos-arm.deb
+Size: 7908828
+MD5sum: 388ad39710be740fd1ef4e19f4c4fca8
+SHA1: 73f51d56a75b739960adaa93b7c667f7c6470940
+SHA256: bf84d94e45582b564a346c0f8e989e93f8a95cb707b6375d8d82f76ed1216e41
+Section: Fonts (iOS13)
+Description: Classic sans serif. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontavenir13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Avenir Next (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontavenir13.json
 
 Package: com.evynw.fontbaijamjuree12
 Version: 1.0
