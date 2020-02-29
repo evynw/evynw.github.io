@@ -2,17 +2,13 @@
 	"name": "Avenir Next (iOS10-12)",
 	"package": "com.evynw.fontavenir12",
 	"author": "Evelyn (ev_ynw)",
-	"version": "1.1",
+	"version": "1.0",
 	"dependency": "N/A",
 	"minOSVersion": "10.0",
 	"maxOSVersion": "12.4",
 	"otheriOS": "untested",
   	"description": "<div>Compatible with iOS10-12. iOS13 users please download the package marked “iOS13”.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {
-	    "1.1": [
-	      "Updated for iOS12.4",
-	      "Better Vietnamese support for Helvetica.TTCs"
-	    ],
 	    "1.0": [
 	      "Initial release"
 	    ]
