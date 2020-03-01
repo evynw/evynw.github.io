@@ -5573,20 +5573,22 @@ Name: SB EW88
 Sileodepiction: https://evynw.github.io/sileo/sbew88.json
 
 Package: com.evynw.sbew9
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.sbew9_1.0_iphoneos-arm.deb
-Size: 112254
-MD5sum: 2c5d2ad9771cc11cb3a55d8312b936fc
-SHA1: c1a33aff20b17f48b659919dbe257a7f69c1446c
-SHA256: 246a62ba2e7e025a80eaee063e303f98ccfda024ecdead8713439231f9fedfac
+Depends: com.junesiphone.xeninfo
+Filename: ./debs/com.evynw.sbew9_1.1_iphoneos-arm.deb
+Size: 116002
+MD5sum: 6b48b3b9c6f8f6b34eef3b40dc809ab8
+SHA1: 7dec1f23c4341059e7bc80ed8721c7581e974868
+SHA256: 22065bb9c0a9b25b77eb453c0e2cbe36812653517ff7d9f005d6430fcc75845e
 Section: Homescreen Widgets
-Description: A widget. Like what else do you think this is lol.
+Description: Pretty popular SB :)
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew9
+Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
 Name: SB EW9
+Sileodepiction: https://evynw.github.io/sileo/sbew9.json
 
 Package: com.evynw.sbew92
 Version: 1.0

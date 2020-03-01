@@ -2,13 +2,17 @@
   "name": "SB EW9",
   "package": "com.evynw.sbew9",
   "author": "Evelyn (ev_ynw)",
-  "version": "1.0",
+  "version": "1.1",
   "dependency": "XenInfo",
   "minOSVersion": "9.0",
   "maxOSVersion": "13.4",
   "otheriOS": "untested",
   "description": "<div>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)<br><br>Apply with XenHTML<br><br>Requires XenInfo for weather/battery components to work properly<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
+    "1.1": [
+      "Added more styling options in Config.js",
+      "Cleaned up code"
+    ],
     "1.0": [
       "Initial release"
     ]
