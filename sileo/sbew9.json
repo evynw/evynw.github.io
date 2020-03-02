@@ -63,7 +63,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1",
+          "text": "1.1-1",
           "title": "Version"
         },
         {
@@ -128,6 +128,17 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
+          "title": "1.1-1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Fixed 12hr hour text</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSubheaderView",
           "title": "1.1",
           "useBoldText": true,
           "useBottomMargin": false
@@ -136,7 +147,7 @@
           "class": "DepictionMarkdownView",
           "markdown": "<ul>\n<li>Added more styling options in Config.js</li>\n<li>Cleaned up code</li>\n</ul>",
           "useRawFormat": true
-        }
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",

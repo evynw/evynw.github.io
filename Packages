@@ -5573,15 +5573,15 @@ Name: SB EW88
 Sileodepiction: https://evynw.github.io/sileo/sbew88.json
 
 Package: com.evynw.sbew9
-Version: 1.1
+Version: 1.1-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.sbew9_1.1_iphoneos-arm.deb
-Size: 116002
-MD5sum: 6b48b3b9c6f8f6b34eef3b40dc809ab8
-SHA1: 7dec1f23c4341059e7bc80ed8721c7581e974868
-SHA256: 22065bb9c0a9b25b77eb453c0e2cbe36812653517ff7d9f005d6430fcc75845e
+Filename: ./debs/com.evynw.sbew9_1.1-1_iphoneos-arm.deb
+Size: 163502
+MD5sum: a07dc3d1984b389afc8dec8bc3d47ed1
+SHA1: 319233f8c3824384003734c06dedaf215e35d001
+SHA256: c73f647d0813a7232064a197985ec2d1d6ebef893b8f47b042a5aad936137324
 Section: Homescreen Widgets
 Description: Pretty popular SB :)
 Author: Evelyn (ev_ynw)
