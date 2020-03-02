@@ -1,3 +1,20 @@
+Package: com.evynw.ew1msgbubbles
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.ew1msgbubbles_1.0_iphonesos-arm.deb
+Size: 6514
+MD5sum: 3701d0bcce523550bb1366ba71ba81cc
+SHA1: 7f731650347cdc2e42f9183f8be41ff29bf71e08
+SHA256: 03728921a5811c295ff8eba16b7dad91ea41bb19769c447b659da4a99bb183fb
+Section: Others
+Description: Old message bubbles updated for iOS13
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1msgbubbles
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: EW1.MessageBubbles
+Sileodepiction: https://evynw.github.io/sileo/ew1msgbubbles.json
+
 Package: com.evynw.ew1pagedots
 Version: 1.0
 Architecture: iphoneos-arm
