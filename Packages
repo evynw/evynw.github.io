@@ -4655,15 +4655,15 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsewlegacy
 Name: LS EW.Legacy
 
 Package: com.evynw.lsewnotch
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.lsewnotch_1.0_iphoneos-arm.deb
-Size: 78484
-MD5sum: 341754475e2f663ca6300f69ed0065fb
-SHA1: c7c4acc3d02bb3a9eda3104616291ffe281c7951
-SHA256: 559d63e128f1ef32417dcc2bd42f34e4a80e0da6191ad060a74e46259ef9d9be
+Filename: ./debs/com.evynw.lsewnotch_1.0-1_iphoneos-arm.deb
+Size: 225112
+MD5sum: 6477d3e54f013c4bf8919c0b24b29883
+SHA1: 7692b25028948648e386bce9a41600e6b7e06063
+SHA256: 69c2f137bad0acee172768385fdf9b6bba2613e080755e17a980bbd9a55d5c91
 Section: Lockscreen Widgets
 Description: Imitating Notchless ;P
 Author: Evelyn (ev_ynw)

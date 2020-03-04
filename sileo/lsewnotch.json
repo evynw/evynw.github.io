@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Kind of imitates the effect of Notchless on lockscreen. Option to use system font (or ported fonts applied via Filza).</p>\n<p style=\"font-size:10pt;\">Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)</p>\n<p style=\"font-size:10pt;\">Apply with XenHTML</p>\n<p style=\"font-size:10pt;\">Requires XenInfo for weather/battery components to work properly</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">Kind of imitates the effect of Notchless on lockscreen. <strong>If you're on an iPX, SWITCH ON THE 'iPX' OPTION IN THE WIDGET SETTINGS for proper alignment of the notch.</strong> Option to use system font (or ported fonts applied via Filza).</p>\n<p style=\"font-size:10pt;\">Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)</p>\n<p style=\"font-size:10pt;\">Apply with XenHTML</p>\n<p style=\"font-size:10pt;\">Requires XenInfo for weather/battery components to work properly</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -63,7 +63,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0",
+          "text": "1.0-1",
           "title": "Version"
         },
         {
@@ -126,6 +126,17 @@
       "tabname": "Changelog",
       "tintColor": "#dc826d",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0-1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Proper alignment for iPX</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
