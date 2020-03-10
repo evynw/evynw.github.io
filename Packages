@@ -1725,21 +1725,38 @@ Name: PF DIN Text Pro (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontpfdin12.json
 
 Package: com.evynw.fontroboto12
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontroboto12_1.0_iphoneos-arm.deb
-Size: 11681490
-MD5sum: ba709ed384e3efb2ad90e53930e71519
-SHA1: 799d1cf204d27c34e4283093562b5702f4426d99
-SHA256: 73d0ce70199f0561551ccc963a1aa55d585643a559a9e5381a15577d88b33408
+Filename: ./debs/com.evynw.fontroboto12_1.1_iphoneos-arm.deb
+Size: 11674284
+MD5sum: 75281754a717a6e65df8be6826e0f1ca
+SHA1: 83c8102758b95fa936e9f0ac026e9ec8a14667f8
+SHA256: 74757bd1de86ab48de52c2b0c6302e53751b1a0e8dc29c49a08319c387cc5519
 Section: Fonts (iOS10-12)
-Description: Classic sans-serif. Compatible with iOS10-12.
+Description: Classic Android font. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontroboto12
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Roboto (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontroboto12.json
+
+Package: com.evynw.fontroboto13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontroboto13_1.0_iphoneos-arm.deb
+Size: 8686294
+MD5sum: bd7a0df63e8cda0dbbdbb50eeec73cce
+SHA1: fc013b9750ee259e3d5585cb777416556defeeea
+SHA256: 0639420c182d157e86fb1979edfc4163c03cf9faff863e32aeda1f3d5586b534
+Section: Fonts (iOS13)
+Description: Classic Android font. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontroboto13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Roboto (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontroboto13.json
 
 Package: com.evynw.fontsarala12
 Version: 1.0
