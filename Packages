@@ -31,6 +31,23 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1pagedots
 Name: EW1.PageDots
 
+Package: com.evynw.ew5msgbubbles
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.ew5msgbubbles_1.0_iphoneos-arm.deb
+Size: 6236
+MD5sum: 4d43cdcc9351a95bd03c5f2ea1f154f1
+SHA1: 71aba42c7e2145f453cbc0d50656c999d0904868
+SHA256: 2e150ea428b600d84b13cc509022ac48d0c28ae0e5a87e61de4d8cf5fb3926df
+Section: Others
+Description: New designs with partial translucency
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew5msgbubbles
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: EW5.MessageBubbles
+Sileodepiction: https://evynw.github.io/sileo/ew5msgbubbles.json
+
 Package: com.evynw.ewwdgtpack10
 Version: 2.0-3
 Architecture: iphoneos-arm
@@ -1792,6 +1809,74 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsegoeui12
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Segoe UI (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontsegoeui12.json
+
+Package: com.evynw.fontsfcompact12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontsfcompact12_1.0_iphoneos-arm.deb
+Size: 23542818
+MD5sum: bf60bac2824bbf2789eca3ae59b0984a
+SHA1: 239efdfb011d7ca58f9dbfa114d70f598033f083
+SHA256: 1740edb07003c85f507a58d5d5aff07ef323b63d2b5ff13449bf0458f732a580
+Section: Fonts (iOS10-12)
+Description: Slimmed stock font. 100% size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsfcompact12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: SF Compact (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontsfcompact12.json
+
+Package: com.evynw.fontsfcompact13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontsfcompact13_1.0_iphoneos-arm.deb
+Size: 20580664
+MD5sum: de789c5ef3b51d4d1e08f020ee1908ca
+SHA1: 4292376a5df6613bf0977433b53e84dd561bd475
+SHA256: bcd00ddf456dfcbd6e4e8087bfa5668c2f86a2cf1beeb82e410eb7fdfdb30a87
+Section: Fonts (iOS13)
+Description: Slimmed stock font. 100% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsfcompact13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: SF Compact (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontsfcompact13.json
+
+Package: com.evynw.fontsfcompact8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontsfcompact8512_1.0_iphoneos-arm.deb
+Size: 24649098
+MD5sum: 3b64eefca7ce27963c0c4d10656c8f5e
+SHA1: 69dddd58d16989ba42c1a1128e33ff7458b4900a
+SHA256: e45bda49d29e9a4d8228fd3778b85daafc794b8b0cbe0c35c2741907437e708c
+Section: Fonts (iOS10-12)
+Description: Slimmed stock font. 85% size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsfcompact8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: SF Compact_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontsfcompact8512.json
+
+Package: com.evynw.fontsfcompact8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontsfcompact8513_1.0_iphoneos-arm.deb
+Size: 21561472
+MD5sum: 8fa2569ca055ddcfca974a416c7d152a
+SHA1: ad5b7554acc2c08d5e3b131a08aaa867b2c9a5fa
+SHA256: 6bfebe77df4aa9b9e3b378158b9f629fbef28b3fd27744b9d071f48d0553ceff
+Section: Fonts (iOS13)
+Description: Slimmed stock font. 85% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsfcompact8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: SF Compact_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontsfcompact8513.json
 
 Package: com.evynw.fontsfpro1011
 Version: 1.0
