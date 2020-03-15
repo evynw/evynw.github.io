@@ -1163,6 +1163,78 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Dubai_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontdubai8513.json
 
+Package: com.evynw.fontencodesans12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontencodesans12_1.0_iphoneos-arm.deb
+Size: 14084588
+MD5sum: 60d71011975f32502c2a930431c048d7
+SHA1: a097f72e70ce4486f99f7fbb822ef686975c3dba
+SHA256: e8aebc4a51a6659e15d18ee9f5cca674305fcef2183063e36f44bb32b7614049
+Section: Fonts (iOS10-12)
+Description: Sleek & clean sans serif. 100% size. For iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontencodesans12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Encode Sans (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontencodesans12.json
+
+Package: com.evynw.fontencodesans13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontencodesans13_1.0_iphoneos-arm.deb
+Size: 8511346
+MD5sum: a13b4c93fa7f0717b3a3115f3d0bcd4a
+SHA1: 19c1e140e8a22d24a8b9ec2d8e5d45644ab91213
+SHA256: cdd05d27e05ccd34b7a2c716a6546580904576e321c7e43cf75edb119c8afc8f
+Section: Fonts (iOS13)
+Description: Sleek & clean sans serif. 100% size. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontencodesans13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Encode Sans (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontencodesans13.json
+
+Package: com.evynw.fontencodesans8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontencodesans8512_1.0_iphoneos-arm.deb
+Size: 7684006
+MD5sum: c8479cfd678136670467f1154787f378
+SHA1: 7c510d17d26825a3f53b23108346806806949a03
+SHA256: f72a7fc27450a8f20d7e3628b7c4444f652f2a13739b7c4cfdc8e11c2f03c935
+Section: Fonts (iOS10-12)
+Description: Sleek & clean sans serif. 85% size. For iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontencodesans8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Encode Sans_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontencodesans8512.json
+
+Package: com.evynw.fontencodesans8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons
+Filename: ./debs/com.evynw.fontencodesans8513_1.0_iphoneos-arm.deb
+Size: 6277996
+MD5sum: 049c6aef19df9824ff45915519c242cd
+SHA1: d12b8120bad2b2d8ab894c62ab1e82b594e4cc00
+SHA256: 5bca0eb96f6d432efef0a2ddc327ac288989cedb77aad26a1da0ad17d37414e5
+Section: Fonts (iOS13)
+Description: Sleek & clean sans serif. 85% size. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontencodesans8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Encode Sans_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontencodesans8513.json
+
 Package: com.evynw.fontestandar12
 Version: 1.0
 Architecture: iphoneos-arm
