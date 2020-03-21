@@ -4880,6 +4880,40 @@ Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
 Name: Bordered
 Sileodepiction: https://evynw.github.io/sileo/masqbordered.json
 
+Package: com.evynw.masqew1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.masqew1_1.0_iphoneos-arm.deb
+Size: 219898
+MD5sum: 3f5946c477328ad2a0c83e29380d4cc3
+SHA1: 5784aa7c5e3ef41dd697e2e14d327d3bf1423696
+SHA256: 7872fb121cc8d3695da40a1e0dc093b9289a2dc8e8c160d53935a1ff3ac93a8e
+Section: MASQ Themes
+Description: From CCover to MASQ to MASQKit
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.masqew1
+Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
+Name: MASQ.EW1
+Sileodepiction: https://evynw.github.io/sileo/masqew1.json
+
+Package: com.evynw.masqew2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.masqew2_1.0_iphoneos-arm.deb
+Size: 121434
+MD5sum: 81b27653aae0c053c95d7b4e38632d36
+SHA1: fa5b545fa1f625e95e65e496a158a9bc042140a0
+SHA256: 227560299a7ab0960cb4e73f0c4305b7972ef0d4e5fc59ee648967cc083715ab
+Section: MASQ Themes
+Description: From CCover to MASQ to MASQKit
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.masqew2
+Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
+Name: MASQ.EW2
+Sileodepiction: https://evynw.github.io/sileo/masqew2.json
+
 Package: com.evynw.masqew4
 Version: 1.0
 Architecture: iphoneos-arm
