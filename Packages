@@ -2107,18 +2107,35 @@ Package: com.evynw.fontunineue12
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontunineue12_1.0_iphoneos-arm.deb
-Size: 10486268
-MD5sum: 6a77e0f3404ac21fdabb4133e3c3ca70
-SHA1: cb71a133a5aec14b07399f1c2500704b76f9e2c7
-SHA256: 30482e2a2593b48c14856f22b83a2c0668916fc6146557a589882e001290bae2
+Filename: ./debs/com.evynw.fontunineue12_1.1_iphoneos-arm.deb
+Size: 12532648
+MD5sum: adeac3347624d2b1b98a3cf047acd997
+SHA1: bdb08c4011f432eb61518b8c03a0c41cd6ffdff2
+SHA256: 72ee4b4132ae6c3690324b946e725b15e43b3c03ad5d57845623bdeb625e83fe
 Section: Fonts (iOS10-12)
-Description: New font in a while. Compatible with iOS10-12.
+Description: Rounded sans serif. For iOS10-12.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontunineue12
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Uni Neue (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontunineue12.json
+
+Package: com.evynw.fontunineue13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontunineue13_1.0_iphoneos-arm.deb
+Size: 9389564
+MD5sum: 91265d321dd1a65a0b99a8b9594f4784
+SHA1: 2be9d02bd34f5d1d95c547340f1eb1c6c0f85429
+SHA256: 4e694d5c19f6893fa91aa184bbd4898281c1718bd15ab17f09dbbfa24ebb567e
+Section: Fonts (iOS13)
+Description: Rounded sans serif. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontunineue13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Uni Neue (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontunineue13.json
 
 Package: com.evynw.fonturwgeo12
 Version: 1.1
