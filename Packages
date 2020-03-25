@@ -5921,3 +5921,37 @@ Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
 Name: SB EW98
 Sileodepiction: https://evynw.github.io/sileo/sbew98.json
 
+Package: com.jona.masqjj1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.jona.masqjj1_1.0_iphoneos-arm.deb
+Size: 349766
+MD5sum: 96f8c534d0f87a4104faef5eade642a2
+SHA1: 8b4edcfe8e9c7e98d63d2ee7e1ffdf72810c0c98
+SHA256: 2147528cf028665062cdc279578be6278eed3a103fe094fd985f77ae3b9639d5
+Section: MASQ Themes
+Description: Old CCover by Jona now revived!
+Author: Jona Schnedi
+Depiction: https://evynw.github.io/depictions/?p=com.jona.masqjj1
+Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
+Name: MASQ.JJ1
+Sileodepiction: https://evynw.github.io/sileo/masqjj1.json
+
+Package: com.jona.masqjj2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.jona.masqjj2.deb
+Size: 282072
+MD5sum: 4e1e2efc767bfbcf6e8297ce55250386
+SHA1: e5dbe8e7d1ed3ac5ec7f793a8c0a48455655d637
+SHA256: adc34d420482ccfc57e07432d17c3186ce111efc91580d83984df7a4df610d03
+Section: MASQ Themes
+Description: Old CCover by Jona now revived!
+Author: Jona Schnedi
+Depiction: https://evynw.github.io/depictions/?p=com.jona.masqjj2
+Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
+Name: MASQ.JJ2
+Sileodepiction: https://evynw.github.io/sileo/masqjj2.json
+

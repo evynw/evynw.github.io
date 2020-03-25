@@ -7,7 +7,7 @@
   "minOSVersion": "11.0",
   "maxOSVersion": "13.4",
   "otheriOS": "untested",
-  "description": "<div>2 versions available.<br><br>Installed to: /Library/Application Support/MASQ/Themes/Evelyn.bundle/<br><br>Enable via MASQKit (repo: https://ndoizo.ca/)<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "description": "<div>Originally made by Jona Schnedi. 2 available versions.<br><br>Installed to: /Library/Application Support/MASQ/Themes/Evelyn.bundle/<br><br>Enable via MASQKit (repo: https://ndoizo.ca/)<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
     "1.0": [
       "Initial release"
