@@ -1,0 +1,21 @@
+{
+  "name": "MASQ.EW5",
+  "package": "com.evynw.masqew5",
+  "author": "Evelyn (ev_ynw)",
+  "version": "1.0",
+  "dependency": "MASQKit",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "13.4",
+  "otheriOS": "untested",
+  "description": "<div>2 available versions.<br><br>Installed to: /Library/Application Support/MASQ/Themes/Evelyn.bundle/<br><br>Enable via MASQKit (repo: https://ndoizo.ca/)<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "changelog": {
+    "1.0": [
+      "Initial release"
+    ]
+  },
+  "screenshots": {
+    "ss1.png": "",
+    "ss2.png": ""
+  },
+  "links": {}
+}
