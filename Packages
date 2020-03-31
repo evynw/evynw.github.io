@@ -48,6 +48,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
 Name: EW5.MessageBubbles
 Sileodepiction: https://evynw.github.io/sileo/ew5msgbubbles.json
 
+Package: com.evynw.ew6msgbubbles
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.ew6msgbubbles_1.0_iphoneos-arm.deb
+Size: 8046
+MD5sum: fa645678bbe82edd452444c48d3b72ba
+SHA1: a68965dbaac7cba2e8f7f80b1b5e9455f587734d
+SHA256: 8a46a951fd49c1646f2eb9b1db13ba723d1d6219be082e9e9ea4e7d97717bb2f
+Section: Others
+Description: A twist on Android-like bubbles
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew6msgbubbles
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: EW6.MessageBubbles
+Sileodepiction: https://evynw.github.io/sileo/ew6msgbubbles.json
+
 Package: com.evynw.ewwdgtpack10
 Version: 2.0-3
 Architecture: iphoneos-arm
