@@ -4988,13 +4988,13 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.masqew5_1.0_iphoneos-arm.deb
 Size: 143342
-MD5sum: 984ce11db7d4f943ececb3be9c0dae9d
-SHA1: 56b9ecc07938ecb1c5a5e5124f0d11d54c351f12
-SHA256: 0ddc80b245c6e00c0382efee304da0e30be91c26f8e37f649888ad7b5eea86e3
+MD5sum: c268e62400587052d65ff4b0c6f3b41c
+SHA1: 9344f5505e5487d004eb31d034146156ae9fa6ec
+SHA256: 47e826e29f04937731839da88987430c4bf7edd89641c072caf04a21891a9392
 Section: MASQ Themes
 Description: Old CCover updated to MASQKit
 Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.jona.masqew5
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.masqew5
 Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
 Name: MASQ.EW5
 Sileodepiction: https://evynw.github.io/sileo/masqew5.json
