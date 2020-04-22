@@ -1864,6 +1864,74 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Roboto (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontroboto13.json
 
+Package: com.evynw.fontsamsungone12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontsamsungone12_1.0_iphoneos-arm.deb
+Size: 27688782
+MD5sum: d2bafbe4b1cebe311f5eb8207853ea58
+SHA1: 00930b02f37039063284159c39d8de109cbbc61b
+SHA256: 3e563aa8d39aebeb53b875eced61034a82b0498075b539ea22b69184048a10ed
+Section: Fonts (iOS10-12)
+Description: Name says it all. Normal size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsamsungone12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: SamsungOne (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontsamsungone12.json
+
+Package: com.evynw.fontsamsungone13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontsamsungone13_1.0_iphoneos-arm.deb
+Size: 24068960
+MD5sum: 284a14b0bde4da5b4743a2d4fb22ea67
+SHA1: e36d7896b1536fa86c9b4993de148b6c6f33d498
+SHA256: 1aa2d7dcdff2969709186291cfe54447e4629c328f64a1ae1a6263f04b8f4ec4
+Section: Fonts (iOS13)
+Description: Name says it all. Normal size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsamsungone13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: SamsungOne (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontsamsungone13.json
+
+Package: com.evynw.fontsamsungone8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontsamsungone8512_1.0_iphoneos-arm.deb
+Size: 28530692
+MD5sum: 9e723fc76cececb97c8e6f258840bb4e
+SHA1: 5927abd57bd8c21c0f002c04a97c4fc2971822c7
+SHA256: 2638a2988e322456c5754a23ba77bc9e782b27dd161565b10e708d8a6a54361c
+Section: Fonts (iOS10-12)
+Description: Name says it all. 85% size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsamsungone8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: SamsungOne_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontsamsungone8512.json
+
+Package: com.evynw.fontsamsungone8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontsamsungone8513_1.0_iphoneos-arm.deb
+Size: 24799518
+MD5sum: 75d4721cb4c64f07bdc48a3ebe787ca8
+SHA1: 9047c11706a145636e4f2f4bb3be0358145eacea
+SHA256: 8cfbaeec19c628a12f72781fafbb3bf4ea2f0a746aebdbf62f095e16cb2271a0
+Section: Fonts (iOS13)
+Description: Name says it all. 85% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsamsungone8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: SamsungOne_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontsamsungone8513.json
+
 Package: com.evynw.fontsarala12
 Version: 1.0
 Architecture: iphoneos-arm
