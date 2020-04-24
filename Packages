@@ -48,6 +48,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
 Name: EW5.MessageBubbles
 Sileodepiction: https://evynw.github.io/sileo/ew5msgbubbles.json
 
+Package: com.evynw.ew5musiccontrols
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.ew5musiccontrols_1.0_iphoneos-arm.deb
+Size: 20696
+MD5sum: 66e2189909519c1885dafe38caf7fd77
+SHA1: 5a5756a8ecb4b52dcaf85bc74c438347420b27f3
+SHA256: e2179098f3e0ed3d594c2e11e59d6e62a1540ac2e0b80b1e5c1f593881613018
+Section: Others
+Description: Music controls in geometric shapes
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew5musiccontrols
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: EW5.MusicControls
+Sileodepiction: https://evynw.github.io/sileo/ew5musiccontrols.json
+
 Package: com.evynw.ew6msgbubbles
 Version: 1.0
 Architecture: iphoneos-arm
