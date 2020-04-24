@@ -7,7 +7,7 @@
   "minOSVersion": "13.0",
   "maxOSVersion": "13.4",
   "otheriOS": "untested",
-  "description": "<div><strong>For iOS13.</strong> Apply with Snowboard with UI extension.<br><br>Icons for Prysm music controls also included in .theme folder. Copy all .pngs in the “For Prysm” sub-folder, and paste them by replacing at /Library/Application Support/Prysm/Icons/<br><br>Installed to /Library/Themes<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "description": "<div><strong>For iOS13. Only themes the lockscreen & Prysm controls.</strong> Apply with Snowboard with UI extension.<br><br>Icons for Prysm music controls also included in .theme folder. Copy all .pngs in the “For Prysm” sub-folder, and paste them by replacing at /Library/Application Support/Prysm/Icons/<br><br>Installed to /Library/Themes<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
     "1.0": [
       "Initial release"

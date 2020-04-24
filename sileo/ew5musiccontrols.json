@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"><strong>For iOS13.</strong> Apply with Snowboard with UI extension.</p>\n<p style=\"font-size:10pt;\">Icons for Prysm music controls also included in .theme folder. Copy all .pngs in the “For Prysm” sub-folder, and paste them by replacing at /Library/Application Support/Prysm/Icons/</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\"><strong>For iOS13. Only themes the lockscreen & Prysm controls.</strong> Apply with Snowboard with UI extension.</p>\n<p style=\"font-size:10pt;\">Icons for Prysm music controls also included in .theme folder. Copy all .pngs in the “For Prysm” sub-folder, and paste them by replacing at /Library/Application Support/Prysm/Icons/</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
