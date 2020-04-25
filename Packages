@@ -2392,6 +2392,108 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
 Name: Pixeled (Keypad for 3x)
 Sileodepiction: https://evynw.github.io/sileo/keypadpixeled3x.json
 
+Package: com.evynw.keypadstargate2x
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.keypadstargate_1.0_iphoneos-arm.deb
+Size: 52424
+MD5sum: c30aafc3319d85b5013b552973dae366
+SHA1: 9a8090c9ae677ed2e56496146010cc43069e71a8
+SHA256: 6dd99ed973444085a44ea073098bca197c055e8f4d5e9e383d2121230096dd7c
+Section: Others
+Description: Stargate on passcode keypad
+Author: vorboid
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.keypadstargate2x
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: Stargate (Keypad for 2x)
+Sileodepiction: https://evynw.github.io/sileo/keypadstargate2x.json
+
+Package: com.evynw.keypadstargate3x
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.keypadstargate3x_1.0_iphoneos-arm.deb
+Size: 80508
+MD5sum: c913c2cb203d6edb0618df78bc13eb09
+SHA1: ad9701c19d79b6e3242c5822637701c974f4d39d
+SHA256: 71716d368103b8eca8c730dff9f1419001de849dbfe7438f6424de93529e7caf
+Section: Others
+Description: Stargate on passcode keypad
+Author: vorboid
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.keypadstargate3x
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: Stargate (Keypad for 3x)
+Sileodepiction: https://evynw.github.io/sileo/keypadstargate3x.json
+
+Package: com.evynw.keypadstargateatlantis2x
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.keypadstargateatlantis2x_1.0_iphoneos-arm.deb
+Size: 44780
+MD5sum: cefb12d80cb9da22aea8c0c2cd8fe991
+SHA1: 42dc323676120e7e0d069647a432292a4d22911c
+SHA256: c6e4eb20a9b9041e559919ad515c072d43a65366b84b5bdcffaf0dfe2fbb6a1d
+Section: Others
+Description: Stargate Atlantis on passcode keypad
+Author: vorboid
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.keypadstargateatlantis2x
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: Stargate Atlantis (Keypad for 2x)
+Sileodepiction: https://evynw.github.io/sileo/keypadstargateatlantis2x.json
+
+Package: com.evynw.keypadstargateatlantis3x
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.keypadstargateatlantis3x_1.0_iphoneos-arm.deb
+Size: 81800
+MD5sum: 3b731b73a01a4f3bf35864da2e102a4e
+SHA1: 08d97d8c9ccbd68931c3430510dc5c7ce77c3147
+SHA256: 9664edfab96d54c4ccec1fe9e90a8c1b4936d27cff30b666d91aebcac0faaf31
+Section: Others
+Description: Stargate Atlantis on passcode keypad
+Author: vorboid
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.keypadstargateatlantis3x
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: Stargate Atlantis (Keypad for 3x)
+Sileodepiction: https://evynw.github.io/sileo/keypadstargateatlantis3x.json
+
+Package: com.evynw.keypadstargatedestiny2x
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.keypadstargatedestiny2x_1.0_iphoneos-arm.deb
+Size: 25330
+MD5sum: d422d5b71146f2ca03076f418e1df688
+SHA1: d38832216cd9307cc1fde7b297270edd61a2768d
+SHA256: cf8a556b567012f9711071440edc3f7419d9e4ca302fbdcda43093f05ce05ded
+Section: Others
+Description: Stargate Destiny on passcode keypad
+Author: vorboid
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.keypadstargatedestiny2x
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: Stargate Destiny (Keypad for 2x)
+Sileodepiction: https://evynw.github.io/sileo/keypadstargatedestiny2x.json
+
+Package: com.evynw.keypadstargatedestiny3x
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.keypadstargatedestiny3x_1.0_iphoneos-arm.deb
+Size: 38530
+MD5sum: a8a03e6b05d7711fe51e67b17f8c03bb
+SHA1: 3026ac9bb5aa3c332e0f6b64ba9a2f101331366f
+SHA256: a0e5210a1a9b1da0d2493c5458e9787a3ac0a3e54fc64dd1565897cc0d965e2d
+Section: Others
+Description: Stargate Destiny on passcode keypad
+Author: vorboid
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.keypadstargatedestiny3x
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: Stargate Destiny (Keypad for 3x)
+Sileodepiction: https://evynw.github.io/sileo/keypadstargatedestiny3x.json
+
 Package: com.evynw.lse211
 Version: 1.0
 Architecture: iphoneos-arm
