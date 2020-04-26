@@ -1,0 +1,148 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://evynw.github.io/sileo/assets/header_fallback.png",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "tintColor": "#32818e",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Description",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:10pt;\">Applies in both Messages.app and WhatsApp.</p>\n<p style=\"font-size:10pt;\"><strong>Only themes the SHAPE of the bubbles.</strong> Coloring is done by other tweaks, e.g. Nord, ColorizeChat etc.</p>\n<p style=\"font-size:10pt;\">Apply with iThemer / Snowboard (with UI extension).</p>\n<p style=\"font-size:10pt;\"><strong>Needs BubbleLineRemover on Twickd Repo.</strong> Enable “Enable Mask On Images” to remove the central line within the bubble.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Screenshots",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{360, 360}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ew3msgbubbles/ss.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Evelyn (ev_ynw)",
+          "title": "Author"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.0",
+          "title": "Version"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS11.0 - 13.4+",
+          "title": "Compatibility"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "N/A",
+          "title": "Dependency"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://twitter.com/ev_ynw",
+          "class": "DepictionTableButtonView",
+          "title": "Find me on Twitter (@ev_ynw)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:ev.ynam.w@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Send me an email"
+        },
+        {
+          "action": "https://paypal.me/evynw",
+          "class": "DepictionTableButtonView",
+          "title": "Buy me a 🍺 via PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 40
+        },
+        {
+          "URL": "https://evynw.github.io/CydiaIcon.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "tintColor": "#32818e",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Initial release</li>\n</ul>",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ],
+  "tintColor": "#32818e"
+}

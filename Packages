@@ -31,6 +31,23 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1pagedots
 Name: EW1.PageDots
 
+Package: com.evynw.ew3msgbubbles
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.ew3msgbubbles_1.0_iphoneos-arm.deb
+Size: 17712
+MD5sum: 225211458d26cc6dbf68cf6e4bf514b4
+SHA1: 2a3f697bbabbcf90e2ccd1f8f19e92fdcfa71b2f
+SHA256: 9d7fe4405c9f1894e572e1f33fd201a0d8ca9f4411b5ca404b223284d5c1e89c
+Section: Others
+Description: One of my earliest work. For both Messages.app & WhatsApp.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew3msgbubbles
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: EW3.MessageBubbles
+Sileodepiction: https://evynw.github.io/sileo/ew3msgbubbles.json
+
 Package: com.evynw.ew5msgbubbles
 Version: 1.0
 Architecture: iphoneos-arm

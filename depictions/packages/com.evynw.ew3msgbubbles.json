@@ -1,0 +1,20 @@
+{
+  "name": "EW3.MessageBubbles",
+  "package": "com.evynw.ew3msgbubbles",
+  "author": "Evelyn (ev_ynw)",
+  "version": "1.0",
+  "dependency": "N/A",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "13.4",
+  "otheriOS": "untested",
+  "description": "<div>Applies in both Messages.app and WhatsApp.<br><br><strong>Only themes the SHAPE of the bubbles.</strong> Coloring is done by other tweaks, e.g. Nord, ColorizeChat etc.<br><br>Apply with iThemer / Snowboard (with UI extension).<br><br><strong>Needs BubbleLineRemover on Twickd Repo.</strong> Enable “Enable Mask On Images” to remove the central line within the bubble.<br><br>Installed to /Library/Themes<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "changelog": {
+    "1.0": [
+      "Initial release"
+    ]
+  },
+  "screenshots": {
+    "ss.png": ""
+  },
+  "links": {}
+}
