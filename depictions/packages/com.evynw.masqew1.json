@@ -5,9 +5,9 @@
   "version": "1.0",
   "dependency": "MASQKit",
   "minOSVersion": "11.0",
-  "maxOSVersion": "13.4",
+  "maxOSVersion": "13.4.2",
   "otheriOS": "untested",
-  "description": "<div>2 versions available.<br><br>Installed to: /Library/Application Support/MASQ/Themes/Evelyn.bundle/<br><br>Enable via MASQKit (repo: https://ndoizo.ca/)<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "description": "<div>2 available versions.<br><br>Installed to: /Library/Application Support/MASQ/Themes/Evelyn.bundle/<br><br>Enable via MASQKit (repo: https://ndoizo.ca/). <strong>Only MASQSpringboard works on iOS13 at the moment.</strong><br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
     "1.0": [
       "Initial release"

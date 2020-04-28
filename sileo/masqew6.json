@@ -6,7 +6,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#3ec4f2",
+      "tintColor": "#a7dcec",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Originally made by Jona Schnedi. 2 available versions.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Application Support/MASQ/Themes/Evelyn.bundle/</p>\n<p style=\"font-size:10pt;\">Enable via MASQKit (repo: https://ndoizo.ca/). <strong>Only MASQSpringboard works on iOS13 at the moment.</strong></p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">Installed to: /Library/Application Support/MASQ/Themes/Evelyn.bundle/</p>\n<p style=\"font-size:10pt;\">Enable via MASQKit (repo: https://ndoizo.ca/). <strong>Only MASQSpringboard works on iOS13 at the moment.</strong></p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -31,15 +31,11 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{360, 675}",
+          "itemSize": "{350, 640}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.jona.masqjj2/ss1.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.jona.masqjj2/ss2.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.masqew6/ss.png"
             }
           ]
         },
@@ -66,7 +62,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "Jona Schnedi",
+          "text": "Evelyn (ev_ynw)",
           "title": "Author"
         },
         {
@@ -132,7 +128,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#3ec4f2",
+      "tintColor": "#a7dcec",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -148,5 +144,5 @@
       ]
     }
   ],
-  "tintColor": "#3ec4f2"
+  "tintColor": "#a7dcec"
 }
