@@ -5320,14 +5320,14 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew10
 Name: SB EW10
 
 Package: com.evynw.sbew104
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.sbew104_1.0_iphoneos-arm.deb
-Size: 163494
-MD5sum: ca2aa1f6e3b287361f7e03f3f246e2bc
-SHA1: 9b3d3da123feb5c7b68fc0a9a29b4fd5bcae4b3f
-SHA256: 2f1b0a98071e452cb188a150e6a4b128fa42b62ef95b53e69527e2a2d5186c3a
+Filename: ./debs/com.evynw.sbew104_1.0-1_iphoneos-arm.deb
+Size: 245958
+MD5sum: ad96f8be8009dae1004934e0e8c47552
+SHA1: babfa4cac01bcd52fc81c10d644742c9690d57cf
+SHA256: b401f25e060c597c506c1344490f47b6f6184ee72e09fd447d48eeab3f545c0f
 Section: Homescreen Widgets
 Description: I've been slacking like crazy :3
 Author: Evelyn (ev_ynw)
