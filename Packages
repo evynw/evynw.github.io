@@ -1,14 +1,14 @@
 Package: com.evynw.ew1msgbubbles
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.ew1msgbubbles_1.0_iphonesos-arm.deb
-Size: 6514
-MD5sum: 3701d0bcce523550bb1366ba71ba81cc
-SHA1: 7f731650347cdc2e42f9183f8be41ff29bf71e08
-SHA256: 03728921a5811c295ff8eba16b7dad91ea41bb19769c447b659da4a99bb183fb
+Filename: ./debs/com.evynw.ew1msgbubbles_1.1_iphoneos-arm.deb
+Size: 28134
+MD5sum: c400b031fcb805b752f003346b855e7f
+SHA1: 7f8763f7ffce90a187f6eac88076cd70178bb817
+SHA256: 6a5301bbb7fa021a2b72582fb9a3608e83fe168729bdc77245f5349befbc82fc
 Section: Others
-Description: Old message bubbles updated for iOS13
+Description: Bubbles for both Messages.app & WhatsApp.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1msgbubbles
 Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
