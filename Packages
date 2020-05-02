@@ -31,6 +31,40 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1pagedots
 Name: EW1.PageDots
 
+Package: com.evynw.ew1settingscarbon
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.ew1settingscarbon_1.0_iphoneos-arm.deb
+Size: 115988
+MD5sum: 3e99ccf70714bea1fc71ab6862b1eeca
+SHA1: 0457322c7e32cc579c38bb82461f5a80e1bae781
+SHA256: 172c014cabbbe98f327373cd3f3eb11219af88e1f4e723a2b5e1268159ffe79b
+Section: Others
+Description: First ever settings icons theme :P [Color = black]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingscarbon
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: EW1.SettingsIcons (Carbon)
+Sileodepiction: https://evynw.github.io/sileo/ew1settingscarbon.json
+
+Package: com.evynw.ew1settingscaribbean
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.ew1settingscaribbean_1.0_iphoneos-arm.deb
+Size: 102516
+MD5sum: 7e35a56347f1e46be3fa90670990a3b6
+SHA1: 59c6489b43e0687dc8319f86c25348068bfa367c
+SHA256: ae6ec5531d69d8a5818663290673360253073022be26263625bb118c1725c152
+Section: Others
+Description: First ever settings icons theme :P [Color = teal]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingscaribbean
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: EW1.SettingsIcons (Caribbean)
+Sileodepiction: https://evynw.github.io/sileo/ew1settingscaribbean.json
+
 Package: com.evynw.ew3msgbubbles
 Version: 1.0
 Architecture: iphoneos-arm
