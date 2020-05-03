@@ -32,14 +32,14 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1pagedots
 Name: EW1.PageDots
 
 Package: com.evynw.ew1settingscarbon
-Version: 1.1
+Version: 1.1-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.ew1settingscarbon_1.1_iphoneos-arm.deb
-Size: 179958
-MD5sum: 8462c718e939f261cdbc63b6599433de
-SHA1: 5edf8b47bd1b2fb0a8381b76a7b3caacd946d686
-SHA256: 6551639265744652fbf977eb2970f4f738a9a855c6f9de4aa7f2951da0a911f1
+Filename: ./debs/com.evynw.ew1settingscarbon_1.1-1_iphoneos-arm.deb
+Size: 175068
+MD5sum: b99e6e3b7f0deb3afd85f107dfce4b4d
+SHA1: d1e51de598d84d4155e79e6cc76eca83138e0ba5
+SHA256: b8ba45dd7546e705e280bb241fd88da5ad88e449d17ea1c5481b3f236114fff1
 Section: Others
 Description: First ever settings icons theme :P [Color = black]
 Author: Evelyn (ev_ynw)
