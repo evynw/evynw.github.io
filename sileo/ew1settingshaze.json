@@ -6,7 +6,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#9ae5e2",
+      "tintColor": "#3f9ce0",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -35,11 +35,11 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ew1settingscaribbean/ss1.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ew1settingshaze/ss1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ew1settingscaribbean/ss2.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ew1settingshaze/ss2.png"
             }
           ]
         },
@@ -71,7 +71,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1-2",
+          "text": "1.0",
           "title": "Version"
         },
         {
@@ -132,41 +132,8 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#9ae5e2",
+      "tintColor": "#3f9ce0",
       "views": [
-        {
-          "class": "DepictionSubheaderView",
-          "title": "1.1-2",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Added icon for HomeScreen & Dock on iPads</li>\n</ul>",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "1.1",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Added more icons (thanks to Alo)</li>\n<li>Added @2x images for iP6, 7, 8, SE etc.</li>\n<li>Added more icons for tweaks</li>\n</ul>",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "1.0-1",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Made package name consistent as EW Settings Icons</li>\n</ul>",
-          "useRawFormat": true
-        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
@@ -181,5 +148,5 @@
       ]
     }
   ],
-  "tintColor": "#9ae5e2"
+  "tintColor": "#3f9ce0"
 }
