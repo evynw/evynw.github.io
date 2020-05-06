@@ -133,6 +133,40 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
 Name: EW1.SettingsIcons (Royal)
 Sileodepiction: https://evynw.github.io/sileo/ew1settingsroyal.json
 
+Package: com.evynw.ew1settingssunrise
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.ew1settingssunrise_1.0_iphoneos-arm.deb
+Size: 176372
+MD5sum: 228895fb98512662ed9cb843ada8972c
+SHA1: 98d86b39db6201d4faed60fdb6fef09a1fde647a
+SHA256: 8410a5270f6091de4979a081492bdeb476cb9caac5e84aa6f2a1f02fd85b7db1
+Section: Others
+Description: First ever settings icons theme :P [Color = coral]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingssunrise
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: EW1.SettingsIcons (Sunrise)
+Sileodepiction: https://evynw.github.io/sileo/ew1settingssunrise.json
+
+Package: com.evynw.ew1settingssunset
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.ew1settingssunset_1.0_iphoneos-arm.deb
+Size: 180438
+MD5sum: 007bbf29bee2f200ee98a3b4fe805892
+SHA1: 1ad33def705d4cfc787fbe777d0324f4701950fa
+SHA256: f62e9c0fef70b8ed28d274f8099b43b1ce7aee654a32d9344c4dd6b9c9a1dbd5
+Section: Others
+Description: First ever settings icons theme :P [Color = yellow]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingssunset
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: EW1.SettingsIcons (Sunset)
+Sileodepiction: https://evynw.github.io/sileo/ew1settingssunset.json
+
 Package: com.evynw.ew3msgbubbles
 Version: 1.0
 Architecture: iphoneos-arm
