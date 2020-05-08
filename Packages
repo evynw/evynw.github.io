@@ -65,6 +65,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
 Name: EW1.SettingsIcons (Caribbean)
 Sileodepiction: https://evynw.github.io/sileo/ew1settingscaribbean.json
 
+Package: com.evynw.ew1settingsfuchsia
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.ew1settingsfuchsia_1.0_iphoneos-arm.deb
+Size: 177880
+MD5sum: 0177816d971a993f215775fca7c24d02
+SHA1: 3289d4f11fa6613ca1f422fe3fadb4645868c1ea
+SHA256: 425bb18a223ee8cd1afc6afd5a23379e2060e8ec31b2cc7711338c0adffd0eba
+Section: Others
+Description: First ever settings icons theme :P [Color = magenta]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingsfuchsia
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: EW1.SettingsIcons (Fuchsia)
+Sileodepiction: https://evynw.github.io/sileo/ew1settingsfuchsia.json
+
 Package: com.evynw.ew1settingshaze
 Version: 1.0
 Architecture: iphoneos-arm
@@ -98,6 +115,23 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingsivory
 Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
 Name: EW1.SettingsIcons (Ivory)
 Sileodepiction: https://evynw.github.io/sileo/ew1settingsivory.json
+
+Package: com.evynw.ew1settingslavender
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.ew1settingslavender_1.0_iphoneos-arm.deb
+Size: 177148
+MD5sum: c501008d62be3dbc64785f56de13e8a1
+SHA1: d38cc9ef7aea0ed3f10df8c7cb782a3ef1d86c04
+SHA256: a7d2cfc2dadc07f5b78fce29b55395c70b67228fcfeb966508bbc51bda5ed855
+Section: Others
+Description: First ever settings icons theme :P [Color = lavender]
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingslavender
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: EW1.SettingsIcons (Lavender)
+Sileodepiction: https://evynw.github.io/sileo/ew1settingslavender.json
 
 Package: com.evynw.ew1settingspine
 Version: 1.0

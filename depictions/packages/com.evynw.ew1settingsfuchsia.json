@@ -1,0 +1,20 @@
+{
+  "name": "EW1.SettingsIcons (Fuchsia)",
+  "package": "com.evynw.ew1settingsfuchsia",
+  "author": "Evelyn (ev_ynw)",
+  "version": "1.0",
+  "dependency": "N/A",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "13.5",
+  "otheriOS": "untested",
+  "description": "<div>Apply with Snowboard (with Settings Icons extension) *RECOMMENDED* / iThemer<br><br>Separated into 2 sub-themes - Settings Icons (stock) & Tweaks (tweak thumbnails)<br><br>Installed to /Library/Themes<br><br><strong>You may need to do some customizing / renaming of image files. Detailed tutorial here: https://evelynynw.wordpress.com/2020/05/02/ui-theming-101-for-dummies/</strong></div>",
+  "changelog": {
+    "1.0": [
+      "Initial release"
+    ]
+  },
+  "screenshots": {
+    "ss.png": ""
+  },
+  "links": {}
+}
