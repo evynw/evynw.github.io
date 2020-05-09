@@ -1,12 +1,12 @@
 {
   "class": "DepictionTabView",
-  "headerImage": "https://evynw.github.io/sileo/assets/header_fallback.png",
+  "headerImage": "https://evynw.github.io/sileo/assets/header_Font.png",
   "minVersion": "0.3",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#cb519e",
+      "tintColor": "#7085d1",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Apply with Snowboard with UI Extension (iOS12) or iThemer (iOS12/13).</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">The official font used in the Discord app :)</p>\n<p style=\"font-size:10pt;\"><strong>Normal size. Install 'Whitney_85%' for smaller character size</strong></p>\n<p style=\"font-size:10pt;\">Only compatible on iOS10-12. iOS13 users please install the package marked “iOS13”.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -31,19 +31,15 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{360, 500}",
+          "itemSize": "{330, 1108}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ew6msgbubbles/ss1.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontwhitney12/ss1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ew6msgbubbles/ss2.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ew6msgbubbles/ss3.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontwhitney12/ss2.png"
             }
           ]
         },
@@ -75,12 +71,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1",
+          "text": "1.0",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS11.0 - 13.4+",
+          "text": "iOS10.0 - 12.4",
           "title": "Compatibility"
         },
         {
@@ -136,19 +132,8 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#cb519e",
+      "tintColor": "#7085d1",
       "views": [
-        {
-          "class": "DepictionSubheaderView",
-          "title": "1.1",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Added ALT version</li>\n<li>Added compatibility of “Outline Bubbles” option in DopeConvos</li>\n<li>Added WhatsApp bubbles</li>\n<li>Added preview icons</li>\n</ul>",
-          "useRawFormat": true
-        }
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
@@ -163,5 +148,5 @@
       ]
     }
   ],
-  "tintColor": "#cb519e"
+  "tintColor": "#7085d1"
 }
