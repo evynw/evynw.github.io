@@ -5492,6 +5492,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
 Name: MASQ.EW8
 Sileodepiction: https://evynw.github.io/sileo/masqew8.json
 
+Package: com.evynw.masqstampd
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.masqstampd_1.0_iphoneos-arm.deb
+Size: 330530
+MD5sum: 913c9b6993cb03dd4081f7e9700fd032
+SHA1: f9edd98c291397500d0046b6454bc3c14e8e9e82
+SHA256: 9c7d0a56a7ced39c719c64ef7a9509a1cc010108a1c44ff5b890c17bfee8056b
+Section: MASQ Themes
+Description: Old CCover updated to MASQKit
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.masqstampd
+Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
+Name: Stampd
+Sileodepiction: https://evynw.github.io/sileo/masqstampd.json
+
 Package: com.evynw.repoicons
 Version: 1.1
 Architecture: iphoneos-arm
