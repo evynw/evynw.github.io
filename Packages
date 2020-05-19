@@ -2562,6 +2562,74 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Volte Rounded_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontvolte8513.json
 
+Package: com.evynw.fontwhitney12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontwhitney12_1.0_iphoneos-arm.deb
+Size: 13002908
+MD5sum: 0085d70b7105a7a9457419445e2ce0f0
+SHA1: 27f1790ef76b5422dae8e3d4cc22d6262320caa0
+SHA256: 847d2950c1fad7df3f2a6267035f6de5c870e1e762a78c3ef7456df3c72beed5
+Section: Fonts (iOS10-12)
+Description: Official font for Discord. For iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontwhitney12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Whitney (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontwhitney12.json
+
+Package: com.evynw.fontwhitney13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontwhitney13_1.0_iphoneos-arm.deb
+Size: 10059640
+MD5sum: d55e89aae2fda0743d86c16edca73593
+SHA1: c8e39e2364f453e69dd7315f828862543550c34b
+SHA256: c338546ea1785381197e3a14be2502aac7c504e3f79e74f85e08e40558f213bd
+Section: Fonts (iOS13)
+Description: Official font for Discord. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontwhitney13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Whitney (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontwhitney13.json
+
+Package: com.evynw.fontwhitney8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontwhitney8512_1.0_iphoneos-arm.deb
+Size: 13571480
+MD5sum: 7d21df0bc2ea37bdb8e4edc5760c73cd
+SHA1: 6290a075d65e15fcec6f993315bfbc942d0300cb
+SHA256: 1e071a655d03e9cb8913031eae5a57529c48603099b0041e7142617b04d4ec5e
+Section: Fonts (iOS10-12)
+Description: Official font for Discord. 85% size. For iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontwhitney8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Whitney_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontwhitney8512.json
+
+Package: com.evynw.fontwhitney8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontwhitney8513_1.0_iphoneos-arm.deb
+Size: 10568730
+MD5sum: aa7efc1e4828645d09f414382d515882
+SHA1: 6a65b36172e3df50421c24c0e58a14ea73afe797
+SHA256: fe6c8e1be69792c9bce50b971cf8ddf7ba2cb5ac8247029817bee53318dd292e
+Section: Fonts (iOS13)
+Description: Official font for Discord. 85% size. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontwhitney8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Whitney_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontwhitney8513.json
+
 Package: com.evynw.keypaddigital2x
 Version: 1.0
 Architecture: iphoneos-arm
