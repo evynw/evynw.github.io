@@ -16,14 +16,14 @@ Name: EW1.MessageBubbles
 Sileodepiction: https://evynw.github.io/sileo/ew1msgbubbles.json
 
 Package: com.evynw.ew1musiccontrols
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.ew1musiccontrols_1.0_iphoneos-arm.deb
-Size: 21886
-MD5sum: 59f1ab9121f3ffcdcdff300887a8df9c
-SHA1: f0cfa309a12f7ab438cf14b6693288d681c9e420
-SHA256: 97eaf3a798f17e6e2411ba4313f890a1045b67199f17c38062c353799391a772
+Filename: ./debs/com.evynw.ew1musiccontrols_1.1_iphoneos-arm.deb
+Size: 46066
+MD5sum: 80a8b72e8c5659705ba88fe9b9198e64
+SHA1: ecb4617968cca61d9c0e3383f53e8761dd090bb9
+SHA256: b90a24c32992ffad0854e22d575cfefa8129b2c42aec1e88e9c01978a44b526e
 Section: Others
 Description: Pretty generic-looking music controls
 Author: Evelyn (ev_ynw)
@@ -217,6 +217,23 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingssunset
 Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
 Name: EW1.SettingsIcons (Sunset)
 Sileodepiction: https://evynw.github.io/sileo/ew1settingssunset.json
+
+Package: com.evynw.ew2musiccontrols
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.ew2musiccontrols_1.1_iphoneos-arm.deb
+Size: 35538
+MD5sum: 6118390b82f016e3b37690e0140644db
+SHA1: 0b27acd8ca0142efa0539a73970f11cb9217c0dc
+SHA256: 02d35f55cef18e1cf574b0601dba5a47661d865cd530af2c4e01b37e3cbbc212
+Section: Others
+Description: One of my oldest designs
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew2musiccontrols
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: EW2.MusicControls
+Sileodepiction: https://evynw.github.io/sileo/ew2musiccontrols.json
 
 Package: com.evynw.ew3msgbubbles
 Version: 1.0

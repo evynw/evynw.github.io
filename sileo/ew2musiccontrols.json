@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"><strong>For iOS13. Only themes the lockscreen & Prysm controls.</strong> Apply with Snowboard with UI extension.</p>\n<p style=\"font-size:10pt;\">Icons for Prysm music controls also included in .theme folder. Copy all .pngs in the “For Prysm” sub-folder, and paste them by replacing at /Library/Application Support/Prysm/Icons/</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\"><strong>For iOS13. Themes music controls on lock screen, control centre, Music.app and Prysm.</strong> Apply with Snowboard with UI extension.</p>\n<p style=\"font-size:10pt;\">Icons for Prysm music controls also included in .theme folder. Copy all .pngs in the “For Prysm” sub-folder, and paste them by replacing at /Library/Application Support/Prysm/Icons/</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -31,7 +31,7 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{360, 423}",
+          "itemSize": "{375, 375}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
@@ -67,12 +67,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0",
+          "text": "1.1",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS13.0 - 13.4+",
+          "text": "iOS13.0 - 13.5",
           "title": "Compatibility"
         },
         {
@@ -130,6 +130,17 @@
       "tabname": "Changelog",
       "tintColor": "#93b1ba",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Updated image sizes to be compatible with latest version of Snowboard and iThemer</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
