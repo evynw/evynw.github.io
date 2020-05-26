@@ -7,7 +7,7 @@
   "minOSVersion": "10.0",
   "maxOSVersion": "13.5",
   "otheriOS": "untested",
-  "description": "<div>Apply with Snowboard with UI Extension or iThemer.<br><br>Installed to /Library/Themes<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "description": "<div>Applies in both Messages.app and WhatsApp.<br><br><strong>Only themes the SHAPE of the bubbles.</strong> Coloring is done by other tweaks, e.g. DopeConvos / ColorizeChat, Nord etc.<br><br>Apply with iThemer / Snowboard (with UI extension). Installed to /Library/Themes<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
     "1.1": [
       "Added compatibility of “Outline Bubbles” option in DopeConvos",
