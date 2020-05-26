@@ -7,7 +7,7 @@
   "minOSVersion": "10.0",
   "maxOSVersion": "13.5",
   "otheriOS": "untested",
-  "description": "<div>Apply with Snowboard with UI Extension (iOS12) or iThemer (iOS12/13).<br><br>Installed to /Library/Themes<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "description": "<div>Apply with Snowboard with UI Extension or iThemer.<br><br>Installed to /Library/Themes<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
     "1.1": [
       "Added ALT version",

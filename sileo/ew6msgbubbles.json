@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Apply with Snowboard with UI Extension (iOS12) or iThemer (iOS12/13).</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">Apply with Snowboard with UI Extension or iThemer</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -31,7 +31,7 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{360, 500}",
+          "itemSize": "{360, 640}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
@@ -80,7 +80,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS11.0 - 13.4+",
+          "text": "iOS11.0 - 13.5",
           "title": "Compatibility"
         },
         {
@@ -148,7 +148,7 @@
           "class": "DepictionMarkdownView",
           "markdown": "<ul>\n<li>Added ALT version</li>\n<li>Added compatibility of “Outline Bubbles” option in DopeConvos</li>\n<li>Added WhatsApp bubbles</li>\n<li>Added preview icons</li>\n</ul>",
           "useRawFormat": true
-        }
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
