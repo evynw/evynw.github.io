@@ -2,13 +2,16 @@
   "name": "EW6.MessageBubbles",
   "package": "com.evynw.ew6msgbubbles",
   "author": "Evelyn (ev_ynw)",
-  "version": "1.1",
+  "version": "1.1-1",
   "dependency": "N/A",
   "minOSVersion": "10.0",
   "maxOSVersion": "13.5",
   "otheriOS": "untested",
   "description": "<div>Applies in both Messages.app and WhatsApp.<br><br><strong>Only themes the SHAPE of the bubbles.</strong> Coloring is done by other tweaks, e.g. DopeConvos / ColorizeChat, Nord etc.<br><br>Apply with iThemer / Snowboard (with UI extension). Installed to /Library/Themes<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
+    "1.1-1": [
+      "Changed default colour of WhatsApp bubbles to grey & dark green"
+    ],
     "1.1": [
       "Added ALT version",
       "Added compatibility of “Outline Bubbles” option in DopeConvos",

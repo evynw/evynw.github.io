@@ -287,14 +287,14 @@ Name: EW5.MusicControls
 Sileodepiction: https://evynw.github.io/sileo/ew5musiccontrols.json
 
 Package: com.evynw.ew6msgbubbles
-Version: 1.1
+Version: 1.1-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.ew6msgbubbles_1.1_iphoneos-arm.deb
-Size: 67124
-MD5sum: 56e44394e46bcc95684f6bd1703a8718
-SHA1: 45d9aeae73c6bb7f7c831848734bf217427a9664
-SHA256: ef3ba2ce49790c4c61e5aa463387ea044805739b283d268d5ad7f7c5372b8bae
+Filename: ./debs/com.evynw.ew6msgbubbles_1.1-1_iphoneos-arm.deb
+Size: 67852
+MD5sum: a235f7b6349edd217e72101ab7ad2f63
+SHA1: 915f763cdc9eb0aa2479c40b477548e2766fb607
+SHA256: 0061c78b7ce49aacb576273130f95b945eaa7df0c04ab3971d8e290df5284728
 Section: Others
 Description: A twist on Android-like bubbles
 Author: Evelyn (ev_ynw)

@@ -75,7 +75,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1",
+          "text": "1.1-1",
           "title": "Version"
         },
         {
@@ -138,6 +138,17 @@
       "tabname": "Changelog",
       "tintColor": "#cb519e",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.1-1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Changed default colour of WhatsApp bubbles to grey & dark green</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.1",
