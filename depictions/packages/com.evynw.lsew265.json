@@ -7,7 +7,7 @@
   "minOSVersion": "9.0",
   "maxOSVersion": "13.5",
   "otheriOS": "untested",
-  "description": "<div>Optimized for XenHTML 2.0, but also works on XenHTML 1.X<br><br>Installed to /var/mobile/Library/Widgets/Universal; Symlink is created at /var/mobile/Library/LockHTML for XenHTML 1.X<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "description": "<div>Optimized for XenHTML 2.0, but also works on XenHTML 1.X<br><br>Requires XenInfo if you're on XenHTML 1.X<br><br>Installed to /var/mobile/Library/Widgets/Universal; Symlink is created at /var/mobile/Library/LockHTML for XenHTML 1.X<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
     "1.0": [
       "Initial release"
