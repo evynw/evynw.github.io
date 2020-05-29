@@ -4564,6 +4564,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW257
 Sileodepiction: https://evynw.github.io/sileo/lsew257.json
 
+Package: com.evynw.lsew265
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.lsew265_1.0_iphoneos-arm.deb
+Size: 165652
+MD5sum: 82f672545a29463306b08a478b9346d0
+SHA1: ae22e4167b08079c19ab5174d043f8d128fb7f6c
+SHA256: f60f9b6d845c20ae0ada5fee8717bde977c9107c5ad2d7eef1fb141c86a5de16
+Section: Lockscreen Widgets
+Description: I have nothing to say about a usual widget LOFL
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew265
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW265
+Sileodepiction: https://evynw.github.io/sileo/lsew265.json
+
 Package: com.evynw.lsew27
 Version: 1.0
 Architecture: iphoneos-arm
