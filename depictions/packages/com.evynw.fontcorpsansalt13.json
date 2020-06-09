@@ -5,7 +5,7 @@
 	"version": "1.0",
 	"dependency": "N/A",
 	"minOSVersion": "13.0",
-	"maxOSVersion": "13.3.1",
+	"maxOSVersion": "13.5.1",
 	"otheriOS": "untested",
 	"description": "<div><strong>Normal size. Install 'Corporative Sans Alt_85%' for smaller character size.</strong><br><br>Only compatible on iOS13. iOS10-12 users please install the package marked “iOS10-12”.</strong><br><br>Installed to: /Library/Themes/[fontname].theme/<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {

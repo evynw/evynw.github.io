@@ -5,7 +5,7 @@
   "version": "1.1",
   "dependency": "N/A",
   "minOSVersion": "10.0",
-  "maxOSVersion": "13.4",
+  "maxOSVersion": "13.5.1",
   "otheriOS": "untested",
   "description": "<div>Apply with iThemer / Snowboard (with UI extension).<br><br>Installed to /Library/Themes<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {

@@ -1,0 +1,148 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://evynw.github.io/sileo/assets/header_fallback.png",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "tintColor": "#91ccee",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Description",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:10pt;\">Apply with Snowboard (with Settings Icons extension) *RECOMMENDED* / iThemer</p>\n<p style=\"font-size:10pt;\">Separated into 2 sub-themes - Settings Icons (stock) & Tweaks (tweak thumbnails</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/</p>\n<p style=\"font-size:10pt;\"><strong>You may need to do some customizing / renaming of image files. Detailed tutorial here: https://evelynynw.wordpress.com/2020/05/02/ui-theming-101-for-dummies/</strong></p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Screenshots",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{360, 360}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ew2settingsoceanic/ss.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Evelyn (ev_ynw)",
+          "title": "Author"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.0",
+          "title": "Version"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS11.0 - 13.5+",
+          "title": "Compatibility"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "N/A",
+          "title": "Dependency"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://twitter.com/ev_ynw",
+          "class": "DepictionTableButtonView",
+          "title": "Find me on Twitter (@ev_ynw)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:ev.ynam.w@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Send me an email"
+        },
+        {
+          "action": "https://paypal.me/evynw",
+          "class": "DepictionTableButtonView",
+          "title": "Buy me a 🍺 via PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 40
+        },
+        {
+          "URL": "https://evynw.github.io/CydiaIcon.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "tintColor": "#91ccee",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Initial release</li>\n</ul>",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ],
+  "tintColor": "#91ccee"
+}

@@ -5,7 +5,7 @@
   "version": "1.1-1",
   "dependency": "N/A",
   "minOSVersion": "10.0",
-  "maxOSVersion": "13.5",
+  "maxOSVersion": "13.5.1",
   "otheriOS": "untested",
   "description": "<div>Applies in both Messages.app and WhatsApp.<br><br><strong>Only themes the SHAPE of the bubbles.</strong> Coloring is done by other tweaks, e.g. DopeConvos / ColorizeChat, Nord etc.<br><br>Apply with iThemer / Snowboard (with UI extension). Installed to /Library/Themes<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
