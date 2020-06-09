@@ -235,22 +235,22 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
 Name: EW2.MusicControls
 Sileodepiction: https://evynw.github.io/sileo/ew2musiccontrols.json
 
-Package: com.evynw.ew2settingsamber
+Package: com.evynw.ew2settingsoceanic
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.ew2settingsamber_1.0_iphoneos-arm.deb
-Size: 213060
-MD5sum: 10b99250e8d2606d230296b14d8e657f
-SHA1: 80a87bb3a9d2e1278c210385eceb4785c69545d0
-SHA256: 0b229a842681a7af657668cd5461c38977ac2349249d3b602b26e1eb66e16651
+Filename: ./debs/com.evynw.ew2settingsoceanic_1.0_iphoneos-arm.deb
+Size: 197990
+MD5sum: 34a9c56f5187a1e12adc8a762e49c770
+SHA1: 8d488b662a05befd06df2f0637b56445f338ac8c
+SHA256: 702819246eb2235d874299484dcc98d064f6a9a883e2c4bbbd3fa3571d533e3f
 Section: Others
 Description: Bling your settings with diamonds 💎
 Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew2settingsamber
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew2settingsoceanic
 Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
-Name: EW2.SettingsIcons (Amber)
-Sileodepiction: https://evynw.github.io/sileo/ew2settingsamber.json
+Name: EW2.SettingsIcons (Oceanic)
+Sileodepiction: https://evynw.github.io/sileo/ew2settingsoceanic.json
 
 Package: com.evynw.ew3msgbubbles
 Version: 1.0
