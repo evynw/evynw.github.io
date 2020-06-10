@@ -854,6 +854,74 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Bronkoh (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontbronkoh13.json
 
+Package: com.evynw.fontbubble12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontbubble12_1.0_iphoneos-arm.deb
+Size: 33522776
+MD5sum: ef55872b1ff035c0c54b1f861997edc0
+SHA1: 80688d37a16e1b921dbfb68c866d27fd04e86fb4
+SHA256: 5d9a5b5e0660b55150a26396e6dc0b4692c1f149925dace0c2049d4e31110de1
+Section: Fonts (iOS10-12)
+Description: Fat handwritten style. 100% size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbubble12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bubble (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontbubble12.json
+
+Package: com.evynw.fontbubble13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontbubble13_1.0_iphoneos-arm.deb
+Size: 29383152
+MD5sum: 68bde478479037f4d74e9a1487812e8b
+SHA1: 06320dc8fcbf01bd284073a17d84e14ba296d5cb
+SHA256: 55d451eaa7a8e65f8659695a3b03f920fc21a36fd72dd57fae5a6d1254c2321b
+Section: Fonts (iOS13)
+Description: Fat handwritten style. 100% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbubble13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bubble (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontbubble13.json
+
+Package: com.evynw.fontbubble8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontbubble8512_1.0_iphoneos-arm.deb
+Size: 36050914
+MD5sum: 68429634bd4f6f49fb2769c1e1a3210b
+SHA1: 15e683e0b4abbf97696f2986b8f9b98dfd0076f2
+SHA256: 94321314ca239e8a2a035cb713d24b01ceafc75803a2c5f31a3b2c9da28a9a96
+Section: Fonts (iOS10-12)
+Description: Fat handwritten style. 85% size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbubble8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bubble_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontbubble8512.json
+
+Package: com.evynw.fontbubble8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontbubble8513_1.0_iphoneos-arm.deb
+Size: 31575172
+MD5sum: 6c133d80b12730579819e1fd25bedc90
+SHA1: 4cc95f773ecdf5cdb193d8951ab132ff38bf0952
+SHA256: 0cf804406985e9996ab359b97bb4071349b1b78b951ddc6ecbf68bfb68450e46
+Section: Fonts (iOS13)
+Description: Fat handwritten style. 85% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbubble8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bubble_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontbubble8513.json
+
 Package: com.evynw.fontbunday12
 Version: 1.1
 Architecture: iphoneos-arm
@@ -2410,21 +2478,72 @@ Name: Sica (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontsica13.json
 
 Package: com.evynw.fonttisasans12
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fonttisasans12_1.0_iphoneos-arm.deb
-Size: 9982136
-MD5sum: 52d7aa976c75f94addfe680b6525c397
-SHA1: 2682974d077eb8b96186eb12533b5aa844d0d25d
-SHA256: 42eab762cbeacb3f5d1f8ade2c9d610fb87340f1e86e80ab830eeb0a558f2209
+Filename: ./debs/com.evynw.fonttisasans12_1.1_iphoneos-arm.deb
+Size: 26067146
+MD5sum: 20597eec95abfe4f297d533aab182fb0
+SHA1: ab8f75d74d9774a339750075a17d3431b7d639ed
+SHA256: 388892ad05de8b4e65d47c0e3dfaf966b98bf8c0f2f05ca5bb9c4df6ab9faeb4
 Section: Fonts (iOS10-12)
-Description: Sans that's kinda cute. For iOS10-12.
+Description: Scriptive sans serif. 100% size. For iOS10-12.
 Author: Alex (@Alexman1979)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonttisasans12
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: FF Tisa Sans (iOS10-12)
+Name: Tisa Sans (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fonttisasans12.json
+
+Package: com.evynw.fonttisasans13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fonttisasans13_1.0_iphoneos-arm.deb
+Size: 22888054
+MD5sum: 06165b9a13d98402e4961cadc1ade384
+SHA1: 7d6837df1d912eab66950bc100d56bc6e3ba934d
+SHA256: 28c22f89f3ca6ac12f864ebb02d5ca6b586c5eae71e49751bd85e8298caba191
+Section: Fonts (iOS13)
+Description: Scriptive sans serif. 100% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonttisasans13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Tisa Sans (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fonttisasans13.json
+
+Package: com.evynw.fonttisasans8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fonttisasans8512_1.0_iphoneos-arm.deb
+Size: 27686024
+MD5sum: 6e935c4afe92e9c739b2d9c8a01c541c
+SHA1: f71c8c11d03c75c28a02f5daaf66a9f2f488b705
+SHA256: 5a188505a997407aab330b296406493eb6f89a3e56ccbf6a84d17b8d355a12e5
+Section: Fonts (iOS10-12)
+Description: Scriptive sans serif. 85% size. For iOS10-12.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonttisasans8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Tisa Sans_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fonttisasans8512.json
+
+Package: com.evynw.fonttisasans8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fonttisasans8513_1.0_iphoneos-arm.deb
+Size: 24364374
+MD5sum: dbbab9d3f3e369153474ff3693896c23
+SHA1: a000030464d09edcbbd9fb5aa92121c465a1f56f
+SHA256: b3eb7c16d193f6cb24d748ea9bb52855963937c627d54aa9dcab1cd4019c5d13
+Section: Fonts (iOS13)
+Description: Scriptive sans serif. 85% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonttisasans8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Tisa Sans_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fonttisasans8513.json
 
 Package: com.evynw.fontttteds12
 Version: 1.0
