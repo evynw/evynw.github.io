@@ -269,6 +269,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
 Name: EW3.MessageBubbles
 Sileodepiction: https://evynw.github.io/sileo/ew3msgbubbles.json
 
+Package: com.evynw.ew4msgbubbles
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.ew4msgbubbles_1.0_iphoneos-arm.deb
+Size: 5006
+MD5sum: c479a68001e02e6407b0e341b80f748a
+SHA1: aeb073e6326482218aa8f4ef5883e40a5698635b
+SHA256: eda288f994304f040c427b70811183cc571f39d1da0ce41b7acae8df9dd38071
+Section: Others
+Description: Squared bubbles. For both Messages.app.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew4msgbubbles
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: EW4.MessageBubbles
+Sileodepiction: https://evynw.github.io/sileo/ew4msgbubbles.json
+
 Package: com.evynw.ew5msgbubbles
 Version: 1.1
 Architecture: iphoneos-arm
@@ -3949,6 +3966,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW173
 Sileodepiction: https://evynw.github.io/sileo/lsew173.json
 
+Package: com.evynw.lsew174
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.lsew174_1.0_iphoneos-arm.deb
+Size: 250846
+MD5sum: 7dd0a6ebea75cfae1fd270dceefd8ee4
+SHA1: 5d17537168adf8616ee96e5ef6303cdf9193f05c
+SHA256: 23475b45f7c355462a28060fa85d587009fa632d94208ca52d06157a564f4250
+Section: Lockscreen Widgets
+Description: Originally from my 12400PACK :3
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew174
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW174
+Sileodepiction: https://evynw.github.io/sileo/lsew174.json
+
 Package: com.evynw.lsew176
 Version: 1.0
 Architecture: iphoneos-arm
@@ -4312,6 +4346,23 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew21
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW21
 Sileodepiction: https://evynw.github.io/sileo/lsew21.json
+
+Package: com.evynw.lsew210
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.lsew210_1.0_iphoneos-arm.deb
+Size: 214780
+MD5sum: 6f1d5bd5255310033d05120615925b84
+SHA1: bd6e036369943f7e176777e5472054094b8c9264
+SHA256: cdb820df82db4cac4e58c6eca922151d39152f9ffa0e36c084b811a9851e56d7
+Section: Lockscreen Widgets
+Description: Originally from my 12400PACK :3
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew210
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW210
+Sileodepiction: https://evynw.github.io/sileo/lsew210.json
 
 Package: com.evynw.lsew212
 Version: 1.0
@@ -5796,6 +5847,23 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.respringexplicit
 Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
 Name: Explicit Respring Logo
 Sileodepiction: https://evynw.github.io/sileo/respringexplicit.json
+
+Package: com.evynw.respringgudetama
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.respringgudetama_1.0_iphoneos-arm.deb
+Size: 1198582
+MD5sum: 8ee8ca40ab9bec66b54ebb09e644ee16
+SHA1: b64b9fdd3e6d22b0993f67598dc4d741a6f4a44b
+SHA256: d79e8de1a49bbf47f07bd80e30abf3180e27f161fd7b31ec1161bac4980e7570
+Section: Others
+Description: A lazy egg telling the world how lazy he is UWU
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.respringgudetama
+Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Name: Gudetama Respring Logo
+Sileodepiction: https://evynw.github.io/sileo/respringgudetama.json
 
 Package: com.evynw.sbew1
 Version: 1.0

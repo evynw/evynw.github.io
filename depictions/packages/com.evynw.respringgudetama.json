@@ -1,0 +1,20 @@
+{
+  "name": "Gudetama Respring Logo",
+  "package": "com.evynw.respringgudetama",
+  "author": "Evelyn (ev_ynw)",
+  "version": "1.0",
+  "dependency": "N/A",
+  "minOSVersion": "10.0",
+  "maxOSVersion": "13.5.6",
+  "otheriOS": "untested",
+  "description": "<div>2 available versions: Still / Animated<br><br>Installed to /Library/Themes<br><br>Apply using iThemer / Snowboard with Respring Logo extension<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "changelog": {
+    "1.0": [
+      "Initial release"
+    ]
+  },
+  "screenshots": {
+    "ss.gif": ""
+  },
+  "links": {}
+}
