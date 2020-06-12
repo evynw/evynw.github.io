@@ -6122,6 +6122,23 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew24
 Name: SB EW24
 
+Package: com.evynw.sbew25
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.sbew25_1.0_iphoneos-arm.deb
+Size: 635538
+MD5sum: d8e05e4120adde04bd12292af4653c1c
+SHA1: 5cc2a017dcad3619ad93c8b2d4a48f84c326ffca
+SHA256: 748e6217a628fa57413c9e4b42fa44eeef186afb5cd5653e6a3ae7845b70467b
+Section: Homescreen Widgets
+Description: An old widget that I somehow missed
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew25
+Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
+Name: SB EW25
+Sileodepiction: https://evynw.github.io/sileo/sbew25.json
+
 Package: com.evynw.sbew28
 Version: 1.0
 Architecture: iphoneos-arm
@@ -6436,6 +6453,23 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew5
 Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
 Name: SB EW5
 Sileodepiction: https://evynw.github.io/sileo/sbew5.json
+
+Package: com.evynw.sbew50
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.sbew50_1.0_iphoneos-arm.deb
+Size: 96548
+MD5sum: 1ba02458550b6b1d6a49f07e556e5650
+SHA1: 98c74cfc15836f194d4361a63ecf4609e87f031b
+SHA256: add468cd3f6996325d78c41df1aafe379dd89ea2a65b05e43ff6e86d9676e44a
+Section: Homescreen Widgets
+Description: An old widget that I somehow missed
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew50
+Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
+Name: SB EW50
+Sileodepiction: https://evynw.github.io/sileo/sbew50.json
 
 Package: com.evynw.sbew53
 Version: 1.0

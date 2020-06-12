@@ -1,0 +1,20 @@
+{
+  "name": "SB EW50",
+  "package": "com.evynw.sbew50",
+  "author": "Evelyn (ev_ynw)",
+  "version": "1.0",
+  "dependency": "N/A",
+  "minOSVersion": "9.0",
+  "maxOSVersion": "13.5.6",
+  "otheriOS": "untested",
+  "description": "<div>Optimized for XenHTML 2.0, but also works on XenHTML 1.X<br><br>Requires XenInfo if you're on XenHTML 1.X<br><br>Installed to /var/mobile/Library/Widgets/Universal; Symlink is created at /var/mobile/Library/SBHTML for XenHTML 1.X<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "changelog": {
+    "1.0": [
+      "Initial release"
+    ]
+  },
+  "screenshots": {
+    "ss.png": ""
+  },
+  "links": {}
+}
