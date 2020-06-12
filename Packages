@@ -1983,6 +1983,74 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Komet Pro (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontkomet13.json
 
+Package: com.evynw.fontmaiposans12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontmaiposans12_1.0_iphoneos-arm.deb
+Size: 11135354
+MD5sum: fae99d0bd978d1ad4709dc60cb1ff65d
+SHA1: 828fc154437fe853fed06510f2b220097e38653a
+SHA256: 4eb3757b4b9b296ca92b626d6eb29daae84ec126f6f118ceeba2ec6e3ec05409
+Section: Fonts (iOS10-12)
+Description: Font from 12400PACK. 100% size. For iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmaiposans12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Maipo Sans (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontmaiposans12.json
+
+Package: com.evynw.fontmaiposans13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontmaiposans13_1.0_iphoneos-arm.deb
+Size: 8351396
+MD5sum: dcde65d2782efd049eaa8aa84e21e256
+SHA1: fc6ea9657ac70f6e1447445b2d3e6c2a14232923
+SHA256: 93b482e5f805a1dba1201ed21e49ff26f148bb9d0c26b3f8e0579229d4163566
+Section: Fonts (iOS13)
+Description: Font from 12400PACK. 100% size. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmaiposans13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Maipo Sans (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontmaiposans13.json
+
+Package: com.evynw.fontmaiposans8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontmaiposans8512_1.0_iphoneos-arm.deb
+Size: 11633026
+MD5sum: 590b667387e081db28df756633df556a
+SHA1: b2130fd6430782cd12dba7ba00b06dda97a927ca
+SHA256: 5afc2a692059adcfba24998c2c47cfa26f63c818887142ba7a0c2379a3ff1a14
+Section: Fonts (iOS10-12)
+Description: Font from 12400PACK. 85% size. For iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmaiposans8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Maipo Sans_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontmaiposans8512.json
+
+Package: com.evynw.fontmaiposans8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontmaiposans8513_1.0_iphoneos-arm.deb
+Size: 8800938
+MD5sum: 8889b1bdf10a85bfc4842df2f9822e06
+SHA1: 464495b0d8022aa31e1351e0a2e82dd75f401af0
+SHA256: ea264586749a5f703f396392a6aa0200ccb3e7e0f8faeb3d9546ee8a970aa480
+Section: Fonts (iOS13)
+Description: Font from 12400PACK. 85% size. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmaiposans8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Maipo Sans_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontmaiposans8513.json
+
 Package: com.evynw.fontmetrisch1011
 Version: 1.0
 Architecture: iphoneos-arm
@@ -4487,6 +4555,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW221
 Sileodepiction: https://evynw.github.io/sileo/lsew221.json
 
+Package: com.evynw.lsew231
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.lsew231_1.0_iphoneos-arm.deb
+Size: 214726
+MD5sum: dbe49cb2ef96b38083a63b4fde43bbc6
+SHA1: 931f2ac54d1808f582d0c555c96c1dfc829b44be
+SHA256: 7840df4de9804687d5c2d01d691595b095f8a457640b275680f9df7f73d4ca4f
+Section: Lockscreen Widgets
+Description: Originally from my 12400PACK :3
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew231
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW231
+Sileodepiction: https://evynw.github.io/sileo/lsew231.json
+
 Package: com.evynw.lsew232
 Version: 1.0
 Architecture: iphoneos-arm
@@ -5896,6 +5981,23 @@ Description: Simple clock & date widget
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew10
 Name: SB EW10
+
+Package: com.evynw.sbew100
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.sbew100_1.0_iphoneos-arm.deb
+Size: 1403862
+MD5sum: 7fe49720be04dd229081f21e7a8399b8
+SHA1: dd3b6367b1e0d7977b0eb1bb004700c89714f30e
+SHA256: 1b5fdc554372885c51467349908d88bbd9759f3e50b31bd35ab6c257fc711ee8
+Section: Homescreen Widgets
+Description: Originally from my 12400PACK :3
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew100
+Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
+Name: SB EW100
+Sileodepiction: https://evynw.github.io/sileo/sbew100.json
 
 Package: com.evynw.sbew104
 Version: 1.0-1
