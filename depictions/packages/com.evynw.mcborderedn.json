@@ -1,0 +1,20 @@
+{
+  "name": "Bordered (N95)",
+  "package": "com.evynw.mcborderedn95",
+  "author": "Evelyn (ev_ynw)",
+  "version": "1.0",
+  "dependency": "N95",
+  "minOSVersion": "13.0",
+  "maxOSVersion": "14.0",
+  "otheriOS": "untested",
+  "description": "<div>Installed to: /Library/Application Support/N95/[Name].bundle/<br><br>Enable via N95 (repo: https://repo.twickd.com/)<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "changelog": {
+    "1.0": [
+      "Initial release"
+    ]
+  },
+  "screenshots": {
+    "ss.png": ""
+  },
+  "links": {}
+}

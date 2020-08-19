@@ -35,7 +35,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ew2settingsoceanic/ss.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ew2settingsamber/ss.png"
             }
           ]
         },
@@ -67,12 +67,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1",
+          "text": "1.0",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS11.0 - 13.6+",
+          "text": "iOS11.0 - 13.5+",
           "title": "Compatibility"
         },
         {
@@ -130,17 +130,6 @@
       "tabname": "Changelog",
       "tintColor": "#91ccee",
       "views": [
-        {
-          "class": "DepictionSubheaderView",
-          "title": "1.1",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Added icons for more tweaks</li>\n<li>Resized icons to correct metrics</li>\n</ul>",
-          "useRawFormat": true
-        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",

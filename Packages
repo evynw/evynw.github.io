@@ -2,16 +2,17 @@ Package: com.evynw.ew1msgbubbles
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew1msgbubbles_1.1_iphoneos-arm.deb
-Size: 28134
-MD5sum: c400b031fcb805b752f003346b855e7f
-SHA1: 7f8763f7ffce90a187f6eac88076cd70178bb817
-SHA256: 6a5301bbb7fa021a2b72582fb9a3608e83fe168729bdc77245f5349befbc82fc
-Section: Others
+Size: 28156
+MD5sum: 7e676e305212ec5a1963975be0b3777f
+SHA1: 2f2519e7c639cc7ec1ed0f65f84dc0bf1ecca948
+SHA256: 321ec5d0e92b076cabac7b3f4cb276bfe503c844e750df4e122e558019538a8f
+Section: Theme Bits
 Description: Bubbles for both Messages.app & WhatsApp.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1msgbubbles
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW1.MessageBubbles
 Sileodepiction: https://evynw.github.io/sileo/ew1msgbubbles.json
 
@@ -19,16 +20,17 @@ Package: com.evynw.ew1musiccontrols
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew1musiccontrols_1.1_iphoneos-arm.deb
-Size: 46066
-MD5sum: 80a8b72e8c5659705ba88fe9b9198e64
-SHA1: ecb4617968cca61d9c0e3383f53e8761dd090bb9
-SHA256: b90a24c32992ffad0854e22d575cfefa8129b2c42aec1e88e9c01978a44b526e
-Section: Others
+Size: 46446
+MD5sum: d67bf9e9918b984cda6a34f2e688414d
+SHA1: b45d1205159c9aa2eba32d49fee512b9f0665507
+SHA256: 97685b81ca3afd0b12c544655cd304a929ca7dffef0d3848f30110140a6776eb
+Section: Theme Bits
 Description: Pretty generic-looking music controls
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1musiccontrols
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW1.MusicControls
 Sileodepiction: https://evynw.github.io/sileo/ew1musiccontrols.json
 
@@ -36,32 +38,35 @@ Package: com.evynw.ew1pagedots
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.anemonetheming.anemone, com.evynw.repoicons
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew1pagedots_1.0_iphoneos-arm.deb
-Size: 6354
-MD5sum: 003b196b32571bb3c52b163dde749d14
-SHA1: 216aaf8c249cc53ae7426a896992167ea2de7f07
-SHA256: 14d39fffdc765982986ca453aea433212726e6df916290d1f4c709bf5c06a989
-Section: Others
+Size: 6394
+MD5sum: a937b7ce269821a6def7ce11de6e69c1
+SHA1: a41ae6256877de0cdfba9b61b50f97bcdc0125b1
+SHA256: f4b2f374f9a8adb4050329f23af6536ef235e2a115b02e7b8ef1ab2f4126f940
+Section: Theme Bits
 Description: Page dots in the shape of X's and O's
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1pagedots
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW1.PageDots
+Sileodepiction: https://evynw.github.io/sileo/ew1pagedots.json
 
 Package: com.evynw.ew1settingscarbon
 Version: 1.1-2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew1settingscarbon_1.1-2_iphoneos-arm.deb
-Size: 175490
-MD5sum: b830d59db73624a5b6432cd2e852eefe
-SHA1: d36779e53063312483200484b259fc019683949a
-SHA256: ee6cec2210dc58803c1761048801953c23253d38eb3d3554d4ffa959cc460011
-Section: Others
+Size: 175518
+MD5sum: 27a6ce025c928646c019b34e2d0538d6
+SHA1: 12b4f8f577c96009242ad6323b85d316d23ab88e
+SHA256: 552c06e8d031445f1e9524c2bf940eb7557e418660771cad4d7a4addc3fb1f7d
+Section: Settings Icons
 Description: First ever settings icons theme :P [Color = black]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingscarbon
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW1.SettingsIcons (Carbon)
 Sileodepiction: https://evynw.github.io/sileo/ew1settingscarbon.json
 
@@ -69,16 +74,17 @@ Package: com.evynw.ew1settingscaribbean
 Version: 1.1-2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew1settingscaribbean_1.1-2_iphoneos-arm.deb
-Size: 184548
-MD5sum: 2b8498d31d4ee1953bd35580d2f91593
-SHA1: fd6639d0c78339532207ffe4e309a359ea818955
-SHA256: 893e9455b6f835f9c3b053c74d490f95bd0b0e71e20a3b3e7848836774610671
-Section: Others
+Size: 184572
+MD5sum: 0243c48d8faf3d2b6636fa7c12e3b146
+SHA1: cfe3ce2a281fc24b64305027c5611a8646d60591
+SHA256: bd3c6ec2f3ee47cd827d3b476a35c3621b849035323bd49fc4419d0d8ece1205
+Section: Settings Icons
 Description: First ever settings icons theme :P [Color = teal]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingscaribbean
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW1.SettingsIcons (Caribbean)
 Sileodepiction: https://evynw.github.io/sileo/ew1settingscaribbean.json
 
@@ -86,16 +92,17 @@ Package: com.evynw.ew1settingsfuchsia
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew1settingsfuchsia_1.0_iphoneos-arm.deb
-Size: 177880
-MD5sum: 0177816d971a993f215775fca7c24d02
-SHA1: 3289d4f11fa6613ca1f422fe3fadb4645868c1ea
-SHA256: 425bb18a223ee8cd1afc6afd5a23379e2060e8ec31b2cc7711338c0adffd0eba
-Section: Others
+Size: 177896
+MD5sum: cfb38982ba4f2d05e6a6d692b879abca
+SHA1: dffaa5bd03e460abf26aa60587b074963ae40a83
+SHA256: 050e9e1ddc556af5905c11508ccc90746b96a5a311966e69249640dc016c18f6
+Section: Settings Icons
 Description: First ever settings icons theme :P [Color = magenta]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingsfuchsia
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW1.SettingsIcons (Fuchsia)
 Sileodepiction: https://evynw.github.io/sileo/ew1settingsfuchsia.json
 
@@ -103,16 +110,17 @@ Package: com.evynw.ew1settingshaze
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew1settingshaze_1.0_iphoneos-arm.deb
-Size: 177984
-MD5sum: ed8023b279faee6155c35bde61b1b334
-SHA1: d2cd4ff70c5e4b8b4db22f9da54a22f10a26b4ad
-SHA256: caf0e14ee139a6201a78acdbe783c4ac5803316f18a1fc4b75a8cb71bb1ac149
-Section: Others
+Size: 177990
+MD5sum: f28bfd7c6204387607c48de56fe7dbad
+SHA1: 3e3f10fe0d3d690c8d2b7ee6c74ce1f2a7f299e5
+SHA256: 6c23fd19a3643e7ad3565fb3fdf35f5aa996d50aafcdda525017b44ca3e6b1a6
+Section: Settings Icons
 Description: First ever settings icons theme :P [Color = blue]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingshaze
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW1.SettingsIcons (Haze)
 Sileodepiction: https://evynw.github.io/sileo/ew1settingshaze.json
 
@@ -120,16 +128,17 @@ Package: com.evynw.ew1settingsivory
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew1settingsivory_1.0_iphoneos-arm.deb
-Size: 174736
-MD5sum: bcb413ecd44ae715b059167fd581e9e2
-SHA1: 96e534108e9cd01bedc3e92f2c51afd2a4c9b7e7
-SHA256: 8e7b592cfc8d2930d3107d43826dbfac06bd695369351444a5de1597b1b1e9cf
-Section: Others
+Size: 174756
+MD5sum: a71c7fb2fea6d02ceee300da60830ac2
+SHA1: a0c2f317b6fc2ecd7e7194c93dbe1c67b1d21258
+SHA256: a01e0c30e922c710203e003e071279eaf8a9b4027a7e4b2c4c461202e008c597
+Section: Settings Icons
 Description: First ever settings icons theme :P [Color = ivory]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingsivory
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW1.SettingsIcons (Ivory)
 Sileodepiction: https://evynw.github.io/sileo/ew1settingsivory.json
 
@@ -137,16 +146,17 @@ Package: com.evynw.ew1settingslavender
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew1settingslavender_1.0_iphoneos-arm.deb
-Size: 177148
-MD5sum: c501008d62be3dbc64785f56de13e8a1
-SHA1: d38cc9ef7aea0ed3f10df8c7cb782a3ef1d86c04
-SHA256: a7d2cfc2dadc07f5b78fce29b55395c70b67228fcfeb966508bbc51bda5ed855
-Section: Others
+Size: 177160
+MD5sum: 5c5923f50e770ecb8a631a832375adfb
+SHA1: 5155f07db0624486c1730ff342d7dfb607842fe9
+SHA256: fd579236b248dc6003132d131a1208c7d964b2ed73f7a80e635c464d235cfca9
+Section: Settings Icons
 Description: First ever settings icons theme :P [Color = lavender]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingslavender
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW1.SettingsIcons (Lavender)
 Sileodepiction: https://evynw.github.io/sileo/ew1settingslavender.json
 
@@ -154,16 +164,17 @@ Package: com.evynw.ew1settingspine
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew1settingspine_1.0_iphoneos-arm.deb
-Size: 178572
-MD5sum: 573e6fb310a4dcf535e1780818362c5b
-SHA1: 07c9ff2a0705a9f6b98b25d8fc46d967865702ec
-SHA256: 6cc45e39ad5b12b399261b604736980ff67974a63b8dc40bf261d9be6fd5076d
-Section: Others
+Size: 178278
+MD5sum: af7d9eecdaa49c51e0d66e0490d1e5d9
+SHA1: 1cebcc0021b4cd4c54b0e9cf707d23a415d11cef
+SHA256: d9108d9687d4f8c8b858adcf91eac1f7c61640aa36c89c23fe6398223a03fc27
+Section: Settings Icons
 Description: First ever settings icons theme :P [Color = green]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingspine
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW1.SettingsIcons (Pine)
 Sileodepiction: https://evynw.github.io/sileo/ew1settingspine.json
 
@@ -171,16 +182,17 @@ Package: com.evynw.ew1settingsroyal
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew1settingsroyal_1.0_iphoneos-arm.deb
-Size: 180950
-MD5sum: 323161e14fcb1227978601e884537a26
-SHA1: 725c35e3c3f55e0302a2e193b8020b4bc8191f01
-SHA256: 072d79e4b1da1eb212fa05195b319c7f6aee481ec6b7ecf95c8cfbefdd68652f
-Section: Others
+Size: 180968
+MD5sum: 161ec5ef5edd4a6ee7ab073638c2cae0
+SHA1: e78bd0b4328860dab0e6704edb2059cbacac2156
+SHA256: e712d6a8845135de9d103176fc8d2ba5b86a2e50f6da757ccd56597edc229485
+Section: Settings Icons
 Description: First ever settings icons theme :P [Color = violet]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingsroyal
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW1.SettingsIcons (Royal)
 Sileodepiction: https://evynw.github.io/sileo/ew1settingsroyal.json
 
@@ -188,16 +200,17 @@ Package: com.evynw.ew1settingssunrise
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew1settingssunrise_1.0_iphoneos-arm.deb
-Size: 176372
-MD5sum: 228895fb98512662ed9cb843ada8972c
-SHA1: 98d86b39db6201d4faed60fdb6fef09a1fde647a
-SHA256: 8410a5270f6091de4979a081492bdeb476cb9caac5e84aa6f2a1f02fd85b7db1
-Section: Others
+Size: 176392
+MD5sum: 2b2a4fbe313b73e26e840e7a7e38289a
+SHA1: 71818314459d7ec6565ee0e630d84fe4a8a342e4
+SHA256: a210c5826c54e06fb90a89dc6a26cfadd53f1bc28052a6b5f5d4ad438428cdca
+Section: Settings Icons
 Description: First ever settings icons theme :P [Color = coral]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingssunrise
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW1.SettingsIcons (Sunrise)
 Sileodepiction: https://evynw.github.io/sileo/ew1settingssunrise.json
 
@@ -205,16 +218,17 @@ Package: com.evynw.ew1settingssunset
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew1settingssunset_1.0_iphoneos-arm.deb
-Size: 180438
-MD5sum: 007bbf29bee2f200ee98a3b4fe805892
-SHA1: 1ad33def705d4cfc787fbe777d0324f4701950fa
-SHA256: f62e9c0fef70b8ed28d274f8099b43b1ce7aee654a32d9344c4dd6b9c9a1dbd5
-Section: Others
+Size: 180460
+MD5sum: f51893897ed7d3c9a4e33da0b45b9282
+SHA1: 2daa298cd2f9314272f4779cfb4f1d0291004886
+SHA256: 9d6089c0791f2c31747e6798082bb7d130897d7a3adb8d27752b6a8f9e3bf88d
+Section: Settings Icons
 Description: First ever settings icons theme :P [Color = yellow]
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingssunset
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW1.SettingsIcons (Sunset)
 Sileodepiction: https://evynw.github.io/sileo/ew1settingssunset.json
 
@@ -222,33 +236,35 @@ Package: com.evynw.ew2musiccontrols
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew2musiccontrols_1.1_iphoneos-arm.deb
-Size: 35538
-MD5sum: 6118390b82f016e3b37690e0140644db
-SHA1: 0b27acd8ca0142efa0539a73970f11cb9217c0dc
-SHA256: 02d35f55cef18e1cf574b0601dba5a47661d865cd530af2c4e01b37e3cbbc212
-Section: Others
+Size: 35566
+MD5sum: 71deb3d15a03fa14c2e63d3ec2caedce
+SHA1: 8d2183346d415896b1efb8ffbe0d7d238bc6a51d
+SHA256: 4e990a1fd7255ca0069db6db9fd4f11e0a8baea1b8adbddd777966389f2b7c19
+Section: Theme Bits
 Description: One of my oldest designs
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew2musiccontrols
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW2.MusicControls
 Sileodepiction: https://evynw.github.io/sileo/ew2musiccontrols.json
 
 Package: com.evynw.ew2settingsoceanic
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.ew2settingsoceanic_1.0_iphoneos-arm.deb
-Size: 197990
-MD5sum: 34a9c56f5187a1e12adc8a762e49c770
-SHA1: 8d488b662a05befd06df2f0637b56445f338ac8c
-SHA256: 702819246eb2235d874299484dcc98d064f6a9a883e2c4bbbd3fa3571d533e3f
-Section: Others
+Depends: com.evynw.repoicons (>= 1.2)
+Filename: ./debs/com.evynw.ew2settingsoceanic_1.1_iphoneos-arm.deb
+Size: 205262
+MD5sum: f472734c9cd8ba1cfcd6b99511d67a60
+SHA1: dba90c5acda72162da4a3205f7833da9ae727264
+SHA256: bc70e4f4543cd3b18de7bc3094eaf787ace938ee3f998f355d5115db7082a751
+Section: Settings Icons
 Description: Bling your settings with diamonds 💎
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew2settingsoceanic
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW2.SettingsIcons (Oceanic)
 Sileodepiction: https://evynw.github.io/sileo/ew2settingsoceanic.json
 
@@ -256,16 +272,17 @@ Package: com.evynw.ew3msgbubbles
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew3msgbubbles_1.0_iphoneos-arm.deb
-Size: 17712
-MD5sum: 225211458d26cc6dbf68cf6e4bf514b4
-SHA1: 2a3f697bbabbcf90e2ccd1f8f19e92fdcfa71b2f
-SHA256: 9d7fe4405c9f1894e572e1f33fd201a0d8ca9f4411b5ca404b223284d5c1e89c
-Section: Others
+Size: 18022
+MD5sum: f6eb3ee6ea8375828d4fb83f86305131
+SHA1: 50e862e3acf63d3fd307245dd373858d2446b03d
+SHA256: 0df54fd63bdf9a7c0c4727a8dc6b252e4739e6e476699b35c692927d3f396a2a
+Section: Theme Bits
 Description: One of my earliest work. For both Messages.app & WhatsApp.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew3msgbubbles
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW3.MessageBubbles
 Sileodepiction: https://evynw.github.io/sileo/ew3msgbubbles.json
 
@@ -273,16 +290,17 @@ Package: com.evynw.ew4msgbubbles
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew4msgbubbles_1.0_iphoneos-arm.deb
-Size: 5006
-MD5sum: c479a68001e02e6407b0e341b80f748a
-SHA1: aeb073e6326482218aa8f4ef5883e40a5698635b
-SHA256: eda288f994304f040c427b70811183cc571f39d1da0ce41b7acae8df9dd38071
-Section: Others
+Size: 5358
+MD5sum: c17ca8c40f8d1089a9cfcd4d918424d6
+SHA1: 4b05dfaf86fe3f845e30cf026538201692a314d9
+SHA256: 269bddf2e3a975fe98f281548f96c2d1fd0f98737cd2f10ce82e124fae8ed43b
+Section: Theme Bits
 Description: Squared bubbles. For both Messages.app.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew4msgbubbles
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW4.MessageBubbles
 Sileodepiction: https://evynw.github.io/sileo/ew4msgbubbles.json
 
@@ -290,16 +308,17 @@ Package: com.evynw.ew5msgbubbles
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew5msgbubbles_1.1_iphoneos-arm.deb
-Size: 32988
-MD5sum: 3d961c1877c51d1ece2803c882a7b5f5
-SHA1: 1622a9e9bd70970069235d4d911a8cb5b5d4a0b4
-SHA256: ef1bcea28a8f1bf7247bacdeeb8fefae4f05d3e7933432f00b5361f97952c2da
-Section: Others
+Size: 33336
+MD5sum: 130722c93ca93a42483ddd70ee6b37aa
+SHA1: 5ba4d6d0aa982c595414163d985be7e0f77a58be
+SHA256: 78ba29421babbddc68e9a1b429b3578d722358393d8a3f54bd8e596f7b97eae5
+Section: Theme Bits
 Description: New designs with partial transparency
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew5msgbubbles
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW5.MessageBubbles
 Sileodepiction: https://evynw.github.io/sileo/ew5msgbubbles.json
 
@@ -307,16 +326,17 @@ Package: com.evynw.ew5musiccontrols
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew5musiccontrols_1.0_iphoneos-arm.deb
-Size: 20696
-MD5sum: 66e2189909519c1885dafe38caf7fd77
-SHA1: 5a5756a8ecb4b52dcaf85bc74c438347420b27f3
-SHA256: e2179098f3e0ed3d594c2e11e59d6e62a1540ac2e0b80b1e5c1f593881613018
-Section: Others
+Size: 20718
+MD5sum: 19c970b841d02dc61e5d5858b895191a
+SHA1: d6cf65b4a7a76971b888bb3e5ca98e4454b60f19
+SHA256: 87a41632438798c3bcd0382f368aba6d608e653a5480ceae6b756fef16ad8f88
+Section: Theme Bits
 Description: Music controls in geometric shapes
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew5musiccontrols
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW5.MusicControls
 Sileodepiction: https://evynw.github.io/sileo/ew5musiccontrols.json
 
@@ -324,16 +344,17 @@ Package: com.evynw.ew6msgbubbles
 Version: 1.1-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew6msgbubbles_1.1-1_iphoneos-arm.deb
-Size: 67852
-MD5sum: a235f7b6349edd217e72101ab7ad2f63
-SHA1: 915f763cdc9eb0aa2479c40b477548e2766fb607
-SHA256: 0061c78b7ce49aacb576273130f95b945eaa7df0c04ab3971d8e290df5284728
-Section: Others
+Size: 67874
+MD5sum: 9bebbe87fb27babc5200e0849ef3a93b
+SHA1: f5b54442e9b425373dd72704673fe6077db4d288
+SHA256: 155bc317aa95365e478083b857b1c922ed81280bbdfdf03789437052c6995c38
+Section: Theme Bits
 Description: A twist on Android-like bubbles
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew6msgbubbles
-Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW6.MessageBubbles
 Sileodepiction: https://evynw.github.io/sileo/ew6msgbubbles.json
 
@@ -341,13 +362,13 @@ Package: com.evynw.ewwdgtpack10
 Version: 2.0-3
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.junesiphone.xeninfo
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ewwdgtpack10_2.0-3_iphoneos-arm.deb
-Size: 1175252
-MD5sum: f4eb421a428e3c475a7965512a629f42
-SHA1: 4bd5546b8633f5dc04671385e314368f2f6b7ff0
-SHA256: 5e60cbcd59afe430c72200fb6afb03a99d273aa81b585e6b847590bd998bc4c5
-Section: Lockscreen Widgets
+Size: 1175274
+MD5sum: 4eca7e48f5411999391a8f4025fe0dee
+SHA1: d4ab927b0452be7759153ea897537c40e1be33a7
+SHA256: 952341c4fb45d6d28cd20a6667db032ab9e0737a1209f6b2f029b7edab0df45c
+Section: Widget Packs
 Description: iOS11-compatible widget pack. I'm working hard T^T
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack10
@@ -359,13 +380,13 @@ Package: com.evynw.ewwdgtpack12
 Version: 2.0-3
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.junesiphone.xeninfo
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ewwdgtpack12_2.0-3_iphoneos-arm.deb
-Size: 2747726
-MD5sum: b04943a8b4e1ef26c334ae19a36a0c55
-SHA1: 7176f71729859d485ee96dc6981b99442f81d8b2
-SHA256: e16650374c5d238aa29249a0c4b8de6723f1d47f3e06f3bfb2a833e13f3535af
-Section: Lockscreen Widgets
+Size: 2747732
+MD5sum: 4f07ed6e69d93190ddf5e1ad6a1948fe
+SHA1: a6540821027b08c8119dc3fa30ea69134b5166be
+SHA256: 734274280f8672220818ca808a6463acf485671f32ccd055b102413ffba26ed9
+Section: Widget Packs
 Description: iOS11-compatible widget pack. I'm working hard T^T
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack12
@@ -377,13 +398,13 @@ Package: com.evynw.ewwdgtpack14
 Version: 2.0-2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.junesiphone.xeninfo
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ewwdgtpack14_2.0-2_iphoneos-arm.deb
-Size: 2770668
-MD5sum: 101181d4eb65a6851aff88d7453d30ae
-SHA1: ba53c6005899f114153f58dc9df61af07e94e7c6
-SHA256: 8057396b94bfa61d445ddf7dbfea0d4053529cfd77e1ae80037f72a8a151c7f2
-Section: Lockscreen Widgets
+Size: 2770662
+MD5sum: 87b2e270e29cabfc1e377e685987a304
+SHA1: 712193e5129f6f9ea3dae57364e9ae1d42a12afb
+SHA256: 7ff45ed068da08f28ba72fb4165c96c9e5dc706edde75211780e2f532448801e
+Section: Widget Packs
 Description: iOS11-compatible widget pack. I'm working hard T^T
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack14
@@ -395,12 +416,13 @@ Package: com.evynw.ewwdgtpack16
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ewwdgtpack16_1.0_iphoneos-arm.deb
-Size: 3004748
-MD5sum: 9f677c94a38af6df4c6239059a00796d
-SHA1: 136430349c2e1b9746ffb83b76ed075edcc969f9
-SHA256: b7f04306c16694fb3550db20e379a816d540f697cfc921a5d1466932bdfedd7a
-Section: Lockscreen Widgets
+Size: 3004764
+MD5sum: 0c012814ec4f191d32600e8b6da6b345
+SHA1: df16d19a58007c9041e9913b28c4310fe5239ecf
+SHA256: e0146e70f5220598d676725b350bcdb81f1ce842b8842e6097b6ba4f5d2af807
+Section: Widget Packs
 Description: Brand new widget pack :D
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack16
@@ -412,12 +434,13 @@ Package: com.evynw.ewwdgtpack18
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ewwdgtpack18_1.0_iphoneos-arm.deb
-Size: 1326934
-MD5sum: 1626564305f0b04da78e4eac17244554
-SHA1: 21324b7482022c1a0d79641624c2a232c148e3de
-SHA256: 3b2a1c933f7781e597c2a2fbe38bb28a9cdc73b51d365a5a03185e23c9414516
-Section: Lockscreen Widgets
+Size: 1326942
+MD5sum: 9bca3738b78ec39541fac649f6d43fff
+SHA1: 477803f6fdce90a0c6e1621d606f02c218ce12ca
+SHA256: dad40f9b79a30b1585dc4770dea2721064f50def9880594be92453cdc817ad6b
+Section: Widget Packs
 Description: Free Widget Pack - LS x 5
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack18
@@ -429,13 +452,13 @@ Package: com.evynw.ewwdgtpack2
 Version: 2.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.junesiphone.xeninfo
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ewwdgtpack2_2.0-1_iphoneos-arm.deb
-Size: 1336750
-MD5sum: 55db962dac5884c0d32814fecd9622a2
-SHA1: b6a54a4fc81d5e6e95473ffab593c57111c85235
-SHA256: 52f8b69bbb6cc02e2c218890ddc1af4cec4c29b633af9b4ee63efc75c57c22ea
-Section: Lockscreen Widgets
+Size: 1336744
+MD5sum: fb1350bf04fc262a6224634f165f6d63
+SHA1: 99eeb99ccf42ba7ae7cc7f926259d6cd185dcd8f
+SHA256: c63eb474ee8b946e4c1e0f468291bba96e32219d53c0405155b6015d14a0edd4
+Section: Widget Packs
 Description: Last in the queue. YAY!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack2
@@ -447,12 +470,13 @@ Package: com.evynw.ewwdgtpack20
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ewwdgtpack20_1.0_iphoneos-arm.deb
-Size: 1331562
-MD5sum: 2d54ddd81300db0d478589257e2269f6
-SHA1: 62cb29b09547a7781ac200b4e8c075f60cbf61bc
-SHA256: a0862637b4f266f0356e7ce6311c4fd53cd3a178796778ab38284c56dd4d591e
-Section: Lockscreen Widgets
+Size: 1331576
+MD5sum: a85e488aadc203f80f52411d71fbfcb2
+SHA1: 675674de3f3f2df87bea4fd2e8a5cd001b58019a
+SHA256: 71cdbca40f64a41986ea40a88708594003046a11372d9cd2d1a8aaf95541c4f8
+Section: Widget Packs
 Description: The pack that's kept in the drawer for too long
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack20
@@ -464,13 +488,13 @@ Package: com.evynw.ewwdgtpack4
 Version: 2.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.junesiphone.xeninfo
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ewwdgtpack4_2.0-1_iphoneos-arm.deb
-Size: 943452
-MD5sum: a9a811ebb80d3d0e9e6b388478f25c35
-SHA1: 7e17651efacab754d58623cac453e1b7652e8621
-SHA256: 5ec568c605a460e75e08c5ce1bf6fe7682a909c4318386801bcdc8597f997464
-Section: Lockscreen Widgets
+Size: 943456
+MD5sum: 84e66bd9fe4d6f4b144a4d175f122aa0
+SHA1: b6a4a8d5233cae8e9d139fff5c4667fe3ce62f4a
+SHA256: f497f34810823257b5ffe8252330b1cb35819af5b6cd216efc2bdc85c1430105
+Section: Widget Packs
 Description: Been slacking off with updating wdgt packs, oops
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack4
@@ -482,13 +506,13 @@ Package: com.evynw.ewwdgtpack6
 Version: 2.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.junesiphone.xeninfo
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ewwdgtpack6_2.0-1_iphoneos-arm.deb
-Size: 835436
-MD5sum: c986ce31bda0a8e834e1d3cf5100bd2b
-SHA1: 50bc6359fae0c12f978e868775c99dfe08132b98
-SHA256: ba8d23b15c8452d6c2c61126522311a7685b64d42d98997cdc2ca06faf41667c
-Section: Lockscreen Widgets
+Size: 835442
+MD5sum: c65e5119b0ccce01fb7ab53073149dcd
+SHA1: 6621bbb7bdb0386f71d1df3862df2d3941eda3ff
+SHA256: 465e1319c78eafeba7c46c61643d6186079392aac9d32381c8e5728ffc4450bc
+Section: Widget Packs
 Description: Another widget pack...2 more free ones to go
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack6
@@ -500,13 +524,13 @@ Package: com.evynw.ewwdgtpack8
 Version: 2.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.junesiphone.xeninfo
+Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ewwdgtpack8_2.0-1_iphoneos-arm.deb
-Size: 957650
-MD5sum: c9212580334d8ad1a4e69bca868e9875
-SHA1: 5970f265578e262130f31e32476df31a9ea50a6a
-SHA256: c794f158e58ee2ac2badc747331f043ddc86004664163ca1b89e8dbe6af205f8
-Section: Lockscreen Widgets
+Size: 957648
+MD5sum: bbe9a4c932296288031586a84e265930
+SHA1: b5ef42ae0cee3e1f1a73952219231ebf8d926f2c
+SHA256: 98f0d4f98be03b778ec9f306d0cc77e28657421850debd7d2cde53c5ef3c1290
+Section: Widget Packs
 Description: Another widget pack...I'm so tired T^T
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack8
@@ -5661,41 +5685,6 @@ Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsewrisingbars
 Name: LS EW.RisingBars
 
-Package: com.evynw.masqbordered
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.0-3)
-Filename: ./debs/com.evynw.masqbordered_1.0_iphoneos-arm.deb
-Size: 283074
-MD5sum: 8ae200fce77174a91c7516c032d45429
-SHA1: 8a556ffd92fae79a2b32cebdfb9729149d37bdad
-SHA256: 986b26941257b0a912ada7f3e3b2b895976ef8ffa0d0ecca6a1941c582379475
-Section: MASQ Themes
-Description: From CCover to MASQ to MASQKit
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.masqbordered
-Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
-Name: Bordered
-Sileodepiction: https://evynw.github.io/sileo/masqbordered.json
-
-Package: com.evynw.masqew1
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.masqew1_1.0_iphoneos-arm.deb
-Size: 219898
-MD5sum: 3f5946c477328ad2a0c83e29380d4cc3
-SHA1: 5784aa7c5e3ef41dd697e2e14d327d3bf1423696
-SHA256: 7872fb121cc8d3695da40a1e0dc093b9289a2dc8e8c160d53935a1ff3ac93a8e
-Section: MASQ Themes
-Description: From CCover to MASQ to MASQKit
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.masqew1
-Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
-Name: MASQ.EW1
-Sileodepiction: https://evynw.github.io/sileo/masqew1.json
-
 Package: com.evynw.masqew2
 Version: 1.0
 Architecture: iphoneos-arm
@@ -5815,15 +5804,123 @@ Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
 Name: Stampd
 Sileodepiction: https://evynw.github.io/sileo/masqstampd.json
 
-Package: com.evynw.repoicons
-Version: 1.1
+Package: com.evynw.mcborderedh
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.repoicons_1.1_iphoneos-arm.deb
-Size: 148530
-MD5sum: 80e900956b2c1a5f5bffb1b282253d2a
-SHA1: 604c15cd5eb07f3052e49f9d6bb4459392898115
-SHA256: 95f3c5f51d75ac6bab4f32e3cbbe5b66173351634fd7e66b395551c488c4e5ca
+Depends: com.evynw.repoicons (>= 1.2)
+Filename: ./debs/com.evynw.mcborderedh_1.0_iphoneos-arm.deb
+Size: 283062
+MD5sum: 58366fd06f3c164c81839bd2f85173d1
+SHA1: e936fa7000e4a99e875212a98375e35fd095db92
+SHA256: d57b3542fc620d5787af242288ad06610d2c88d93400097f0e46400870644c26
+Section: MASQ/N95/Hazmat Themes
+Description: Simple album cover theme for Hazmat
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcborderedh
+Icon: https://evynw.github.io/depictions/sectionIcons/Hazmat.png
+Name: Bordered (Hazmat)
+Sileodepiction: https://evynw.github.io/sileo/mcborderedh.json
+
+Package: com.evynw.mcborderedm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
+Filename: ./debs/com.evynw.mcborderedm_1.0_iphoneos-arm.deb
+Size: 283090
+MD5sum: 1946a36520277f6f8bad2382ebf2f1a7
+SHA1: d7e8407958abff63c1518e52c6d3f84a26c32fca
+SHA256: 57cd8fb8549f4081ee86efba3e99081d646cde7330ddcef7dc34d059a57bc959
+Section: MASQ/N95/Hazmat Themes
+Description: Simple album cover theme for MASQKit
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcborderedm
+Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
+Name: Bordered (MASQ)
+Sileodepiction: https://evynw.github.io/sileo/mcborderedm.json
+
+Package: com.evynw.mcborderedn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
+Filename: ./debs/com.evynw.mcborderedn_1.0_iphoneos-arm.deb
+Size: 283026
+MD5sum: 835bbdafb72883038da27ead04522b63
+SHA1: 149649d7fdf0bab69de026615ee5d42f05e2c2b9
+SHA256: 5c0e2d8f08d8b900dca93be58aca165dd6cb3f6fed4cb8abbc1e54554e39656e
+Section: MASQ/N95/Hazmat Themes
+Description: Simple album cover theme for N95
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcborderedn
+Icon: https://evynw.github.io/depictions/sectionIcons/N95.png
+Name: Bordered (N95)
+Sileodepiction: https://evynw.github.io/sileo/mcborderedn.json
+
+Package: com.evynw.mcew1h
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
+Filename: ./debs/com.evynw.mcew1h_1.0_iphoneos-arm.deb
+Size: 219918
+MD5sum: ef941a5c68b6be376ddb08d41411288c
+SHA1: 3a22b720694c9a8ce9ddfaa195d986bfb496ccfc
+SHA256: 7f60a34d161425ba2d702bf80df10a1977f89a0e791e8ead4ca39b1222e99f2e
+Section: MASQ/N95/Hazmat Themes
+Description: Old CCover theme updated for Hazmat
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcew1h
+Icon: https://evynw.github.io/depictions/sectionIcons/Hazmat.png
+Name: MASQ.EW1 (Hazmat)
+Sileodepiction: https://evynw.github.io/sileo/mcew1h.json
+
+Package: com.evynw.mcew1m
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
+Filename: ./debs/com.evynw.mcew1m_1.0_iphoneos-arm.deb
+Size: 219934
+MD5sum: 05752f6be3b019f8e45959331026809a
+SHA1: 26fa4474308fc684862166d5b30c0e308ac28dc8
+SHA256: 74c084512f0882ba969f263ea3ff27822d1574d62ca3465c5b7373f15b682a25
+Section: MASQ/N95/Hazmat Themes
+Description: Old CCover theme updated for MASQKit
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcew1m
+Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
+Name: MASQ.EW1
+Sileodepiction: https://evynw.github.io/sileo/mcew1m.json
+
+Package: com.evynw.mcew1n
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
+Filename: ./debs/com.evynw.mcew1n_1.0_iphoneos-arm.deb
+Size: 220240
+MD5sum: e6b72fbd141e45db9aa720f7eb4adb92
+SHA1: 03828b2026259da0fc8e3644269f0d7c6909b8fc
+SHA256: 137cf6ca10e08dc40c4b00fc2244df216b7e66d04f87e0dfc4498f31c30326ae
+Section: MASQ/N95/Hazmat Themes
+Description: Old CCover theme updated for N95
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcew1n
+Icon: https://evynw.github.io/depictions/sectionIcons/N95.png
+Name: MASQ.EW1 (N95)
+Sileodepiction: https://evynw.github.io/sileo/mcew1n.json
+
+Package: com.evynw.repoicons
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.repoicons_1.2_iphoneos-arm.deb
+Size: 249354
+MD5sum: 83eac3861ccd3331a6dc816386ce3abe
+SHA1: 20e46c61ef7e3375648db66760480a84ab935715
+SHA256: c7040897888632ac1ccfe7dfa6d3466fd9b4150b259944792dfff0c58082818c
 Section: System
 Description: Official Icons for EVELYN's Repo. Icons replacing the ? marks.
 Author: Evelyn (ev_ynw)
@@ -6860,7 +6957,7 @@ Package: com.jona.masqjj2
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.jona.masqjj2.deb
+Filename: ./debs/com.jona.masqjj2_1.0_iphoneos-arm.deb
 Size: 282072
 MD5sum: 4e1e2efc767bfbcf6e8297ce55250386
 SHA1: e5dbe8e7d1ed3ac5ec7f793a8c0a48455655d637

@@ -1,12 +1,12 @@
 {
   "class": "DepictionTabView",
-  "headerImage": "https://evynw.github.io/sileo/assets/header_fallback.png",
+  "headerImage": "https://evynw.github.io/sileo/assets/header_MASQ.png",
   "minVersion": "0.3",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#91ccee",
+      "tintColor": "#ef908c",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Apply with Snowboard (with Settings Icons extension) *RECOMMENDED* / iThemer</p>\n<p style=\"font-size:10pt;\">Separated into 2 sub-themes - Settings Icons (stock) & Tweaks (tweak thumbnails</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/</p>\n<p style=\"font-size:10pt;\"><strong>You may need to do some customizing / renaming of image files. Detailed tutorial here: https://evelynynw.wordpress.com/2020/05/02/ui-theming-101-for-dummies/</strong></p>",
+          "markdown": "<p style=\"font-size:10pt;\">Installed to: /Library/Application Support/MASQ/Themes/Evelyn.bundle/</p>\n<p style=\"font-size:10pt;\">Enable via MASQKit (repo: https://ndoizo.ca/). <strong>Only MASQSpringboard works on iOS13 at the moment.</strong></p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -31,11 +31,11 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{360, 360}",
+          "itemSize": "{360, 640}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.ew2settingsoceanic/ss.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.mcborderedmasq/ss.png"
             }
           ]
         },
@@ -67,7 +67,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1",
+          "text": "1.0",
           "title": "Version"
         },
         {
@@ -77,7 +77,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "N/A",
+          "text": "MASQKit",
           "title": "Dependency"
         },
         {
@@ -128,19 +128,8 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#91ccee",
+      "tintColor": "#ef908c",
       "views": [
-        {
-          "class": "DepictionSubheaderView",
-          "title": "1.1",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Added icons for more tweaks</li>\n<li>Resized icons to correct metrics</li>\n</ul>",
-          "useRawFormat": true
-        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
@@ -155,5 +144,5 @@
       ]
     }
   ],
-  "tintColor": "#91ccee"
+  "tintColor": "#ef908c"
 }

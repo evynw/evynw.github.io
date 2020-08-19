@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Installed to: /Library/Application Support/MASQ/Themes/Evelyn.bundle/</p>\n<p style=\"font-size:10pt;\">Enable via MASQKit (repo: https://ndoizo.ca/). <strong>Only MASQSpringboard works on iOS13 at the moment.</strong></p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">Installed to: /Library/Application Support/N95/[Name].bundle/</p>\n<p style=\"font-size:10pt;\">Enable via N95 (repo: https://repo.twickd.com/). <strong>Only MASQSpringboard works on iOS13 at the moment.</strong></p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -35,7 +35,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.masqbordered/ss.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.mcborderedn95/ss.png"
             }
           ]
         },
@@ -72,12 +72,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS11.0 - 13.4+",
+          "text": "iOS13.0 - 13.6+",
           "title": "Compatibility"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "MASQKit",
+          "text": "N95",
           "title": "Dependency"
         },
         {
