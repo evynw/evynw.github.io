@@ -1,0 +1,20 @@
+{
+  "name": "MASQ.JJ3",
+  "package": "com.jona.mcjj3m",
+  "author": "Jona Schnedi",
+  "version": "1.0",
+  "dependency": "MASQKit",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "14.0",
+  "otheriOS": "untested",
+  "description": "<div>Originally made by Jona Schnedi.<br><br>Installed to: /Library/Application Support/MASQ/Themes/Evelyn.bundle/<br><br>Enable via MASQKit (repo: https://ndoizo.ca/). <strong>Only MASQSpringboard works on iOS13 at the moment.</strong><br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "changelog": {
+    "1.0": [
+      "Initial release"
+    ]
+  },
+  "screenshots": {
+    "ss.png": ""
+  },
+  "links": {}
+}

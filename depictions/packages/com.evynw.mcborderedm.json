@@ -1,6 +1,6 @@
 {
   "name": "Bordered (MASQ)",
-  "package": "com.evynw.mcborderedmasq",
+  "package": "com.evynw.mcborderedm",
   "author": "Evelyn (ev_ynw)",
   "version": "1.0",
   "dependency": "MASQKit",

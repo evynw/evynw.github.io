@@ -1,0 +1,20 @@
+{
+  "name": "MASQ.EW2 (Hazmat)",
+  "package": "com.evynw.mcew2h",
+  "author": "Evelyn (ev_ynw)",
+  "version": "1.0",
+  "dependency": "Hazmat",
+  "minOSVersion": "13.0",
+  "maxOSVersion": "14.0",
+  "otheriOS": "untested",
+  "description": "<div>Installed to: /var/mobile/Library/Application Support/Hazmat/[Name]/<br><br>Enable via Hazmat (repo: https://repo.packix.com/)<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "changelog": {
+    "1.0": [
+      "Initial release"
+    ]
+  },
+  "screenshots": {
+    "ss.png": ""
+  },
+  "links": {}
+}
