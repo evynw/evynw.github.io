@@ -5847,6 +5847,24 @@ Icon: https://evynw.github.io/depictions/sectionIcons/N95.png
 Name: MASQ.EW2 (N95)
 Sileodepiction: https://evynw.github.io/sileo/mcew2n.json
 
+Package: com.evynw.mcew3h
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-1)
+Filename: ./debs/com.evynw.mcew3h_1.0_iphoneos-arm.deb
+Size: 80904
+MD5sum: 015f4188a7279b48814786c849922496
+SHA1: 32fd8dd0f9bf0c30c9614c49ee7fdce00f184f30
+SHA256: 6bfbfe9bea7c33b57b105976e90c0b8276d446f3ce02060e1671de3d1a555595
+Section: Music Artwork Themes
+Description: Old CCover theme updated to Hazmat
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcew3h
+Icon: https://evynw.github.io/depictions/sectionIcons/Hazmat.png
+Name: MASQ.EW3 (Hazmat)
+Sileodepiction: https://evynw.github.io/sileo/mcew3h.json
+
 Package: com.evynw.mcew3m
 Version: 1.0
 Architecture: iphoneos-arm
@@ -5864,6 +5882,42 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcew3m
 Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
 Name: MASQ.EW3
 Sileodepiction: https://evynw.github.io/sileo/mcew3m.json
+
+Package: com.evynw.mcew3n
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-1)
+Filename: ./debs/com.evynw.mcew3n_1.0_iphoneos-arm.deb
+Size: 80852
+MD5sum: 71fdc5266397a724b7a93aa69f1b2e22
+SHA1: 80e2fb8b66a0088119dbd82f2e627ad4b4900425
+SHA256: b322460fed7ebd6bce7043b67306dd36784cf34e15e723b875eafe9b4a781a24
+Section: Music Artwork Themes
+Description: Old CCover theme updated to N95
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcew3n
+Icon: https://evynw.github.io/depictions/sectionIcons/N95.png
+Name: MASQ.EW3 (N95)
+Sileodepiction: https://evynw.github.io/sileo/mcew3n.json
+
+Package: com.evynw.mcew4h
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-1)
+Filename: ./debs/com.evynw.mcew4h_1.0_iphoneos-arm.deb
+Size: 97398
+MD5sum: 11f44738392142779dcf3082166350e5
+SHA1: 13aa23d531a320f26c25a6a49ee3630e0cab4ebf
+SHA256: 42cf1ce77e6cca58e3bd61d21108dea8f3706b393ca8c9f0e40a4b48711a09fc
+Section: Music Artwork Themes
+Description: Old CCover theme updated to Hazmat
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcew4h
+Icon: https://evynw.github.io/depictions/sectionIcons/Hazmat.png
+Name: MASQ.EW4 (Hazmat)
+Sileodepiction: https://evynw.github.io/sileo/mcew4h.json
 
 Package: com.evynw.mcew4m
 Version: 1.0
@@ -5883,6 +5937,42 @@ Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
 Name: MASQ.EW4
 Sileodepiction: https://evynw.github.io/sileo/mcew4m.json
 
+Package: com.evynw.mcew4n
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-1)
+Filename: ./debs/com.evynw.mcew4n_1.0_iphoneos-arm.deb
+Size: 97362
+MD5sum: 245c4054e58e6df7634209fbb2b24c7b
+SHA1: e598deb2347c7e90f5a9e5de899f86f8fc93f6de
+SHA256: 59be5b64bd97cc52ac563813e8ae9da78b3ae653b295b9a5f5b0ddbc404eeb08
+Section: Music Artwork Themes
+Description: Old CCover theme updated to N95
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcew4n
+Icon: https://evynw.github.io/depictions/sectionIcons/N95.png
+Name: MASQ.EW4 (N95)
+Sileodepiction: https://evynw.github.io/sileo/mcew4n.json
+
+Package: com.evynw.mcew5h
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-1)
+Filename: ./debs/com.evynw.mcew5h_1.0_iphoneos-arm.deb
+Size: 143346
+MD5sum: 2b9443443703e1017e2e7ccda7d766c1
+SHA1: 382e802ffcda76c4a32f3a3aa19c4eed7313cfdc
+SHA256: 890fc11f84bf1c064d92ff244d54e7e7c98564ccc9a3657f1255c291944850dd
+Section: Music Artwork Themes
+Description: Old CCover theme updated to Hazmat
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcew5h
+Icon: https://evynw.github.io/depictions/sectionIcons/Hazmat.png
+Name: MASQ.EW5 (Hazmat)
+Sileodepiction: https://evynw.github.io/sileo/mcew5h.json
+
 Package: com.evynw.mcew5m
 Version: 1.0
 Architecture: iphoneos-arm
@@ -5900,6 +5990,42 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcew5m
 Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
 Name: MASQ.EW5
 Sileodepiction: https://evynw.github.io/sileo/mcew5m.json
+
+Package: com.evynw.mcew5n
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-1)
+Filename: ./debs/com.evynw.mcew5n_1.0_iphoneos-arm.deb
+Size: 143282
+MD5sum: db99d0b9761de80c72a452f35afbda0f
+SHA1: 6436efe36b0c1083b51aa4a01cee18dce0ea15d3
+SHA256: 709e7792da36594f737dcfe048a7141592205223fcacc0835b26338bf13941de
+Section: Music Artwork Themes
+Description: Old CCover theme updated to N95
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcew5n
+Icon: https://evynw.github.io/depictions/sectionIcons/N95.png
+Name: MASQ.EW5 (N95)
+Sileodepiction: https://evynw.github.io/sileo/mcew5n.json
+
+Package: com.evynw.mcew7h
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-1)
+Filename: ./debs/com.evynw.mcew7h_1.0_iphoneos-arm.deb
+Size: 1113952
+MD5sum: fd334122b92c362acc7990d69fa28970
+SHA1: 7d5d7febd5fab0e6c3eaf1c051ea780921efafcb
+SHA256: bdc0e74d160567291215a04164fb864cbf2c8761e6284a60554e19d40912c158
+Section: Music Artwork Themes
+Description: Old CCover theme updated to Hazmat
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcew7h
+Icon: https://evynw.github.io/depictions/sectionIcons/Hazmat.png
+Name: MASQ.EW7 (Hazmat)
+Sileodepiction: https://evynw.github.io/sileo/mcew7h.json
 
 Package: com.evynw.mcew7m
 Version: 1.0
@@ -5919,6 +6045,42 @@ Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
 Name: MASQ.EW7
 Sileodepiction: https://evynw.github.io/sileo/mcew7m.json
 
+Package: com.evynw.mcew7n
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-1)
+Filename: ./debs/com.evynw.mcew7n_1.0_iphoneos-arm.deb
+Size: 1113920
+MD5sum: 8bf2d4641b8b6256f1d5a07c6464a44a
+SHA1: 3e8a66750037a72aa22798274c039d8f6221321d
+SHA256: c3f480467c45c404be91b93d4ab81c58355f5ab0694a3e2b71a06245449dac4d
+Section: Music Artwork Themes
+Description: Old CCover theme updated to N95
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcew7n
+Icon: https://evynw.github.io/depictions/sectionIcons/N95.png
+Name: MASQ.EW7 (N95)
+Sileodepiction: https://evynw.github.io/sileo/mcew7n.json
+
+Package: com.evynw.mcew8h
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-1)
+Filename: ./debs/com.evynw.mcew8h_1.0_iphoneos-arm.deb
+Size: 297082
+MD5sum: 7844d1acb90da8cb6d800e487d1c9a12
+SHA1: 7d447522856a9afdd779b55c4adc695988f998c9
+SHA256: a2c7baba1b9228c12441fba82d40534c17e9b8c3d863986deb160c0f6d0ad430
+Section: Music Artwork Themes
+Description: Old CCover theme updated to Hazmat
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcew8h
+Icon: https://evynw.github.io/depictions/sectionIcons/Hazmat.png
+Name: MASQ.EW8 (Hazmat)
+Sileodepiction: https://evynw.github.io/sileo/mcew8h.json
+
 Package: com.evynw.mcew8m
 Version: 1.0
 Architecture: iphoneos-arm
@@ -5937,6 +6099,42 @@ Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
 Name: MASQ.EW8
 Sileodepiction: https://evynw.github.io/sileo/mcew8m.json
 
+Package: com.evynw.mcew8n
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-1)
+Filename: ./debs/com.evynw.mcew8n_1.0_iphoneos-arm.deb
+Size: 297040
+MD5sum: 26415121f0a21018d59aae3f8566ffdc
+SHA1: 9bba080be3ff88c9718929dc08e65fa2e7fbeb55
+SHA256: 59eadf8cea952fb5b97021339b2678cab7f5d2a3e46fc1ddf35067b4508257db
+Section: Music Artwork Themes
+Description: Old CCover theme updated to N95
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcew8n
+Icon: https://evynw.github.io/depictions/sectionIcons/N95.png
+Name: MASQ.EW8 (N95)
+Sileodepiction: https://evynw.github.io/sileo/mcew8n.json
+
+Package: com.evynw.mcstampdh
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-1)
+Filename: ./debs/com.evynw.mcstampdh_1.0_iphoneos-arm.deb
+Size: 330520
+MD5sum: bcf533c469f5a5684d98f0a1ddffff4a
+SHA1: f46b3e6c3d4e4f3a9486b85fbe491d34ade56247
+SHA256: ffe2419253e642043a3772d3f34574d3f1c388d122836ba30752127548d871f5
+Section: Music Artwork Themes
+Description: Mask album artwork as a stamp! (For Hazmat)
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcstampdh
+Icon: https://evynw.github.io/depictions/sectionIcons/Hazmat.png
+Name: Stampd (Hazmat)
+Sileodepiction: https://evynw.github.io/sileo/mcstampdh.json
+
 Package: com.evynw.mcstampdm
 Version: 1.0
 Architecture: iphoneos-arm
@@ -5954,6 +6152,24 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcstampdm
 Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
 Name: Stampd (MASQ)
 Sileodepiction: https://evynw.github.io/sileo/mcstampdm.json
+
+Package: com.evynw.mcstampdn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-1)
+Filename: ./debs/com.evynw.mcstampdn_1.0_iphoneos-arm.deb
+Size: 330484
+MD5sum: b2253de19643d56025283765517063eb
+SHA1: da9cecbc4d2efddf5dc7994bf30b61c1324c6035
+SHA256: f98fda6386d01148fda8e3730b29a81c0f3deafd4fc538b4c05e3b0a24cbbfad
+Section: Music Artwork Themes
+Description: Mask album artwork as a stamp! (For N95)
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.mcstampdn
+Icon: https://evynw.github.io/depictions/sectionIcons/N95.png
+Name: Stampd (N95)
+Sileodepiction: https://evynw.github.io/sileo/mcstampdn.json
 
 Package: com.evynw.repoicons
 Version: 1.2-1
@@ -6979,6 +7195,24 @@ Icon: https://evynw.github.io/depictions/sectionIcons/HS.png
 Name: SB EW98
 Sileodepiction: https://evynw.github.io/sileo/sbew98.json
 
+Package: com.jona.mcjj1h
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-1)
+Filename: ./debs/com.jona.mcjj1h_1.0_iphoneos-arm.deb
+Size: 349788
+MD5sum: 72add892c6e043a8ba1117f25ee15050
+SHA1: 5a9b72049105c1409f86bf385738e616a11242af
+SHA256: 9ca4ae3bdc959e5a7fdc2c3bf1778010e2bef96e4bc6eab56918449447cf1353
+Section: Music Artwork Themes
+Description: Old CCover by Jona now revived! (For Hazmat)
+Author: Jona Schnedi
+Depiction: https://evynw.github.io/depictions/?p=com.jona.mcjj1h
+Icon: https://evynw.github.io/depictions/sectionIcons/Hazmat.png
+Name: MASQ.JJ1 (Hazmat)
+Sileodepiction: https://evynw.github.io/sileo/mcjj1h.json
+
 Package: com.jona.mcjj1m
 Version: 1.0
 Architecture: iphoneos-arm
@@ -6997,6 +7231,42 @@ Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
 Name: MASQ.JJ1
 Sileodepiction: https://evynw.github.io/sileo/mcjj1m.json
 
+Package: com.jona.mcjj1n
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-1)
+Filename: ./debs/com.jona.mcjj1n_1.0_iphoneos-arm.deb
+Size: 349740
+MD5sum: 0639e7a7134ca2f76325560914141d8c
+SHA1: 8dc4ca26cc33dc780a93d69f04ada026299bccf1
+SHA256: ac2dd10bbc4d6c0223022aae0b46ee178c8d3029a78ce6bfcb625eb6275321e1
+Section: Music Artwork Themes
+Description: Old CCover by Jona now revived! (For N95)
+Author: Jona Schnedi
+Depiction: https://evynw.github.io/depictions/?p=com.jona.mcjj1n
+Icon: https://evynw.github.io/depictions/sectionIcons/N95.png
+Name: MASQ.JJ1 (N95)
+Sileodepiction: https://evynw.github.io/sileo/mcjj1n.json
+
+Package: com.jona.mcjj2h
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-1)
+Filename: ./debs/com.jona.mcjj2h_1.0_iphoneos-arm.deb
+Size: 282096
+MD5sum: 3824f54e1f8ca3bbbf82ae3d8f238b64
+SHA1: acc0622438d06098dadf4658f3b98ea28e86cac2
+SHA256: f68327760c90b5f4480089e235a0b500e4c9b7bd5967452f8ba2e44f27846174
+Section: Music Artwork Themes
+Description: Old CCover by Jona now revived! (For Hazmat)
+Author: Jona Schnedi
+Depiction: https://evynw.github.io/depictions/?p=com.jona.mcjj2h
+Icon: https://evynw.github.io/depictions/sectionIcons/Hazmat.png
+Name: MASQ.JJ2 (Hazmat)
+Sileodepiction: https://evynw.github.io/sileo/mcjj2h.json
+
 Package: com.jona.mcjj2m
 Version: 1.0
 Architecture: iphoneos-arm
@@ -7014,4 +7284,22 @@ Depiction: https://evynw.github.io/depictions/?p=com.jona.mcjj2m
 Icon: https://evynw.github.io/depictions/sectionIcons/MASQ.png
 Name: MASQ.JJ2
 Sileodepiction: https://evynw.github.io/sileo/mcjj2m.json
+
+Package: com.jona.mcjj2n
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-1)
+Filename: ./debs/com.jona.mcjj2n_1.0_iphoneos-arm.deb
+Size: 282050
+MD5sum: 1c287a18d66430163925a9acf122f3c6
+SHA1: e95e3817e3dcf76caf7027bfcf6ad0261d61d24d
+SHA256: b617801ffc8d10786b8ea644adf9bfa455f282449dc586104b10588d6b75953d
+Section: Music Artwork Themes
+Description: Old CCover by Jona now revived! (For N95)
+Author: Jona Schnedi
+Depiction: https://evynw.github.io/depictions/?p=com.jona.mcjj2n
+Icon: https://evynw.github.io/depictions/sectionIcons/N95.png
+Name: MASQ.JJ2 (N95)
+Sileodepiction: https://evynw.github.io/sileo/mcjj2n.json
 

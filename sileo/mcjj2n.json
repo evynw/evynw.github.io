@@ -6,7 +6,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#e5baeb",
+      "tintColor": "#3ec4f2",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Installed to: /var/mobile/Library/Application Support/Hazmat/[Name]/</p>\n<p style=\"font-size:10pt;\">Enable via Hazmat (repo: https://repo.packix.com/). <strong>Only MASQSpringboard works on iOS13 at the moment.</strong></p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">Originally made by Jona Schnedi. 2 available versions.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Application Support/N95/[Name].bundle/</p>\n<p style=\"font-size:10pt;\">Enable via N95 (repo: https://repo.twickd.com/). <strong>Only MASQSpringboard works on iOS13 at the moment.</strong></p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -35,11 +35,11 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.mcew1m/ss1.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.jona.mcjj2m/ss1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.mcew1m/ss2.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.jona.mcjj2m/ss2.png"
             }
           ]
         },
@@ -66,7 +66,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "Evelyn (ev_ynw)",
+          "text": "Jona Schnedi",
           "title": "Author"
         },
         {
@@ -81,7 +81,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "Hazmat",
+          "text": "N95",
           "title": "Dependency"
         },
         {
@@ -132,7 +132,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#e5baeb",
+      "tintColor": "#3ec4f2",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -148,5 +148,5 @@
       ]
     }
   ],
-  "tintColor": "#e5baeb"
+  "tintColor": "#3ec4f2"
 }

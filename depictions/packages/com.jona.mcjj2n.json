@@ -1,0 +1,21 @@
+{
+  "name": "MASQ.JJ2 (N95)",
+  "package": "com.jona.mcjj2n",
+  "author": "Jona Schnedi",
+  "version": "1.0",
+  "dependency": "N95",
+  "minOSVersion": "13.0",
+  "maxOSVersion": "14.0",
+  "otheriOS": "untested",
+  "description": "<div>Originally made by Jona Schnedi. 2 available versions.<br><br>Installed to: /Library/Application Support/N95/[Name].bundle/<br><br>Enable via N95 (repo: https://repo.twickd.com/)<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "changelog": {
+    "1.0": [
+      "Initial release"
+    ]
+  },
+  "screenshots": {
+    "ss1.png": "",
+    "ss2.png": ""
+  },
+  "links": {}
+}

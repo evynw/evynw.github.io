@@ -1,6 +1,6 @@
 {
-  "name": "MASQ.EW1 (Hazmat)",
-  "package": "com.evynw.mcew1h",
+  "name": "MASQ.EW3 (Hazmat)",
+  "package": "com.evynw.mcew3h",
   "author": "Evelyn (ev_ynw)",
   "version": "1.0",
   "dependency": "Hazmat",
@@ -14,8 +14,7 @@
     ]
   },
   "screenshots": {
-    "ss1.png": "",
-    "ss2.png": ""
+    "ss.png": ""
   },
   "links": {}
 }

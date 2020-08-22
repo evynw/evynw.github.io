@@ -1,0 +1,21 @@
+{
+  "name": "MASQ.JJ2 (Hazmat)",
+  "package": "com.jona.mcjj2h",
+  "author": "Jona Schnedi",
+  "version": "1.0",
+  "dependency": "Hazmat",
+  "minOSVersion": "13.0",
+  "maxOSVersion": "14.0",
+  "otheriOS": "untested",
+  "description": "<div>Originally made by Jona Schnedi. 2 available versions.<br><br>Installed to: /var/mobile/Library/Application Support/Hazmat/[Name]/<br><br>Enable via Hazmat (repo: https://repo.packix.com/)<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "changelog": {
+    "1.0": [
+      "Initial release"
+    ]
+  },
+  "screenshots": {
+    "ss1.png": "",
+    "ss2.png": ""
+  },
+  "links": {}
+}

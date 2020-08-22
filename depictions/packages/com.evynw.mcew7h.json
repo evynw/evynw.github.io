@@ -1,6 +1,6 @@
 {
-  "name": "MASQ.EW1 (Hazmat)",
-  "package": "com.evynw.mcew1h",
+  "name": "MASQ.EW7 (Hazmat)",
+  "package": "com.evynw.mcew7h",
   "author": "Evelyn (ev_ynw)",
   "version": "1.0",
   "dependency": "Hazmat",
