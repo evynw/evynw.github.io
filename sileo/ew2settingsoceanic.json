@@ -67,12 +67,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1",
+          "text": "1.2",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS11.0 - 13.6+",
+          "text": "iOS11.0 - 14.3+",
           "title": "Compatibility"
         },
         {
@@ -130,6 +130,17 @@
       "tabname": "Changelog",
       "tintColor": "#91ccee",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.2",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Updated for iOS14</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.1",

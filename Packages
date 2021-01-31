@@ -251,15 +251,15 @@ Name: EW2.MusicControls
 Sileodepiction: https://evynw.github.io/sileo/ew2musiccontrols.json
 
 Package: com.evynw.ew2settingsoceanic
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2)
-Filename: ./debs/com.evynw.ew2settingsoceanic_1.1_iphoneos-arm.deb
-Size: 205262
-MD5sum: f472734c9cd8ba1cfcd6b99511d67a60
-SHA1: dba90c5acda72162da4a3205f7833da9ae727264
-SHA256: bc70e4f4543cd3b18de7bc3094eaf787ace938ee3f998f355d5115db7082a751
+Filename: ./debs/com.evynw.ew2settingsoceanic_1.2_iphoneos-arm.deb
+Size: 210910
+MD5sum: 0039774bc44f526f81eb422f1c682c94
+SHA1: 01c0f708767b4bd63d8fd9394a304250ffce561b
+SHA256: dd2363191901581274b2db1a2a735ed8902cf10d929d4032539d1da1e004dfa8
 Section: Settings Icons
 Description: Bling your settings with diamonds 💎
 Author: Evelyn (ev_ynw)
@@ -1568,10 +1568,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontencodesans13_1.0_iphoneos-arm.deb
-Size: 8511346
-MD5sum: a13b4c93fa7f0717b3a3115f3d0bcd4a
-SHA1: 19c1e140e8a22d24a8b9ec2d8e5d45644ab91213
-SHA256: cdd05d27e05ccd34b7a2c716a6546580904576e321c7e43cf75edb119c8afc8f
+Size: 8511338
+MD5sum: e24d48204ea6296237ec5bda768b8477
+SHA1: 6c57d931f98a15f8105dd2e557aaa2c066aaf4b4
+SHA256: aba9809a5cb06a22d028df4d17d5a47ad39d57ed4702e6d1b6090d02b533ee79
 Section: Fonts (iOS13)
 Description: Sleek & clean sans serif. 100% size. For iOS13.
 Author: Evelyn (ev_ynw)
@@ -5620,49 +5620,50 @@ Name: LS EW99
 Sileodepiction: https://evynw.github.io/sileo/lsew99.json
 
 Package: com.evynw.lsewbattery
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.lsewbattery_1.0_iphoneos-arm.deb
-Size: 88020
-MD5sum: dd264d6ecd43f665ade66c17afca0dab
-SHA1: 713c146b910c65e072b61c9868ce278ada91e99c
-SHA256: c9a845d9490cfd05fbb9834fac5a0534d14bc3ff6ac0fa9eb1dfa96151672931
+Filename: ./debs/com.evynw.lsewbattery_1.1_iphoneos-arm.deb
+Size: 46046
+MD5sum: c9e5930f0b32094391b2dd2f3773ec58
+SHA1: 4b0e35dd75018a8806e83a3e67abcd253f8bf204
+SHA256: 417dbc05000e8a96bd5dbef82fe7da77c6b5c309dce4b7d61cde3cf449de467c
 Section: Lockscreen Widgets
-Description: Simple battery widget at bottom of screen
+Description: Minimal battery indicator
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsewbattery
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW.Battery
+Sileodepiction: https://evynw.github.io/sileo/lsewbattery.json
 
 Package: com.evynw.lsewlegacy
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons, com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.lsewlegacy_1.0_iphoneos-arm.deb
-Size: 76962
-MD5sum: f9e61e2d46d93d844c434da5453191cd
-SHA1: fd73d742f15cf2f177b0cb1772a2cb2937fb5013
-SHA256: 57111e0dcb5526905302ec16db85fbafb4726bd086400d3a5e2f844af33360ed
+Filename: ./debs/com.evynw.lsewlegacy_1.1_iphoneos-arm.deb
+Size: 102730
+MD5sum: 139ed6cf8cb3586d1ed66f6ad9bd8d3a
+SHA1: dd07c45407cd782f975efb888b6f6afc241cee42
+SHA256: 6aa4694102cb41d42645b0ab1f24c6d87cebaabc2576ba51de682aa00f1670cf
 Section: Lockscreen Widgets
 Description: Stock-like clock with battery
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsewlegacy
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW.Legacy
+Sileodepiction: https://evynw.github.io/sileo/lsewlegacy.json
 
 Package: com.evynw.lsewnotch
-Version: 1.0-1
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.lsewnotch_1.0-1_iphoneos-arm.deb
-Size: 225112
-MD5sum: 6477d3e54f013c4bf8919c0b24b29883
-SHA1: 7692b25028948648e386bce9a41600e6b7e06063
-SHA256: 69c2f137bad0acee172768385fdf9b6bba2613e080755e17a980bbd9a55d5c91
+Filename: ./debs/com.evynw.lsewnotch_1.1_iphoneos-arm.deb
+Size: 73162
+MD5sum: aa794c1599c8c8b029a3e8640fb0056f
+SHA1: 7b7f42823231b86839440da0ff33791884261081
+SHA256: 19b85bd7e9d8cf85ddb41c4302cb9d9978c65a5536cd2ae9fa82c57250ea9878
 Section: Lockscreen Widgets
-Description: Imitating Notchless ;P
+Description: My take on the classic clock made of bars
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsewnotch
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
@@ -5670,20 +5671,21 @@ Name: LS EW.Notch
 Sileodepiction: https://evynw.github.io/sileo/lsewnotch.json
 
 Package: com.evynw.lsewrisingbars
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
-Filename: ./debs/com.evynw.lsewrisingbars_1.0_iphoneos-arm.deb
-Size: 111182
-MD5sum: fa815aa113d024a755129292a17167e2
-SHA1: 3bec39b56ec2875f5c61e3d6b9970c53c973f4f0
-SHA256: 02b243cf6466545bc92085e0cbb7f860b5ed225908aec182374763b6eb935a15
+Filename: ./debs/com.evynw.lsewrisingbars_1.1_iphoneos-arm.deb
+Size: 128910
+MD5sum: 18566a978f047ba58af9da706b1e7b13
+SHA1: 6d377720ca8e886506545d10d0d80f999211936e
+SHA256: f7f59fba2b253802bddf8f18f9f18e5432f178e03618becf5ddbf660c9e5557d
 Section: Lockscreen Widgets
-Description: From 6200PACK. New twitter pack coming!
+Description: My take on the classic clock made of bars
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsewrisingbars
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW.RisingBars
+Sileodepiction: https://evynw.github.io/sileo/lsewrisingbars.json
 
 Package: com.evynw.mcborderedh
 Version: 1.0
@@ -5722,15 +5724,15 @@ Name: Bordered (MASQ)
 Sileodepiction: https://evynw.github.io/sileo/mcborderedm.json
 
 Package: com.evynw.mcborderedn
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-1)
-Filename: ./debs/com.evynw.mcborderedn_1.0_iphoneos-arm.deb
-Size: 283026
-MD5sum: 9f9ae43ca7262e6707945404a6535d01
-SHA1: 1c0fa0ead5a7172b0b1471aa33c35179f67985a5
-SHA256: 68fbd575fbed7447163f4fa5cc6d09492119abd6e7010a36fbc10a3a35de6aa2
+Filename: ./debs/com.evynw.mcborderedn_1.0-1_iphoneos-arm.deb
+Size: 283126
+MD5sum: 846ce3ff674dd397d8d5bc4493639225
+SHA1: e01e2f4a4c34f936a414c9356ec1d2978bd76356
+SHA256: a3835dcf8c9725f5287252c78d6e2a60bc709d46f736a78ce83f28c9e5046d3e
 Section: Music Artwork Themes
 Description: Simple album cover theme for N95
 Author: Evelyn (ev_ynw)
@@ -5776,15 +5778,15 @@ Name: MASQ.EW1
 Sileodepiction: https://evynw.github.io/sileo/mcew1m.json
 
 Package: com.evynw.mcew1n
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-1)
-Filename: ./debs/com.evynw.mcew1n_1.0_iphoneos-arm.deb
-Size: 219870
-MD5sum: 24199b38acd8a43a2b06ea55960b4cc8
-SHA1: 1654a409671a183a8624a14344c2734ee79213cc
-SHA256: 82d598ee1ff1332c1502a9906b099f03d709e2394db18964fdcd44c855a65a02
+Filename: ./debs/com.evynw.mcew1n_1.0-1_iphoneos-arm.deb
+Size: 220032
+MD5sum: dc2fe3f836515452f423cfff791273c1
+SHA1: c31f4905cea6ad792b6ed36031d82a09be787f34
+SHA256: 24ef3e7bca4019bfb5f9374b9488419a474256e9e2cbb76b384898cd8b98d303
 Section: Music Artwork Themes
 Description: Old CCover theme updated for N95
 Author: Evelyn (ev_ynw)
@@ -5830,15 +5832,15 @@ Name: MASQ.EW2
 Sileodepiction: https://evynw.github.io/sileo/mcew2m.json
 
 Package: com.evynw.mcew2n
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-1)
-Filename: ./debs/com.evynw.mcew2n_1.0_iphoneos-arm.deb
-Size: 121424
-MD5sum: 94b971b01da0d45b924094c97c5f3adc
-SHA1: cd1bcaee473f88f49790749962cd7dcedc2df00b
-SHA256: 63526c81b274f218555daffe99cdec6427693735ac771fcb88a187a7a36ba990
+Filename: ./debs/com.evynw.mcew2n_1.0-1_iphoneos-arm.deb
+Size: 121524
+MD5sum: 777c0a85629599e63bf29509aa835b38
+SHA1: afe6d898cdadab7f0fbf1c6f83d18c93848e94ae
+SHA256: c184e053497eb5dc87adcc79632e682f4d4baf06681c1a984dc9f597b52e4b92
 Section: Music Artwork Themes
 Description: Old CCover theme updated for N95
 Author: Evelyn (ev_ynw)
@@ -5884,15 +5886,15 @@ Name: MASQ.EW3
 Sileodepiction: https://evynw.github.io/sileo/mcew3m.json
 
 Package: com.evynw.mcew3n
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-1)
-Filename: ./debs/com.evynw.mcew3n_1.0_iphoneos-arm.deb
-Size: 80852
-MD5sum: 71fdc5266397a724b7a93aa69f1b2e22
-SHA1: 80e2fb8b66a0088119dbd82f2e627ad4b4900425
-SHA256: b322460fed7ebd6bce7043b67306dd36784cf34e15e723b875eafe9b4a781a24
+Filename: ./debs/com.evynw.mcew3n_1.0-1_iphoneos-arm.deb
+Size: 80942
+MD5sum: 8e12b88e4f730955298b8442afb4f4f2
+SHA1: 34876fd3946e60560a0c8fd9273a446289b3219c
+SHA256: f5d87f4f0b82fae1002760c830bed26b30d2d830fd991ac5a23e2952581e4d1f
 Section: Music Artwork Themes
 Description: Old CCover theme updated to N95
 Author: Evelyn (ev_ynw)
@@ -5938,15 +5940,15 @@ Name: MASQ.EW4
 Sileodepiction: https://evynw.github.io/sileo/mcew4m.json
 
 Package: com.evynw.mcew4n
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-1)
-Filename: ./debs/com.evynw.mcew4n_1.0_iphoneos-arm.deb
-Size: 97362
-MD5sum: 245c4054e58e6df7634209fbb2b24c7b
-SHA1: e598deb2347c7e90f5a9e5de899f86f8fc93f6de
-SHA256: 59be5b64bd97cc52ac563813e8ae9da78b3ae653b295b9a5f5b0ddbc404eeb08
+Filename: ./debs/com.evynw.mcew4n_1.0-1_iphoneos-arm.deb
+Size: 97976
+MD5sum: c1ad5bf6f5c2f42ef9e3d12e06f4e2a0
+SHA1: bee4c43773c92e71d9d6ab96c5af506549e245d2
+SHA256: 40e9b2c99ef338876e9e8cc8d7edffe36467e8e74914a0930f957e29bd8050b3
 Section: Music Artwork Themes
 Description: Old CCover theme updated to N95
 Author: Evelyn (ev_ynw)
@@ -5992,15 +5994,15 @@ Name: MASQ.EW5
 Sileodepiction: https://evynw.github.io/sileo/mcew5m.json
 
 Package: com.evynw.mcew5n
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-1)
-Filename: ./debs/com.evynw.mcew5n_1.0_iphoneos-arm.deb
-Size: 143282
-MD5sum: db99d0b9761de80c72a452f35afbda0f
-SHA1: 6436efe36b0c1083b51aa4a01cee18dce0ea15d3
-SHA256: 709e7792da36594f737dcfe048a7141592205223fcacc0835b26338bf13941de
+Filename: ./debs/com.evynw.mcew5n_1.0-1_iphoneos-arm.deb
+Size: 143474
+MD5sum: d0e47ece6f3cb426f3af76b47e33428a
+SHA1: 7077e769bbff0962d24879a4e063933726f7acd4
+SHA256: bfd0af409b826b1a4681f59086a213970cfc551f8bb375536e6584dcb228a5b6
 Section: Music Artwork Themes
 Description: Old CCover theme updated to N95
 Author: Evelyn (ev_ynw)
@@ -6046,15 +6048,15 @@ Name: MASQ.EW7
 Sileodepiction: https://evynw.github.io/sileo/mcew7m.json
 
 Package: com.evynw.mcew7n
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-1)
-Filename: ./debs/com.evynw.mcew7n_1.0_iphoneos-arm.deb
-Size: 1113920
-MD5sum: 8bf2d4641b8b6256f1d5a07c6464a44a
-SHA1: 3e8a66750037a72aa22798274c039d8f6221321d
-SHA256: c3f480467c45c404be91b93d4ab81c58355f5ab0694a3e2b71a06245449dac4d
+Filename: ./debs/com.evynw.mcew7n_1.0-1_iphoneos-arm.deb
+Size: 1114010
+MD5sum: dcd25a0740da87ec5cf8d6ee900f1747
+SHA1: 26b9ca9ef4c5008b4c61c23b6b80f3ce4508293b
+SHA256: 01e0f7a698ee980e7dae348309fbd8faf5640e747a86f42d804a44cd487d2293
 Section: Music Artwork Themes
 Description: Old CCover theme updated to N95
 Author: Evelyn (ev_ynw)
@@ -6100,15 +6102,15 @@ Name: MASQ.EW8
 Sileodepiction: https://evynw.github.io/sileo/mcew8m.json
 
 Package: com.evynw.mcew8n
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-1)
-Filename: ./debs/com.evynw.mcew8n_1.0_iphoneos-arm.deb
-Size: 297040
-MD5sum: 26415121f0a21018d59aae3f8566ffdc
-SHA1: 9bba080be3ff88c9718929dc08e65fa2e7fbeb55
-SHA256: 59eadf8cea952fb5b97021339b2678cab7f5d2a3e46fc1ddf35067b4508257db
+Filename: ./debs/com.evynw.mcew8n_1.0-1_iphoneos-arm.deb
+Size: 297142
+MD5sum: a0e30e1033dc7c257511f8d3007f6a7e
+SHA1: eb93d08f9d3643223c88856431b91f15f9d589bd
+SHA256: 3586e4730419293b7fcd4d6703a593456a9874969f1dccf3968c6c131eab679a
 Section: Music Artwork Themes
 Description: Old CCover theme updated to N95
 Author: Evelyn (ev_ynw)
@@ -6154,15 +6156,15 @@ Name: Stampd (MASQ)
 Sileodepiction: https://evynw.github.io/sileo/mcstampdm.json
 
 Package: com.evynw.mcstampdn
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-1)
-Filename: ./debs/com.evynw.mcstampdn_1.0_iphoneos-arm.deb
-Size: 330484
-MD5sum: b2253de19643d56025283765517063eb
-SHA1: da9cecbc4d2efddf5dc7994bf30b61c1324c6035
-SHA256: f98fda6386d01148fda8e3730b29a81c0f3deafd4fc538b4c05e3b0a24cbbfad
+Filename: ./debs/com.evynw.mcstampdn_1.0-1_iphoneos-arm.deb
+Size: 330572
+MD5sum: 3fe27468d01b1deebcbdecf7ea25d634
+SHA1: 2773ad8ec5c1ab948db7828790a97da69a7eb3f8
+SHA256: ada96af319c70dc28c8a9eb4ff2db732ede7d74ffd706b4ebf35500b289bccf3
 Section: Music Artwork Themes
 Description: Mask album artwork as a stamp! (For N95)
 Author: Evelyn (ev_ynw)
@@ -6172,14 +6174,14 @@ Name: Stampd (N95)
 Sileodepiction: https://evynw.github.io/sileo/mcstampdn.json
 
 Package: com.evynw.repoicons
-Version: 1.2-1
+Version: 1.2-2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.repoicons_1.2-1_iphoneos-arm.deb
-Size: 130376
-MD5sum: e44614d6a76a9dd3a40cae3459434ae4
-SHA1: 0498360c159629888823f4d8c681635c5b69ed22
-SHA256: dba47a1b30cad79c4a0ce35032a717215eb014c4773707c7b706825a266a1da2
+Filename: ./debs/com.evynw.repoicons_1.2-2_iphoneos-arm.deb
+Size: 130906
+MD5sum: bcb4b3c6f47aa210b548096c479d0507
+SHA1: 5c8f846c62e7ac267940c7f277e336f9734dc50c
+SHA256: 2451341260fbba2fb647cded9ddfc043bc98f7bd19566e218a280a5d168b8221
 Section: System
 Description: Official Icons for EVELYN's Repo. Icons replacing the ? marks.
 Author: Evelyn (ev_ynw)
@@ -7232,15 +7234,15 @@ Name: MASQ.JJ1
 Sileodepiction: https://evynw.github.io/sileo/mcjj1m.json
 
 Package: com.jona.mcjj1n
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-1)
-Filename: ./debs/com.jona.mcjj1n_1.0_iphoneos-arm.deb
-Size: 349740
-MD5sum: 0639e7a7134ca2f76325560914141d8c
-SHA1: 8dc4ca26cc33dc780a93d69f04ada026299bccf1
-SHA256: ac2dd10bbc4d6c0223022aae0b46ee178c8d3029a78ce6bfcb625eb6275321e1
+Filename: ./debs/com.jona.mcjj1n_1.0-1_iphoneos-arm.deb
+Size: 349820
+MD5sum: 78df29410f985ccd9372e017aa2edba2
+SHA1: c055e720c0eda8ea279e03cf7f573ee80d14e620
+SHA256: 2bfa0249c7f4788f51879bc34fcd038e7560703a8c26f4e602c75ff10f5e1e43
 Section: Music Artwork Themes
 Description: Old CCover by Jona now revived! (For N95)
 Author: Jona Schnedi
@@ -7286,15 +7288,15 @@ Name: MASQ.JJ2
 Sileodepiction: https://evynw.github.io/sileo/mcjj2m.json
 
 Package: com.jona.mcjj2n
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-1)
 Filename: ./debs/com.jona.mcjj2n_1.0_iphoneos-arm.deb
-Size: 282050
-MD5sum: 1c287a18d66430163925a9acf122f3c6
-SHA1: e95e3817e3dcf76caf7027bfcf6ad0261d61d24d
-SHA256: b617801ffc8d10786b8ea644adf9bfa455f282449dc586104b10588d6b75953d
+Size: 282226
+MD5sum: 24e4e8c9cf2e97fb4c1c27585fb7797a
+SHA1: 5d0bb35fb17ce40c699439b245eac0e5f25c4fe3
+SHA256: de9a7d9fef4b1adde6583a9f3b37c6abf6d601f84198db8ec62522be94d608a2
 Section: Music Artwork Themes
 Description: Old CCover by Jona now revived! (For N95)
 Author: Jona Schnedi

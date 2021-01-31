@@ -2,13 +2,16 @@
   "name": "MASQ.EW8 (N95)",
   "package": "com.evynw.mcew8n",
   "author": "Evelyn (ev_ynw)",
-  "version": "1.0",
+  "version": "1.0-1",
   "dependency": "N95",
   "minOSVersion": "13.0",
   "maxOSVersion": "14.0",
   "otheriOS": "untested",
   "description": "<div>Installed to: /Library/Application Support/N95/[Name].bundle/<br><br>Enable via N95 (repo: https://repo.twickd.com/)<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
+    "1.0-1": [
+      "Added Info.plist for N95 ver 1.3+"
+    ],
     "1.0": [
       "Initial release"
     ]
