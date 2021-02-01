@@ -250,6 +250,24 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW2.MusicControls
 Sileodepiction: https://evynw.github.io/sileo/ew2musiccontrols.json
 
+Package: com.evynw.ew2settingsamber
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
+Filename: ./debs/com.evynw.ew2settingsamber_1.0_iphoneos-arm.deb
+Size: 226110
+MD5sum: 3b58a63b66fe790c538e220b64318eac
+SHA1: 3f67f5140e348e6e77c57788e405cfcbc46e252c
+SHA256: 51e01b157f06695c88fcf623951f9f9c4f3a678815274dd7f4e3cbb0b5ef1c5f
+Section: Settings Icons
+Description: Bling your settings with diamonds 💎
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew2settingsamber
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
+Name: EW2.SettingsIcons (Amber)
+Sileodepiction: https://evynw.github.io/sileo/ew2settingsamber.json
+
 Package: com.evynw.ew2settingsoceanic
 Version: 1.2
 Architecture: iphoneos-arm

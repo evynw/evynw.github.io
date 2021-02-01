@@ -5,7 +5,7 @@
   "version": "1.1",
   "dependency": "Xen HTML",
   "minOSVersion": "9.0",
-  "maxOSVersion": "13.4",
+  "maxOSVersion": "14.9",
   "otheriOS": "untested",
   "description": "<div>Optimized for Xen HTML 2.0, but also works on Xen HTML 1.X<br><br>Requires XenInfo if you're on Xen HTML 1.X<br><br>Installed to /var/mobile/Library/Widgets/Universal; Symlink is created at /var/mobile/Library/LockHTML for Xen HTML 1.X<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {

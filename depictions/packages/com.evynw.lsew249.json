@@ -3,11 +3,11 @@
   "package": "com.evynw.lsew249",
   "author": "Evelyn (ev_ynw)",
   "version": "1.0",
-  "dependency": "N/A",
+  "dependency": "Xen HTML",
   "minOSVersion": "9.0",
-  "maxOSVersion": "13.4",
+  "maxOSVersion": "14.9",
   "otheriOS": "untested",
-  "description": "<div>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)<br><br>Apply with XenHTML<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "description": "<div>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)<br><br>Apply with Xen HTML 1.x or 2.0<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
     "1.0-1": [
       "Put back the matching files"
