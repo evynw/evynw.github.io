@@ -4741,16 +4741,16 @@ Name: LS EW251
 Sileodepiction: https://evynw.github.io/sileo/lsew251.json
 
 Package: com.evynw.lsew252
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.lsew252_1.0_iphoneos-arm.deb
-Size: 107430
-MD5sum: 321d777d2506f944d6c7d952c46b26fd
-SHA1: 8929e66486483a23d634acb0d37a200ef0860bf2
-SHA256: 34545ad9e91a7358493fa9ba4b646da746cda36d6fd4add15576595921e1dbde
+Filename: ./debs/com.evynw.lsew252_1.0-1_iphoneos-arm.deb
+Size: 108016
+MD5sum: a0aca9c85131eea4e874914a662af14a
+SHA1: ed7590aa9a2911f4d9d1812264da60a6e956b181
+SHA256: ec27c52fca9ef3d2e63bf06d0e1a3b8bc4262a86af09a660cd654e4710a83a27
 Section: Lockscreen Widgets
-Description: After 3 years I'm still bad at writing this =3=
+Description: Simple time and date widget
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew252
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
@@ -4758,32 +4758,31 @@ Name: LS EW252
 Sileodepiction: https://evynw.github.io/sileo/lsew252.json
 
 Package: com.evynw.lsew253
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.lsew253_1.0_iphoneos-arm.deb
-Size: 106960
-MD5sum: 993eed21646e4ccd1eac92fa70c3aba5
-SHA1: 32a532fdf7937ac4f16f9676eeb9be278846992d
-SHA256: 6b945cf4da4455b4865fa3a4fe4c47cfd97c17710409f5135682d6cd6ae7dc8f
+Filename: ./debs/com.evynw.lsew253_1.0-1_iphoneos-arm.deb
+Size: 108726
+MD5sum: a93bd64642a2eef972502f2d477254c2
+SHA1: d979f2b2d10c9617802e9fed1d68e7bd7c60394b
+SHA256: c68c5dce3a6510b6477c2ad80f88741120ec3b5c745fdcffef557c572dbd4b1d
 Section: Lockscreen Widgets
-Description: #BeWater #WeStandTogether
+Description: Simple time and date widget
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew253
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
-Name: LS EW252
+Name: LS EW253
 Sileodepiction: https://evynw.github.io/sileo/lsew253.json
 
 Package: com.evynw.lsew254
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.lsew254_1.0_iphoneos-arm.deb
-Size: 292988
-MD5sum: e96767aa835bf3ce47c60fefe69dc0be
-SHA1: a590cd2448abf66562f301f6cc0ae12db4c882d9
-SHA256: 2064c9f9d93ac61dda399e68787c6e8532d5ee93c8e1bfc79521b5400d7679ad
+Filename: ./debs/com.evynw.lsew254_1.1_iphoneos-arm.deb
+Size: 294224
+MD5sum: f02dac73b37ee86df44a89eb07ecf97d
+SHA1: c1aadd719c71f684645e2c301be4f2ec1906969f
+SHA256: fed8e902569a16885ac7ab77e7d0b8208a9f0a8c3dd6ba3f4fb1d64ad06b6522
 Section: Lockscreen Widgets
 Description: Catch us when we fall. We stand as one.
 Author: Evelyn (ev_ynw)
@@ -4793,17 +4792,16 @@ Name: LS EW254
 Sileodepiction: https://evynw.github.io/sileo/lsew254.json
 
 Package: com.evynw.lsew257
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.lsew257_1.0_iphoneos-arm.deb
-Size: 174422
-MD5sum: 271378cd4a99a86f40da1b18c0fbe882
-SHA1: 27fc9e97d0df9420db0562f17df3f62fe22f68ff
-SHA256: e6ddb8c856e4ef6e7880b71141ba1c98c72a0642864b83710b709548108a2561
+Filename: ./debs/com.evynw.lsew257_1.1_iphoneos-arm.deb
+Size: 175776
+MD5sum: 18d56e635aee5c9888cb65cd92f9f061
+SHA1: a5e128e0590deabd8d806da10b33d068b9930ef2
+SHA256: 7e9062509711f71d05e349f3d92009ec11e5f9afa2e7d648dc71b2847c5899ff
 Section: Lockscreen Widgets
-Description: Still not good at descriptions after 3 years.
+Description: Clean & sleek widget with weather
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew257
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png

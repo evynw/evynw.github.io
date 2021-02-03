@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)</p>\n<p style=\"font-size:10pt;\">Apply with XenHTML</p>\n<p style=\"font-size:10pt;\">Requires XenInfo for weather/battery components to work properly</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">Optimized for Xen HTML 2.0, but also works on Xen HTML 1.X</p>\n<p style=\"font-size:10pt;\">Requires XenInfo if you're on Xen HTML 1.X</p>\n<p style=\"font-size:10pt;\">Installed to /var/mobile/Library/Widgets/Universal; Symlink is created at /var/mobile/Library/LockHTML for Xen HTML 1.X</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -63,17 +63,17 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0",
+          "text": "1.1",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS9.0 - 13.3+",
+          "text": "iOS9.0 - 14+",
           "title": "Compatibility"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "XenInfo",
+          "text": "Xen HTML",
           "title": "Dependency"
         },
         {
@@ -126,6 +126,17 @@
       "tabname": "Changelog",
       "tintColor": "#4d636a",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Recoded using Xen HTML 2.0 API</li>\n<li>Repackaged for Xen HTML 2.0</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",

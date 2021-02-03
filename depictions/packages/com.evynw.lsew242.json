@@ -7,8 +7,11 @@
   "minOSVersion": "9.0",
   "maxOSVersion": "14.9",
   "otheriOS": "untested",
-  "description": "<div>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)<br><br>Apply with Xen HTML 1.x or 2.0<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "description": "<div>Optimized for Xen HTML 2.0, but also works on Xen HTML 1.X<br><br>Requires XenInfo if you're on Xen HTML 1.X<br><br>Installed to /var/mobile/Library/Widgets/Universal; Symlink is created at /var/mobile/Library/LockHTML for Xen HTML 1.X<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
+    "1.0-1": [
+      "Repackaged for Xen HTML 2.0"
+    ],
     "1.0": [
       "Initial release"
     ]
