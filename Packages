@@ -5674,10 +5674,10 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.lsewnotch_1.1_iphoneos-arm.deb
-Size: 73162
-MD5sum: aa794c1599c8c8b029a3e8640fb0056f
-SHA1: 7b7f42823231b86839440da0ff33791884261081
-SHA256: 19b85bd7e9d8cf85ddb41c4302cb9d9978c65a5536cd2ae9fa82c57250ea9878
+Size: 73348
+MD5sum: c46d5a46ddd27d1b385cda7e6a5b29b2
+SHA1: 7001e69ae2f6b3248fff302c1720bac5a39c23db
+SHA256: 064bb89843f8810cab8588bf9d34094eaaf287d35bbe31a1051cbe135ccbfda5
 Section: Lockscreen Widgets
 Description: My take on the classic clock made of bars
 Author: Evelyn (ev_ynw)
@@ -5691,10 +5691,10 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.lsewrisingbars_1.1_iphoneos-arm.deb
-Size: 128910
-MD5sum: 18566a978f047ba58af9da706b1e7b13
-SHA1: 6d377720ca8e886506545d10d0d80f999211936e
-SHA256: f7f59fba2b253802bddf8f18f9f18e5432f178e03618becf5ddbf660c9e5557d
+Size: 128726
+MD5sum: 719127f4fd49827035a39460ee2a7403
+SHA1: 74d718fcf190787b764ee982e3764600a90f9d35
+SHA256: 2546d017ff2bd9d042ad5638c5ee866eed50ec443b46ebad96a0d7da6fa38b3c
 Section: Lockscreen Widgets
 Description: My take on the classic clock made of bars
 Author: Evelyn (ev_ynw)
