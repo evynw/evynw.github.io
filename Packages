@@ -268,6 +268,24 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW2.SettingsIcons (Amber)
 Sileodepiction: https://evynw.github.io/sileo/ew2settingsamber.json
 
+Package: com.evynw.ew2settingsgraphite
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
+Filename: ./debs/com.evynw.ew2settingsgraphite_1.0_iphoneos-arm.deb
+Size: 220368
+MD5sum: 4e5ae2486acafa538563f8717ef33676
+SHA1: 152c2214843dd9a905965980979146516724f9c7
+SHA256: cb26fdcbd817d165246bcbbc713a88bfb7f93f9c95013cf5f3212158103142d2
+Section: Settings Icons
+Description: Bling your settings with diamonds 💎
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew2settingsgraphite
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
+Name: EW2.SettingsIcons (Graphite)
+Sileodepiction: https://evynw.github.io/sileo/ew2settingsgraphite.json
+
 Package: com.evynw.ew2settingsoceanic
 Version: 1.2
 Architecture: iphoneos-arm
