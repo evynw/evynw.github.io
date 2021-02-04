@@ -328,10 +328,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2)
 Filename: ./debs/com.evynw.ew5msgbubbles_1.1_iphoneos-arm.deb
-Size: 33336
-MD5sum: 130722c93ca93a42483ddd70ee6b37aa
-SHA1: 5ba4d6d0aa982c595414163d985be7e0f77a58be
-SHA256: 78ba29421babbddc68e9a1b429b3578d722358393d8a3f54bd8e596f7b97eae5
+Size: 33314
+MD5sum: 9d9091c3a9e412ba65dc3d8fe2c816ae
+SHA1: bf139211cbf63d6c02c08894199427d639dbf602
+SHA256: 630eb13efa5aed8fa336eb9d72a9233c5e2c4e6a11133896a01dc990282f7f09
 Section: Theme Bits
 Description: New designs with partial transparency
 Author: Evelyn (ev_ynw)
@@ -6194,10 +6194,10 @@ Version: 1.2-2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.repoicons_1.2-2_iphoneos-arm.deb
-Size: 130906
-MD5sum: bcb4b3c6f47aa210b548096c479d0507
-SHA1: 5c8f846c62e7ac267940c7f277e336f9734dc50c
-SHA256: 2451341260fbba2fb647cded9ddfc043bc98f7bd19566e218a280a5d168b8221
+Size: 130522
+MD5sum: e623f10478305cead8e2ae455213bdc3
+SHA1: 9bdf28074e4ed2d1a7ace5d57586f738720a9ea5
+SHA256: 203ba63a1a5bd3028ab7d6d1ca60244c952716282016c04efcb421afeb5220c3
 Section: System
 Description: Official Icons for EVELYN's Repo. Icons replacing the ? marks.
 Author: Evelyn (ev_ynw)
