@@ -304,6 +304,24 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
 Name: EW2.SettingsIcons (Oceanic)
 Sileodepiction: https://evynw.github.io/sileo/ew2settingsoceanic.json
 
+Package: com.evynw.ew2settingsorchid
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
+Filename: ./debs/com.evynw.ew2settingsorchid_1.0_iphoneos-arm.deb
+Size: 227160
+MD5sum: 7306494bb6779365f23614a85d9702ca
+SHA1: 3c51d58cfbe57297e572f8f2a79378b85c0e1091
+SHA256: 025b0cc0fcce1a13f0d277f27bc1c8b4eb1a6ccf0e551b5ca456a5da135902cb
+Section: Settings Icons
+Description: Bling your settings with diamonds 💎
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew2settingsorchid
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
+Name: EW2.SettingsIcons (Orchid)
+Sileodepiction: https://evynw.github.io/sileo/ew2settingsorchid.json
+
 Package: com.evynw.ew3msgbubbles
 Version: 1.0
 Architecture: iphoneos-arm
