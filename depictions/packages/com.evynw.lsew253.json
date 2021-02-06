@@ -11,7 +11,7 @@
   "changelog": {
     "1.0-1": [
       "Repackaged for Xen HTML 2.0"
-    ]
+    ],
     "1.0": [
       "Initial release"
     ]
