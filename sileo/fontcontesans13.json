@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"><strong>100% size. Install 'Conte Sans_85% (iOS13)' for normal character size.</strong></p>\n<p style=\"font-size:10pt;\">Only compatible with iOS13. iOS10-12 users please download the package marked “iOS10-12”.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\"><strong>100% size. Install 'Conte Sans_85%' for normal character size.</strong></p>\n<p style=\"font-size:10pt;\">Only compatible with iOS13. Separate packages for iOS13 and iOS14 are available.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -31,11 +31,15 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{360, 1260}",
+          "itemSize": "{330, 1014}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcontesans12/ss.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcontesans13/ss1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcontesans13/ss2.png"
             }
           ]
         },
@@ -67,12 +71,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0",
+          "text": "1.1",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS13.0 - 13.3",
+          "text": "iOS13.0 - 13.9",
           "title": "Compatibility"
         },
         {
@@ -130,6 +134,17 @@
       "tabname": "Changelog",
       "tintColor": "#105961",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Refined the variable .TTFs</li>\n<li>Added support for 3rd party apps (Spotify, YouTube, Discord)</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
