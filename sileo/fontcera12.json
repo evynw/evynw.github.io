@@ -71,7 +71,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1",
+          "text": "1.1-1",
           "title": "Version"
         },
         {
@@ -134,6 +134,17 @@
       "tabname": "Changelog",
       "tintColor": "#007b7c",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.1-1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Fixed issue of text line heights in Spotify fullscreen lyrics view</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.1",

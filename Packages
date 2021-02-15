@@ -1173,15 +1173,15 @@ Name: Cabrito Sans_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontcabritosans8513.json
 
 Package: com.evynw.fontcera12
-Version: 1.1
+Version: 1.1-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontcera12_1.1_iphoneos-arm.deb
-Size: 16194692
-MD5sum: 47252fa42aa9ae98b7bbef891ba62bc3
-SHA1: f8ddc82b88270989d91123e16e3325e049cee56b
-SHA256: d8aa28e46811e2dd271b4f5d0b00f9b9701d8787733d82428e21710cc9e0d04c
+Filename: ./debs/com.evynw.fontcera12_1.1-1_iphoneos-arm.deb
+Size: 16238594
+MD5sum: f02c09060ef187e3b4cb5b9a2e706226
+SHA1: 3c1ef346549d1e9461dd7628f8f436dcd602547c
+SHA256: 5d76e95adf8db4057c3ad0266b2fa1e17b5c928bf8fde8f6cb2f4f166f375c55
 Section: Fonts (iOS10-12)
 Description: Clean & conventional sans serif. 100% size. For iOS10-12.
 Author: Evelyn (ev_ynw)
@@ -1191,15 +1191,15 @@ Name: Cera (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcera12.json
 
 Package: com.evynw.fontcera13
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontcera13_1.0_iphoneos-arm.deb
-Size: 13472722
-MD5sum: 5112a6588710ac340e95db430678490c
-SHA1: fa65ac3827ea92f12e2e29d03c491ca164e77977
-SHA256: d0667b7cd84244259fa72f00b0a980b3d86904a72f767f84d67195e24899dd37
+Filename: ./debs/com.evynw.fontcera13_1.0-1_iphoneos-arm.deb
+Size: 13517460
+MD5sum: b66c5b1a57514ea071b134d63742c915
+SHA1: c84f9657d04d1dd72020dcae58fc4a8bff9af3a0
+SHA256: 495c1725dd15dcb9ef5d3610e3b02e2abae30e8bc9733ebe5a8d2204bd31f453
 Section: Fonts (iOS13)
 Description: Clean & conventional sans serif. 100% size. For iOS13.
 Author: Evelyn (ev_ynw)
@@ -1209,15 +1209,15 @@ Name: Cera (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontcera13.json
 
 Package: com.evynw.fontcera14
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontcera14_1.0_iphoneos-arm.deb
-Size: 14435828
-MD5sum: c11391576655963ddbc9e75898b28a96
-SHA1: d0fc2fee95a184a3e586f27fb3ecacd06c039552
-SHA256: d05c9070c98d505a7450103c4058b578b810ec4a84f7c0c8fdf73cc3a9ab3b2d
+Filename: ./debs/com.evynw.fontcera14_1.0-1_iphoneos-arm.deb
+Size: 14482592
+MD5sum: fa0887577533b23a39f15c6248a6cbb0
+SHA1: 2fc07f45004a0bcb2b3ef511a36cbdc4ede161e7
+SHA256: a20288bfd71dcd84aa25ef886d200a016cfc9d3e0b7905bc9a4611a839f2845c
 Section: Fonts (iOS14)
 Description: Clean & conventional sans serif. 100% size. For iOS14.
 Author: Evelyn (ev_ynw)
@@ -1227,15 +1227,15 @@ Name: Cera (iOS14)
 Sileodepiction: https://evynw.github.io/sileo/fontcera14.json
 
 Package: com.evynw.fontcera8512
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontcera8512_1.0_iphoneos-arm.deb
-Size: 16191350
-MD5sum: 4c0b41c850f029110c3cd5366c7f7251
-SHA1: cd25ea5ef086ce927e8f2645abb4b70bb902eaaa
-SHA256: 764c6180f75a77875dfd8f49e99b670a0b93ebac16f90ab69ca556d1e3d14b3b
+Filename: ./debs/com.evynw.fontcera8512_1.0-1_iphoneos-arm.deb
+Size: 16237354
+MD5sum: 7e7fbd41cb777da289d31e613a3f3d38
+SHA1: 4bb00abb28b0990b3157c5efb74a09ad8ce524a3
+SHA256: b535baccf6e566599b81e5b3672b036ba2395e4a94302e56971c8b28d0d964a6
 Section: Fonts (iOS10-12)
 Description: Clean & conventional sans serif. 85% size. For iOS10-12.
 Author: Evelyn (ev_ynw)
@@ -1245,15 +1245,15 @@ Name: Cera_85% (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcera8513.json
 
 Package: com.evynw.fontcera8513
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontcera8513_1.0_iphoneos-arm.deb
-Size: 15005912
-MD5sum: 86bdfdc074e8f559306dc563b0bb5306
-SHA1: e21c0b812b9da0c332fde1fbf875a04cd4a4762b
-SHA256: 7eb0865e3cc48b253c9b05cbd8c895c3ed8be3afd6042d33b1fd11386bc558d2
+Filename: ./debs/com.evynw.fontcera8513_1.0-1_iphoneos-arm.deb
+Size: 15051418
+MD5sum: b80159ba501ba071daf9da66457edb23
+SHA1: b26a398d9b6871555e04414cc53d62fbf5033b95
+SHA256: b0643b1c8b6404736c9d054553d4f003204f60e6995c779fac0f71b47d80b768
 Section: Fonts (iOS13)
 Description: Clean & conventional sans serif. 85% size. For iOS13.
 Author: Evelyn (ev_ynw)
@@ -1263,15 +1263,15 @@ Name: Cera_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontcera8513.json
 
 Package: com.evynw.fontcera8514
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontcera8514_1.0_iphoneos-arm.deb
-Size: 14621038
-MD5sum: 78eb896e96ee6e75fc2250016756f001
-SHA1: 4393c77cb2e1020d85dbf7b7d7ba8c7484f2c12f
-SHA256: 95d0ce8f210efec513a1854a885c1f47abb05f7e304ec96a2325ca3ee9619641
+Filename: ./debs/com.evynw.fontcera8514_1.0-1_iphoneos-arm.deb
+Size: 14665094
+MD5sum: 0872e745c776380b02a57d8251276bcc
+SHA1: 6510a42dee293f503ca96abe1974a0760c812cdd
+SHA256: 7a35ae326d35079a8dddbad8b1063b62ad455c4483282fd395af7a7b1bdf75e1
 Section: Fonts (iOS14)
 Description: Clean & conventional sans serif. 85% size. For iOS14.
 Author: Evelyn (ev_ynw)
