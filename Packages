@@ -2425,6 +2425,78 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: PF DIN Text Pro (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontpfdin12.json
 
+Package: com.evynw.fontrhino13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontrhino13_1.0_iphoneos-arm.deb
+Size: 32915922
+MD5sum: 186b9ca61a12074ddbabf3bc3658e690
+SHA1: 5cd2b4634ed87f5691d264a0d2c9535d689b65e2
+SHA256: 20feab7a76287bd101fa0819f79db9c7aaefcbf6a2d427be24d569c244fd6433
+Section: Fonts (iOS13)
+Description: Slightly cursive sans. 100% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontrhino13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Rhino (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontrhino13.json
+
+Package: com.evynw.fontrhino14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontrhino14_1.0_iphoneos-arm.deb
+Size: 27414928
+MD5sum: 4293fe611c102fc4645486d9697407d9
+SHA1: b07e6f399838a4783cac66ac7e7457163c998256
+SHA256: 0be3b274d769eff5146dc5e0d12058e62a640dac7e63e321d85b5ab8c3796db8
+Section: Fonts (iOS14)
+Description: Slightly cursive sans. 100% size. For iOS14.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontrhino14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Rhino (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontrhino14.json
+
+Package: com.evynw.fontrhino8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontrhino8513_1.0_iphoneos-arm.deb
+Size: 34593118
+MD5sum: 34db6351fbb47ea7dc3e5aa4984f2799
+SHA1: c461c0276b25f47e4fa183684549d171991cdf65
+SHA256: 114ab216500c11a1a9d3dab218c8ec31d4ba44dff56672cf4db217f0c8e320ad
+Section: Fonts (iOS13)
+Description: Slightly cursive sans. 85% size. For iOS13.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontrhino8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Rhino_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontrhino8513.json
+
+Package: com.evynw.fontrhino8514
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontrhino8514_1.0_iphoneos-arm.deb
+Size: 28848028
+MD5sum: 30af26dd08204cda1f3ba1dd0e2d15ab
+SHA1: 5dbddb73a29dfc9d4e1b77550d91ace38058b22f
+SHA256: 7d0bf3fcebcbff03b2f9c3293eb389e1fb9490603dfee4901fc8d56821a6efca
+Section: Fonts (iOS14)
+Description: Slightly cursive sans. 85% size. For iOS14.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontrhino8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Rhino_85% (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontrhino8514.json
+
 Package: com.evynw.fontroboto12
 Version: 1.1
 Architecture: iphoneos-arm
