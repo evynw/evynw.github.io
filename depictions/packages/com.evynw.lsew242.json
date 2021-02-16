@@ -2,7 +2,7 @@
   "name": "LS EW242",
   "package": "com.evynw.lsew242",
   "author": "Evelyn (ev_ynw)",
-  "version": "1.0",
+  "version": "1.0-1",
   "dependency": "Xen HTML",
   "minOSVersion": "9.0",
   "maxOSVersion": "14.9",
