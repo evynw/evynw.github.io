@@ -2,19 +2,27 @@
 	"name": "Avenir Next (iOS10-12)",
 	"package": "com.evynw.fontavenir12",
 	"author": "Evelyn (ev_ynw)",
-	"version": "1.0",
+	"version": "1.2",
 	"dependency": "N/A",
 	"minOSVersion": "10.0",
-	"maxOSVersion": "12.4",
+	"maxOSVersion": "12.9",
 	"otheriOS": "untested",
-  	"description": "<div>Compatible with iOS10-12. iOS13 users please download the package marked “iOS13”.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+	"description": "<div>Only compatible on iOS10-12. Separate packages for iOS13 and iOS14 are available.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with Anemone. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {
+	    "1.2": [
+	      "Increased coverage to 3rd party apps (Discord, Spotify, Youtube)"
+	    ],
+	    "1.1": [
+	      "Updated for iOS12.4",
+	      "Better Vietnamese support for Helvetica.TTCs"
+	    ],
 	    "1.0": [
 	      "Initial release"
 	    ]
   	},
 	"screenshots": {
-		"ss.png": ""
+		"ss1.png": "",
+		"ss2.png": ""
 	},
 	"links": {}
 }

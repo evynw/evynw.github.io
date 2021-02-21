@@ -695,6 +695,42 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Asterisk Sans (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontasterisk12.json
 
+Package: com.evynw.fontasterisk13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontasterisk13_1.0_iphoneos-arm.deb
+Size: 14453568
+MD5sum: c001802a15a18f07294f8bfce9b4c6e2
+SHA1: 28c0d03f4efbbcfddc14523cedf3b44093083975
+SHA256: 020d25b11056aa8f6c84ab484a7b3c714cb3ea6cc3316bdd7c211e4b5baa5e48
+Section: Fonts (iOS13)
+Description: Clean and thin sans serif. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontasterisk13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Asterisk Sans (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontasterisk13.json
+
+Package: com.evynw.fontasterisk14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontasterisk14_10_iphoneos-arm.deb
+Size: 14011200
+MD5sum: 91240f04b76308c6aa2f2fd8458ed3c3
+SHA1: a9825b588946f94343614f6d6d8e353b064b11ae
+SHA256: d1d2ab90ec05f5076d53c23e8ca7175d9af3cd562beaf0a9d8373d738d426b6e
+Section: Fonts (iOS14)
+Description: Clean and thin sans serif. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontasterisk14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Asterisk Sans (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontasterisk14.json
+
 Package: com.evynw.fontavenir12
 Version: 1.1
 Architecture: iphoneos-arm
