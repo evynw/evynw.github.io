@@ -6,7 +6,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#105961",
+      "tintColor": "#8ecf58",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Only compatible on iOS10-12. iOS13 users please install the package marked “iOS13”.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">Only compatible on iOS10-12. Separate packages for iOS13 and iOS14 are available.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -67,12 +67,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.2",
+          "text": "1.4",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS10.0 - 12.4",
+          "text": "iOS10.0 - 12.9",
           "title": "Compatibility"
         },
         {
@@ -128,8 +128,19 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#105961",
+      "tintColor": "#8ecf58",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.3",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Increased coverage to 3rd party apps (Discord, Spotify, Youtube)</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.2",
@@ -166,5 +177,5 @@
       ]
     }
   ],
-  "tintColor": "#105961"
+  "tintColor": "#8ecf58"
 }

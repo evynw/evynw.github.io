@@ -611,14 +611,14 @@ Name: EW.WdgtPack.8
 Sileodepiction: https://evynw.github.io/sileo/ewwdgtpack8.json
 
 Package: com.evynw.fontainsliesans12
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontainsliesans12_1.2_iphoneos-arm.deb
-Size: 10174630
-MD5sum: 939befdec66dfbdf590a0cd18c72a747
-SHA1: 023a04c5bf2dc48924b00f42f6535a5ffa6fdfbe
-SHA256: 6ce25b1a0836a9aca20bdcd9aeefdacc3f96c94ac69b1776efd5bf71443c7137
+Filename: ./debs/com.evynw.fontainsliesans12_1.3_iphoneos-arm.deb
+Size: 13881402
+MD5sum: 210d888dfee26b6fc04f4c69ee756a28
+SHA1: 3f91777f59a5b5e4ab02fa7f10d0ffaaf148a4c2
+SHA256: be31a65e9074bc7c275ad70b60c698abfc0d0cd581a503415fa40ab826d0d76a
 Section: Fonts (iOS10-12)
 Description: Sans serif slightly rounded. Compatible with iOS10-12.
 Author: Evelyn (ev_ynw)
@@ -628,14 +628,14 @@ Name: Ainslie Sans (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontainsliesans12.json
 
 Package: com.evynw.fontainsliesans13
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontainsliesans13_1.1_iphoneos-arm.deb
-Size: 7543702
-MD5sum: 08e6bf98a2ff1034ba8c0cc0dc285bba
-SHA1: bdaa42ec75193dcb4b13fa440a85f20bf88fdf0c
-SHA256: 09fdce64a264ce96688f953e06b4287038c75616654309172eaea6e63472c6d6
+Filename: ./debs/com.evynw.fontainsliesans13_1.2_iphoneos-arm.deb
+Size: 11422146
+MD5sum: 4d2b491f55f8780f2fe3eeb007a1135c
+SHA1: 1c32557a41a33053209c4b9eb4960cbe62e09c72
+SHA256: 7901c89724e9a60db78d4b79ad3be92319d40adc47abca366854f6f6c7bdf462
 Section: Fonts (iOS13)
 Description: Sans serif slightly rounded. For iOS13.
 Author: Evelyn (ev_ynw)
@@ -643,6 +643,24 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontainsliesans13
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Ainslie Sans (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontainsliesans13.json
+
+Package: com.evynw.fontainsliesans14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontainsliesans14_1.0_iphoneos-arm.deb
+Size: 11441856
+MD5sum: 325afa4185cbed0f5ed1999573caaf3b
+SHA1: ad27068bce4a0e16a2af720b6bf0f45d187cc752
+SHA256: f0543ad154277e30a3be4fd19396cccb3451b9bf8c7aa341db7d039d15678fe9
+Section: Fonts (iOS14)
+Description: Sans serif slightly rounded. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontainsliesans14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Ainslie Sans (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontainsliesans14.json
 
 Package: com.evynw.fontalegreyasans12
 Version: 1.0
