@@ -2,13 +2,16 @@
 	"name": "Uni Neue (iOS10-12)",
 	"package": "com.evynw.fontunineue12",
 	"author": "Evelyn (ev_ynw)",
-	"version": "1.1",
+	"version": "1.2",
 	"dependency": "N/A",
 	"minOSVersion": "10.0",
-	"maxOSVersion": "12.4",
+	"maxOSVersion": "12.9",
 	"otheriOS": "untested",
-  	"description": "<div>Only compatible on iOS10-12. iOS13 users please install the package marked “iOS13”.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+	"description": "<div>Only compatible on iOS10-12. Separate packages for iOS13 and iOS14 are available.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with Anemone. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {
+	    "1.2": [
+	      "Added support for 3rd party apps (Spotify, YouTube, Discord)"
+	    ],
 	    "1.1": [
 	      "Updated for iOS12.4",
 	      "Better Latin characters support for Helvetica.TTCs"

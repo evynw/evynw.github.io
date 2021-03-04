@@ -2980,14 +2980,14 @@ Name: TT Teds (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontttteds12.json
 
 Package: com.evynw.fontunineue12
-Version: 1.0
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontunineue12_1.1_iphoneos-arm.deb
-Size: 12532648
-MD5sum: adeac3347624d2b1b98a3cf047acd997
-SHA1: bdb08c4011f432eb61518b8c03a0c41cd6ffdff2
-SHA256: 72ee4b4132ae6c3690324b946e725b15e43b3c03ad5d57845623bdeb625e83fe
+Filename: ./debs/com.evynw.fontunineue12_1.2_iphoneos-arm.deb
+Size: 14741132
+MD5sum: f1acf2eeccbd4f5a10cbbcb5b089e8d9
+SHA1: 553bcb472969579ce2b804ada344ccb971547e7e
+SHA256: a60dda784118965c3031f295d93bc57b4fb4cc8f991022790fa871df3e36d2d1
 Section: Fonts (iOS10-12)
 Description: Rounded sans serif. For iOS10-12.
 Author: Evelyn (ev_ynw)
@@ -2997,14 +2997,14 @@ Name: Uni Neue (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontunineue12.json
 
 Package: com.evynw.fontunineue13
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontunineue13_1.0_iphoneos-arm.deb
-Size: 9389564
-MD5sum: 91265d321dd1a65a0b99a8b9594f4784
-SHA1: 2be9d02bd34f5d1d95c547340f1eb1c6c0f85429
-SHA256: 4e694d5c19f6893fa91aa184bbd4898281c1718bd15ab17f09dbbfa24ebb567e
+Filename: ./debs/com.evynw.fontunineue13_1.1_iphoneos-arm.deb
+Size: 11600454
+MD5sum: 0b399eb0e3e551664b65cd7305c4d669
+SHA1: 4678dd8dd15124f25022741584de233c6439a50d
+SHA256: ac47b75cf4c2dcc707f1f42ced59b491fad09ce7f1f1b8f3dbfa4690a8507420
 Section: Fonts (iOS13)
 Description: Rounded sans serif. For iOS13.
 Author: Evelyn (ev_ynw)
@@ -3012,6 +3012,58 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontunineue13
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Uni Neue (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontunineue13.json
+
+Package: com.evynw.fontunineue14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontunineue14_1.0_iphoneos-arm.deb
+Size: 12108698
+MD5sum: 16645b42d48803c52e0b0674a94cdd7a
+SHA1: 606efd25d2c3f036f357a6293b77a59104232910
+SHA256: c719148c688452865a25a2ff61fba5a49a09ede65091a3343437b06787873d07
+Section: Fonts (iOS14)
+Description: Rounded sans serif. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontunineue14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Uni Neue (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontunineue14.json
+
+Package: com.evynw.fontunineue8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontunineue8513_1.0_iphoneos-arm.deb
+Size: 13569682
+MD5sum: a7fb49f32bceeaa89a06c11b2428e229
+SHA1: 9c478fb7ec5cc729a01dd97776beb77988733dde
+SHA256: 9b5998f5a95956b05e0fee0a6169c69d7a7aef6cbfc07559d085e3304b65ecf8
+Section: Fonts (iOS13)
+Description: Rounded sans serif. 85% size. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontunineue8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Uni Neue_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontunineue8513.json
+
+Package: com.evynw.fontunineue8514
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontunineue8514_1.0_iphoneos-arm.deb
+Size: 12746432
+MD5sum: 80d739b7a3a4d438a326a020e71f16a3
+SHA1: 88efaa01262fb5d95aa87bfd47780cf11c3df5d3
+SHA256: 04e4c817024cda0e47b80cda9071031da3736f99d7246ae631ffdfc32f0b4f70
+Section: Fonts (iOS14)
+Description: Rounded sans serif. 85% size. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontunineue8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Uni Neue_85% (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontunineue8514.json
 
 Package: com.evynw.fonturwgeo12
 Version: 1.1

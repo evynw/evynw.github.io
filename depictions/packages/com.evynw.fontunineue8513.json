@@ -1,0 +1,21 @@
+{
+	"name": "Uni Neue_85% (iOS13)",
+	"package": "com.evynw.fontunineue8513",
+	"author": "Evelyn (ev_ynw)",
+	"version": "1.0",
+	"dependency": "N/A",
+	"minOSVersion": "13.0",
+	"maxOSVersion": "13.9",
+	"otheriOS": "untested",
+	"description": "<div><strong>85% size. Install 'Uni Neue' for normal character size.</strong><br><br>Only compatible on iOS13. Separate packages for iOS10-12 and iOS14 are available.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with Anemone. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  	"changelog": {
+	    "1.0": [
+	      "Initial release"
+	    ]
+  	},
+	"screenshots": {
+		"ss1.png": "",
+		"ss2.png": ""
+	},
+	"links": {}
+}

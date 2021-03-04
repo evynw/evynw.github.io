@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Only compatible on iOS10-12. iOS13 users please install the package marked “iOS13”.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">Only compatible on iOS10-12. Separate packages for iOS13 and iOS14 are available.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -71,12 +71,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1",
+          "text": "1.2",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS10.0 - 12.4",
+          "text": "iOS10.0 - 12.9",
           "title": "Compatibility"
         },
         {
@@ -134,6 +134,17 @@
       "tabname": "Changelog",
       "tintColor": "#65c899",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.2",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Added support for 3rd party apps (Spotify, YouTube, Discord)</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.1",
