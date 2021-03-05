@@ -7,7 +7,7 @@
 	"minOSVersion": "14.0",
 	"maxOSVersion": "14.9",
 	"otheriOS": "unsupported",
-	"description": "<div>Only compatible on iOS14. Separate packages for iOS10-12 and iOS13 are available.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with Anemone. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+	"description": "<div>Only compatible on iOS14. Separate packages for iOS10-12 and iOS13 are available.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with theming engines e.g. SnowBoard. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {
 	    "1.0": [
 	      "Initial release"

@@ -7,7 +7,7 @@
 	"minOSVersion": "13.0",
 	"maxOSVersion": "13.9",
 	"otheriOS": "untested",
-	"description": "<div><strong>Normal size. Install 'Uni Neue_85%' for smaller character size.</strong><br><br>Only compatible on iOS13. Separate packages for iOS10-12 and iOS14 are available.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with Anemone. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+	"description": "<div><strong>Normal size. Install 'Uni Neue_85%' for smaller character size.</strong><br><br>Only compatible on iOS13. Separate packages for iOS10-12 and iOS14 are available.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with theming engines e.g. SnowBoard. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {
 	    "1.1": [
 	      "Refined the variable .TTFs",

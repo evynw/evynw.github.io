@@ -6,7 +6,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#a2b9c9",
+      "tintColor": "#e4b134",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)</p>\n<p style=\"font-size:10pt;\">Apply with XenHTML</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">Optimized for Xen HTML 2.0, but also works on Xen HTML 1.X</p>\n<p style=\"font-size:10pt;\">Installed to /var/mobile/Library/Widgets/Universal; Symlink is created at /var/mobile/Library/LockHTML for Xen HTML 1.X</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -63,12 +63,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0",
+          "text": "1.0-1",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS9.0 - 12.4",
+          "text": "iOS9.0 - 14.4+",
           "title": "Compatibility"
         },
         {
@@ -124,8 +124,19 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#a2b9c9",
+      "tintColor": "#e4b134",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0-1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Repackaged for Xen HTML 2.0</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
@@ -140,5 +151,5 @@
       ]
     }
   ],
-  "tintColor": "#a2b9c9"
+  "tintColor": "#e4b134"
 }

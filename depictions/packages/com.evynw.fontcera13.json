@@ -7,7 +7,7 @@
 	"minOSVersion": "13.0",
 	"maxOSVersion": "13.9",
 	"otheriOS": "unsupported",
-	"description": "<div><strong>Normal size. Install 'Cera_85%' for smaller character size.</strong><br><br>Only compatible on iOS13. Separate packages for iOS10-12 and iOS14 are available.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with Anemone. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+	"description": "<div><strong>Normal size. Install 'Cera_85%' for smaller character size.</strong><br><br>Only compatible on iOS13. Separate packages for iOS10-12 and iOS14 are available.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with theming engines e.g. SnowBoard. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {
 	    "1.0-1": [
 	      "Fixed issue of text line heights in Spotify fullscreen lyrics view"

@@ -4889,16 +4889,16 @@ Name: LS EW231
 Sileodepiction: https://evynw.github.io/sileo/lsew231.json
 
 Package: com.evynw.lsew232
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.lsew232_1.0_iphoneos-arm.deb
-Size: 142038
-MD5sum: e9795cd00ed31cac9c75feaa75998cc2
-SHA1: 62f9cdddffd1009f76c6eae022b0c26fd8bae72d
-SHA256: 030da3cddca17eb77489603198b5d6800a4b839cdb864f71e2291aac1ddafa99
+Filename: ./debs/com.evynw.lsew232_1.0-1_iphoneos-arm.deb
+Size: 143818
+MD5sum: d612bcce4f1a877681ca24619f08cb94
+SHA1: 106f3c927a348d072a4307e67c9ccffb5b71d347
+SHA256: 2699cec3c6e6f00ee04d52b21a03edd88d391c7c26306d331e2c0772eafcdb90
 Section: Lockscreen Widgets
-Description: Guess I should think of a new description? OwO
+Description: Small and miminal time and date widget
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew232
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
@@ -4906,17 +4906,16 @@ Name: LS EW232
 Sileodepiction: https://evynw.github.io/sileo/lsew232.json
 
 Package: com.evynw.lsew235
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: firmware (>= 9.0)
-Filename: ./debs/com.evynw.lsew235_1.0_iphoneos-arm.deb
-Size: 305652
-MD5sum: a0bc77970ce4bc4b0d7f3f371f03c950
-SHA1: b04f15f3b201b60d8bbf004f26c78081bb1aa90c
-SHA256: d4da3817fc637f199d07010f0b3ea3fea5b200df7d0c1bafd2b0e7203437dde7
+Filename: ./debs/com.evynw.lsew235_1.0-1_iphoneos-arm.deb
+Size: 307232
+MD5sum: d10a9a39801aa6c4c1f24c3d2d5e4fa0
+SHA1: 0e52d77a11acecdb2ad80b12e27f51058b78ea5a
+SHA256: d0593760cefb4634ff79cd643310ab6000a2662e4944591d966c22ff9c28012b
 Section: Lockscreen Widgets
-Description: Guess I should think of a new description? OwO
+Description: Small and miminal time and date widget
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew235
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
@@ -4924,17 +4923,16 @@ Name: LS EW235
 Sileodepiction: https://evynw.github.io/sileo/lsew235.json
 
 Package: com.evynw.lsew236
-Version: 1.0-1
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.lsew236_1.0-1_iphoneos-arm.deb
-Size: 224246
-MD5sum: 7d0c884c9bb369ea2f7663e6f3cd7dd0
-SHA1: c6b0413b135271c5f5d9243e66d7437c031d2f11
-SHA256: b07db30582091aff584613cbc0509dfe37316836d0b1b07d7deeb19b3da840ce
+Filename: ./debs/com.evynw.lsew236_1.1_iphoneos-arm.deb
+Size: 225610
+MD5sum: f950bb1c1f925fb4df8394e17b95c494
+SHA1: d21e77baa11ec0c9a0cab87266c5cae2e65ccdc7
+SHA256: 21d7e38d75e8400f8abce57fc5c561dc790318f694b0b9d2f7b6689cc5b21ed9
 Section: Lockscreen Widgets
-Description: I really should be focusing on widgets again T^T
+Description: Time and weather widget with highlight colour
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew236
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png

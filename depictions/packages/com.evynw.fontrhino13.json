@@ -7,7 +7,7 @@
 	"minOSVersion": "13.0",
 	"maxOSVersion": "13.9",
 	"otheriOS": "unsupported",
-	"description": "<div><strong>Normal size. Install 'Rhino_85%' for smaller character size.</strong><br><br>Only compatible on iOS13. iOS14 users please download the package marked “iOS14”.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with Anemone. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+	"description": "<div><strong>Normal size. Install 'Rhino_85%' for smaller character size.</strong><br><br>Only compatible on iOS13. iOS14 users please download the package marked “iOS14”.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with theming engines e.g. SnowBoard. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {
 	    "1.0": [
 	      "Initial release"

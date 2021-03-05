@@ -7,7 +7,7 @@
 	"minOSVersion": "10.0",
 	"maxOSVersion": "12.9",
 	"otheriOS": "untested",
-	"description": "<div>Only compatible on iOS10-12. Separate packages for iOS13 and iOS14 are available.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with Anemone. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+	"description": "<div>Only compatible on iOS10-12. Separate packages for iOS13 and iOS14 are available.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with theming engines e.g. SnowBoard. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {
 	    "1.2": [
 	      "Added support for 3rd party apps (Spotify, YouTube, Discord)"
