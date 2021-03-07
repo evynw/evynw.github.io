@@ -1,12 +1,12 @@
 {
   "class": "DepictionTabView",
-  "headerImage": "https://evynw.github.io/sileo/assets/header_Font.png",
+  "headerImage": "https://evynw.github.io/sileo/assets/header_LS.png",
   "minVersion": "0.3",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#007b7c",
+      "tintColor": "#7faea3",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"><strong>85% size. Install 'Cera' for normal character size.</strong></p>\n<p style=\"font-size:10pt;\">Only compatible on iOS14. Separate packages for iOS10-12 and iOS13 are available.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\">Apply with theming engine e.g. SnowBoard. Package name = Fonts.</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">Optimized for Xen HTML 2.0, but also works on Xen HTML 1.X</p>\n<p style=\"font-size:10pt;\">Installed to /var/mobile/Library/Widgets/Universal; Symlink is created at /var/mobile/Library/LockHTML for Xen HTML 1.X</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -31,15 +31,11 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{330, 1093}",
+          "itemSize": "{360, 640}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcera12/ss1.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcera12/ss2.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.lsew271/ss.png"
             }
           ]
         },
@@ -61,27 +57,23 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 8
-        },
-        {
           "class": "DepictionTableTextView",
           "text": "Evelyn (ev_ynw)",
           "title": "Author"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0-1",
+          "text": "1.0",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS14.0 - 14.4+",
+          "text": "iOS9.0 - 14.4+",
           "title": "Compatibility"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "N/A",
+          "text": "Xen HTML",
           "title": "Dependency"
         },
         {
@@ -132,19 +124,8 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#007b7c",
+      "tintColor": "#7faea3",
       "views": [
-        {
-          "class": "DepictionSubheaderView",
-          "title": "1.0-1",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Fixed issue of text line heights in Spotify fullscreen lyrics view</li>\n</ul>",
-          "useRawFormat": true
-        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
@@ -159,5 +140,5 @@
       ]
     }
   ],
-  "tintColor": "#007b7c"
+  "tintColor": "#7faea3"
 }
