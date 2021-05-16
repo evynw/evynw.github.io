@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Gallery</title>
+    <link  href="https://cdnjs.cloudflare.com/ajax/libs/nanogallery2/2.4.2/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+<div id="nanogallery2"></div>
+
+</body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/nanogallery2/2.4.2/jquery.nanogallery2.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/spin.js/2.3.2/spin.min.js" integrity="sha256-PieqE0QdEDMppwXrTzSZQr6tWFX3W5KkyRVyF1zN3eg=" crossorigin="anonymous"></script>
+<script>
+    function getSS(url, callback)
+    {
+        return $.ajax({url: url, async: false}).done(function(resp){
+            callback(resp);
+        });
+    }
+
+    var target = document.getElementById('nanogallery2');
+    var spinner = new Spinner().spin(target);
+
+    $.get('https://evynw.github.io/Packages', function(data) {
+        let lines = data.split('\n');
+        let items = new Map();
+        let item = {};
+        for(var line = 0; line < lines.length; line++){
+            let test = lines[line].match(/[^:]*/g);
+            if (test) {
+                if (test[0] === 'Package') {
+                    item.Package = test[2].trim();
+                    item.Screenshot = 'https://evynw.github.io/depictions/screenshots/' + item.Package + '/ss.png';
+                }
+                if (test[0] === 'Name') {
+                    item.Name = test[2].trim();
+                }
+                if (test[0] === 'Description') {
+                    item.Description = test[2].trim();
+                }
+                if (test[0] === 'Section') {
+                    item.Section = test[2].trim();
+                }
+
+                if (test[0] === 'Sileodepiction') {
+                    item.Screenshots = function() {
+                        var results = null;
+
+                        getSS(test[4].replace('//', 'https://'), function(data) {
+                            for(var ss = 0; ss < data.tabs[0].views.length; ss++) {
+                                if (data.tabs[0].views[ss].class === 'DepictionScreenshotsView') {
+                                    results = data.tabs[0].views[ss].screenshots;
+                                }
+                            }
+                        })
+
+                        return results;
+                    }
+                }
+
+                if (test[0] === '') {
+                    if (items.has(item.Section)) {
+                        let grabItems = items.get(item.Section);
+                        grabItems.push(item)
+                        items[item.Section] = grabItems;
+                    } else {
+                        let grabItems = [];
+                        grabItems.push(item)
+                        items.set(item.Section, grabItems);
+                    }
+                    item = {};
+                }
+            }
+
+        }
+        var widgets = [];
+
+        for (let [key, value] of items) {
+            let newWidget = {};
+
+            for(var widget = 0; widget < value.length; widget++) {
+
+
+                if (typeof value[widget] === 'object' && 'Screenshots' in value[widget]) {
+                    let screenshots = value[widget].Screenshots();
+                    if (screenshots != null) {
+                        for(var ss = 0; ss < screenshots.length; ss++) {
+                            let newWidget = {
+                                src: screenshots[ss].url,
+                                title: value[widget].Name,
+                                description: value[widget].Description,
+                                tags: value[widget].Section
+                            }
+                            widgets.push(newWidget);
+                        }
+                    }
+                } else {
+                    let newWidget = {
+                        src: value[widget].Screenshot,
+                        title: value[widget].Name,
+                        description: value[widget].Description,
+                        tags: value[widget].Section
+                    }
+                    widgets.push(newWidget);
+                }
+
+            }
+        }
+
+        jQuery("#nanogallery2").nanogallery2( {
+            galleryFilterTags: true,
+            galleryFilterTagsMode: 'multiple',
+            items: widgets
+        });
+
+    });
+</script>
+</html>
