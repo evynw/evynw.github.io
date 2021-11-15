@@ -1149,10 +1149,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons
 Filename: ./debs/com.evynw.fontbunday13_1.2_iphoneos-arm.deb
-Size: 13134560
-MD5sum: a3eb57cde2d3d69002cfc426f91ba472
-SHA1: 7961374c62f85cc318efbb22631bf0ef9455ba3a
-SHA256: 685ff445805ee552fb57d5deab03d35da6f969bcc50312613fcd3a3952efc2c7
+Size: 13133852
+MD5sum: 3a0b739b1405875696ba48350f8f4cf6
+SHA1: ae9b188ca3a74250ede9678c2fe992942dd03aa0
+SHA256: faabd9b2587e46b40a5b7764f95a48d3bb10411955e0fa41cbb42ee5925238e5
 Section: Fonts (iOS13)
 Description: Scriptive Sans (alt ver). 100% size. For iOS13.
 Author: Evelyn (ev_ynw)
@@ -1202,10 +1202,10 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-2)
 Filename: ./debs/com.evynw.fontbunday8513_1.2_iphoneos-arm.deb
-Size: 15323402
-MD5sum: 0f6faaecb272dbcbca6c35e91b38cbb8
-SHA1: 7ecd408f03afe61779ef0d07c5ea84a0e341f41f
-SHA256: 2f36b54b56407f85f25306cbd6513ec6d7d3e4f669ecab95fce0747ec5d7bbd6
+Size: 15323224
+MD5sum: d122e20e000025ce6dbdec7ca8e38444
+SHA1: 9751867f52eafbe6e9702893924257f3fbb74c67
+SHA256: aa1548a1a074b3600015ce844d606dbe498d822564cb389f4da7f4015ce7f72e
 Section: Fonts (iOS13)
 Description: Scriptive Sans (alt ver). 85% size. For iOS13.
 Author: Evelyn (ev_ynw)
