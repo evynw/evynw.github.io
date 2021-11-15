@@ -2659,24 +2659,6 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Roboto (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontroboto13.json
 
-Package: com.evynw.fontroboto14
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontroboto14_1.0_iphoneos-arm.deb
-Size: 10048928
-MD5sum: 931a8ad8127f0add0369e8ff5afdde1c
-SHA1: 17210c93cfacf013be83a3d22597644331ef5024
-SHA256: 3297fad52802760d3f3ce0b535c1ae5eee5463d353df979762deede9fcdd3f9f
-Section: Fonts (iOS14)
-Description: Classic Android font. 100% size. For iOS14.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontroboto14
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Roboto (iOS14)
-Sileodepiction: https://evynw.github.io/sileo/fontroboto14.json
-
 Package: com.evynw.fontroboto8513
 Version: 1.0
 Architecture: iphoneos-arm
@@ -2693,24 +2675,6 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontroboto8513
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Roboto_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontroboto8513.json
-
-Package: com.evynw.fontroboto8514
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontroboto8514_1.0_iphoneos-arm.deb
-Size: 11315266
-MD5sum: 6aa736df4e4f8cbbeb8bde8dfd396671
-SHA1: fa5ef0a23611f6c3a19a0e7c3c262127a40c2ac0
-SHA256: c031188acab86f6e2daa09b0d19d009979550c4be792c36f1f0b2fd115191e51
-Section: Fonts (iOS14)
-Description: Classic Android font. 85% size. For iOS14.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontroboto8514
-Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Roboto_85% (iOS14)
-Sileodepiction: https://evynw.github.io/sileo/fontroboto8514.json
 
 Package: com.evynw.fontsamsungone12
 Version: 1.0
