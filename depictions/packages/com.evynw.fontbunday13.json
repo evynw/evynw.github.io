@@ -11,7 +11,8 @@
   "changelog": {
     "1.2": [
       "Refined the variable .TTFs",
-      "Added support for 3rd party apps (Spotify, YouTube, Discord)"
+      "Added support for stock Book.app",
+      "Added support for 3rd party apps (Twitter, Spotify, YouTube, Discord)"
     ],
     "1.1": [
       "Remade the variable ttfs for better effect"

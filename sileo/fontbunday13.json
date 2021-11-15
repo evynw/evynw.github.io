@@ -142,7 +142,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Refined the variable .TTFs</li>\n<li>Added support for 3rd party apps (Spotify, YouTube, Discord)</li>\n</ul>",
+          "markdown": "<ul>\n<li>Refined the variable .TTFs</li>\n<li>Added support for stock Books.app</li>\n<li>Added support for 3rd party apps (Twitter, Spotify, YouTube, Discord)</li>\n</ul>",
           "useRawFormat": true
         },
         {
