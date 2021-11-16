@@ -2647,10 +2647,10 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontroboto13_1.1_iphoneos-arm.deb
-Size: 10006448
-MD5sum: 9a505eb736c1c08df0e85e5d52b0c1d4
-SHA1: a3a9f607984dab1a9c53888730528d7ef9f35684
-SHA256: ea8d18d1c9a3f95153fbac28ddbe7074bdb6710a7984134f6445b6f55caaac31
+Size: 11516122
+MD5sum: 2704d2cdcf7fb83a5c6af48caedd0988
+SHA1: 80e83e19d83d66bdeb59793b02939697c1554107
+SHA256: 607c278f771a83287573ba8cc04136eff4f6f49ab964931f6ce987c6bef065ba
 Section: Fonts (iOS13)
 Description: Classic Android font. 100% size. For iOS13.
 Author: Evelyn (ev_ynw)
@@ -2659,15 +2659,33 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Roboto (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontroboto13.json
 
+Package: com.evynw.fontroboto14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontroboto14_1.0_iphoneos-arm.deb
+Size: 11560434
+MD5sum: f069ae4a459251b0e051dd8461f937bf
+SHA1: 56ecf4ab02bd592f87d69481085a5a4239f94208
+SHA256: 0533c213cbf32be32c34062a97f2df74e3f2fa5caf8afc9484565148470498a7
+Section: Fonts (iOS14)
+Description: Classic Android font. 100% size. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontroboto14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Roboto (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontroboto14.json
+
 Package: com.evynw.fontroboto8513
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Filename: ./debs/com.evynw.fontroboto8513_1.0_iphoneos-arm.deb
-Size: 11990158
-MD5sum: 5021f094e89dd8c9f266b14acd742c4c
-SHA1: d33f53ec7464435cc02e1484da4f112d7b46c73e
-SHA256: 4b92ef38ccfe2f69425b4f5559e2033baf20d72a9597fdffdd9bb9fbb2263b27
+Size: 13508588
+MD5sum: d62d48d799c820eb959fb990282c1072
+SHA1: f80b3dc197f6516318973a97b68189d32e705541
+SHA256: 25f8194568c0094b8faf2f053813763399ab86243024c6d3bdbdbb6a8ee727f1
 Section: Fonts (iOS13)
 Description: Classic Android font. 85% size. For iOS13.
 Author: Evelyn (ev_ynw)
@@ -2675,6 +2693,24 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontroboto8513
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Roboto_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontroboto8513.json
+
+Package: com.evynw.fontroboto8514
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontroboto8514_1.0_iphoneos-arm.deb
+Size: 12833986
+MD5sum: 2c3c73bdc967d8e85f636a291c0c1dee
+SHA1: fff8a0f1e96c66cf1d8af7e84e976240cb7251b9
+SHA256: f5227e5234276abfd01d09e4bf4887dc156189432f02c5feaf9dd49f8bc50d70
+Section: Fonts (iOS14)
+Description: Classic Android font. 85% size. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontroboto8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Roboto_85% (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontroboto8514.json
 
 Package: com.evynw.fontsamsungone12
 Version: 1.0
