@@ -2009,6 +2009,78 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: FF Mark Pro (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontffmark12.json
 
+Package: com.evynw.fontffmilo13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontffmilo13_1.0_iphoneos-arm.deb
+Size: 13349118
+MD5sum: 77c335385044cb383074fd0660a638c3
+SHA1: 5ee1099e89a1325e09be53ab23d37117553aa363
+SHA256: b0545d9ff4b4f04ee4b2f7904f20363aefe1265094431a2280cb89f929df2a35
+Section: Fonts (iOS13)
+Description: Plain sans serif. 100% size. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffmilo13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: FF Milo (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontffmilo13.json
+
+Package: com.evynw.fontffmilo14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontffmilo14_1.0_iphoneos-arm.deb
+Size: 13358054
+MD5sum: da67ce6d23306f7282bcc9e4c53002d6
+SHA1: cde2bb9893e33a3afd38a67ccaca800ee66d1672
+SHA256: 4a937fd7831cc6fa7bf3ea978299e0e0f333b202519e4b5d1328c8ed869cdca9
+Section: Fonts (iOS14)
+Description: Plain sans serif. 100% size. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffmilo14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: FF Milo (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontffmilo14.json
+
+Package: com.evynw.fontffmilo8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontffmilo8513_1.0_iphoneos-arm.deb
+Size: 13536074
+MD5sum: e51cbdf75885880f1f9e06201bf1430e
+SHA1: 54e92dabe36bf106f05e5678a45f89c29a308916
+SHA256: ca95076b6517361454eccab4fcf3017314d8b730541bf1ee4b35b5e2fdbd4137
+Section: Fonts (iOS13)
+Description: Plain sans serif. 85% size. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffmilo8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: FF Milo_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontffmilo8513.json
+
+Package: com.evynw.fontffmilo8514
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontffmilo8514_1.0_iphoneos-arm.deb
+Size: 13550612
+MD5sum: 3502d09f44254676bc359f4a4e46b337
+SHA1: 4820239607b950907449d3bf4a69a8ef0e74cdfd
+SHA256: cae3fe2798b1d63a1a0b01e24b24d191ba198d2c233f5c094de50b120e1af6e0
+Section: Fonts (iOS14)
+Description: Plain sans serif. 85% size. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffmilo8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: FF Milo_85% (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontffmilo8514.json
+
 Package: com.evynw.fontffstrada1011
 Version: 1.0
 Architecture: iphoneos-arm
