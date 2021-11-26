@@ -2,13 +2,16 @@
 	"name": "TT Teds (iOS10-12)",
 	"package": "com.evynw.fontttteds12",
 	"author": "Evelyn (ev_ynw)",
-	"version": "1.0",
+	"version": "1.1",
 	"dependency": "N/A",
 	"minOSVersion": "10.0",
-	"maxOSVersion": "12.4",
+	"maxOSVersion": "12.9",
 	"otheriOS": "untested",
-	"description": "<div>Downward compatible with iOS10&11 as well.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with Anemone. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+	"description": "<div>Only compatible on iOS10-12. Separate packages for iOS13 and iOS14 are available.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with theming engines e.g. SnowBoard. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {
+	    "1.1": [
+	      "Added support for 3rd party apps (Spotify, Twitter, Discord, YouTube)"
+	    ],
 	    "1.0": [
 	      "Initial release"
 	    ]

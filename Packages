@@ -3143,14 +3143,14 @@ Name: Tisa Sans_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fonttisasans8513.json
 
 Package: com.evynw.fontttteds12
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontttteds12_1.0_iphoneos-arm.deb
-Size: 14911016
-MD5sum: 00825f99f0c1faef1d25b30b202ba6d1
-SHA1: d2411639cb81a2829f2c5b6687362ef5624b9df6
-SHA256: 545523adc80995fe7b28fe0b75bf8bdd3040a1142002481a6cddaafac5ba3ad9
+Filename: ./debs/com.evynw.fontttteds12_1.1_iphoneos-arm.deb
+Size: 19406510
+MD5sum: 758ffec4c8c841bf3b55fd2c9f03044b
+SHA1: 087f068942bc7b811de20347de6d63cde43e6725
+SHA256: 2d9168aab0e31d89a498d09c9daf587cd40c75d866252a75eeb8970959c64ea7
 Section: Fonts (iOS10-12)
 Description: Clean & narrow sans-serif typeface. For iOS10-12.
 Author: Evelyn (ev_ynw)
@@ -3158,6 +3158,76 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontttteds12
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: TT Teds (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontttteds12.json
+
+Package: com.evynw.fontttteds13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontttteds13_1.0_iphoneos-arm.deb
+Size: 13381844
+MD5sum: 9c4cdc1b388a2f227fa0d70562b590d5
+SHA1: 1bc65cbb340845aa37d7727eee8b7a6fdf74de28
+SHA256: bf2842a2008082d6f0cc138b102a6368cbbb2a25bb213d679cc312008a414f01
+Section: Fonts (iOS13)
+Description: Clean & narrow sans-serif typeface. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontttteds13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: TT Teds (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontttteds13.json
+
+Package: com.evynw.fontttteds14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontttteds14_1.0_iphoneos-arm.deb
+Size: 13414240
+MD5sum: 8f654029b52d10d75060a28cb9fef74f
+SHA1: e4866f2b3d975367c3d89e25387284fe841af49f
+SHA256: 1c681024ba2a12f6413a28e978ebbc01e6aa2340271c4427130764481e3f2486
+Section: Fonts (iOS14)
+Description: Clean & narrow sans-serif typeface. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontttteds14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: TT Teds (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontttteds14.json
+
+Package: com.evynw.fontttteds8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontttteds8513_1.0_iphoneos-arm.deb
+Size: 13026924
+MD5sum: f35ba8b39cbe8309d0e990151a14b26c
+SHA1: a2be66687158b74eb542de870faf5d051dcd35b1
+SHA256: 860d74816fc22740657ffe9a364fd5167625a711378a674755b1f3e9416df18e
+Section: Fonts (iOS13)
+Description: Clean & narrow sans-serif typeface. 85% size. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontttteds8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: TT Teds_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontttteds8513.json
+
+Package: com.evynw.fontttteds8514
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontttteds8514_1.0_iphoneos-arm.deb
+Size: 13045954
+MD5sum: d7eee6e63e7f46f1840cdebccddd9bca
+SHA1: b030e3501d639ade1fbe4cc677665d17d395d981
+SHA256: 8715ec020a75f0bd47d35597aaa42e09dcb951bafe575c11ed0425bdb1e3575b
+Section: Fonts (iOS14)
+Description: Clean & narrow sans-serif typeface. 85% size. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontttteds8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: TT Teds_85% (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontttteds8514.json
 
 Package: com.evynw.fontunineue12
 Version: 1.2
