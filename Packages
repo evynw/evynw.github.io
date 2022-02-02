@@ -5465,6 +5465,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW265
 Sileodepiction: https://evynw.github.io/sileo/lsew265.json
 
+Package: com.evynw.lsew266
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.lsew266_1.0_iphoneos-arm.deb
+Size: 320558
+MD5sum: 9b9a4a3b690e45ba1ca899ec62461fce
+SHA1: b3a91af3ddc36fdaab3b0a6aef316e24401e45d3
+SHA256: 302561b5555d57331ed7e2b35d0316faeb5be036f1cfba666ecb69d774887128
+Section: Lockscreen Widgets
+Description: Time + Cal + Battery ✅
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew266
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW266
+Sileodepiction: https://evynw.github.io/sileo/lsew266.json
+
 Package: com.evynw.lsew27
 Version: 1.0
 Architecture: iphoneos-arm
