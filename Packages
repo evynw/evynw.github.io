@@ -1042,21 +1042,76 @@ Name: Bronkoh (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontbronkoh12.json
 
 Package: com.evynw.fontbronkoh13
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontbronkoh13_1.0_iphoneos-arm.deb
-Size: 7522246
-MD5sum: c485f92093ab1538ced736422a583a12
-SHA1: 7e6790cd3e5ff8fc0476c4a2359547a7731c7d48
-SHA256: 395978fe158fcf79abefa6fae82f8d27eb3bc44f56367e43723afc37cc04ef66
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontbronkoh13_1.1_iphoneos-arm.deb
+Size: 13705852
+MD5sum: 0d3f66ced1a7c14b6fefac4673e22ff0
+SHA1: 9f59d7ff424eb937ad15c1d9be0fc4fe12a82018
+SHA256: 52a8e3c3a689746823b5bdac2efc52cdbea98a06e527fc8e0dddb52e5ff28175
 Section: Fonts (iOS13)
-Description: Grotesque-ish sans serif. For iOS13.
+Description: Grotesque-ish sans serif. 100% size. For iOS13.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbronkoh13
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Bronkoh (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontbronkoh13.json
+
+Package: com.evynw.fontbronkoh14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontbronkoh14_1.0_iphoneos-arm.deb
+Size: 13729022
+MD5sum: bd424ba9985a168645a4b6c35fbe1a49
+SHA1: 76ec58f18f2fc3c74c5fafbcdb0841f3009d1fcf
+SHA256: 3c52147223f9dbc7a0574a73c0a70d0463ba297aba537598e6e3aa932a672c46
+Section: Fonts (iOS14)
+Description: Grotesque-ish sans serif. 100% size. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbronkoh14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bronkoh (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontbronkoh14.json
+
+Package: com.evynw.fontbronkoh8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontbronkoh8513_1.0_iphoneos-arm.deb
+Size: 13729956
+MD5sum: 25099ecb1d9c0e143b4c813de07550b3
+SHA1: c8d669b3b375a5786852c3f1d07b2970c7e00142
+SHA256: 78252ca79642fae7148be1066a72095e95a28266635ed6bf56e1df2054ee1d0d
+Section: Fonts (iOS13)
+Description: Grotesque-ish sans serif. 85% size. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbronkoh8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bronkoh_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontbronkoh8513.json
+
+Package: com.evynw.fontbronkoh8514
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontbronkoh8514_1.0_iphoneos-arm.deb
+Size: 13749672
+MD5sum: a05cc0e7d04c9efc5e4b2f5380526f7c
+SHA1: 2a70c71a7e1d803cf292e5535d86840afa266069
+SHA256: 4b65e9bcfc7078cc956aeddfaf76ab983c1002caec3cef677cdb2c54f4c45b99
+Section: Fonts (iOS14)
+Description: Grotesque-ish sans serif. 85% size. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbronkoh8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Bronkoh_85% (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontbronkoh8514.json
 
 Package: com.evynw.fontbubble12
 Version: 1.0
