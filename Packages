@@ -5521,14 +5521,14 @@ Name: LS EW265
 Sileodepiction: https://evynw.github.io/sileo/lsew265.json
 
 Package: com.evynw.lsew266
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.lsew266_1.0_iphoneos-arm.deb
-Size: 320558
-MD5sum: 9b9a4a3b690e45ba1ca899ec62461fce
-SHA1: b3a91af3ddc36fdaab3b0a6aef316e24401e45d3
-SHA256: 302561b5555d57331ed7e2b35d0316faeb5be036f1cfba666ecb69d774887128
+Filename: ./debs/com.evynw.lsew266_1.0-1_iphoneos-arm.deb
+Size: 320620
+MD5sum: ca3bf76bbfefd5ba7e835b2341a8c7ec
+SHA1: 95b87ed8da992f0f1c6a59ce205df801a11e55a7
+SHA256: bde44eb1fa7c592a1c6cb36e7d80c62f56375da0e798b65a70c8344614ffb749
 Section: Lockscreen Widgets
 Description: Time + Cal + Battery ✅
 Author: Evelyn (ev_ynw)
@@ -5555,14 +5555,14 @@ Name: LS EW27
 Sileodepiction: https://evynw.github.io/sileo/lsew27.json
 
 Package: com.evynw.lsew270
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.lsew270_1.0_iphoneos-arm.deb
-Size: 529144
-MD5sum: bceb6455ea127da1dc7888e778f310f0
-SHA1: a00f33373450eeb2410e69cf6ba56a0c6aa9d344
-SHA256: 7e1afe3bb8509c100a4b49e180b15e33f7ef7146c45eafb646fc222340060ed4
+Filename: ./debs/com.evynw.lsew270_1.0-1_iphoneos-arm.deb
+Size: 529196
+MD5sum: b56013d4ddd0a37cc81a1fac3dfd7faf
+SHA1: 930a4a0d35d194ec7109d1e5f5af27d8a6ced6f6
+SHA256: 9539896fdf9b205c3507c6000673555ef2323399732de3d863291443a2cc4e27
 Section: Lockscreen Widgets
 Description: Time + Cal + Weather ✅
 Author: Evelyn (ev_ynw)
