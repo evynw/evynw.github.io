@@ -5588,6 +5588,23 @@ Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW271
 Sileodepiction: https://evynw.github.io/sileo/lsew271.json
 
+Package: com.evynw.lsew272
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.lsew272_1.0_iphoneos-arm.deb
+Size: 525642
+MD5sum: 31ed7abbc4c75f3708565037a890e339
+SHA1: 28ed2195be583c7aca7000079d2c9b3ac0269afd
+SHA256: 4eb4be8e6c8c9dc99a2f5e99458832ced195a4a3e96aeb9c4b35b383e60c3aad
+Section: Lockscreen Widgets
+Description: Time + Cal + Weather ✅
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew272
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW272
+Sileodepiction: https://evynw.github.io/sileo/lsew272.json
+
 Package: com.evynw.lsew3
 Version: 1.0
 Architecture: iphoneos-arm
