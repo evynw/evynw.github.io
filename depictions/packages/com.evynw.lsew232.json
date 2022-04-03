@@ -2,13 +2,16 @@
   "name": "LS EW232",
   "package": "com.evynw.lsew232",
   "author": "Evelyn (ev_ynw)",
-  "version": "1.0-1",
+  "version": "1.1",
   "dependency": "Xen HTML",
   "minOSVersion": "9.0",
   "maxOSVersion": "14.9",
   "otheriOS": "untested",
   "description": "<div>Optimized for Xen HTML 2.0, but also works on Xen HTML 1.X<br><br>Installed to /var/mobile/Library/Widgets/Universal; Symlink is created at /var/mobile/Library/LockHTML for Xen HTML 1.X<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
+    "1.1": [
+      "Updated config to .json format"
+    ],
     "1.0-1": [
       "Repackaged for Xen HTML 2.0"
     ],

@@ -6,7 +6,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#105961",
+      "tintColor": "#cac170",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -128,7 +128,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#105961",
+      "tintColor": "#cac170",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -144,5 +144,5 @@
       ]
     }
   ],
-  "tintColor": "#105961"
+  "tintColor": "#cac170"
 }

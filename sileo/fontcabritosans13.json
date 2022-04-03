@@ -6,7 +6,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#105961",
+      "tintColor": "#b00812",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"><strong>Normal size. Install 'Cabrito Sans_85%' for smaller character size</strong></p>\n<p style=\"font-size:10pt;\">Only compatible on iOS13. iOS10-12 users please install the package marked “iOS10-12”.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\"><strong>Normal size. Install 'Cabrito Sans_85%' for smaller character size.</strong></p>\n<p style=\"font-size:10pt;\">Only compatible on iOS13. Separate packages for iOS10-12 and iOS14 are available.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\">Apply with theming engine e.g. SnowBoard. Package name = Fonts.</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -31,11 +31,15 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{360, 1428}",
+          "itemSize": "{330, 1090}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcabritosans13/ss.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcabritosans13/ss1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcabritosans13/ss2.png"
             }
           ]
         },
@@ -67,12 +71,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0",
+          "text": "1.1",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS13.0 - 13.3",
+          "text": "iOS14.0 - 14.4+",
           "title": "Compatibility"
         },
         {
@@ -128,8 +132,19 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#105961",
+      "tintColor": "#b00812",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Refined the variable .TTFs</li>\n<li>Added support for stock Books.app</li>\n<li>Added support for 3rd party apps (Twitter, Spotify, YouTube, Discord)</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
@@ -144,5 +159,5 @@
       ]
     }
   ],
-  "tintColor": "#105961"
+  "tintColor": "#b00812"
 }

@@ -31,7 +31,7 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{330, 596.385543}",
+          "itemSize": "{375, 667}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
@@ -63,12 +63,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0-1",
+          "text": "1.1",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS9.0 - 14.4+",
+          "text": "iOS9.0 - 14.8+",
           "title": "Compatibility"
         },
         {
@@ -126,6 +126,17 @@
       "tabname": "Changelog",
       "tintColor": "#e4b134",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Updated config to .json format</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0-1",

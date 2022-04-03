@@ -6,7 +6,7 @@
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#cac170",
+      "tintColor": "#b00812",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"><strong>100% size. Install 'Conte Sans_85% (iOS10-12)' for normal character size.</strong></p>\n<p style=\"font-size:10pt;\">Compatible with iOS10-12. iOS13 users please download the package marked “iOS13”.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\"><strong>Normal size. Install 'Cabrito Sans_85%' for smaller character size.</strong></p>\n<p style=\"font-size:10pt;\">Only compatible on iOS14. Separate packages for iOS10-12 and iOS13 are available.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\">Apply with theming engine e.g. SnowBoard. Package name = Fonts.</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -31,11 +31,15 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{360, 1260}",
+          "itemSize": "{330, 1090}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcontesans12/ss.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcabritosans14/ss1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcabritosans14/ss2.png"
             }
           ]
         },
@@ -67,12 +71,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1",
+          "text": "1.0",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS10.0 - 12.4",
+          "text": "iOS14.0 - 14.4+",
           "title": "Compatibility"
         },
         {
@@ -128,19 +132,8 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#cac170",
+      "tintColor": "#b00812",
       "views": [
-        {
-          "class": "DepictionSubheaderView",
-          "title": "1.1",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Fixed “ᴇ” on iOS12.4</li>\n<li>Better Vietnamese support</li>\n<li>Remade the 5 Helvetica.TTCs</li>\n</ul>",
-          "useRawFormat": true
-        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
@@ -155,5 +148,5 @@
       ]
     }
   ],
-  "tintColor": "#cac170"
+  "tintColor": "#b00812"
 }

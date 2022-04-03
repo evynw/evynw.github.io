@@ -1,12 +1,12 @@
 {
   "class": "DepictionTabView",
-  "headerImage": "https://evynw.github.io/sileo/assets/header_Font.png",
+  "headerImage": "https://evynw.github.io/sileo/assets/header_LS.png",
   "minVersion": "0.3",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#cac170",
+      "tintColor": "#60836b",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"><strong>100% size. Install 'Conte Sans_85% (iOS10-12)' for normal character size.</strong></p>\n<p style=\"font-size:10pt;\">Compatible with iOS10-12. iOS13 users please download the package marked “iOS13”.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">Optimized for Xen HTML 2.0, but also works on Xen HTML 1.X</p>\n<p style=\"font-size:10pt;\">Requires XenInfo if you're on Xen HTML 1.X</p>\n<p style=\"font-size:10pt;\">Installed to /var/mobile/Library/Widgets/Universal; Symlink is created at /var/mobile/Library/LockHTML for Xen HTML 1.X</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -31,11 +31,11 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{360, 1260}",
+          "itemSize": "{360, 640}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcontesans12/ss.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.lsew277/ss.png"
             }
           ]
         },
@@ -57,22 +57,18 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 8
-        },
-        {
           "class": "DepictionTableTextView",
           "text": "Evelyn (ev_ynw)",
           "title": "Author"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1",
+          "text": "1.0",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS10.0 - 12.4",
+          "text": "iOS9.0 - 14+",
           "title": "Compatibility"
         },
         {
@@ -128,19 +124,8 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#cac170",
+      "tintColor": "#60836b",
       "views": [
-        {
-          "class": "DepictionSubheaderView",
-          "title": "1.1",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Fixed “ᴇ” on iOS12.4</li>\n<li>Better Vietnamese support</li>\n<li>Remade the 5 Helvetica.TTCs</li>\n</ul>",
-          "useRawFormat": true
-        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
@@ -155,5 +140,5 @@
       ]
     }
   ],
-  "tintColor": "#cac170"
+  "tintColor": "#60836b"
 }
