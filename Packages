@@ -1305,21 +1305,40 @@ Name: Cabrito Sans (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcabritosans12.json
 
 Package: com.evynw.fontcabritosans13
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontcabritosans13_1.0_iphoneos-arm.deb
-Size: 7083174
-MD5sum: 006d15e70a32499b22c818b0fb384ca9
-SHA1: 023145d7f9c5ae64b89a3631be72c172b00fd488
-SHA256: b636a878c8bc281acb5456d077fe5f2e21cac647d45209bafcad387cb85bb265
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontcabritosans13_1.1_iphoneos-arm.deb
+Size: 14228562
+MD5sum: 2b72bd4bcebdc153ef2e8c82f43ff188
+SHA1: 3e42005ab3e8ae7db08738163bafd94524e572ca
+SHA256: f6118e410d8fa8f233c9c572e9353f9ad64a33d44d2e87f9344727c3214e515d
 Section: Fonts (iOS13)
-Description: Sans serif slightly rounded. Compatible with iOS13.
+Description: Scriptive sans serif. 100% size. For iOS13.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcabritosans13
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Cabrito Sans (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontcabritosans13.json
+
+Package: com.evynw.fontcabritosans14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontcabritosans14_1.0_iphoneos-arm.deb
+Size: 14249232
+MD5sum: 044a6f3f91e80b8bb90008df18bcb398
+SHA1: 60264d42ef79a8cabd4cc2dbd958ae8e23e502e5
+SHA256: 3cf4485be557df0ebedef9df012ebaf09f42b6de73b373efdf008e27cc7f8265
+Section: Fonts (iOS14)
+Description: Scriptive sans serif. 100% size. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcabritosans14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Cabrito Sans (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontcabritosans14.json
 
 Package: com.evynw.fontcabritosans8512
 Version: 1.1
@@ -1339,21 +1358,40 @@ Name: Cabrito Sans_85% (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcabritosans8512.json
 
 Package: com.evynw.fontcabritosans8513
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontcabritosans8513_1.0_iphoneos-arm.deb
-Size: 7547758
-MD5sum: 0d24e86bc676817ddf805abe454fbe5b
-SHA1: 6d714595bc63773809c6eefa45adc94150512753
-SHA256: 7eea2da23c5be2257dd774f3d47998cdad89d3bcb199afff0b6ede840e10652c
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontcabritosans8513_1.1_iphoneos-arm.deb
+Size: 14775460
+MD5sum: 1e5500211184f42160a3dc9f4d28b3bf
+SHA1: c04c6cb5dc1faefe9e6e207d0fdac4153a3f3c7a
+SHA256: 53b395379d487d5e88cc629d153448f63271c873485e8deb21bf4f0ea4f8da7c
 Section: Fonts (iOS13)
-Description: Sans serif slightly rounded. 85% size. For iOS13.
+Description: Scriptive sans serif. 85% size. For iOS13.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcabritosans8513
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Cabrito Sans_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontcabritosans8513.json
+
+Package: com.evynw.fontcabritosans8514
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontcabritosans8514_1.0_iphoneos-arm.deb
+Size: 14373304
+MD5sum: 298f51baf13dbd6b2b7a81f5a5d76571
+SHA1: e8bad1d36231d521703313e7df43267493e04f81
+SHA256: 97c0c653d760c18823b5a975e9f36fa215ba77a01f9fffda6149c32e81437e48
+Section: Fonts (iOS14)
+Description: Scriptive sans serif. 85% size. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcabritosans8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Cabrito Sans_85% (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontcabritosans8514.json
 
 Package: com.evynw.fontcera12
 Version: 1.1-1
