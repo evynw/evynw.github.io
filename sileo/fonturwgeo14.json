@@ -1,12 +1,12 @@
 {
   "class": "DepictionTabView",
-  "headerImage": "https://evynw.github.io/sileo/assets/header_LS.png",
+  "headerImage": "https://evynw.github.io/sileo/assets/header_Font.png",
   "minVersion": "0.3",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#bfbace",
+      "tintColor": "#986cc6",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Optimized for Xen HTML 2.0, but also works on Xen HTML 1.X</p>\n<p style=\"font-size:10pt;\">Installed to /var/mobile/Library/Widgets/Universal; Symlink is created at /var/mobile/Library/LockHTML for Xen HTML 1.X</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">Only compatible on iOS14. Separate packages for iOS10-12 and iOS13 are available.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\">Apply with Anemone. Package name = Fonts.</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -31,11 +31,15 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{360, 640}",
+          "itemSize": "{330, 1067}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.lsew238/ss.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fonturwgeo14/ss1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fonturwgeo14/ss2.png"
             }
           ]
         },
@@ -57,18 +61,22 @@
           "useBottomMargin": false
         },
         {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
           "class": "DepictionTableTextView",
           "text": "Evelyn (ev_ynw)",
           "title": "Author"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1",
+          "text": "1.0",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS9.0 - 14.8+",
+          "text": "iOS14.0 - 14.8+",
           "title": "Compatibility"
         },
         {
@@ -124,30 +132,8 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#bfbace",
+      "tintColor": "#986cc6",
       "views": [
-        {
-          "class": "DepictionSubheaderView",
-          "title": "1.1",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Recoded using Xen HTML 2.0 API</li>\n</ul>",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "1.0-1",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Repackaged for Xen HTML 2.0</li>\n</ul>",
-          "useRawFormat": true
-        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
@@ -162,5 +148,5 @@
       ]
     }
   ],
-  "tintColor": "#bfbace"
+  "tintColor": "#986cc6"
 }

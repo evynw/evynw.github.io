@@ -1,0 +1,21 @@
+{
+	"name": "URW Geometric (iOS14)",
+	"package": "com.evynw.fonturwgeo14",
+	"author": "Evelyn (ev_ynw)",
+	"version": "1.0",
+	"dependency": "N/A",
+	"minOSVersion": "14.0",
+	"maxOSVersion": "14.9",
+	"otheriOS": "unsupported",
+	"description": "<div>Only compatible on iOS14. Separate packages for iOS10-12 and iOS13 are available.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with theming engines e.g. SnowBoard. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  	"changelog": {
+    "1.0": [
+      "Initial release"
+    ]
+  	},
+	"screenshots": {
+		"ss1.png": "",
+		"ss2.png": ""
+	},
+	"links": {}
+}
