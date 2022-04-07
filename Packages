@@ -1706,15 +1706,15 @@ Name: Conte Sans (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcontesans12.json
 
 Package: com.evynw.fontcontesans13
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons
-Filename: ./debs/com.evynw.fontcontesans13_1.0_iphoneos-arm.deb
-Size: 7803530
-MD5sum: c63d335021dfa375564b14d76e809103
-SHA1: 5d61b09ff5dfba2a95dc503137085af8641261b6
-SHA256: 59e95354be64591126f82c75ed7285f78f43e9126f960657cd3f87d316c149be
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontcontesans13_1.1_iphoneos-arm.deb
+Size: 13519908
+MD5sum: 261a45ad84b90175de8c58204b989027
+SHA1: ae7cc262a9e340a1378dc931e7c2f4def8fc15d4
+SHA256: aadc19b28182e7c429ce0066cbc065fca03f6e56989109a1af4c0289dab8a363
 Section: Fonts (iOS13)
 Description: Sleek sans serif. 100% size. For iOS13.
 Author: Evelyn (ev_ynw)
@@ -1722,6 +1722,24 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesans13
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Conte Sans (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontcontesans13.json
+
+Package: com.evynw.fontcontesans14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontcontesans14_1.0_iphoneos-arm.deb
+Size: 13121772
+MD5sum: 6d46026b7216ada57a4340e0dc2cdf1b
+SHA1: 1f9e5b907eb2e3f7a10d1c25badf2ed7f53d3099
+SHA256: 74ef4fac3a7c61d5dea3718af15778c8532fa02c2dda8d4ef67e9ea03e036cb4
+Section: Fonts (iOS14)
+Description: Sleek sans serif. 100% size. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesans14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Conte Sans (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontcontesans14.json
 
 Package: com.evynw.fontcontesans8512
 Version: 1.0
@@ -1741,14 +1759,15 @@ Name: Conte Sans_85% (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontcontesans8512.json
 
 Package: com.evynw.fontcontesans8513
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontcontesans8513_1.0_iphoneos-arm.deb
-Size: 8297880
-MD5sum: bc69a7632a57e5fa44d05f3a58627e4a
-SHA1: 0c4bc2fc8fab61f5798f2b9feab076902111fcce
-SHA256: 44b8e77c063d6b3f88c6d61896bda13c274e4a78286bf0c0c1d6a53c07317a01
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontcontesans8513_1.1_iphoneos-arm.deb
+Size: 14087336
+MD5sum: e8b8d0d6cad99d9897fb308049011b9a
+SHA1: 309093b09e6949fff407f58738c299a76064848a
+SHA256: 8c45ad3f52f951b4ed60de98b0d46ba7435765c1f654a37fe6b98fd099d11721
 Section: Fonts (iOS13)
 Description: Sleek sans serif. 85% size. For iOS13.
 Author: Evelyn (ev_ynw)
@@ -1756,6 +1775,24 @@ Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesans8513
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Conte Sans_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontcontesans8513.json
+
+Package: com.evynw.fontcontesans8514
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontcontesans8514_1.0_iphoneos-arm.deb
+Size: 13576984
+MD5sum: 7fa8ff90074c19697c83685712a5e46f
+SHA1: 3773d81b654322cf3173d6b2e56947cfb8fee30c
+SHA256: b10a0f2178568a70e0d4a67e62eb9daef82576969c5adf082e95385d312d118c
+Section: Fonts (iOS14)
+Description: Sleek sans serif. 85% size. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesans8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Conte Sans_85% (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontcontesans8514.json
 
 Package: com.evynw.fontcoresansar12
 Version: 1.0
