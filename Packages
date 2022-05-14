@@ -1393,6 +1393,110 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Cabrito Sans_85% (iOS14)
 Sileodepiction: https://evynw.github.io/sileo/fontcabritosans8514.json
 
+Package: com.evynw.fontcenter12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontcenter12_1.0_iphoneos-arm.deb
+Size: 22504706
+MD5sum: f092cd61d1525f6935c734875fc1cf96
+SHA1: 72d9da5fb0337a180318e3c39549d13f654590d3
+SHA256: 844d2e4b16260091f68d336bd64272573a7410f7f600026f3b868c6056b3a9ea
+Section: Fonts (iOS10-12)
+Description: Grotesque style sans. 100% size. For iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcenter12
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Center (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontcenter12.json
+
+Package: com.evynw.fontcenter13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontcenter13_1.0_iphoneos-arm.deb
+Size: 17245148
+MD5sum: ace01db888d687fb93a8ac61ace9681f
+SHA1: 24a598919b6b002626b860a5e0359b9e3b4bd37e
+SHA256: 4a4f4a10bba598334f95040bbaaf210d21e80ff8a8012d554d2a4810b68aefa9
+Section: Fonts (iOS13)
+Description: Grotesque style sans. 100% size. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcenter13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Center (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontcenter13.json
+
+Package: com.evynw.fontcenter14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontcenter14_1.0_iphoneos-arm.deb
+Size: 19794606
+MD5sum: 6b860517bd5169848cdbd1ce4e964b82
+SHA1: 700bb204c7a26a412d2c3af27eb4ac9c0933abd9
+SHA256: f7f54382505b8bee70bc67550fb4998694e5c8181d24562255e73897abd1aa0b
+Section: Fonts (iOS14)
+Description: Grotesque style sans. 100% size. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcenter14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Center (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontcenter14.json
+
+Package: com.evynw.fontcenter8512
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontcenter8512_1.0_iphoneos-arm.deb
+Size: 20704836
+MD5sum: d72f55a9b3540383c7f6113ba3bd9cc6
+SHA1: 257963d3a3b1579d70d13da619939f527054e475
+SHA256: e558f0f684675fd3b91a2947d1ff59a2a9a71fedf1a8ef605258b88848582afd
+Section: Fonts (iOS10-12)
+Description: Grotesque style sans. 85% size. For iOS10-12.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcenter8512
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Center_85% (iOS10-12)
+Sileodepiction: https://evynw.github.io/sileo/fontcenter8512.json
+
+Package: com.evynw.fontcenter8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.fontcenter8513_1.0_iphoneos-arm.deb
+Size: 14642230
+MD5sum: 1d29b2db7578ff599025bc9046f2f438
+SHA1: 2ab9807c515969c0cf2633013664f168e13baf19
+SHA256: 79d3e3697fefae503b7d97e4243669b6ddee1dda954ecc19509d0ad36e06d0c6
+Section: Fonts (iOS13)
+Description: Grotesque style sans. 85% size. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcenter8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Center_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontcenter8513.json
+
+Package: com.evynw.fontcenter8514
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontcenter8514_1.0_iphoneos-arm.deb
+Size: 19077418
+MD5sum: 96e38586b093ffe5719c05bf93708cd2
+SHA1: be874b5ff01fbf5462de03005abf0fed59c1df21
+SHA256: 181bfe8010730dfd3ee3d0eba369cd95a15f094ee8a5b55c9936b3e82586da51
+Section: Fonts (iOS14)
+Description: Grotesque style sans. 85% size. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcenter8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Center_85% (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontcenter8514.json
+
 Package: com.evynw.fontcera12
 Version: 1.1-1
 Architecture: iphoneos-arm

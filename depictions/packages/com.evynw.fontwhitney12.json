@@ -2,13 +2,16 @@
 	"name": "Whitney (iOS10-12)",
 	"package": "com.evynw.fontwhitney12",
 	"author": "Evelyn (ev_ynw)",
-	"version": "1.0",
+	"version": "1.1",
 	"dependency": "N/A",
 	"minOSVersion": "10.0",
-	"maxOSVersion": "12.5",
+	"maxOSVersion": "12.9",
 	"otheriOS": "unsupported",
-	"description": "<div>The official font used in the Discord app :)<br><br><strong>Normal size. Install 'Whitney_85%' for smaller character size.</strong><br><br>Only compatible on iOS10-12. iOS13 users please install the package marked “iOS13”.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with Anemone. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+	"description": "<div><strong>Normal size. Install 'Whitney_85%' for smaller character size</strong><br><br>Compatible with iOS10-12. Separate packages for iOS10-12 and iOS13 are available.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   	"changelog": {
+	    "1.1": [
+	      "Added font files for 3rd party apps (e.g. Spotify, Twitter, YouTube, Discord)"
+	    ],
 	    "1.0": [
 	      "Initial release"
 	    ]
