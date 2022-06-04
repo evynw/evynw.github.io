@@ -5443,16 +5443,16 @@ Name: LS EW232
 Sileodepiction: https://evynw.github.io/sileo/lsew232.json
 
 Package: com.evynw.lsew235
-Version: 1.0-1
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.lsew235_1.0-1_iphoneos-arm.deb
-Size: 307232
-MD5sum: d10a9a39801aa6c4c1f24c3d2d5e4fa0
-SHA1: 0e52d77a11acecdb2ad80b12e27f51058b78ea5a
-SHA256: d0593760cefb4634ff79cd643310ab6000a2662e4944591d966c22ff9c28012b
+Filename: ./debs/com.evynw.lsew235_1.1_iphoneos-arm.deb
+Size: 308380
+MD5sum: e4d50d121d62a26fda32f6b90add356c
+SHA1: db32f211c72a9352f76f1762a3f901ce481339d8
+SHA256: f247d5961a45754821902ad1c0cfd6dd323f5f1c0f221b1f3adc98ef9fdfc987
 Section: Lockscreen Widgets
-Description: Small and miminal time and date widget
+Description: Time + Cal ✅
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew235
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
@@ -5460,16 +5460,16 @@ Name: LS EW235
 Sileodepiction: https://evynw.github.io/sileo/lsew235.json
 
 Package: com.evynw.lsew236
-Version: 1.1
+Version: 1.1-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.lsew236_1.1_iphoneos-arm.deb
-Size: 225610
-MD5sum: f950bb1c1f925fb4df8394e17b95c494
-SHA1: d21e77baa11ec0c9a0cab87266c5cae2e65ccdc7
-SHA256: 21d7e38d75e8400f8abce57fc5c561dc790318f694b0b9d2f7b6689cc5b21ed9
+Filename: ./debs/com.evynw.lsew236_1.1-1_iphoneos-arm.deb
+Size: 226830
+MD5sum: 618e422645152a769ac84c3fe56170ee
+SHA1: c0392953d8f73fb408ed2adc2a116e3f3d05b1ac
+SHA256: 34a6a7bbf2e078690eca1219e20cbfc0607402ac345ca07126b1a6f9ea89e1dc
 Section: Lockscreen Widgets
-Description: Time and weather widget with highlight colour
+Description: Time + Cal + Weather 🌤
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew236
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
@@ -5477,16 +5477,16 @@ Name: LS EW236
 Sileodepiction: https://evynw.github.io/sileo/lsew236.json
 
 Package: com.evynw.lsew238
-Version: 1.0-1
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.lsew238_1.0-1_iphoneos-arm.deb
-Size: 94438
-MD5sum: ec367adb402387ed4b18617d93343550
-SHA1: 38a12164715523db993fd8e9afaa6d13151d2be1
-SHA256: fd3e5e866e95a0f8d102909de517e0eb6b9d52a567212d143ad7a1a1b5296121
+Filename: ./debs/com.evynw.lsew238_1.1_iphoneos-arm.deb
+Size: 94674
+MD5sum: 31dde59e76e1acad1b60dbd1c9212aaf
+SHA1: 11253ce8a0b6777062e19f825d86614c05e90680
+SHA256: 848bad70226faabb0aa7073fbf199528c4e5ea0a691b4e3b7c036c55f8ddbaff
 Section: Lockscreen Widgets
-Description: Time and date in circles
+Description: Time + Cal in Rings ✅
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew238
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
