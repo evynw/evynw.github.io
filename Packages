@@ -3674,6 +3674,24 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: URW Geometric (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fonturwgeo13.json
 
+Package: com.evynw.fonturwgeo14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fonturwgeo14_1.0_iphoneos-arm.deb
+Size: 13597904
+MD5sum: 6e2f78b53cf0a6210c0c5f56e671de57
+SHA1: a9a9a04a2ccbb004f0eadbc5f7edb5a57062b577
+SHA256: 62b53d371acd0a066619ea8a0ff77b3b88c93997e25e8c50eea42d428e91951b
+Section: Fonts (iOS14)
+Description: Small & conventional sans. 100% size. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonturwgeo14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: URW Geometric (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fonturwgeo14.json
+
 Package: com.evynw.fontvito1011
 Version: 1.0
 Architecture: iphoneos-arm
