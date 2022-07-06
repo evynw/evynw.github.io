@@ -539,17 +539,16 @@ Name: EW.WdgtPack.2
 Sileodepiction: https://evynw.github.io/sileo/ewwdgtpack2.json
 
 Package: com.evynw.ewwdgtpack20
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2)
-Filename: ./debs/com.evynw.ewwdgtpack20_1.0_iphoneos-arm.deb
-Size: 1331576
-MD5sum: a85e488aadc203f80f52411d71fbfcb2
-SHA1: 675674de3f3f2df87bea4fd2e8a5cd001b58019a
-SHA256: 71cdbca40f64a41986ea40a88708594003046a11372d9cd2d1a8aaf95541c4f8
+Filename: ./debs/com.evynw.ewwdgtpack20_1.1_iphoneos-arm.deb
+Size: 1341512
+MD5sum: 4d393f95f061e6228c425f298431bc42
+SHA1: 448ec976824664caaf62cad1cc76c810b028a11c
+SHA256: ec7f8cf5abe18310624855aeb49d59046f39b995b4ecdee6f48d5c8cc68d5d77
 Section: Widget Packs
-Description: The pack that's kept in the drawer for too long
+Description: Pack with LS x 5️⃣✨
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack20
 Icon: https://evynw.github.io/depictions/sectionIcons/Pack.png

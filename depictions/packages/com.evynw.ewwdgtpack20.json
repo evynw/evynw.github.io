@@ -2,13 +2,17 @@
   "name": "EW.WdgtPack.20",
   "package": "com.evynw.ewwdgtpack20",
   "author": "Evelyn (ev_ynw)",
-  "version": "1.0",
+  "version": "1.1",
   "dependency": "XenInfo",
   "minOSVersion": "9.0",
-  "maxOSVersion": "13.5.1",
+  "maxOSVersion": "14.9.9",
   "otheriOS": "untested",
-  "description": "<div>Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)<br><br>Apply with XenHTML<br><br>Requires XenInfo for weather/battery components to work properly<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "description": "<div>Optimized for Xen HTML 2.0, but also works on Xen HTML 1.X<br><br>Installed to /var/mobile/Library/Widgets/Universal; Symlink is created at /var/mobile/Library/LockHTML for Xen HTML 1.X<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
+    "1.1": [
+      "Recoded using Xen HTML 2.0 API",
+      "Switched to config.json for settings"
+    ],
     "1.0": [
       "Initial release"
     ]
