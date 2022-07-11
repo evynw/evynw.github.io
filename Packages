@@ -5566,16 +5566,16 @@ Name: LS EW24
 Sileodepiction: https://evynw.github.io/sileo/lsew24.json
 
 Package: com.evynw.lsew242
-Version: 1.0-1
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.lsew242_1.0-1_iphoneos-arm.deb
-Size: 99520
-MD5sum: cd4d3a8d6ae291022ede97ad49c3b30b
-SHA1: 1d01ece6a58d7a92ad9167e3b620784a005a499d
-SHA256: 893ac2ba43479f154a10f2f117aa3d2492fbe5f4a3be49c341479a17d9bf2eee
+Filename: ./debs/com.evynw.lsew242_1.1_iphoneos-arm.deb
+Size: 100612
+MD5sum: 2f9010b5b3792e26615b175418b2025f
+SHA1: 0a7728747ae4dfbc99038f789317ad20fa992209
+SHA256: 84d6aa0aff7ed034a7e5336d0e2f523c556d37a8951ba2ca0dad5730f0eb31d9
 Section: Lockscreen Widgets
-Description: Clock widget with an aesthetic
+Description: Time + Cal ✅ Aesthetic 🌷
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew242
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
@@ -5583,16 +5583,16 @@ Name: LS EW242
 Sileodepiction: https://evynw.github.io/sileo/lsew242.json
 
 Package: com.evynw.lsew243
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.lsew243_1.1_iphoneos-arm.deb
-Size: 647168
-MD5sum: b0405a014d8ff08ae7e109f5a80e18ef
-SHA1: a542184b07120960d9e6ccda7959927accda4c4b
-SHA256: afb1789ad5c9238faeb2f78b9f009416d1d4ab17a5a7949f82090bba2f9c6dec
+Filename: ./debs/com.evynw.lsew243_1.2_iphoneos-arm.deb
+Size: 648444
+MD5sum: 9672a8bf04e2e60d0040ab9db1de5768
+SHA1: 2a75deec3e2b152e570eeae3629f426a346597d1
+SHA256: 8ec173b7eaa964860798c37a3cfaa7e276778fdd864f0e07b351b62b77fbc377
 Section: Lockscreen Widgets
-Description: Weather widget with weather icon (?!)
+Description: Time + Cal + Weather 🌤
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew243
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
@@ -5600,16 +5600,16 @@ Name: LS EW243
 Sileodepiction: https://evynw.github.io/sileo/lsew243.json
 
 Package: com.evynw.lsew244
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.lsew244_1.1_iphoneos-arm.deb
-Size: 280568
-MD5sum: 14e5bb1eb7ad947b700162143d279ed7
-SHA1: 1e42b69d94dddd05e98b09640f37348df6e46da3
-SHA256: a158e7f9405db8de3db00790a2773a6effd353ba35ddf581da033ea1b0d56c13
+Filename: ./debs/com.evynw.lsew244_1.2_iphoneos-arm.deb
+Size: 281678
+MD5sum: e6213d650e31fba87b0a3cb07559a5ce
+SHA1: 767d7bcacf217e85b0b337d9de65c0a925261172
+SHA256: 7244208a9eaaf1046bf9095980a77bc6d9d852a412c1e8c28559872f67e8860a
 Section: Lockscreen Widgets
-Description: Choose how to align the wdgt - left or right?
+Description: Time + Cal + Weather 🌤
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew244
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
