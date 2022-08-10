@@ -63,7 +63,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1",
+          "text": "1.2",
           "title": "Version"
         },
         {
@@ -126,6 +126,17 @@
       "tabname": "Changelog",
       "tintColor": "#4d636a",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.2",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Switched to .json for configs</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.1",
