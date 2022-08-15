@@ -2555,6 +2555,78 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Google Sans_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontgooglesans8513.json
 
+Package: com.evynw.fonthannasoft13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fonthannasoft13_1.0_iphoneos-arm.deb
+Size: 13778588
+MD5sum: 247a4d7fafc0b55e1746849b88505c0d
+SHA1: 46ae5f3923ecb2c71074c4efdabf7029058cce87
+SHA256: 71385e04cf438fde3235edd96011a0d4f9bd73a5064cd84030b82248ed593c64
+Section: Fonts (iOS13)
+Description: Sans serif with rounded corners. 100% size. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonthannasoft13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Hanna Soft (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fonthannasoft13.json
+
+Package: com.evynw.fonthannasoft14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fonthannasoft14_1.0_iphoneos-arm.deb
+Size: 13807864
+MD5sum: f7d5f90437e1b892643434ceb8a3c314
+SHA1: d1409d1b01ba01aa495236b58388150cd45da083
+SHA256: d44424d99078720ac68c780226ff4d62760529419950295b3a1495c5bdc7086e
+Section: Fonts (iOS14)
+Description: Sans serif with rounded corners. 100% size. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonthannasoft14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Hanna Soft (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fonthannasoft14.json
+
+Package: com.evynw.fonthannasoft8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fonthannasoft8513_1.0_iphoneos-arm.deb
+Size: 13997578
+MD5sum: b79a767ad8e616735a357d274b3816c8
+SHA1: a0fd16b9a720fed08031abbe5bee1ca21e5c3413
+SHA256: 87488c80a397f8d84864615fe200356cbb12d484cd11160bc92bfcd2c7591496
+Section: Fonts (iOS13)
+Description: Sans serif with rounded corners. 85% size. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonthannasoft8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Hanna Soft_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fonthannasoft8513.json
+
+Package: com.evynw.fonthannasoft8514
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fonthannasoft8514_1.0_iphoneos-arm.deb
+Size: 14009160
+MD5sum: cea89e187f9f8f4a3f4bcca7b2c8dd9a
+SHA1: 296cd8452d47d6b1b47c07eff6e4b4956fc7a989
+SHA256: 482f1ace37e26855a8f3bb260b590d58c5e6fe2ea6588725685e56f17c9eb2a4
+Section: Fonts (iOS14)
+Description: Sans serif with rounded corners. 85% size. For iOS14.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonthannasoft8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Hanna Soft_85% (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fonthannasoft8514.json
+
 Package: com.evynw.fontibmplexsans12
 Version: 1.0
 Architecture: iphoneos-arm
