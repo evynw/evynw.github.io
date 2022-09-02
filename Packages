@@ -4051,24 +4051,6 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Others.png
 Name: Stargate Destiny (Keypad for 3x)
 Sileodepiction: https://evynw.github.io/sileo/keypadstargatedestiny3x.json
 
-Package: com.evynw.lse211
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.junesiphone.xeninfo
-Filename: ./debs/com.evynw.lsew211_1.0_iphoneos-arm.deb
-Size: 1078414
-MD5sum: 85b31b655feda61a294750c4141d8ad4
-SHA1: 20ad51bb3f696ab208b3e7c1ef6ae5ca80663c00
-SHA256: ddd1fb64d9cfabb3c68b773a6a1cfce319c766eef3f6dcee92f14211930fc192
-Section: Lockscreen Widgets
-Description: Somehow a familiar-looking widget.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew211
-Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
-Name: LS EW211
-Sileodepiction: https://evynw.github.io/sileo/lsew211.json
-
 Package: com.evynw.lsew1
 Version: 1.0
 Architecture: iphoneos-arm
@@ -5292,16 +5274,16 @@ Name: LS EW205
 Sileodepiction: https://evynw.github.io/sileo/lsew205.json
 
 Package: com.evynw.lsew206
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.lsew206_1.0_iphoneos-arm.deb
-Size: 164872
-MD5sum: ec844546ce585f16f14f4d68defad93f
-SHA1: d99f1bf960387ca86451775bfc34fe1d101fcdb5
-SHA256: 5654c9ddefa2d92e9e48d6a2cb5265711d267c77468dc59c65798dd8f0004bd6
+Filename: ./debs/com.evynw.lsew206_1.1_iphoneos-arm.deb
+Size: 188744
+MD5sum: 65fedf13a4c6effef0c159bc51971b4a
+SHA1: 100835070625a686e835f23f72a2f3a96acb10bb
+SHA256: 24b83fa610bcb74e6c0cdb49d095703efed08d2afdc94d3d0b1b3acb1a2bda5b
 Section: Lockscreen Widgets
-Description: A widget. Like what else do you think this is?
+Description: Considerably large clock
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew206
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
@@ -5309,16 +5291,16 @@ Name: LS EW206
 Sileodepiction: https://evynw.github.io/sileo/lsew206.json
 
 Package: com.evynw.lsew207
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.lsew207_1.0_iphoneos-arm.deb
-Size: 80226
-MD5sum: aa623842a11f6ea101618162d3edfed4
-SHA1: 3374d294dd7959774512c5c533e8b3602ea3bea4
-SHA256: 3f9041361a34f18b42041bce30d63fe5b0361ce7b6c821bcc2134fc9a12ac7ea
+Filename: ./debs/com.evynw.lsew207_1.1_iphoneos-arm.deb
+Size: 97018
+MD5sum: 8a560b37c577c5d380ebfc562f4734e9
+SHA1: 95326947f277e8062fe2cdf89c93e92a7cbf8ba4
+SHA256: 2f8994904f35ad61acd36cddfe41d30736f9c619729b7928c848e7b579c09f57
 Section: Lockscreen Widgets
-Description: New shit in a long while
+Description: Simplistic word clock
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew207
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
@@ -5326,16 +5308,16 @@ Name: LS EW207
 Sileodepiction: https://evynw.github.io/sileo/lsew207.json
 
 Package: com.evynw.lsew208
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.lsew208_1.0_iphoneos-arm.deb
-Size: 128452
-MD5sum: ec187c1af07faa657b802f0a0545882e
-SHA1: cbc9c1aa4252e06c08e763f7a4356938a5b081bb
-SHA256: 9f3a5ce41587b42736e6d2886c06ef7d53c0c752086d4faeac3c1fa376e8635a
+Filename: ./debs/com.evynw.lsew208_1.1_iphoneos-arm.deb
+Size: 157550
+MD5sum: 1eed6f05f533cf339fca4a08faf4ae5a
+SHA1: 79c091986d7089fe6c4a40c6ac1428f44c1df002
+SHA256: f66b912a43e78857d163a34932269fdff1d364d1ba810699b87f054780907874
 Section: Lockscreen Widgets
-Description: It's time for some new shit!
+Description: Word clock with a deer 🦌
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew208
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
@@ -5343,16 +5325,16 @@ Name: LS EW208
 Sileodepiction: https://evynw.github.io/sileo/lsew208.json
 
 Package: com.evynw.lsew209
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.lsew209_1.0_iphoneos-arm.deb
-Size: 347434
-MD5sum: 85e59e1a35c57d47053407258c97d0f9
-SHA1: 28df4a58bd7d03fbc3f246e38be69e21a31727c5
-SHA256: 6bb3f1104734f30dd1c4e51597c8b432c699592335956316c753194c58052ede
+Filename: ./debs/com.evynw.lsew209_1.1_iphoneos-arm.deb
+Size: 348466
+MD5sum: 9c43d9245a031571526c98297e128874
+SHA1: ed867b4ed36339d3406d03be479562e561eaaf35
+SHA256: 8830c49d6db9cab0941862a452a174765c1503bf7456ae8109da10f6c5d06fa4
 Section: Lockscreen Widgets
-Description: Guess I should think of a new description? OwO
+Description: Word clock 🌿
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew209
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
@@ -5377,33 +5359,50 @@ Name: LS EW21
 Sileodepiction: https://evynw.github.io/sileo/lsew21.json
 
 Package: com.evynw.lsew210
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.lsew210_1.0_iphoneos-arm.deb
-Size: 214780
-MD5sum: 6f1d5bd5255310033d05120615925b84
-SHA1: bd6e036369943f7e176777e5472054094b8c9264
-SHA256: cdb820df82db4cac4e58c6eca922151d39152f9ffa0e36c084b811a9851e56d7
+Filename: ./debs/com.evynw.lsew210_1.1_iphoneos-arm.deb
+Size: 216962
+MD5sum: c6afd2e7faecde70e21ca389e02db5e5
+SHA1: e353ad206dd2fdb9ae748494d8f0b0fcf7457a3a
+SHA256: 6f6b58ae2db990d239d5b5461682809786af8d001716d498e46b9d1943900023
 Section: Lockscreen Widgets
-Description: Originally from my 12400PACK :3
+Description: Clock with scrolling look
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew210
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
 Name: LS EW210
 Sileodepiction: https://evynw.github.io/sileo/lsew210.json
 
-Package: com.evynw.lsew212
-Version: 1.0
+Package: com.evynw.lsew211
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.lsew212_1.0_iphoneos-arm.deb
-Size: 204420
-MD5sum: 58670e5d0f48d802ba4305d8344c2ca8
-SHA1: bf7c14dd9dd34747c23145bf2d0234fb650055da
-SHA256: ba19cdc877e55c3b45e4fa68a450443873c09bebc90038114b9f8cad24b6ec06
+Filename: ./debs/com.evynw.lsew211_1.1_iphoneos-arm.deb
+Size: 1132770
+MD5sum: 125925621119c573c0f9837b52b0eee8
+SHA1: 8848ca09c1e8a6babc3cde3e6f4ece04eb5ecada
+SHA256: 67d6abdbc6f6bdc2078ad6f2d7b887de2c942fad7c319681ed3fc2ffc0d4364c
 Section: Lockscreen Widgets
-Description: So time-consuming to update & upload all my widgets
+Description: Pop-art style widget 🎨
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew211
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Name: LS EW211
+Sileodepiction: https://evynw.github.io/sileo/lsew211.json
+
+Package: com.evynw.lsew212
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Filename: ./debs/com.evynw.lsew212_1.1_iphoneos-arm.deb
+Size: 252686
+MD5sum: 1bcf3c12e8fad2173e8256e316102938
+SHA1: a228f05462b300df83d90a7fb14b3d5090fb013b
+SHA256: 2002ec7e557663a1b1c4cb867f8cc1a05b0235e9f806e5666a17b76b3410b978
+Section: Lockscreen Widgets
+Description: Simple widget with large weekday
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew212
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
@@ -5411,16 +5410,16 @@ Name: LS EW212
 Sileodepiction: https://evynw.github.io/sileo/lsew212.json
 
 Package: com.evynw.lsew213
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.lsew213_1.0_iphoneos-arm.deb
-Size: 101764
-MD5sum: d40fd513a1449cf58fa2f3cb0ed1ea62
-SHA1: 7fc9b310c02e904251684fd5faa207ab08c9ff25
-SHA256: 5ee88ba83aa5ffe45f56081349f1fdd93a04563a977d6814da12e3f0b3ff0135
+Filename: ./debs/com.evynw.lsew213_1.1_iphoneos-arm.deb
+Size: 146568
+MD5sum: f1454befc1fb36b122aae7126adf5770
+SHA1: a3698c4ba39051ac35c445c2ed39f3be7fa23c0a
+SHA256: 9cecab92fdb95264020187906d21fd4b21c6da44e9f37571d4b4a6c193204944
 Section: Lockscreen Widgets
-Description: From 6200PACK. New twitter pack coming!
+Description: Simple widget with greetings!
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew213
 Icon: https://evynw.github.io/depictions/sectionIcons/LS.png

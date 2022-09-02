@@ -3,7 +3,7 @@
   "package": "com.evynw.lsew215",
   "author": "Evelyn (ev_ynw)",
   "version": "1.1",
-  "dependency": "Xen HTML",
+  "dependency": "N/A",
   "minOSVersion": "9.0",
   "maxOSVersion": "14.9",
   "otheriOS": "untested",
