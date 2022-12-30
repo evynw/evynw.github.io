@@ -643,21 +643,21 @@ Name: Ainslie Sans (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontainsliesans13.json
 
 Package: com.evynw.fontainsliesans14
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontainsliesans14_1.0_iphoneos-arm.deb
-Size: 11441856
-MD5sum: 325afa4185cbed0f5ed1999573caaf3b
-SHA1: ad27068bce4a0e16a2af720b6bf0f45d187cc752
-SHA256: f0543ad154277e30a3be4fd19396cccb3451b9bf8c7aa341db7d039d15678fe9
-Section: Fonts (iOS14)
-Description: Sans serif slightly rounded. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontainsliesans14_1.1_iphoneos-arm.deb
+Size: 13682204
+MD5sum: 2086c23c4e14e4fdc8479bbf60d19813
+SHA1: 52857a4feee32334238ccf8a3e313e4205c88324
+SHA256: a0d756631948321bb6a494a687415c88df3958c6a393c6bf23bc57cc97524887
+Section: Fonts (iOS14-16)
+Description: Sans serif slightly rounded. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontainsliesans14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Ainslie Sans (iOS14)
+Name: Ainslie Sans (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontainsliesans14.json
 
 Package: com.evynw.fontalegreyasans12
@@ -730,21 +730,21 @@ Name: Asterisk Sans (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontasterisk13.json
 
 Package: com.evynw.fontasterisk14
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontasterisk14_10_iphoneos-arm.deb
-Size: 14011200
-MD5sum: 91240f04b76308c6aa2f2fd8458ed3c3
-SHA1: a9825b588946f94343614f6d6d8e353b064b11ae
-SHA256: d1d2ab90ec05f5076d53c23e8ca7175d9af3cd562beaf0a9d8373d738d426b6e
-Section: Fonts (iOS14)
-Description: Clean and thin sans serif. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontasterisk14_1.1_iphoneos-arm.deb
+Size: 13882918
+MD5sum: 8443dfa943049d76152a2751486fa41d
+SHA1: a7f80e0b4a7cda6daab30e7dec9e00312807b900
+SHA256: f27aba078d85d23cf83b2f26c3fa0300beede7661e4ab0377c2bb6d5951b2f7b
+Section: Fonts (iOS14-16)
+Description: Clean and thin sans serif. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontasterisk14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Asterisk Sans (iOS14)
+Name: Asterisk Sans (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontasterisk14.json
 
 Package: com.evynw.fontavenir12
@@ -765,14 +765,14 @@ Name: Avenir Next (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontavenir12.json
 
 Package: com.evynw.fontavenir13
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontavenir13_1.1_iphoneos-arm.deb
-Size: 11536140
-MD5sum: 7d14c70bbc210356c3c176d9fcdfa78a
-SHA1: 6af5d19ee80935b67d51dd5b1c676175c95069e9
-SHA256: c1029db835180c5942eb759daf9defd54f4d8ea37d260d51426b46f8a4782242
+Filename: ./debs/com.evynw.fontavenir13_1.2_iphoneos-arm.deb
+Size: 11984538
+MD5sum: f7a1b237cad2586e0fad095062636655
+SHA1: f1c47bcd6da88c5255c3f1a8a43591254d24dff7
+SHA256: e210fc876c7f9e841a6735699a88a6369b12fe1aa65ac5639458a3a2fc059101
 Section: Fonts (iOS13)
 Description: Classic sans serif. For iOS13.
 Author: Evelyn (ev_ynw)
@@ -782,21 +782,21 @@ Name: Avenir Next (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontavenir13.json
 
 Package: com.evynw.fontavenir14
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontavenir14_1.0_iphoneos-arm.deb
-Size: 11562262
-MD5sum: d9c90970373b414dfcd5bea3f78d319a
-SHA1: 34fd8977c2b692ec894e61c475fbe60fdc964158
-SHA256: fdd49ed5266b16979f1a7757f3d2e433c942f6769be8c28779f32ea154833c17
-Section: Fonts (iOS14)
-Description: Classic sans serif. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontavenir14_1.1_iphoneos-arm.deb
+Size: 12010424
+MD5sum: 082750dc3e6d4a48eb3c9358fccdd58f
+SHA1: 42fceecad248d82fad58aa21ccbde5be2d9f6dcd
+SHA256: 9de1f2ca64d68409539f96424baa4e17f8d5073bfe369fa17b8d886cedf6a87c
+Section: Fonts (iOS14-16)
+Description: Classic sans serif. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontavenir14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Avenir Next (iOS14)
+Name: Avenir Next (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontavenir14.json
 
 Package: com.evynw.fontbaijamjuree12
@@ -988,21 +988,21 @@ Name: Brandon Text (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontbrandontext13.json
 
 Package: com.evynw.fontbrandontext14
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontbrandontext14_1.0_iphoneos-arm.deb
-Size: 14805012
-MD5sum: 7bf90fb392047bea3ee1bf7b981677b4
-SHA1: 51c7eadaf6494c2981e77a8f164e7782becb5e71
-SHA256: 3d4e475845c41df638166c7578b0f7343cca41a125f540eca8f4e0af4be895f4
-Section: Fonts (iOS14)
-Description: Popular sans serif. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontbrandontext14_1.1_iphoneos-arm.deb
+Size: 14563362
+MD5sum: c0326e8a7a068c26838f95fd0774996e
+SHA1: 31802af9ec7f1e1794b0707138c0b5b588efdb6e
+SHA256: d65b41d45ff68dd8c06c2ed258e6bc20e29f38346ffe4eafa4caab27c2226603
+Section: Fonts (iOS14-16)
+Description: Popular sans serif. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbrandontext14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Brandon Text (iOS14)
+Name: Brandon Text (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontbrandontext14.json
 
 Package: com.evynw.fontbrokman12
@@ -1058,21 +1058,21 @@ Name: Bronkoh (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontbronkoh13.json
 
 Package: com.evynw.fontbronkoh14
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontbronkoh14_1.0_iphoneos-arm.deb
-Size: 13729022
-MD5sum: bd424ba9985a168645a4b6c35fbe1a49
-SHA1: 76ec58f18f2fc3c74c5fafbcdb0841f3009d1fcf
-SHA256: 3c52147223f9dbc7a0574a73c0a70d0463ba297aba537598e6e3aa932a672c46
-Section: Fonts (iOS14)
-Description: Grotesque-ish sans serif. 100% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontbronkoh14_1.1_iphoneos-arm.deb
+Size: 13606282
+MD5sum: eaed228d602443a38add9d9e12896216
+SHA1: 56439e3786ca7993bf605f8ddce6320252ce60ce
+SHA256: 7534ab5cf8af2566e247832ed3c3987d0d06071f3d26aa57ab700708bceeb410
+Section: Fonts (iOS14-16)
+Description: Grotesque-ish sans serif. 100% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbronkoh14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Bronkoh (iOS14)
+Name: Bronkoh (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontbronkoh14.json
 
 Package: com.evynw.fontbronkoh8513
@@ -1094,21 +1094,21 @@ Name: Bronkoh_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontbronkoh8513.json
 
 Package: com.evynw.fontbronkoh8514
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontbronkoh8514_1.0_iphoneos-arm.deb
-Size: 13749672
-MD5sum: a05cc0e7d04c9efc5e4b2f5380526f7c
-SHA1: 2a70c71a7e1d803cf292e5535d86840afa266069
-SHA256: 4b65e9bcfc7078cc956aeddfaf76ab983c1002caec3cef677cdb2c54f4c45b99
-Section: Fonts (iOS14)
-Description: Grotesque-ish sans serif. 85% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontbronkoh8514_1.1_iphoneos-arm.deb
+Size: 13700724
+MD5sum: d0bdce27993e5cc6a110cc1b8529fd53
+SHA1: 4dc5ab69562fff0fffa2d4ecfd05457f25950303
+SHA256: 8245a49e70c226954f91aaba1938a5999dbe4db9e0b427cff04b1a2fa6563ad6
+Section: Fonts (iOS14-16)
+Description: Grotesque-ish sans serif. 85% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbronkoh8514
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Bronkoh_85% (iOS14)
+Name: Bronkoh_85% (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontbronkoh8514.json
 
 Package: com.evynw.fontbubble12
@@ -1215,21 +1215,21 @@ Name: Bunday Clean (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontbunday13.json
 
 Package: com.evynw.fontbunday14
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontbunday14_1.0_iphoneos-arm.deb
-Size: 14019914
-MD5sum: 0b0b628ecd6ceac087b6e13cdfea213d
-SHA1: 7d24af2ca34eb4494090d862446bb755d7996d3f
-SHA256: 0483be1ae9094172020921f91a3c4505b82ad809f64589f1999f1a60ed39704e
-Section: Fonts (iOS14)
-Description: Scriptive Sans (alt ver). 100% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontbunday14_1.1_iphoneos-arm.deb
+Size: 13847650
+MD5sum: 9de5109602273eafbdd158ef5e3896cc
+SHA1: 39e5ca0c0200f9ec78b8e82067dc84134303ba74
+SHA256: 7593d54f5aa9e2388a7151e4895b161c363ba7b051b5f7e8a89ffe28ab6fe64e
+Section: Fonts (iOS14-16)
+Description: Scriptive Sans (alt ver). 100% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbunday14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Bunday Clean (iOS14)
+Name: Bunday Clean (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontbunday14.json
 
 Package: com.evynw.fontbunday8512
@@ -1268,21 +1268,21 @@ Name: Bunday Clean_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontbunday13.json
 
 Package: com.evynw.fontbunday8514
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontbunday8514_1.0_iphoneos-arm.deb
-Size: 14736776
-MD5sum: cf9b019bd9584aaccb9899d42a9d916e
-SHA1: 9eb3a14a6af67d75cfa7060c61615f020d1bae4c
-SHA256: d71431049ed2d472923b6c3cf58922ff9771ef8e1be5064b3d739b47bc8eac0d
-Section: Fonts (iOS14)
-Description: Scriptive Sans (alt ver). 85% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontbunday8514_1.1_iphoneos-arm.deb
+Size: 14799692
+MD5sum: f52bacad034a4c0643a3ac9a30ca9b4d
+SHA1: 4c0957cfb313030cecbeb7e8f0f89fe51f55a758
+SHA256: b15bdb8de462b5ceed17aa3db8217d77873ad08e45a30d5499f043936610dc12
+Section: Fonts (iOS14-16)
+Description: Scriptive Sans (alt ver). 85% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontbunday14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Bunday Clean_85% (iOS14)
+Name: Bunday Clean_85% (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontbunday14.json
 
 Package: com.evynw.fontcabritosans12
@@ -1321,21 +1321,21 @@ Name: Cabrito Sans (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontcabritosans13.json
 
 Package: com.evynw.fontcabritosans14
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontcabritosans14_1.0_iphoneos-arm.deb
-Size: 14249232
-MD5sum: 044a6f3f91e80b8bb90008df18bcb398
-SHA1: 60264d42ef79a8cabd4cc2dbd958ae8e23e502e5
-SHA256: 3cf4485be557df0ebedef9df012ebaf09f42b6de73b373efdf008e27cc7f8265
-Section: Fonts (iOS14)
-Description: Scriptive sans serif. 100% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontcabritosans14_1.1_iphoneos-arm.deb
+Size: 14057278
+MD5sum: 602955a0c51452e5e3cdb8894efa22b3
+SHA1: d48d7ef78ade29273aa23926bc0aeac19a276bab
+SHA256: a57f645befeba70866bf35786dc784e21129869bfa4e029e7b1595d89724ae6e
+Section: Fonts (iOS14-16)
+Description: Scriptive sans serif. 100% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcabritosans14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Cabrito Sans (iOS14)
+Name: Cabrito Sans (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontcabritosans14.json
 
 Package: com.evynw.fontcabritosans8512
@@ -1374,21 +1374,21 @@ Name: Cabrito Sans_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontcabritosans8513.json
 
 Package: com.evynw.fontcabritosans8514
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontcabritosans8514_1.0_iphoneos-arm.deb
-Size: 14373304
-MD5sum: 298f51baf13dbd6b2b7a81f5a5d76571
-SHA1: e8bad1d36231d521703313e7df43267493e04f81
-SHA256: 97c0c653d760c18823b5a975e9f36fa215ba77a01f9fffda6149c32e81437e48
-Section: Fonts (iOS14)
-Description: Scriptive sans serif. 85% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontcabritosans8514_1.1_iphoneos-arm.deb
+Size: 14178280
+MD5sum: f2380eb27252463cc92dbf93ef8b864a
+SHA1: fa0f1ca461c6f6561e430702d580974fd1b19dbc
+SHA256: 1948edde7f7add7bac822fd1f8683bc8ab6a40cb52e0e48b28a1ebc6fbd30367
+Section: Fonts (iOS14-16)
+Description: Scriptive sans serif. 85% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcabritosans8514
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Cabrito Sans_85% (iOS14)
+Name: Cabrito Sans_85% (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontcabritosans8514.json
 
 Package: com.evynw.fontcenter12
@@ -1426,21 +1426,21 @@ Name: Center (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontcenter13.json
 
 Package: com.evynw.fontcenter14
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontcenter14_1.0_iphoneos-arm.deb
-Size: 19794606
-MD5sum: 6b860517bd5169848cdbd1ce4e964b82
-SHA1: 700bb204c7a26a412d2c3af27eb4ac9c0933abd9
-SHA256: f7f54382505b8bee70bc67550fb4998694e5c8181d24562255e73897abd1aa0b
-Section: Fonts (iOS14)
-Description: Grotesque style sans. 100% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontcenter14_1.1_iphoneos-arm.deb
+Size: 18920506
+MD5sum: 93ec5bc051c3fc8803d334461e07de1e
+SHA1: 8b8e8faa1b9f7f39b54e5a1f3625b1ca91deec66
+SHA256: 7fc315d954062ec5aa8abf6af1e7b3dea84705a3a298ca85f239cf3c3f68c3e8
+Section: Fonts (iOS14-16)
+Description: Grotesque style sans. 100% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcenter14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Center (iOS14)
+Name: Center (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontcenter14.json
 
 Package: com.evynw.fontcenter8512
@@ -1478,21 +1478,21 @@ Name: Center_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontcenter8513.json
 
 Package: com.evynw.fontcenter8514
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontcenter8514_1.0_iphoneos-arm.deb
-Size: 19077418
-MD5sum: 96e38586b093ffe5719c05bf93708cd2
-SHA1: be874b5ff01fbf5462de03005abf0fed59c1df21
-SHA256: 181bfe8010730dfd3ee3d0eba369cd95a15f094ee8a5b55c9936b3e82586da51
-Section: Fonts (iOS14)
-Description: Grotesque style sans. 85% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontcenter8514_1.1_iphoneos-arm.deb
+Size: 18226250
+MD5sum: 269e60d599eb5a162a0061c76d2c9e2e
+SHA1: 6e4df3c59d118027d552f5f12ffc33cc0624660c
+SHA256: 3dce07b4182fa8035f12fdc9805aa927ec315ad7108cc1de642e22fa5b844a0b
+Section: Fonts (iOS14-16)
+Description: Grotesque style sans. 85% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcenter8514
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Center_85% (iOS14)
+Name: Center_85% (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontcenter8514.json
 
 Package: com.evynw.fontcera12
@@ -1532,21 +1532,21 @@ Name: Cera (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontcera13.json
 
 Package: com.evynw.fontcera14
-Version: 1.0-1
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontcera14_1.0-1_iphoneos-arm.deb
-Size: 14482592
-MD5sum: fa0887577533b23a39f15c6248a6cbb0
-SHA1: 2fc07f45004a0bcb2b3ef511a36cbdc4ede161e7
-SHA256: a20288bfd71dcd84aa25ef886d200a016cfc9d3e0b7905bc9a4611a839f2845c
-Section: Fonts (iOS14)
-Description: Clean & conventional sans serif. 100% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontcera14_1.1_iphoneos-arm.deb
+Size: 14165728
+MD5sum: f3c76b4065f025bfe4480afe10e11fe6
+SHA1: a1097364a0dea07a6aee962989538dab32daae3a
+SHA256: c411335c2c0b7f25bad7e5f317f564bc1d54c8e184f50e158eb805db8e1ce377
+Section: Fonts (iOS14-16)
+Description: Clean & conventional sans serif. 100% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcera14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Cera (iOS14)
+Name: Cera (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontcera14.json
 
 Package: com.evynw.fontcera8512
@@ -1586,21 +1586,21 @@ Name: Cera_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontcera8513.json
 
 Package: com.evynw.fontcera8514
-Version: 1.0-1
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontcera8514_1.0-1_iphoneos-arm.deb
-Size: 14665094
-MD5sum: 0872e745c776380b02a57d8251276bcc
-SHA1: 6510a42dee293f503ca96abe1974a0760c812cdd
-SHA256: 7a35ae326d35079a8dddbad8b1063b62ad455c4483282fd395af7a7b1bdf75e1
-Section: Fonts (iOS14)
-Description: Clean & conventional sans serif. 85% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontcera8514_1.1_iphoneos-arm.deb
+Size: 14344316
+MD5sum: 709aa459cde5bbfb096b4eaf024c9864
+SHA1: 91475a908931f1781c2fc13fd2b78bdb9e430817
+SHA256: 120317fe78bc2b180c59ed8914c46e2dfae77b191219a078e8f9107730beb09f
+Section: Fonts (iOS14-16)
+Description: Clean & conventional sans serif. 85% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcera8514
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Cera_85% (iOS14)
+Name: Cera_85% (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontcera8514.json
 
 Package: com.evynw.fontchalkboard12
@@ -1826,21 +1826,21 @@ Name: Conte Sans (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontcontesans13.json
 
 Package: com.evynw.fontcontesans14
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontcontesans14_1.0_iphoneos-arm.deb
-Size: 13121772
-MD5sum: 6d46026b7216ada57a4340e0dc2cdf1b
-SHA1: 1f9e5b907eb2e3f7a10d1c25badf2ed7f53d3099
-SHA256: 74ef4fac3a7c61d5dea3718af15778c8532fa02c2dda8d4ef67e9ea03e036cb4
-Section: Fonts (iOS14)
-Description: Sleek sans serif. 100% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontcontesans14_1.1_iphoneos-arm.deb
+Size: 12920378
+MD5sum: 6d2ba4b9e4969f837f9c18f59132ff58
+SHA1: e723e87d67dc8bb90942652d41c4ea50c6048e52
+SHA256: acc0b8ff8616f08ef261b4411cd07a9eecee79865dd4acdbe9f2d50e4260c080
+Section: Fonts (iOS14-16)
+Description: Sleek sans serif. 100% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesans14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Conte Sans (iOS14)
+Name: Conte Sans (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontcontesans14.json
 
 Package: com.evynw.fontcontesans8512
@@ -1879,21 +1879,21 @@ Name: Conte Sans_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontcontesans8513.json
 
 Package: com.evynw.fontcontesans8514
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
+Depends: com.evynw.repoicons (>= 1.2-3)
 Filename: ./debs/com.evynw.fontcontesans8514_1.0_iphoneos-arm.deb
-Size: 13576984
-MD5sum: 7fa8ff90074c19697c83685712a5e46f
-SHA1: 3773d81b654322cf3173d6b2e56947cfb8fee30c
-SHA256: b10a0f2178568a70e0d4a67e62eb9daef82576969c5adf082e95385d312d118c
-Section: Fonts (iOS14)
-Description: Sleek sans serif. 85% size. For iOS14.
+Size: 13373508
+MD5sum: 8252b3974be314478b64dcc4bf23e75d
+SHA1: 5b84764d789ceb252759c70211eb418dd0eb5f7d
+SHA256: fe387c68db5126a07573f6e724d59488d983dd28fee08b13204421506773badc
+Section: Fonts (iOS14-16)
+Description: Sleek sans serif. 85% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcontesans8514
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Conte Sans_85% (iOS14)
+Name: Conte Sans_85% (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontcontesans8514.json
 
 Package: com.evynw.fontcoresansar12
@@ -2034,21 +2034,21 @@ Name: Dubai (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontdubai13.json
 
 Package: com.evynw.fontdubai14
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontdubai14_1.0_iphoneos-arm.deb
-Size: 12784056
-MD5sum: 0fa1c5f9a13f6615f2534632e2d327e2
-SHA1: 6e8e4b19562724f4b655ca053e7ddfa00b4fb18c
-SHA256: 54e2dd80f1e7db166f8a8cc7d5f181b9347e52b804c6c230cf34b7c91d304c56
-Section: Fonts (iOS14)
-Description: Well-known Microsoft font. 100% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontdubai14_1.1_iphoneos-arm.deb
+Size: 12609778
+MD5sum: fd08589ea5cbfbf7e14d739ffc9a4433
+SHA1: 0e6f25086f8e1200fdbfe07404fd53cb8a9ccb28
+SHA256: 07cd4031674298dbed03350cfd0ccc4e0508ee3464b06f98a45f9e854d3f4929
+Section: Fonts (iOS14-16)
+Description: Well-known Microsoft font. 100% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontdubai14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Dubai (iOS14)
+Name: Dubai (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontdubai14.json
 
 Package: com.evynw.fontdubai8512
@@ -2087,21 +2087,21 @@ Name: Dubai_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontdubai8513.json
 
 Package: com.evynw.fontdubai8514
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontdubai8514_1.0_iphoneos-arm.deb
-Size: 12594416
-MD5sum: 0aca80a10ba447c1ddb415168c424da7
-SHA1: 8999c518303dc2867ac0e5202f563133f2b0645e
-SHA256: e812f7798e0d6b1c502ea852d22955e4e1a9005db27c2c9242a1c0b2800052bd
-Section: Fonts (iOS14)
-Description: Well-known Microsoft font. 85% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontdubai8514_1.1_iphoneos-arm.deb
+Size: 12418320
+MD5sum: 400b066c5eb87cf18c133fa9c362a3bf
+SHA1: 10a13e311699bfec7d9f8f400f4e9a1a366a3a60
+SHA256: f52e36c261f91b37a1031e829aed5a93514b214fecdc2612fde599fd6f011b81
+Section: Fonts (iOS14-16)
+Description: Well-known Microsoft font. 85% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontdubai8514
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Dubai_85% (iOS14)
+Name: Dubai_85% (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontdubai8514.json
 
 Package: com.evynw.fontencodesans12
@@ -2297,21 +2297,21 @@ Name: FF Milo (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontffmilo13.json
 
 Package: com.evynw.fontffmilo14
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontffmilo14_1.0_iphoneos-arm.deb
-Size: 13358054
-MD5sum: da67ce6d23306f7282bcc9e4c53002d6
-SHA1: cde2bb9893e33a3afd38a67ccaca800ee66d1672
-SHA256: 4a937fd7831cc6fa7bf3ea978299e0e0f333b202519e4b5d1328c8ed869cdca9
-Section: Fonts (iOS14)
-Description: Plain sans serif. 100% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontffmilo14_1.1_iphoneos-arm.deb
+Size: 13173014
+MD5sum: de9d31ef0a9116bce2835ccfb47f62bd
+SHA1: cadf9f02819045bc259ff87670dbd86518f2cbb3
+SHA256: 3d62ff52a0202c012ec82fae8d36fbbc4f701fce14d520572f8657092ecc954a
+Section: Fonts (iOS14-16)
+Description: Plain sans serif. 100% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffmilo14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: FF Milo (iOS14)
+Name: FF Milo (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontffmilo14.json
 
 Package: com.evynw.fontffmilo8513
@@ -2333,21 +2333,21 @@ Name: FF Milo_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontffmilo8513.json
 
 Package: com.evynw.fontffmilo8514
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontffmilo8514_1.0_iphoneos-arm.deb
-Size: 13550612
-MD5sum: 3502d09f44254676bc359f4a4e46b337
-SHA1: 4820239607b950907449d3bf4a69a8ef0e74cdfd
-SHA256: cae3fe2798b1d63a1a0b01e24b24d191ba198d2c233f5c094de50b120e1af6e0
-Section: Fonts (iOS14)
-Description: Plain sans serif. 85% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontffmilo8514_1.1_iphoneos-arm.deb
+Size: 13364776
+MD5sum: df63e80569aef20f4ef8d39134a8c800
+SHA1: 2624a8ef5833eb6f3f361b493972f6703db46d97
+SHA256: c770ead981d65e1f486d54b14c896f15500320362acb4494b52cfa78b6844be4
+Section: Fonts (iOS14-16)
+Description: Plain sans serif. 85% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontffmilo8514
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: FF Milo_85% (iOS14)
+Name: FF Milo_85% (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontffmilo8514.json
 
 Package: com.evynw.fontffstrada1011
@@ -2573,21 +2573,21 @@ Name: Hanna Soft (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fonthannasoft13.json
 
 Package: com.evynw.fonthannasoft14
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fonthannasoft14_1.0_iphoneos-arm.deb
-Size: 13807864
-MD5sum: f7d5f90437e1b892643434ceb8a3c314
-SHA1: d1409d1b01ba01aa495236b58388150cd45da083
-SHA256: d44424d99078720ac68c780226ff4d62760529419950295b3a1495c5bdc7086e
-Section: Fonts (iOS14)
-Description: Sans serif with rounded corners. 100% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fonthannasoft14_1.1_iphoneos-arm.deb
+Size: 13627544
+MD5sum: 4d5a69823aa39155005bc8ca013fdb02
+SHA1: b88b83d36e4ef7e699777408812465bc5cd00686
+SHA256: a0662aa9e8d8543ca408f15cef279f653ad54f598f7be4b4e6198d31e1a82ee9
+Section: Fonts (iOS14-16)
+Description: Sans serif with rounded corners. 100% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonthannasoft14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Hanna Soft (iOS14)
+Name: Hanna Soft (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fonthannasoft14.json
 
 Package: com.evynw.fonthannasoft8513
@@ -2609,21 +2609,21 @@ Name: Hanna Soft_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fonthannasoft8513.json
 
 Package: com.evynw.fonthannasoft8514
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fonthannasoft8514_1.0_iphoneos-arm.deb
-Size: 14009160
-MD5sum: cea89e187f9f8f4a3f4bcca7b2c8dd9a
-SHA1: 296cd8452d47d6b1b47c07eff6e4b4956fc7a989
-SHA256: 482f1ace37e26855a8f3bb260b590d58c5e6fe2ea6588725685e56f17c9eb2a4
-Section: Fonts (iOS14)
-Description: Sans serif with rounded corners. 85% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fonthannasoft8514_1.1_iphoneos-arm.deb
+Size: 13827760
+MD5sum: 4b1d2e5673573a0507a5a7633ca09a23
+SHA1: 1f5c66bef50bd077bad2bcb64a7a6b59849ca7eb
+SHA256: 183cce24cc2d77533f6f6af66f98ec33fa471c73ea1a4b2cf3e84a9784f59394
+Section: Fonts (iOS14-16)
+Description: Sans serif with rounded corners. 85% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonthannasoft8514
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Hanna Soft_85% (iOS14)
+Name: Hanna Soft_85% (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fonthannasoft8514.json
 
 Package: com.evynw.fontibmplexsans12
@@ -2831,21 +2831,21 @@ Name: Metro Nova Pro (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontmetronova13.json
 
 Package: com.evynw.fontmetronova14
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontmetronova14_1.0_iphoneos-arm.deb
-Size: 12290672
-MD5sum: 497329e5970e4418e99cc759ef1dc6ce
-SHA1: 98490f2dc97007b2022e6c992af019fa19831b76
-SHA256: d666fc081d90e0eb5622fb16953147b21148f9debb07fff03569c00c35c64ab3
-Section: Fonts (iOS14)
-Description: Clean & small sans serif. 100% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontmetronova14_1.1_iphoneos-arm.deb
+Size: 12108772
+MD5sum: 7be442877ef9efd9fcf619b3d7abf7f8
+SHA1: 9c5cf33e516eb3e71216ba90932ee177d24aec87
+SHA256: 11ed84e28ca130dbfe74e44a51c25944e52f8f1a4c6b4ac208a86a17d9951fe9
+Section: Fonts (iOS14-16)
+Description: Clean & small sans serif. 100% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmetronova14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Metro Nova Pro (iOS14)
+Name: Metro Nova Pro (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontmetronova14.json
 
 Package: com.evynw.fontmetronova8513
@@ -2867,21 +2867,21 @@ Name: Metro Nova Pro_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontmetronova8513.json
 
 Package: com.evynw.fontmetronova8514
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontmetronova8514_1.0_iphoneos-arm.deb
-Size: 13668306
-MD5sum: b79b0608e53dbee64549fb1ae4eae45c
-SHA1: 2319b05c0852fbf5d6e573253a19e16c18396a4c
-SHA256: c4a5c66d96596e06bd9b6a42d1a7270490a968cd06c6073f5de887550110295d
-Section: Fonts (iOS14)
-Description: Clean & small sans serif. 85% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontmetronova8514_1.1_iphoneos-arm.deb
+Size: 13494540
+MD5sum: ee10812005619cd0dd6492647a765489
+SHA1: b98b09c925d9b05650488e7f35e5abb70c8689e3
+SHA256: 55183cd98e6acb9e11bda7214199c1b58c7178587fb581f663ff07e9abc9755c
+Section: Fonts (iOS14-16)
+Description: Clean & small sans serif. 85% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontmetronova8514
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Metro Nova Pro_85% (iOS14)
+Name: Metro Nova Pro_85% (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontmetronova8514.json
 
 Package: com.evynw.fontmyriad12
@@ -3127,21 +3127,21 @@ Name: Roboto (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontroboto13.json
 
 Package: com.evynw.fontroboto14
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontroboto14_1.0_iphoneos-arm.deb
-Size: 11560434
-MD5sum: f069ae4a459251b0e051dd8461f937bf
-SHA1: 56ecf4ab02bd592f87d69481085a5a4239f94208
-SHA256: 0533c213cbf32be32c34062a97f2df74e3f2fa5caf8afc9484565148470498a7
-Section: Fonts (iOS14)
-Description: Classic Android font. 100% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontroboto14_1.1_iphoneos-arm.deb
+Size: 11382594
+MD5sum: 88e7eb340b2607328b334f1ef01971e7
+SHA1: 895efe7e3be6c815566d904bf6ea6c065f71c629
+SHA256: c8132bc18ea289427c2177f851e19ec7ca79f94aad829dfd62294c8ca9ad6550
+Section: Fonts (iOS14-16)
+Description: Classic Android font. 100% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontroboto14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Roboto (iOS14)
+Name: Roboto (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontroboto14.json
 
 Package: com.evynw.fontroboto8513
@@ -3162,21 +3162,21 @@ Name: Roboto_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontroboto8513.json
 
 Package: com.evynw.fontroboto8514
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontroboto8514_1.0_iphoneos-arm.deb
-Size: 12833986
-MD5sum: 2c3c73bdc967d8e85f636a291c0c1dee
-SHA1: fff8a0f1e96c66cf1d8af7e84e976240cb7251b9
-SHA256: f5227e5234276abfd01d09e4bf4887dc156189432f02c5feaf9dd49f8bc50d70
-Section: Fonts (iOS14)
-Description: Classic Android font. 85% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontroboto8514_1.1_iphoneos-arm.deb
+Size: 12719378
+MD5sum: 76960526df4b5c60de61fcf9990bfe6a
+SHA1: c32071c7a11d7b612a76203e77868537541dad7c
+SHA256: 31844ad6f67f8519623647d8d21d69d063c6fdb80a7dafd5983517d594453d4e
+Section: Fonts (iOS14-16)
+Description: Classic Android font. 85% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontroboto8514
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Roboto_85% (iOS14)
+Name: Roboto_85% (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontroboto8514.json
 
 Package: com.evynw.fontsamsungone12
@@ -3573,21 +3573,21 @@ Name: TT Teds (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontttteds13.json
 
 Package: com.evynw.fontttteds14
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontttteds14_1.0_iphoneos-arm.deb
-Size: 13414240
-MD5sum: 8f654029b52d10d75060a28cb9fef74f
-SHA1: e4866f2b3d975367c3d89e25387284fe841af49f
-SHA256: 1c681024ba2a12f6413a28e978ebbc01e6aa2340271c4427130764481e3f2486
-Section: Fonts (iOS14)
-Description: Clean & narrow sans-serif typeface. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontttteds14_1.1_iphoneos-arm.deb
+Size: 13241724
+MD5sum: f96f5e51d9235f6ef890c9fc874d2341
+SHA1: 57e5242eacc1e5789b8a886e5a62c8fae8b07bc3
+SHA256: 0a3dec779a64e23129c53917f72351abbccb7925026deeb9de9e0ef0f1740fa1
+Section: Fonts (iOS14-16)
+Description: Clean & narrow sans-serif typeface. 100% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontttteds14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: TT Teds (iOS14)
+Name: TT Teds (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontttteds14.json
 
 Package: com.evynw.fontttteds8513
@@ -3608,20 +3608,21 @@ Name: TT Teds_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontttteds8513.json
 
 Package: com.evynw.fontttteds8514
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontttteds8514_1.0_iphoneos-arm.deb
-Size: 13045954
-MD5sum: d7eee6e63e7f46f1840cdebccddd9bca
-SHA1: b030e3501d639ade1fbe4cc677665d17d395d981
-SHA256: 8715ec020a75f0bd47d35597aaa42e09dcb951bafe575c11ed0425bdb1e3575b
-Section: Fonts (iOS14)
-Description: Clean & narrow sans-serif typeface. 85% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontttteds8514_1.1_iphoneos-arm.deb
+Size: 12872954
+MD5sum: f25edb11cc94bb4b8874bef14dfb8a70
+SHA1: 9c218d567da5fa04cc32022495ba60d71932289c
+SHA256: b703025a7a86af81515f74442255ad9a77926beb3469f87eb4e2f025829b5a63
+Section: Fonts (iOS14-16)
+Description: Clean & narrow sans-serif typeface. 85% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontttteds8514
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: TT Teds_85% (iOS14)
+Name: TT Teds_85% (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontttteds8514.json
 
 Package: com.evynw.fontunineue12
@@ -3659,21 +3660,21 @@ Name: Uni Neue (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontunineue13.json
 
 Package: com.evynw.fontunineue14
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fontunineue14_1.0_iphoneos-arm.deb
-Size: 12108698
-MD5sum: 16645b42d48803c52e0b0674a94cdd7a
-SHA1: 606efd25d2c3f036f357a6293b77a59104232910
-SHA256: c719148c688452865a25a2ff61fba5a49a09ede65091a3343437b06787873d07
-Section: Fonts (iOS14)
-Description: Rounded sans serif. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontunineue14_1.1_iphoneos-arm.deb
+Size: 12634138
+MD5sum: 0a5c088112e22c7d100bdede81fc0d7f
+SHA1: e51272c54e50d0492a0adefee1077c08c3ea337b
+SHA256: 7b5f60df0d3b6d4bd05c53fa6bf879189e0a6fa28933f48b482a1693eda8d66b
+Section: Fonts (iOS14-16)
+Description: Rounded sans serif. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontunineue14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Uni Neue (iOS14)
+Name: Uni Neue (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontunineue14.json
 
 Package: com.evynw.fontunineue8513
@@ -3694,20 +3695,21 @@ Name: Uni Neue_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontunineue8513.json
 
 Package: com.evynw.fontunineue8514
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontunineue8514_1.0_iphoneos-arm.deb
-Size: 12746432
-MD5sum: 80d739b7a3a4d438a326a020e71f16a3
-SHA1: 88efaa01262fb5d95aa87bfd47780cf11c3df5d3
-SHA256: 04e4c817024cda0e47b80cda9071031da3736f99d7246ae631ffdfc32f0b4f70
-Section: Fonts (iOS14)
-Description: Rounded sans serif. 85% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontunineue8514_1.1_iphoneos-arm.deb
+Size: 13243362
+MD5sum: 370516132c628d2fd083a4c0f2b5768d
+SHA1: d6c164cae6669ea3fd3293a04fd9af3a60f95ce8
+SHA256: e1cf88e3ad1820fe8dfd8b531172c78c2895fc6014fd2ba2ac7d417a4dbbcc61
+Section: Fonts (iOS14-16)
+Description: Rounded sans serif. 85% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontunineue8514
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Uni Neue_85% (iOS14)
+Name: Uni Neue_85% (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontunineue8514.json
 
 Package: com.evynw.fonturwgeo12
@@ -3745,21 +3747,21 @@ Name: URW Geometric (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fonturwgeo13.json
 
 Package: com.evynw.fonturwgeo14
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
-Filename: ./debs/com.evynw.fonturwgeo14_1.0_iphoneos-arm.deb
-Size: 13597904
-MD5sum: 6e2f78b53cf0a6210c0c5f56e671de57
-SHA1: a9a9a04a2ccbb004f0eadbc5f7edb5a57062b577
-SHA256: 62b53d371acd0a066619ea8a0ff77b3b88c93997e25e8c50eea42d428e91951b
-Section: Fonts (iOS14)
-Description: Small & conventional sans. 100% size. For iOS14.
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fonturwgeo14_1.1_iphoneos-arm.deb
+Size: 13421808
+MD5sum: 421572e1b98f3502b4cc1f2f1daf3ed2
+SHA1: 7ac50ba6a53020abbaebb56492dafda02942fc51
+SHA256: 60172c4d454bfb2716037749fbd7389ac4b67b26a926472b15be6c08a8f4fb07
+Section: Fonts (iOS14-16)
+Description: Small & conventional sans. 100% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fonturwgeo14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: URW Geometric (iOS14)
+Name: URW Geometric (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fonturwgeo14.json
 
 Package: com.evynw.fontvito1011
@@ -7320,14 +7322,14 @@ Name: Stampd (N95)
 Sileodepiction: https://evynw.github.io/sileo/mcstampdn.json
 
 Package: com.evynw.repoicons
-Version: 1.2-2
+Version: 1.2-3
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.repoicons_1.2-2_iphoneos-arm.deb
-Size: 130522
-MD5sum: e623f10478305cead8e2ae455213bdc3
-SHA1: 9bdf28074e4ed2d1a7ace5d57586f738720a9ea5
-SHA256: 203ba63a1a5bd3028ab7d6d1ca60244c952716282016c04efcb421afeb5220c3
+Filename: ./debs/com.evynw.repoicons_1.2-3_iphoneos-arm.deb
+Size: 130532
+MD5sum: 367a7c5ab32057ca2967ef475a37f8c9
+SHA1: c5863a091b12ba209aa72ea29d66695fa531b7ea
+SHA256: 1041a28aa14b75c70ac07d31c08ba87ed246a362f3c9d6511cc0d791317ceba0
 Section: System
 Description: Official Icons for EVELYN's Repo. Icons replacing the ? marks.
 Author: Evelyn (ev_ynw)

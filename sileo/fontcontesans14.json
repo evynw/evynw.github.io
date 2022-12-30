@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"><strong>Normal size. Install 'Conte Sans_85%' for smaller character size.</strong></p>\n<p style=\"font-size:10pt;\">Only compatible with iOS14. Separate packages for iOS10-12 and iOS13 are available.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\"><strong>Normal size. Install 'Conte Sans_85%' for smaller character size.</strong></p>\n<p style=\"font-size:10pt;\">Only compatible with iOS14-16. Separate packages for iOS10-12 and iOS13 are available.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -71,12 +71,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0",
+          "text": "1.1",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS14.0 - 14.8+",
+          "text": "iOS14.0 - 16+",
           "title": "Compatibility"
         },
         {
@@ -134,6 +134,17 @@
       "tabname": "Changelog",
       "tintColor": "#cac170",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Relabelled as iOS14-16</li>\n<li>Updated fonts for 3rd party apps</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
