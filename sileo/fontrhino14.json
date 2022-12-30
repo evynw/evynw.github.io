@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"><strong>Normal size. Install 'Rhino_85%' for smaller character size.</strong></p>\n<p style=\"font-size:10pt;\">Only compatible on iOS14. iOS13 users please install the package marked “iOS13”.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\"><strong>Normal size. Install 'Rhino_85%' for smaller character size.</strong></p>\n<p style=\"font-size:10pt;\">Only compatible on iOS14-16. iOS13 users please install the package marked “iOS13”.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -72,7 +72,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS14.0 - 14.4+",
+          "text": "iOS14.0 - 16+",
           "title": "Compatibility"
         },
         {
