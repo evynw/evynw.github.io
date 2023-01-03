@@ -2367,6 +2367,78 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: FF Strada (iOS10/11)
 Sileodepiction: https://evynw.github.io/sileo/fontffstrada1011.json
 
+Package: com.evynw.fontforosans13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontforosans13_1.0_iphoneos-arm.deb
+Size: 13110448
+MD5sum: d27135dbc54b670da55f98ce5de116b0
+SHA1: fc787fc50aba01738ead6dc9923d2fe1a115b7f3
+SHA256: f665806009a48edc1a994ed91f61f6e3ed1eb49eb0082626e8257f1c068dfacc
+Section: Fonts (iOS13)
+Description: Simple & sleek sans serif. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontforosans13
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Foro Sans (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontforosans13.json
+
+Package: com.evynw.fontforosans14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontforosans14_1.0_iphoneos-arm.deb
+Size: 13128746
+MD5sum: 094b0e8e081cdf1941be35941cadfe32
+SHA1: fcbf046b0ffb00326dd70c6ad4a1ffad5573ba87
+SHA256: 663ed6ae5c89543160675f7e2ca2751e088d35f27160b310384528740e705e92
+Section: Fonts (iOS14-16)
+Description: Simple & sleek sans serif. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontforosans14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Foro Sans (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontforosans14.json
+
+Package: com.evynw.fontforosans8513
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontforosans8513_1.0_iphoneos-arm.deb
+Size: 13063036
+MD5sum: 2354d796186a3bb51a9faa993c8b305f
+SHA1: 8b5d411a7270ec1e127321a4a305705d861a5c3f
+SHA256: 992dcc8dbd2854fbfafdcb962ccd747827e8fc5df4aa373b5aec734003a9adc4
+Section: Fonts (iOS13)
+Description: Simple & sleek sans serif. 85% size. For iOS13.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontforosans8513
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Foro Sans_85% (iOS13)
+Sileodepiction: https://evynw.github.io/sileo/fontforosans8513.json
+
+Package: com.evynw.fontforosans8514
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontforosans8514_1.0_iphoneos-arm.deb
+Size: 13083812
+MD5sum: 5a531f5a1ce784b5eb2eb0b9e0a2a977
+SHA1: 584ccc2ee818593029b953d017f55ec19391a55a
+SHA256: b948f190359098d4b9d09fb76586d2772dafb6625f2ded506a1191483a3588ed
+Section: Fonts (iOS14-16)
+Description: Simple & sleek sans serif. 85% size. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontforosans8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Foro Sans_85% (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontforosans8514.json
+
 Package: com.evynw.fontfrygia12
 Version: 1.0
 Architecture: iphoneos-arm

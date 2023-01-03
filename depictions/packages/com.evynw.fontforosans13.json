@@ -1,0 +1,21 @@
+{
+	"name": "Foro Sans (iOS13)",
+	"package": "com.evynw.fontforosans13",
+	"author": "Evelyn (ev_ynw)",
+	"version": "1.0",
+	"dependency": "N/A",
+	"minOSVersion": "13.0",
+	"maxOSVersion": "13.9",
+	"otheriOS": "unsupported",
+	"description": "<div><strong>Normal size. Install 'Foro Sans_85%' for smaller character size.</strong><br><br>Only compatible on iOS13. Separate package for iOS14-16 is available.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with SnowBoard. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  	"changelog": {
+	    "1.0": [
+	      "Initial release"
+	    ]
+  	},
+	"screenshots": {
+		"ss1.png": "",
+		"ss2.png": ""
+	},
+	"links": {}
+}
