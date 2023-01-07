@@ -3092,6 +3092,42 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: PF DIN Text Pro (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontpfdin12.json
 
+Package: com.evynw.fontquicksand14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontquicksand14_1.0_iphoneos-arm.deb
+Size: 27499610
+MD5sum: 048684c1902576e9ca05a016d603e3cc
+SHA1: 614e503eefbd2a02ae2b19a8113f5c0797285c07
+SHA256: 0fb8d70c2c406d2a65dfeb350deb8a5e7dd39c1f69f033b0f6485687d6069899
+Section: Fonts (iOS14-16)
+Description: Rounded sans serif. 100% size. For iOS14-16.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontquicksand14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Quicksand (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontquicksand14.json
+
+Package: com.evynw.fontquicksand8514
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontquicksand8514_1.0_iphoneos-arm.deb
+Size: 28768812
+MD5sum: 43837ccf6d5063a6875ea31939278b24
+SHA1: f45110d515fab5eb3e52d1361f696238ef6af901
+SHA256: 1e1ca27718a78a9beed25b1007846c2bc6d04ffcb18b6e1ffad281cfbbe64bd1
+Section: Fonts (iOS14-16)
+Description: Rounded sans serif. 85% size. For iOS14-16.
+Author: Alex (@Alexman1979)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontquicksand8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Quicksand_85% (iOS14)
+Sileodepiction: https://evynw.github.io/sileo/fontquicksand8514.json
+
 Package: com.evynw.fontrhino13
 Version: 1.0
 Architecture: iphoneos-arm
