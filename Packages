@@ -2386,15 +2386,15 @@ Name: Foro Sans (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontforosans13.json
 
 Package: com.evynw.fontforosans14
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-3)
-Filename: ./debs/com.evynw.fontforosans14_1.0_iphoneos-arm.deb
-Size: 13128746
-MD5sum: 094b0e8e081cdf1941be35941cadfe32
-SHA1: fcbf046b0ffb00326dd70c6ad4a1ffad5573ba87
-SHA256: 663ed6ae5c89543160675f7e2ca2751e088d35f27160b310384528740e705e92
+Filename: ./debs/com.evynw.fontforosans14_1.0-1_iphoneos-arm.deb
+Size: 13270218
+MD5sum: e0136a964b814a73d977a4bb565926ea
+SHA1: a0385df67cf3b238d2596dbed805bd4292b8a011
+SHA256: 9b5e424b26930db79be9394fd1aebf2fe0981a50bdc0911ee1db72983790c8f5
 Section: Fonts (iOS14-16)
 Description: Simple & sleek sans serif. For iOS14-16.
 Author: Evelyn (ev_ynw)
@@ -2422,15 +2422,15 @@ Name: Foro Sans_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontforosans8513.json
 
 Package: com.evynw.fontforosans8514
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-3)
-Filename: ./debs/com.evynw.fontforosans8514_1.0_iphoneos-arm.deb
-Size: 13083812
-MD5sum: 5a531f5a1ce784b5eb2eb0b9e0a2a977
-SHA1: 584ccc2ee818593029b953d017f55ec19391a55a
-SHA256: b948f190359098d4b9d09fb76586d2772dafb6625f2ded506a1191483a3588ed
+Filename: ./debs/com.evynw.fontforosans8514_1.0-1_iphoneos-arm.deb
+Size: 13220052
+MD5sum: 959c73f7f0feed046f7936596bfebb1a
+SHA1: 0f3f75076879fad529307f9cd983a53238945489
+SHA256: ed3ee27ba05ffd21aeb7887a9a57e9b0ae7e072a34d1c34b5befe328bb71fa82
 Section: Fonts (iOS14-16)
 Description: Simple & sleek sans serif. 85% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
