@@ -1756,6 +1756,42 @@ Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Cocon Pro_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontcocon8513.json
 
+Package: com.evynw.fontcomicrelief14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontcomicrelief14_1.0_iphoneos-arm.deb
+Size: 14982178
+MD5sum: 82c4cace679ad66839fa87aaacefd065
+SHA1: 0e392c3719287ebc5fcc1310d05d3812c40a463f
+SHA256: c6870f9434ffba3c40ead55fe681b2c47803aa6d1a7df27166586f422da53b13
+Section: Fonts (iOS14-16)
+Description: Surprise!! 100% size. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcomicrelief14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: April Treat (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontcomicrelief14.json
+
+Package: com.evynw.fontcomicrelief8514
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontcomicrelief8514_1.0_iphoneos-arm.deb
+Size: 15142642
+MD5sum: ac5b13cd0fb029c159368ebc46f9b4d2
+SHA1: 190471cafc8dc65f21b71b50379a85ddcdaa1bec
+SHA256: ca75a790bd0ea30c9174bfb7ec0c6e816f5110baa20c95484a652830529438f1
+Section: Fonts (iOS14-16)
+Description: Surprise!! 85% size. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcomicrelief8514
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: April Treat_85% (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontcomicrelief8514.json
+
 Package: com.evynw.fontconfigrounded12
 Version: 1.0
 Architecture: iphoneos-arm
