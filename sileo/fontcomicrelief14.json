@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Special treat for all of you! Enjoy the surprise :)</p>\n<p style=\"font-size:10pt;\"><strong>Normal size. Install 'April Treat_85%' for smaller character size.</strong></p>\n<p style=\"font-size:10pt;\">Only compatible with iOS14-16.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">Special treat for all of you! Enjoy the surprise :)</p>\n<p style=\"font-size:10pt;\"><strong>Normal size. Install 'Comic Relief_85%' for smaller character size.</strong></p>\n<p style=\"font-size:10pt;\">Only compatible with iOS14-16.</p>\n<p style=\"font-size:10pt;\">Installed to: /Library/Themes/[fontname].theme/</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
           "useRawFormat": true
         },
         {
@@ -31,11 +31,31 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{360, 360}",
+          "itemSize": "{330, 440}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcomicrelief14/ss.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcomicrelief14/ss1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcomicrelief14/ss2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcomicrelief14/ss3.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcomicrelief14/ss4.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcomicrelief14/ss5.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontcomicrelief14/ss6.png"
             }
           ]
         },

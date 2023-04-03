@@ -1,5 +1,5 @@
 {
-  "name": "April Treat (iOS14-16)",
+  "name": "Comic Relief (iOS14-16)",
   "package": "com.evynw.fontcomicrelief14",
   "author": "Evelyn (ev_ynw)",
   "version": "1.0",
@@ -7,14 +7,19 @@
   "minOSVersion": "14.0",
   "maxOSVersion": "16.9",
   "otheriOS": "unsupported",
-  "description": "<div><br>Special treat for all of you! Enjoy the surprise :)<br><strong>Normal size. Install 'April Treat_85%' for smaller character size.</strong><br><br>Only compatible on iOS14-16.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with theming engines e.g. SnowBoard. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
+  "description": "<div><br>Special treat for all of you! Enjoy the surprise :)<br><strong>Normal size. Install 'Comic Relief_85%' for smaller character size.</strong><br><br>Only compatible on iOS14-16.<br><br>Installed to: /Library/Themes/[fontname].theme/<br><br>Apply with theming engines e.g. SnowBoard. Package name = Fonts.<br><br><strong>Need help?</strong> Link to tutorials in my pinned tweet</div>",
   "changelog": {
     "1.0": [
       "Initial release"
     ]
   },
   "screenshots": {
-    "ss.png": ""
+    "ss1.png": "",
+    "ss2.png": "",
+    "ss3.png": "",
+    "ss4.png": "",
+    "ss5.png": "",
+    "ss6.png": ""
   },
   "links": {}
 }

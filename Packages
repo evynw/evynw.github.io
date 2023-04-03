@@ -1762,16 +1762,16 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-3)
 Filename: ./debs/com.evynw.fontcomicrelief14_1.0_iphoneos-arm.deb
-Size: 14982178
-MD5sum: 82c4cace679ad66839fa87aaacefd065
-SHA1: 0e392c3719287ebc5fcc1310d05d3812c40a463f
-SHA256: c6870f9434ffba3c40ead55fe681b2c47803aa6d1a7df27166586f422da53b13
+Size: 14982226
+MD5sum: 363f610931c3e75961463d35a056fb6b
+SHA1: b51f0a6729940a9eb4294e4b3634d388a5dd0e73
+SHA256: 13c0ec1322d52a09fc4ebf7a976fc1d344f486dcd28c96122274c3714ede842d
 Section: Fonts (iOS14-16)
 Description: Surprise!! 100% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcomicrelief14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: April Treat (iOS14-16)
+Name: Comic Relief (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontcomicrelief14.json
 
 Package: com.evynw.fontcomicrelief8514
@@ -1780,16 +1780,16 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-3)
 Filename: ./debs/com.evynw.fontcomicrelief8514_1.0_iphoneos-arm.deb
-Size: 15142642
-MD5sum: ac5b13cd0fb029c159368ebc46f9b4d2
-SHA1: 190471cafc8dc65f21b71b50379a85ddcdaa1bec
-SHA256: ca75a790bd0ea30c9174bfb7ec0c6e816f5110baa20c95484a652830529438f1
+Size: 15142676
+MD5sum: eb1a8c03ec7cd5f9b18f3678241b8de7
+SHA1: b9be7444bb1ecc1284440776699749648206bea9
+SHA256: df5afe73d8f283579e7043d9bdca740dc2b8ca76e59200255717773ab8068711
 Section: Fonts (iOS14-16)
 Description: Surprise!! 85% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontcomicrelief8514
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: April Treat_85% (iOS14-16)
+Name: Comic Relief_85% (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontcomicrelief8514.json
 
 Package: com.evynw.fontconfigrounded12
@@ -3601,18 +3601,18 @@ Package: com.evynw.fontshootastar14
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
+Depends: com.evynw.repoicons (>= 1.2-3)
 Filename: ./debs/com.evynw.fontshootastar14_1.0_iphoneos-arm.deb
-Size: 17527886
-MD5sum: e11690500c8e453348832d40c0fbbea1
-SHA1: 5bff636b9f647fdcdd5ecd81952aae68a5e00f58
-SHA256: bb061f9aada5ad4a6607df792aa2466c6247f4cffd7e9c488d7213f2ea19e306
-Section: Fonts (iOS14)
-Description: Cutesy Korean-style handwritten font. For iOS14.
+Size: 17527896
+MD5sum: d2df1cdb179ec577c86799063f31c2d7
+SHA1: d7411c1d0b6c7f01b8dabbcb6aaef2938988f940
+SHA256: fc4caf1949e131ecd2eb86f3866497acf6847c8a677fe2326ed5839b4fe7df28
+Section: Fonts (iOS14-16)
+Description: Cutesy Korean-style handwritten font. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontshootastar14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
-Name: Shoot a Star (iOS14)
+Name: Shoot a Star (iOS14-16)
 Sileodepiction: https://evynw.github.io/sileo/fontshootastar14.json
 
 Package: com.evynw.fontshootastar8513
