@@ -3672,14 +3672,14 @@ Package: com.evynw.fontsica13
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Depends: com.evynw.repoicons (>= 1.2-2)
+Depends: com.evynw.repoicons (>= 1.2-3)
 Filename: ./debs/com.evynw.fontsica13_1.1_iphoneos-arm.deb
-Size: 14471150
-MD5sum: d395bf9235fdba9e8ab82ee7ff8e5d9b
-SHA1: e9a401f1074b3f44ac8f749ac50c61ac41b7393b
-SHA256: 5fc127b3b1f6ed06cf52dcfb5c44c01dbe5f43df61d72a6ebe00f8c05a0bca9e
+Size: 15218464
+MD5sum: bdfb53ed8de2d7902bab15849842a1e0
+SHA1: 3cf0cf41c5d98709c3a3d14a96e04b137a1f7293
+SHA256: b2dd30f95dc62ba296f35a5e01c7049ae433dbff2a8f43cd7b9803787c542fcb
 Section: Fonts (iOS13)
-Description: Grotesque style sans. 100% size. For iOS13.
+Description: Geometric style sans. 100% size. For iOS13.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsica13
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
@@ -3692,12 +3692,12 @@ Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-3)
 Filename: ./debs/com.evynw.fontsica14_1.0_iphoneos-arm.deb
-Size: 15387470
-MD5sum: db2bed39585e8fbcd2ec5d7749e38671
-SHA1: 4db42bb8e9c5accaf3003267d1765d96b4a0ab0e
-SHA256: c805b18ade485d6107573d59af960619d94e61d7b697e6db1e490bddaef7e12e
+Size: 15388144
+MD5sum: 1781f189b1916f8a3c361feb76a21613
+SHA1: 33fcff00432dc9876b3c84ce83aa05cb0b9694f6
+SHA256: dcc2031eddac3436233643d90cce86ea49384cef50e361896c2a1dcae4b9a12c
 Section: Fonts (iOS14-16)
-Description: Grotesque style sans. 100% size. For iOS14-16.
+Description: Geometric style sans. 100% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsica14
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
