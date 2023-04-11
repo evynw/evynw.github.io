@@ -31,11 +31,27 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{360, 1568}",
+          "itemSize": "{330, 440}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontsica13/ss.png"
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontsica13/ss1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontsica13/ss2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontsica13/ss3.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontsica13/ss4.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.fontsica13/ss5.png"
             }
           ]
         },

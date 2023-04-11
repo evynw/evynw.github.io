@@ -3669,21 +3669,40 @@ Name: Sica (iOS10-12)
 Sileodepiction: https://evynw.github.io/sileo/fontsica12.json
 
 Package: com.evynw.fontsica13
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
-Filename: ./debs/com.evynw.fontsica13_1.0_iphoneos-arm.deb
-Size: 12216776
-MD5sum: cab4559df03fc3205b0acc6137e7b22e
-SHA1: 4131fdec09375ec6a2fcaa64119d75deaa81f768
-SHA256: a9137693f9ff6360df2f18845cfd4540fcd8e3fbd0187152e8d1ebc023fffb9d
+Depends: com.evynw.repoicons (>= 1.2-2)
+Filename: ./debs/com.evynw.fontsica13_1.1_iphoneos-arm.deb
+Size: 14471150
+MD5sum: d395bf9235fdba9e8ab82ee7ff8e5d9b
+SHA1: e9a401f1074b3f44ac8f749ac50c61ac41b7393b
+SHA256: 5fc127b3b1f6ed06cf52dcfb5c44c01dbe5f43df61d72a6ebe00f8c05a0bca9e
 Section: Fonts (iOS13)
-Description: Square-ish grotesque sans. For iOS13.
+Description: Grotesque style sans. 100% size. For iOS13.
 Author: Evelyn (ev_ynw)
 Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsica13
 Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
 Name: Sica (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fontsica13.json
+
+Package: com.evynw.fontsica14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2-3)
+Filename: ./debs/com.evynw.fontsica14_1.0_iphoneos-arm.deb
+Size: 15387470
+MD5sum: db2bed39585e8fbcd2ec5d7749e38671
+SHA1: 4db42bb8e9c5accaf3003267d1765d96b4a0ab0e
+SHA256: c805b18ade485d6107573d59af960619d94e61d7b697e6db1e490bddaef7e12e
+Section: Fonts (iOS14-16)
+Description: Grotesque style sans. 100% size. For iOS14-16.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontsica14
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Name: Sica (iOS14-16)
+Sileodepiction: https://evynw.github.io/sileo/fontsica14.json
 
 Package: com.evynw.fonttisasans12
 Version: 1.1
