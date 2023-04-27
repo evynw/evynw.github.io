@@ -2753,15 +2753,15 @@ Name: Houschka Rounded (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fonthouschkarounded13.json
 
 Package: com.evynw.fonthouschkarounded14
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-3)
-Filename: ./debs/com.evynw.fonthouschkarounded14_1.0_iphoneos-arm.deb
-Size: 16638144
-MD5sum: fe4e5c9be46eac7a8e1e3bcc2369f4ce
-SHA1: eeeeb9250bd1ffe21a8dc8f996534b9696a11d29
-SHA256: bb1c30b401907a5ae669551d7a9a0adbe891857a13f0135bce75385d31162475
+Filename: ./debs/com.evynw.fonthouschkarounded14_1.0-1_iphoneos-arm.deb
+Size: 16638158
+MD5sum: 3e059e192219599091514d0cfa9ee1d8
+SHA1: c810389096d01a26d2e0a157038f6a1da31974d6
+SHA256: c76b5d13aea7c31922f14efa39ff890db5b17eb7c55ecaab53806b8d32dc5a65
 Section: Fonts (iOS14-16)
 Description: Scriptive rounded font. 100% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
@@ -2789,15 +2789,15 @@ Name: Houschka Rounded_85% (iOS13)
 Sileodepiction: https://evynw.github.io/sileo/fonthouschkarounded8513.json
 
 Package: com.evynw.fonthouschkarounded8514
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
 Depends: com.evynw.repoicons (>= 1.2-3)
-Filename: ./debs/com.evynw.fonthouschkarounded8514_1.0_iphoneos-arm.deb
-Size: 16328760
-MD5sum: 9997a2eedf9c7cbeedfebc8add3f81f8
-SHA1: a46885fadb55762dcaaa492142ec3297d9a3765e
-SHA256: 5deca6bdd698d158ffab981b07c769d0d5b428a0af734f127dc1d9622892278b
+Filename: ./debs/com.evynw.fonthouschkarounded8514_1.0-1_iphoneos-arm.deb
+Size: 17117608
+MD5sum: 1c3034269b456b4de1f6fa052987b241
+SHA1: 35b90a8ad68fe45dd4df29025ff726c77c040dec
+SHA256: a7df1b18177650512d59ccfa52bf1bca990e544a0fa1d10f0e926129f41856ed
 Section: Fonts (iOS14-16)
 Description: Scriptive rounded font. 85% size. For iOS14-16.
 Author: Evelyn (ev_ynw)
