@@ -71,7 +71,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0",
+          "text": "1.0-2",
           "title": "Version"
         },
         {
@@ -134,6 +134,17 @@
       "tabname": "Changelog",
       "tintColor": "#9cdcde",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0-2",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Fixed variable font for Twitter.app</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0",
